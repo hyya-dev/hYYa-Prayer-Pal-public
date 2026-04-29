@@ -1,4 +1,4 @@
-package com.hyya.prayerpal
+package com.hyya.prayerpal.open
 
 import android.app.AlarmManager
 import android.content.BroadcastReceiver

@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.wear.sync
+package com.hyya.prayerpal.open.wear.sync
 
 object WatchSyncPaths {
     const val PRAYER = "/prayerpal/prayer"

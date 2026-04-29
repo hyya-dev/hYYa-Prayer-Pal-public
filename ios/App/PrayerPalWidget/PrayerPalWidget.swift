@@ -168,7 +168,7 @@ struct WidgetLocalizedStrings: Codable {
 }
 
 struct DataManager {
-    static let appGroup = "group.com.hyya.prayerpal"
+    static let appGroup = "group.com.hyya.prayerpal.open"
     static let dataKey = "savedPrayers"
     static let phaseAKey = "savedPrayersPhaseA"
     static let phaseBKey = "savedPrayersPhaseB"

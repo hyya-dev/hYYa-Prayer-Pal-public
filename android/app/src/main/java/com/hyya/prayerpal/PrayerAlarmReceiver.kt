@@ -1,4 +1,4 @@
-package com.hyya.prayerpal
+package com.hyya.prayerpal.open
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -82,7 +82,7 @@ class PrayerAlarmReceiver : BroadcastReceiver() {
     }
     
     override fun onReceive(context: Context, intent: Intent) {
-        if (intent.action != "com.hyya.prayerpal.PRAYER_ALARM") return
+        if (intent.action != "com.hyya.prayerpal.open.PRAYER_ALARM") return
         
         // CRITICAL: Ensure notification channels exist before posting any notification
         // Channels may not exist if app was never opened after install/update

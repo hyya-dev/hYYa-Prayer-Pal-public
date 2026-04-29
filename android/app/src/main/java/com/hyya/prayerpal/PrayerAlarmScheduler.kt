@@ -1,4 +1,4 @@
-package com.hyya.prayerpal
+package com.hyya.prayerpal.open
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -56,7 +56,7 @@ object PrayerAlarmScheduler {
         
         try {
             val intent = Intent(context, PrayerAlarmReceiver::class.java).apply {
-                action = "com.hyya.prayerpal.PRAYER_ALARM"
+                action = "com.hyya.prayerpal.open.PRAYER_ALARM"
                 putExtra("alarm_id", alarm.id)
                 putExtra("prayer_name", alarm.prayerName)
                 putExtra("display_name", alarm.displayName)
@@ -110,7 +110,7 @@ object PrayerAlarmScheduler {
     ): Boolean {
         return try {
             val intent = Intent(context, PrayerAlarmReceiver::class.java).apply {
-                action = "com.hyya.prayerpal.PRAYER_ALARM"
+                action = "com.hyya.prayerpal.open.PRAYER_ALARM"
                 putExtra("alarm_id", alarm.id)
                 putExtra("prayer_name", alarm.prayerName)
                 putExtra("display_name", alarm.displayName)
@@ -147,7 +147,7 @@ object PrayerAlarmScheduler {
             ?: return
         
         val intent = Intent(context, PrayerAlarmReceiver::class.java).apply {
-            action = "com.hyya.prayerpal.PRAYER_ALARM"
+            action = "com.hyya.prayerpal.open.PRAYER_ALARM"
         }
         
         val pendingIntent = PendingIntent.getBroadcast(

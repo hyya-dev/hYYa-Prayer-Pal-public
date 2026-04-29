@@ -19,7 +19,7 @@ import AppIntents
 struct PrayerPalWidgetControl: ControlWidget {
     var body: some ControlWidgetConfiguration {
         StaticControlConfiguration(
-            kind: "com.hyya.prayerpal.PrayerPalWidget",
+            kind: "com.hyya.prayerpal.open.PrayerPalWidget",
             provider: Provider()
         ) { value in
             ControlWidgetToggle(

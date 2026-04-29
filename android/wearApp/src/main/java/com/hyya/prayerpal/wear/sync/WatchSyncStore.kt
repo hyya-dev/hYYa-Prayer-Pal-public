@@ -1,8 +1,8 @@
-package com.hyya.prayerpal.wear.sync
+package com.hyya.prayerpal.open.wear.sync
 
 import android.content.Context
 import android.text.format.DateFormat
-import com.hyya.prayerpal.wear.R
+import com.hyya.prayerpal.open.wear.R
 import org.json.JSONObject
 import java.text.SimpleDateFormat
 import java.util.Calendar

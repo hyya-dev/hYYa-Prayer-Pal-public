@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.wear
+package com.hyya.prayerpal.open.wear
 
 import android.app.Application
 import android.content.SharedPreferences
@@ -8,8 +8,8 @@ import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import com.google.android.gms.tasks.Tasks
 import com.google.android.gms.wearable.Wearable
-import com.hyya.prayerpal.wear.sync.WatchSyncStore
-import com.hyya.prayerpal.wear.sync.WatchSyncPaths
+import com.hyya.prayerpal.open.wear.sync.WatchSyncStore
+import com.hyya.prayerpal.open.wear.sync.WatchSyncPaths
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import org.json.JSONArray

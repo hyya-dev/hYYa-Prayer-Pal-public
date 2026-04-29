@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.wear
+package com.hyya.prayerpal.open.wear
 
 import android.os.Build
 import android.os.Bundle

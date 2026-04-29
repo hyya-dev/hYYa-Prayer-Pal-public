@@ -16,8 +16,8 @@ private func ppDebugLog(_ items: Any..., separator: String = " ", terminator: St
 class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterDelegate {
 
     var window: UIWindow?
-    private let weatherRefreshTaskId = "com.hyya.prayerpal.weatherRefresh"
-    private let appGroup = "group.com.hyya.prayerpal"
+    private let weatherRefreshTaskId = "com.hyya.prayerpal.open.weatherRefresh"
+    private let appGroup = "group.com.hyya.prayerpal.open"
     private let weatherTimeKey = "savedWeatherTime"
     private let weatherValueKey = "savedWeather"
     private let cachedWeatherKey = "cachedWeather"
@@ -223,7 +223,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     private func handleWeatherRefresh(task: BGAppRefreshTask) {
         scheduleWeatherRefresh()
 
-        let queue = DispatchQueue(label: "com.hyya.prayerpal.weatherRefresh")
+        let queue = DispatchQueue(label: "com.hyya.prayerpal.open.weatherRefresh")
         var isCompleted = false
 
         task.expirationHandler = {
