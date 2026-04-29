@@ -127,3 +127,6 @@ __pycache__/
 # Local audio sync artifacts
 public/hyya-audio-library/
 local_sync_engine.py
+
+# Local maintenance scripts
+sync_prayer_pal.sh
