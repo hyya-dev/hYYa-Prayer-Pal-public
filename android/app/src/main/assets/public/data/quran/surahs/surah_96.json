@@ -1,0 +1,294 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "96:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Recite in the name of your Lord who created",
+        "fr": "Lis, au nom de ton Seigneur qui a créé",
+        "tr": "Yaratan Rabbinin adıyla oku",
+        "ur": "پڑھو (اے نبیؐ) اپنے رب کے نام کے ساتھ جس نے پیدا کیا",
+        "id": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "96:2",
+      "verse_number": 2,
+      "text_uthmani": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Created man from a clinging substance",
+        "fr": "qui a créé l'homme d'une adhérence",
+        "tr": "O, insanı pıhtılaşmış kandan (alak'tan) yarattı",
+        "ur": "جمے ہوئے خون کے ایک لوتھڑے سے انسان کی تخلیق کی",
+        "id": "Dia telah menciptakan manusia dari segumpal darah"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "96:3",
+      "verse_number": 3,
+      "text_uthmani": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Recite, and your Lord is the most Generous",
+        "fr": "Lis! Ton Seigneur est le Très Noble",
+        "tr": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir",
+        "ur": "پڑھو، اور تمہارا رب بڑا کریم ہے",
+        "id": "Bacalah, dan Tuhanmulah Yang Mahamulia"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "96:4",
+      "verse_number": 4,
+      "text_uthmani": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Who taught by the pen",
+        "fr": "qui a enseigné par la plume [le calame]",
+        "tr": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir",
+        "ur": "جس نے قلم کے ذریعہ سے علم سکھایا",
+        "id": "Yang mengajar (manusia) dengan pena"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "96:5",
+      "verse_number": 5,
+      "text_uthmani": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Taught man that which he knew not",
+        "fr": "a enseigné à l'homme ce qu'il ne savait pas",
+        "tr": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir",
+        "ur": "انسان کو وہ علم دیا جسے وہ نہ جانتا تھا",
+        "id": "Dia mengajarkan manusia apa yang tidak diketahuinya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "96:6",
+      "verse_number": 6,
+      "text_uthmani": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "No! [But] indeed, man transgresses",
+        "fr": "Prenez-garde! Vraiment l'homme devient rebelle",
+        "tr": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder",
+        "ur": "ہرگز نہیں، انسان سرکشی کرتا ہے",
+        "id": "Sekali-sekali tidak! Sungguh, manusia itu benar-benar melampaui batas"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "96:7",
+      "verse_number": 7,
+      "text_uthmani": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Because he sees himself self-sufficient",
+        "fr": "dès qu'il estime qu'il peut se suffire à lui-même (à cause de sa richesse)",
+        "tr": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder",
+        "ur": "اِس بنا پر کہ وہ اپنے آپ کو بے نیاز دیکھتا ہے",
+        "id": "apabila melihat dirinya serba cukup"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "96:8",
+      "verse_number": 8,
+      "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Indeed, to your Lord is the return",
+        "fr": "Mais, c'est vers ton Seigneur qu'est le retour",
+        "tr": "Dönüş şüphesiz Rabbinedir",
+        "ur": "پلٹنا یقیناً تیرے رب ہی کی طرف ہے",
+        "id": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "96:9",
+      "verse_number": 9,
+      "text_uthmani": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Have you seen the one who forbids",
+        "fr": "As-tu vu celui qui interdit",
+        "tr": "Sen, namaz kılan kulu bundan menedeni gördün mü",
+        "ur": "تم نے دیکھا اُس شخص کو",
+        "id": "Bagaimana pendapatmu tentang orang yang melarang"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "96:10",
+      "verse_number": 10,
+      "text_uthmani": "عَبۡدًا إِذَا صَلَّىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "A servant when he prays",
+        "fr": "à un serviteur d'Allah [Muhammad] de célébrer la Salât",
+        "tr": "Sen, namaz kılan kulu bundan menedeni gördün mü",
+        "ur": "جو ایک بندے کو منع کرتا ہے جبکہ وہ نماز پڑھتا ہو؟",
+        "id": "seorang hamba ketika dia melaksanakan salat"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "96:11",
+      "verse_number": 11,
+      "text_uthmani": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Have you seen if he is upon guidance",
+        "fr": "Vois-tu s'il est sur la bonne voie",
+        "tr": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun",
+        "ur": "تمہارا کیا خیال ہے اگر (وہ بندہ) راہ راست پر ہو",
+        "id": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk)"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "96:12",
+      "verse_number": 12,
+      "text_uthmani": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Or enjoins righteousness",
+        "fr": "ou s'il ordonne la piété",
+        "tr": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun",
+        "ur": "یا پرہیزگاری کی تلقین کرتا ہو؟",
+        "id": "atau dia menyuruh bertakwa (kepada Allah)"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "96:13",
+      "verse_number": 13,
+      "text_uthmani": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Have you seen if he denies and turns away",
+        "fr": "Vois-tu s'il dément et tourne le dos",
+        "tr": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun",
+        "ur": "تمہارا کیا خیال ہے اگر (یہ منع کرنے والا شخص حق کو) جھٹلاتا اور منہ موڑتا ہو؟",
+        "id": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "96:14",
+      "verse_number": 14,
+      "text_uthmani": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Does he not know that Allah sees",
+        "fr": "Ne sait-il pas que vraiment Allah voit",
+        "tr": "Allah'ın her şeyi görmekte olduğunu bilmez mi",
+        "ur": "کیا وہ نہیں جانتا کہ اللہ دیکھ رہا ہے؟",
+        "id": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "96:15",
+      "verse_number": 15,
+      "text_uthmani": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "No! If he does not desist, We will surely drag him by the forelock",
+        "fr": "Mais non! S'il ne cesse pas, Nous le saisirons certes, par le toupet",
+        "tr": "Ama bundan vazgeçmezse, and olsun ki, onu perçeminden",
+        "ur": "ہرگز نہیں، اگر وہ باز نہ آیا تو ہم اس کی پیشانی کے بال پکڑ کر اسے کھینچیں گے",
+        "id": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya (ke dalam neraka)"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "96:16",
+      "verse_number": 16,
+      "text_uthmani": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "A lying, sinning forelock",
+        "fr": "le toupet d'un menteur, d'un pécheur",
+        "tr": "Yalancı ve günahkar perçeminden cehenneme sürükleriz",
+        "ur": "اُس پیشانی کو جو جھوٹی اور سخت خطا کار ہے",
+        "id": "(yaitu) ubun-ubun orang yang mendustakan dan durhaka"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "96:17",
+      "verse_number": 17,
+      "text_uthmani": "فَلۡيَدۡعُ نَادِيَهُۥ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "Then let him call his associates",
+        "fr": "Qu'il appelle donc son assemblée",
+        "tr": "O zaman, kafadarlarını çağırsın",
+        "ur": "وہ بلا لے اپنے حامیوں کی ٹولی کو",
+        "id": "Maka biarlah dia memanggil golongannya (untuk menolongnya)"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "96:18",
+      "verse_number": 18,
+      "text_uthmani": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "We will call the angels of Hell",
+        "fr": "Nous appellerons les gardiens [de l'Enfer]",
+        "tr": "Biz de zebanileri çağıracağız",
+        "ur": "ہم بھی عذاب کے فرشتوں کو بلا لیں گے",
+        "id": "kelak Kami akan memanggil Malaikat Zabaniyah (penyiksa orang-orang yang berdosa)"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "96:19",
+      "verse_number": 19,
+      "text_uthmani": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+      "chapter_id": 96,
+      "words": [],
+      "translations": {
+        "en": "No! Do not obey him. But prostrate and draw near [to Allah]",
+        "fr": "Non! Ne lui obéis pas; mais prosterne-toi et rapproche-toi",
+        "tr": "Sakın ona uyma; sen secde et, Rabbine yaklaş",
+        "ur": "ہرگز نہیں، اُس کی بات نہ مانو اور سجدہ کرو اور (اپنے رب کا) قرب حاصل کرو",
+        "id": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 96,
+    "name_arabic": "العلق",
+    "name_english": "Al-'Alaq"
+  }
+}

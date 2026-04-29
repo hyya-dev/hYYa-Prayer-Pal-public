@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "First step: Intention and Ihram",
+        "details": "<ul><li>Intend to perform Umrah, enter into Ihram at Miqat, and begin Talbiyah.</li><li>He adhered to the prohibitions Ihram, and completed the ritual purification before beginning the ritual.</li></ul>",
+        "evidence": "Quran 2:196 and the year of beginning the rituals from Miqat.",
+        "referenceLabel": "Ministry of Umrah and Visit Guide"
+      },
+      {
+        "title": "Step Two: Entering Al-Masjid Al-Haram",
+        "details": "<ul><li>Enter quietly, with prayer and humility.</li><li>Start from the side that facilitates safe movement through the crowds, then head towards the Tawaf area.</li></ul>",
+        "evidence": "General prophetic guidelines on etiquette in mosques and facilitating worship.",
+        "referenceLabel": "Ministerial Awareness Center"
+      },
+      {
+        "title": "Step three: Tawaf (seven circuits)",
+        "details": "<ul><li>Perform Tawaf around Kaabah seven times, starting from the Black Stone line.</li><li>Keep remembering God and avoid harming others in crowd movement.</li><li class=\"pp-ios-only\"> Tip: Use the Apple Watch app to help you count your Tawaf circuits.</li><li class=\"pp-android-only\"> Tip: Use the Wear OS app on your watch to help you count your Tawaf circuits.</li></ul>",
+        "evidence": "Quran 22:29 and the documented descriptions of the Prophet&#39;s circumambulation.",
+        "referenceLabel": "Umrah trip guidelines in Nosuk"
+      },
+      {
+        "title": "Step Four: Prayer after Tawaf",
+        "details": "<ul><li>Pray two rak&#39;ahs after completing Tawaf if possible without harming the congregation, then proceed in an organized manner to drink Zamzam water.</li></ul>",
+        "evidence": "A well-established practice in authentic hadiths regarding the prayer after Tawaf.",
+        "referenceLabel": "Ministry of Umrah and Visit Guide"
+      },
+      {
+        "title": "Step five: Saie between Safa and Marwah",
+        "details": "<ul><li>Perform Saie for seven circuits between Safa and Marwah, starting from Safa and ending at Marwah, with supplication and remembrance.</li><li class=\"pp-ios-only\"> Tip: Use the Apple Watch app to help you count Saie runs.</li><li class=\"pp-android-only\"> Tip: Use the Wear OS app on your watch to help you count Saie runs.</li></ul>",
+        "evidence": "Quran 2:158 and the authentic narrations according to the order of the messenger.",
+        "referenceLabel": "Umrah trip guidelines in Nosuk"
+      },
+      {
+        "title": "Step six: Haircut or shave",
+        "details": "<ul><li>Men shave or cut their hair, and women trim a small portion of it.</li><li>And with this, the Umrah ends and Ihram ends.</li></ul>",
+        "evidence": "Quran 48:27 and the authentic narrations related to shaving and shortening.",
+        "referenceLabel": "Ministry of Umrah and Visit Guide"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "First step: Ihram and the intention for Hajj",
+        "details": "<ul><li>Enter ihram at Miqat, intend your type of Hajj, then proceed with Talbiyah.</li><li>Adhere to the rules Ihram until you reach the exits Ihram.</li></ul>",
+        "evidence": "Quran 2:196 and the agreed-upon prophetic rituals for the commencement of Hajj.",
+        "referenceLabel": "Ministry of Hajj guidelines"
+      },
+      {
+        "title": "Step Two: Yawm at-Tarwiyah in Mina",
+        "details": "<ul><li>On the eighth of Dhul Hijjah, head to Mina, perform the prayers at their appointed times, and prepare spiritually and logistically for the commemoration Arafah.</li></ul>",
+        "evidence": "A documented sequence of rituals in the farewell journey.",
+        "referenceLabel": "Hajj trip to Nosuk"
+      },
+      {
+        "title": "Step three: Standing at Arafah",
+        "details": "<ul><li>Spend the ninth day of Dhul Hijjah in Arafah praying, remembering God, and repenting.</li><li>This is the essential pillar of Hajj.</li></ul>",
+        "evidence": "Hadith: Hajj is Arafah.",
+        "referenceLabel": "Ministry of Hajj guidelines"
+      },
+      {
+        "title": "Step four: Muzdalifah and collecting pebbles",
+        "details": "<ul><li>After sunset, go to Muzdalifah, pray Maghrib and Isha, spend the night there, and collect pebbles for throwing stones at Mina.</li></ul>",
+        "evidence": "The prophetic sequence after Arafah in authentic narrations.",
+        "referenceLabel": "Hajj trip to Nosuk"
+      },
+      {
+        "title": "Step Five: Rami, Sacrifice, and Poetry",
+        "details": "<ul><li>On the day of Eid, when throwing Jamarat al-Aqabah stone, perform the sacrifice where necessary, then shave or cut your hair for the first tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 and the sequence of authentic hadiths.",
+        "referenceLabel": "Ministry of Hajj guidelines"
+      },
+      {
+        "title": "Step six: Tawaf al-Ifadah (seven rounds)",
+        "details": "<ul><li>Return to Mecca to perform Tawaf al-Ifadah, complete seven circuits, and maintain safe and orderly movement during busy times.</li><li class=\"pp-ios-only\"> Tip: Use the Apple Watch app to help you count your Tawaf circuits.</li><li class=\"pp-android-only\"> Tip: Use the Wear OS app on your watch to help you count your Tawaf circuits.</li></ul>",
+        "evidence": "Quran 22:29 and the documented descriptions of the obligatory circumambulation.",
+        "referenceLabel": "Hajj trip to Nosuk"
+      },
+      {
+        "title": "Step 7: Tell the person who is needed",
+        "details": "<ul><li>Perform Saie when your type of Hajj requires it, while maintaining the sequence and the number of seven circuits between Safa and Marwah.</li><li class=\"pp-ios-only\"> Tip: Use the Apple Watch app to help you count Saie runs.</li><li class=\"pp-android-only\"> Tip: Use the Wear OS app on your watch to help you count Saie runs.</li></ul>",
+        "evidence": "Quran 2:158 and its jurisprudential application in the rituals of Hajj.",
+        "referenceLabel": "Ministry of Hajj guidelines"
+      },
+      {
+        "title": "Step 8: Ayyam at-Tashriq and Tawaf al-Wada&#39;",
+        "details": "<ul><li>Staying in Mina during Tashreeq to perform the rituals of throwing Jamarat, then completing Tawaf al-Wada&#39; before leaving Makkah, except for those who are exempt.</li><li class=\"pp-ios-only\"> Tip: Use the Apple Watch app to help you count your Tawaf circuits.</li><li class=\"pp-android-only\"> Tip: Use the Wear OS app on your watch to help you count your Tawaf circuits.</li></ul>",
+        "evidence": "The established rituals are based on the guidance Quran and the correct practice of the Prophetic Sunnah.",
+        "referenceLabel": "Hajj trip to Nosuk"
+      }
+    ]
+  }
+}

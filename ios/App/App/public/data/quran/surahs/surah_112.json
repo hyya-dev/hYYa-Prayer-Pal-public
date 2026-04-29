@@ -1,0 +1,69 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "112:1",
+      "verse_number": 1,
+      "text_uthmani": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+      "chapter_id": 112,
+      "words": [],
+      "translations": {
+        "en": "Say, \"He is Allah, [who is] One",
+        "fr": "Dis: «Il est Allah, Unique",
+        "tr": "De ki: O Allah bir tektir",
+        "ur": "کہو، وہ اللہ ہے، یکتا",
+        "id": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "112:2",
+      "verse_number": 2,
+      "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "chapter_id": 112,
+      "words": [],
+      "translations": {
+        "en": "Allah, the Eternal Refuge",
+        "fr": "Allah, Le Seul à être imploré pour ce que nous désirons",
+        "tr": "Allah her şeyden müstağni ve her şey O'na muhtaçtır",
+        "ur": "اللہ سب سے بے نیاز ہے اور سب اس کے محتاج ہیں",
+        "id": "Allah tempat meminta segala sesuatu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "112:3",
+      "verse_number": 3,
+      "text_uthmani": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+      "chapter_id": 112,
+      "words": [],
+      "translations": {
+        "en": "He neither begets nor is born",
+        "fr": "Il n'a jamais engendré, n'a pas été engendré non plus",
+        "tr": "O doğurmamış ve doğmamıştır",
+        "ur": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد",
+        "id": "(Allah) tidak beranak dan tidak pula diperanakkan"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "112:4",
+      "verse_number": 4,
+      "text_uthmani": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+      "chapter_id": 112,
+      "words": [],
+      "translations": {
+        "en": "Nor is there to Him any equivalent",
+        "fr": "Et nul n'est égal à Lui»",
+        "tr": "Hiçbir şey O'na denk değildir",
+        "ur": "اور کوئی اس کا ہمسر نہیں ہے",
+        "id": "Dan tidak ada sesuatu yang setara dengan Dia"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 112,
+    "name_arabic": "الإخلاص",
+    "name_english": "Al-Ikhlas"
+  }
+}

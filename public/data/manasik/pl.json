@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Pierwszy krok: intencja i Ihram",
+        "details": "<ul><li>Zamierzaj wykonać Umrah, wejdź do Ihram w Miqat i rozpocznij Talbiyah.</li><li>Przestrzegał zakazów Ihram i przed rozpoczęciem rytuału dokonał rytualnego oczyszczenia.</li></ul>",
+        "evidence": "Quran 2:196 i rok rozpoczęcia obrzędów od Miqat.",
+        "referenceLabel": "Ministerstwo Umrah i przewodnik po zwiedzaniu"
+      },
+      {
+        "title": "Krok drugi: wejście do Al-Masjid Al-Haram",
+        "details": "<ul><li>Wejdź w ciszy, z modlitwą i pokorą.</li><li>Rozpocznij od strony, która umożliwia bezpieczne przemieszczanie się przez tłum, a następnie kieruj się w stronę obszaru Tawaf.</li></ul>",
+        "evidence": "Ogólne wytyczne prorockie dotyczące etykiety w meczetach i ułatwiania oddawania czci Bogu.",
+        "referenceLabel": "Centrum Świadomości Ministerialnej"
+      },
+      {
+        "title": "Krok trzeci: Tawaf (siedem obwodów)",
+        "details": "<ul><li>Wykonaj Tawaf wokół Kaabah siedem razy, zaczynając od linii Black Stone.</li><li>Pamiętaj o Bogu i nie wyrządzaj krzywdy innym podczas przemieszczania się tłumu.</li><li class=\"pp-ios-only\"> Wskazówka: Użyj aplikacji Apple Watch, aby łatwiej liczyć obwody Tawaf.</li><li class=\"pp-android-only\"> Wskazówka: Użyj aplikacji Wear OS na zegarku, aby łatwiej liczyć obwody Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 i udokumentowane opisy okrążania Proroka.",
+        "referenceLabel": "Wytyczne dotyczące podróży Umrah w Nosuk"
+      },
+      {
+        "title": "Krok czwarty: Modlitwa po Tawaf",
+        "details": "<ul><li>Po zakończeniu Tawaf należy odmówić dwa rakaty, jeśli jest to możliwe bez wyrządzania krzywdy zgromadzeniu, a następnie w sposób zorganizowany należy napić się wody Zamzam.</li></ul>",
+        "evidence": "Dobrze ugruntowana praktyka w autentycznych hadisach dotycząca modlitwy po Tawaf.",
+        "referenceLabel": "Ministerstwo Umrah i przewodnik po zwiedzaniu"
+      },
+      {
+        "title": "Krok piąty: Saie między Safa a Marwah",
+        "details": "<ul><li>Wykonaj Saie w ciągu siedmiu okrążeń między Safa i Marwah, zaczynając w Safa i kończąc w Marwah, z modlitwą i wspomnieniem.</li><li class=\"pp-ios-only\"> Wskazówka: Użyj aplikacji Apple Watch, aby łatwiej liczyć biegi Saie.</li><li class=\"pp-android-only\"> Wskazówka: Użyj aplikacji Wear OS na zegarku, aby łatwiej liczyć biegi Saie.</li></ul>",
+        "evidence": "Quran 2:158 i autentyczne przekazy według rozkazu Posłańca.",
+        "referenceLabel": "Wytyczne dotyczące podróży Umrah w Nosuk"
+      },
+      {
+        "title": "Krok szósty: Strzyżenie lub golenie",
+        "details": "<ul><li>Mężczyźni golą lub obcinają włosy, a kobiety przycinają ich niewielką część.</li><li>I na tym kończy się Umrah i Ihram.</li></ul>",
+        "evidence": "Quran 48:27 i autentyczne przekazy dotyczące golenia i skracania.",
+        "referenceLabel": "Ministerstwo Umrah i przewodnik po zwiedzaniu"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Pierwszy krok: Ihram i zamiar pielgrzymki",
+        "details": "<ul><li>Rozpocznij ihram w Miqat, zaplanuj swój rodzaj Hadżdżu, a następnie rozpocznij Talbiyah.</li><li>Stosuj się do zasad Ihram aż do wyjścia Ihram.</li></ul>",
+        "evidence": "Quran 2:196 i ustalone rytuały prorockie rozpoczynające pielgrzymkę hadżdż.",
+        "referenceLabel": "Wytyczne Ministerstwa Hadżdż"
+      },
+      {
+        "title": "Krok drugi: Yawm at-Tarwiyah w Mina",
+        "details": "<ul><li>Ósmego dnia miesiąca Dhul Hijjah udaj się do Mina, odpraw modlitwy o wyznaczonych porach i przygotuj się duchowo i logistycznie na obchody święta Arafah.</li></ul>",
+        "evidence": "Udokumentowana sekwencja rytuałów podróży pożegnalnej.",
+        "referenceLabel": "Wycieczka hadżdż do Nosuk"
+      },
+      {
+        "title": "Krok trzeci: Stanie w Arafah",
+        "details": "<ul><li>Dziewiąty dzień Dhul Hijjah spędź w Arafah na modlitwie, wspominaniu Boga i pokucie.</li><li>To jest zasadniczy filar pielgrzymki Hadżdż.</li></ul>",
+        "evidence": "Hadith: Hadżdż to Arafah.",
+        "referenceLabel": "Wytyczne Ministerstwa Hadżdż"
+      },
+      {
+        "title": "Krok czwarty: Muzdalifah i zbieranie kamyków",
+        "details": "<ul><li>Po zachodzie słońca udaj się do Muzdalifah, odmów modlitwy Maghrib i Isha, spędź tam noc i zbierz kamyki, aby rzucać nimi w Mina.</li></ul>",
+        "evidence": "Sekwencja prorocka po Arafah w autentycznych narracjach.",
+        "referenceLabel": "Wycieczka hadżdż do Nosuk"
+      },
+      {
+        "title": "Krok piąty: Rami, poświęcenie i poezja",
+        "details": "<ul><li>W dniu Eid, rzucając kamieniem Jamarat al-Aqabah, należy złożyć ofiarę w koniecznych miejscach, po czym ogolić lub zeciąć włosy na pierwszy tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 i kolejność autentycznych hadisów.",
+        "referenceLabel": "Wytyczne Ministerstwa Hadżdż"
+      },
+      {
+        "title": "Krok szósty: Tawaf al-Ifadah (siedem rund)",
+        "details": "<ul><li>Powrót do Mekki w celu odprawienia Tawaf al-Ifadah, okrążenie siedmiu szlaków i zachowanie bezpieczeństwa oraz porządku podczas godzin szczytu.</li><li class=\"pp-ios-only\"> Wskazówka: Użyj aplikacji Apple Watch, aby łatwiej liczyć obwody Tawaf.</li><li class=\"pp-android-only\"> Wskazówka: Użyj aplikacji Wear OS na zegarku, aby łatwiej liczyć obwody Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 i udokumentowane opisy obowiązkowego okrążania.",
+        "referenceLabel": "Wycieczka hadżdż do Nosuk"
+      },
+      {
+        "title": "Krok 7: Powiedz osobie, która jest potrzebna",
+        "details": "<ul><li>Wykonaj Saie gdy wymaga tego rodzaj pielgrzymki, którą odbywasz, zachowując jednak kolejność i liczbę siedmiu okrążeń między Safa i Marwah.</li><li class=\"pp-ios-only\"> Wskazówka: Użyj aplikacji Apple Watch, aby łatwiej liczyć biegi Saie.</li><li class=\"pp-android-only\"> Wskazówka: Użyj aplikacji Wear OS na zegarku, aby łatwiej liczyć biegi Saie.</li></ul>",
+        "evidence": "Quran 2:158 i jego prawne zastosowanie w rytuałach hadżdżu.",
+        "referenceLabel": "Wytyczne Ministerstwa Hadżdż"
+      },
+      {
+        "title": "Krok 8: Ayyam at-Tashriq i Tawaf al-Wada&#39;",
+        "details": "<ul><li>Pozostanie w Mina podczas Tashreeq w celu wykonania rytuału zamknięcia Jamarat, a następnie dokończenie Tawaf al-Wada&#39; przed opuszczeniem Mekki, z wyjątkiem tych, którzy są zwolnieni z tego obowiązku.</li><li class=\"pp-ios-only\"> Wskazówka: Użyj aplikacji Apple Watch, aby łatwiej liczyć obwody Tawaf.</li><li class=\"pp-android-only\"> Wskazówka: Użyj aplikacji Wear OS na zegarku, aby łatwiej liczyć obwody Tawaf.</li></ul>",
+        "evidence": "Ustanowione rytuały oparte są na wskazówkach Quran i prawidłowym praktykowaniu Sunnah Proroka.",
+        "referenceLabel": "Wycieczka hadżdż do Nosuk"
+      }
+    ]
+  }
+}

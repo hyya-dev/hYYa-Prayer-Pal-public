@@ -1,0 +1,669 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "70:1",
+      "verse_number": 1,
+      "text_uthmani": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "A supplicant asked for a punishment bound to happen",
+        "fr": "Un demandeur a réclamé un châtiment inéluctable",
+        "tr": "Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor",
+        "ur": "مانگنے والے نے عذاب مانگا ہے، (وہ عذاب) جو ضرور واقع ہونے والا ہے",
+        "id": "Seseorang bertanya tentang azab yang pasti terjadi"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "70:2",
+      "verse_number": 2,
+      "text_uthmani": "لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "To the disbelievers; of it there is no preventer",
+        "fr": "pour les mécréants, que nul ne pourrait repousser",
+        "tr": "Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor",
+        "ur": "کافروں کے لیے ہے، کوئی اُسے دفع کرنے والا نہیں",
+        "id": "Bagi orang-orang kafir, yang tidak seorang pun dapat menolaknya"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "70:3",
+      "verse_number": 3,
+      "text_uthmani": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "[It is] from Allah, owner of the ways of ascent",
+        "fr": "et qui vient d'Allah, le Maître des voies d'ascension",
+        "tr": "Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor",
+        "ur": "اُس خدا کی طرف سے ہے جو عروج کے زینوں کا مالک ہے",
+        "id": "(Azab) dari Allah, yang memiliki tempat-tempat naik"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "70:4",
+      "verse_number": 4,
+      "text_uthmani": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "The angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years",
+        "fr": "Les Anges ainsi que l'Esprit montent vers Lui en un jour dont la durée est de cinquante mille ans",
+        "tr": "Melekler ve Cebrail o derecelere, miktarı elli bin yıl olan bir günde yükselirler",
+        "ur": "ملائکہ اور روح اُس کے حضور چڑھ کر جاتے ہیں ایک ایسے دن میں جس کی مقدار پچاس ہزار سال ہے",
+        "id": "Para malaikat dan Jibril naik (menghadap) kepada Tuhan, dalam sehari setara dengan lima puluh ribu tahun"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "70:5",
+      "verse_number": 5,
+      "text_uthmani": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "So be patient with gracious patience",
+        "fr": "Supporte donc, d'une belle patience",
+        "tr": "Güzel güzel sabret",
+        "ur": "پس اے نبیؐ، صبر کرو، شائستہ صبر",
+        "id": "Maka bersabarlah engkau (Muhammad) dengan kesabaran yang baik"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "70:6",
+      "verse_number": 6,
+      "text_uthmani": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Indeed, they see it [as] distant",
+        "fr": "Ils le (le châtiment) voient bien loin",
+        "tr": "Doğrusu inkarcılar azabı uzak görüyorlar",
+        "ur": "یہ لوگ اُسے دور سمجھتے ہیں",
+        "id": "Mereka memandang (azab) itu jauh (mustahil)"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "70:7",
+      "verse_number": 7,
+      "text_uthmani": "وَنَرَىٰهُ قَرِيبٗا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "But We see it [as] near",
+        "fr": "alors que Nous le voyons bien proche",
+        "tr": "Ama biz onu yakın görmekteyiz",
+        "ur": "اور ہم اسے قریب دیکھ رہے ہیں",
+        "id": "Sedang Kami memandangnya dekat (pasti terjadi)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "70:8",
+      "verse_number": 8,
+      "text_uthmani": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "On the Day the sky will be like murky oil",
+        "fr": "le jour où le ciel sera comme du métal en fusion",
+        "tr": "Gök, o gün, erimiş maden gibi olur",
+        "ur": "(وہ عذاب اُس روز ہوگا) جس روز آسمان پگھلی ہوئی چاندی کی طرح ہو جائے گا",
+        "id": "(Ingatlah) pada hari ketika langit menjadi bagaikan cairan tembaga"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "70:9",
+      "verse_number": 9,
+      "text_uthmani": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And the mountains will be like wool",
+        "fr": "et les montagnes comme de la laine",
+        "tr": "Dağlar da atılmış pamuğa döner",
+        "ur": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون جیسے ہو جائیں گے",
+        "id": "dan gunung-gunung bagaikan bulu (yang beterbangan)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "70:10",
+      "verse_number": 10,
+      "text_uthmani": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And no friend will ask [anything of] a friend",
+        "fr": "où nul ami dévoué ne s'enquerra d'un ami",
+        "tr": "Hiç bir dost diğer bir dostunu sormaz",
+        "ur": "اور کوئی جگری دوست اپنے جگری دوست کو نہ پوچھے گا",
+        "id": "dan tidak ada seorang teman karib pun menanyakan temannya"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "70:11",
+      "verse_number": 11,
+      "text_uthmani": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "They will be shown each other. The criminal will wish that he could be ransomed from the punishment of that Day by his children",
+        "fr": "bien qu'ils se voient l'un l'autre. Le criminel aimerait pouvoir se racheter du châtiment de ce jour, en livrant ses enfants",
+        "tr": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister",
+        "ur": "حالانکہ وہ ایک دوسرے کو دکھائے جائیں گے مجرم چاہے گا کہ اس دن کے عذاب سے بچنے کے لیے اپنی اولاد کو",
+        "id": "sedang mereka saling melihat. Pada hari itu, orang yang berdosa ingin sekiranya dia dapat menebus (dirinya) dari azab dengan anak-anaknya"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "70:12",
+      "verse_number": 12,
+      "text_uthmani": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And his wife and his brother",
+        "fr": "sa compagne, son frère",
+        "tr": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister",
+        "ur": "اپنی بیوی کو، اپنے بھائی کو",
+        "id": "dan istrinya juga saudaranya"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "70:13",
+      "verse_number": 13,
+      "text_uthmani": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And his nearest kindred who shelter him",
+        "fr": "même son clan qui lui donnait asile",
+        "tr": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister",
+        "ur": "اپنے قریب ترین خاندان کو جو اسے پناہ دینے والا تھا",
+        "id": "dan keluarga yang melindunginya (di dunia)"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "70:14",
+      "verse_number": 14,
+      "text_uthmani": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And whoever is on earth entirely [so] then it could save him",
+        "fr": "et tout ce qui est sur la terre, tout, qui pourrait le sauver",
+        "tr": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister",
+        "ur": "اور روئے زمین کے سب لوگوں کو فدیہ میں دیدے اور یہ تدبیر اُسے نجات دلا دے",
+        "id": "dan orang-orang di bumi seluruhnya, kemudian mengharapkan (tebusan) itu dapat menyelamatkannya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "70:15",
+      "verse_number": 15,
+      "text_uthmani": "كَلَّآۖ إِنَّهَا لَظَىٰ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, it is the Flame [of Hell]",
+        "fr": "Mais rien [ne le sauvera]. [L'Enfer] est un brasier",
+        "tr": "Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır",
+        "ur": "ہرگز نہیں وہ تو بھڑکتی ہوئی آگ کی لپٹ ہوگی",
+        "id": "Sama sekali tidak! Sungguh, neraka itu api yang bergejolak"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "70:16",
+      "verse_number": 16,
+      "text_uthmani": "نَزَّاعَةٗ لِّلشَّوَىٰ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "A remover of exteriors",
+        "fr": "arrachant brutalement la peau du crâne",
+        "tr": "Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır",
+        "ur": "جو گوشت پوست کو چاٹ جائے گی",
+        "id": "yang mengelupaskan kulit kepala"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "70:17",
+      "verse_number": 17,
+      "text_uthmani": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "It invites he who turned his back [on truth] and went away [from obedience]",
+        "fr": "Il appellera celui qui tournait le dos et s'en allait",
+        "tr": "Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır",
+        "ur": "پکار پکار کر اپنی طرف بلائے گی ہر اُس شخص کو جس نے حق سے منہ موڑا اور پیٹھ پھیری",
+        "id": "Yang memanggil orang yang membelakangi dan yang berpaling (dari agama)"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "70:18",
+      "verse_number": 18,
+      "text_uthmani": "وَجَمَعَ فَأَوۡعَىٰٓ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And collected [wealth] and hoarded",
+        "fr": "amassait et thésaurisait",
+        "tr": "Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır",
+        "ur": "اور مال جمع کیا اور سینت سینت کر رکھا",
+        "id": "dan orang yang mengumpulkan (harta benda) lalu menyimpannya"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "70:19",
+      "verse_number": 19,
+      "text_uthmani": "۞إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Indeed, mankind was created anxious",
+        "fr": "Oui, l'homme a été créé instable [très inquiet]",
+        "tr": "İnsan gerçekten pek huysuz yaratılmıştır",
+        "ur": "انسان تھڑدلا پیدا کیا گیا ہے",
+        "id": "Sungguh, manusia diciptakan bersifat suka mengeluh"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "70:20",
+      "verse_number": 20,
+      "text_uthmani": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "When evil touches him, impatient",
+        "fr": "quand le malheur le touche, il est abattu",
+        "tr": "Başına bir fenalık gelince feryat eder",
+        "ur": "جب اس پر مصیبت آتی ہے تو گھبرا اٹھتا ہے",
+        "id": "Apabila dia ditimpa kesusahan dia berkeluh kesah"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "70:21",
+      "verse_number": 21,
+      "text_uthmani": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And when good touches him, withholding [of it]",
+        "fr": "et quand le bonheur le touche, il est grand refuseur",
+        "tr": "Bir iyiliğe uğrarsa onu herkesten meneder",
+        "ur": "اور جب اسے خوشحالی نصیب ہوتی ہے تو بخل کرنے لگتا ہے",
+        "id": "dan apabila mendapat kebaikan (harta) dia jadi kikir"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "70:22",
+      "verse_number": 22,
+      "text_uthmani": "إِلَّا ٱلۡمُصَلِّينَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Except the observers of prayer",
+        "fr": "Sauf ceux qui pratiquent la Salât",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "مگر وہ لوگ (اِس عیب سے بچے ہوئے ہیں) جو نماز پڑھنے والے ہیں",
+        "id": "kecuali orang-orang yang melaksanakan salat"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "70:23",
+      "verse_number": 23,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Those who are constant in their prayer",
+        "fr": "qui sont assidus à leurs Salâts",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "جو اپنی نماز کی ہمیشہ پابندی کرتے ہیں",
+        "id": "mereka yang tetap setia melaksanakan salatnya"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "70:24",
+      "verse_number": 24,
+      "text_uthmani": "وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those within whose wealth is a known right",
+        "fr": "et sur les biens desquels il y a un droit bien déterminé [la Zakât]",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "جن کے مالوں میں،",
+        "id": "dan orang-orang yang dalam hartanya disiapkan bagian tertentu"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "70:25",
+      "verse_number": 25,
+      "text_uthmani": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "For the petitioner and the deprived",
+        "fr": "pour le mendiant et le déshérité",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "سائل اور محروم کا ایک حق مقرر ہے",
+        "id": "bagi orang (miskin) yang meminta dan yang tidak meminta"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "70:26",
+      "verse_number": 26,
+      "text_uthmani": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who believe in the Day of Recompense",
+        "fr": "et qui déclarent véridique le Jour de la Rétribution",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "جو روز جزا کو برحق مانتے ہیں",
+        "id": "dan orang-orang yang mempercayai hari pembalasan"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "70:27",
+      "verse_number": 27,
+      "text_uthmani": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who are fearful of the punishment of their Lord",
+        "fr": "et ceux qui craignent le châtiment de leur Seigneur",
+        "tr": "Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir",
+        "ur": "جو اپنے رب کے عذاب سے ڈرتے ہیں",
+        "id": "dan orang-orang yang takut terhadap azab Tuhannya"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "70:28",
+      "verse_number": 28,
+      "text_uthmani": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the punishment of their Lord is not that from which one is safe",
+        "fr": "car vraiment, il n'y a nulle assurance contre le châtiment de leur Seigneur",
+        "tr": "Doğrusu Rablerinin azabından kimse güvende değildir",
+        "ur": "کیونکہ اُن کے رب کا عذاب ایسی چیز نہیں ہے جس سے کوئی بے خوف ہو",
+        "id": "sesungguhnya terhadap azab Tuhan mereka, tidak ada seseorang yang merasa aman (dari kedatangannya)"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "70:29",
+      "verse_number": 29,
+      "text_uthmani": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who guard their private parts",
+        "fr": "et qui se maintiennent dans la chasteté",
+        "tr": "Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler",
+        "ur": "جو اپنی شرمگاہوں کی حفاظت کرتے ہیں",
+        "id": "dan orang-orang yang memelihara kemaluannya"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "70:30",
+      "verse_number": 30,
+      "text_uthmani": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Except from their wives or those their right hands possess, for indeed, they are not to be blamed",
+        "fr": "et n'ont de rapports qu'avec leurs épouses ou les esclaves qu'ils possèdent car dans ce cas, ils ne sont pas blâmables",
+        "tr": "Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler",
+        "ur": "بجز اپنی بیویوں یا اپنی مملوکہ عورتوں کے جن سے محفوظ نہ رکھنے میں ان پر کوئی ملامت نہیں",
+        "id": "(kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki865) maka sesungguhnya mereka tidak tercela"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "70:31",
+      "verse_number": 31,
+      "text_uthmani": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "But whoever seeks beyond that, then they are the transgressors",
+        "fr": "mais ceux qui cherchent [leur plaisir] en dehors de cela, sont des transgresseurs",
+        "tr": "Bu sınırları aşmak isteyenler, işte onlar, aşırı gidenlerdir",
+        "ur": "البتہ جو اس کے علاوہ کچھ اور چاہیں وہی حد سے تجاوز کرنے والے ہیں",
+        "id": "Maka barangsiapa mencari di luar itu (seperti zina, homoseks, dan lesbian), mereka itulah orang-orang yang melampaui batas"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "70:32",
+      "verse_number": 32,
+      "text_uthmani": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who are to their trusts and promises attentive",
+        "fr": "et qui gardent les dépôts confiés à eux, et respectent leurs engagements scrupuleusement",
+        "tr": "Emanetlerini ve sözlerini yerine getirenler",
+        "ur": "جو اپنی امانتوں کی حفاظت اور اپنے عہد کا پاس کرتے ہیں",
+        "id": "Dan orang-orang yang memelihara amanat dan janjinya"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "70:33",
+      "verse_number": 33,
+      "text_uthmani": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who are in their testimonies upright",
+        "fr": "et qui témoignent de la stricte vérité",
+        "tr": "Şahidliklerini gereği gibi yapanlar",
+        "ur": "جو اپنی گواہیوں میں راست بازی پر قائم رہتے ہیں",
+        "id": "dan orang-orang yang berpegang teguh pada kesaksiannya"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "70:34",
+      "verse_number": 34,
+      "text_uthmani": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "And those who [carefully] maintain their prayer",
+        "fr": "et qui sont réguliers dans leur Salât",
+        "tr": "Namazlarına riayet edenler",
+        "ur": "اور جو اپنی نماز کی حفاظت کرتے ہیں",
+        "id": "dan orang-orang yang memelihara salatnya"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "70:35",
+      "verse_number": 35,
+      "text_uthmani": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "They will be in gardens, honored",
+        "fr": "Ceux-là seront honorés dans des Jardins",
+        "tr": "İşte onlar, cennetlerde ikram olunacak kimselerdir",
+        "ur": "یہ لوگ عزت کے ساتھ جنت کے باغوں میں رہیں گے",
+        "id": "Mereka itu dimuliakan di dalam surga"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "70:36",
+      "verse_number": 36,
+      "text_uthmani": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad]",
+        "fr": "Qu'ont donc, ceux qui ont mécru, à courir vers toi, le cou tendu",
+        "tr": "İnkar edenlere ne oluyor, sana doğru sağdan soldan topluluklar halinde koşuşuyorlar",
+        "ur": "پس اے نبیؐ، کیا بات ہے کہ یہ منکرین دائیں اور بائیں سے،",
+        "id": "Maka mengapa orang-orang kafir itu datang bergegas ke hadapanmu (Muhammad)"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "70:37",
+      "verse_number": 37,
+      "text_uthmani": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "[To sit] on [your] right and [your] left in separate groups",
+        "fr": "de droite et de gauche, [venant] par bandes",
+        "tr": "İnkar edenlere ne oluyor, sana doğru sağdan soldan topluluklar halinde koşuşuyorlar",
+        "ur": "گروہ در گروہ تمہاری طرف دوڑے چلے آ رہے ہیں؟",
+        "id": "dari kanan dan dari kiri dengan berkelompok-kelompok"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "70:38",
+      "verse_number": 38,
+      "text_uthmani": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Does every person among them aspire to enter a garden of pleasure",
+        "fr": "Chacun d'eux convoite-t-il qu'on le laisse entrer au Jardin des délices",
+        "tr": "Onlardan herbiri nimet bahçesine konulacağını mı umuyor",
+        "ur": "کیا اِن میں سے ہر ایک یہ لالچ رکھتا ہے کہ وہ نعمت بھری جنت میں داخل کر دیا جائے گا؟",
+        "id": "Apakah setiap orang dari orang-orang kafir itu ingin masuk surga yang penuh kenikmatan"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "70:39",
+      "verse_number": 39,
+      "text_uthmani": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, We have created them from that which they know",
+        "fr": "Mais non! Nous les avons créés de ce qu'ils savent",
+        "tr": "Hayır; doğrusu onları kendilerinin de bildikleri şeyden yaratmışızdır",
+        "ur": "ہرگز نہیں ہم نے جس چیز سے اِن کو پیدا کیا ہے اُسے یہ خود جانتے ہیں",
+        "id": "tidak mungkin! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "70:40",
+      "verse_number": 40,
+      "text_uthmani": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "So I swear by the Lord of [all] risings and settings that indeed We are able",
+        "fr": "Eh Non!... Je jure par le Seigneur des Levants et des Couchants que Nous sommes Capable",
+        "tr": "Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez",
+        "ur": "پس نہیں، میں قسم کھاتا ہوں مشرقوں اور مغربوں کے مالک کی، ہم اِس پر قادر ہیں",
+        "id": "Maka Aku bersumpah demi Tuhan yang mengatur tempat-tempat terbit dan terbenamnya (matahari, bulan dan bintang), sungguh, Kami pasti mampu"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "70:41",
+      "verse_number": 41,
+      "text_uthmani": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "To replace them with better than them; and We are not to be outdone",
+        "fr": "de les remplacer par de meilleurs qu'eux, et nul ne peut nous en empêcher",
+        "tr": "Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez",
+        "ur": "کہ اِن کی جگہ اِن سے بہتر لوگ لے آئیں اور کوئی ہم سے بازی لے جانے والا نہیں ہے",
+        "id": "untuk mengganti (mereka) dengan kaum yang lebih baik dari mereka, dan Kami tidak dapat dikalahkan"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "70:42",
+      "verse_number": 42,
+      "text_uthmani": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "So leave them to converse vainly and amuse themselves until they meet their Day which they are promised",
+        "fr": "Laisse-les donc s'enfoncer (dans leur mécréance) et se divertir jusqu'à ce qu'ils rencontrent leur jour dont on les menaçait",
+        "tr": "Onları bırak; kendilerine söz verilen güne kavuşmalarına kadar dalıp oynasınlar",
+        "ur": "لہٰذا اِنہیں اپنی بیہودہ باتوں اور اپنے کھیل میں پڑا رہنے دو یہاں تک کہ یہ اپنے اُس دن تک پہنچ جائیں جس کا ان سے وعدہ کیا جا رہا ہے",
+        "id": "Maka biarkanlah mereka tenggelam dan bermain-main (dalam kesesatan) sampai mereka menjumpai hari yang diancamkan kepada mereka"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "70:43",
+      "verse_number": 43,
+      "text_uthmani": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening",
+        "fr": "le jour où ils sortiront des tombes, rapides comme s'ils couraient vers des pierres dressées",
+        "tr": "Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür",
+        "ur": "جب یہ اپنی قبروں سے نکل کر اِس طرح دوڑے جا رہے ہوں گے جیسے اپنے بتوں کے استھانوں کی طرف دوڑ رہے ہوں",
+        "id": "(yaitu) pada hari ketika mereka keluar dari kubur dengan cepat seakan-akan mereka pergi dengan segera kepada berhala-berhala (sewaktu di dunia)"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "70:44",
+      "verse_number": 44,
+      "text_uthmani": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
+      "chapter_id": 70,
+      "words": [],
+      "translations": {
+        "en": "Their eyes humbled, humiliation will cover them. That is the Day which they had been promised",
+        "fr": "leurs yeux seront abaissés, l'avilissement les couvrira. C'est cela le jour dont on les menaçait",
+        "tr": "Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür",
+        "ur": "اِن کی نگاہیں جھکی ہوئی ہوں گی، ذلت اِن پر چھا رہی ہوگی وہ دن ہے جس کا اِن سے وعدہ کیا جا رہا ہے",
+        "id": "pandangan mereka tertunduk ke bawah diliputi kehinaan. Itulah hari yang diancamkan kepada mereka"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 70,
+    "name_arabic": "المعارج",
+    "name_english": "Al-Ma'arij"
+  }
+}

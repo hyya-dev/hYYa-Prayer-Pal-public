@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Birinci adım: Niyet ve Ihram",
+        "details": "<ul><li>Umre yapmaya niyet edin, Miqat ihrama girin ve Talbiyah başlayın.</li><li>Ihram yasaklarına uydu ve namaza başlamadan önce ritüel temizliği tamamladı.</li></ul>",
+        "evidence": "Quran 2:196 ve Miqat itibaren ritüellerin başlama yılı.",
+        "referenceLabel": "Umre ve Ziyaret Rehberi Bakanlığı"
+      },
+      {
+        "title": "İkinci Adım: Al-Masjid Al-Haram Giriş",
+        "details": "<ul><li>İçeriye sessizce, dua ve tevazu ile girin.</li><li>Kalabalığın arasından güvenli bir şekilde geçmeyi kolaylaştıran taraftan başlayın, ardından Tawaf alanına doğru ilerleyin.</li></ul>",
+        "evidence": "Mescitlerde adaba ve ibadetin kolaylaştırılmasına ilişkin genel Peygamber rehberliği.",
+        "referenceLabel": "Bakanlık Bilgilendirme Merkezi"
+      },
+      {
+        "title": "Üçüncü adım: Tawaf (yedi tur)",
+        "details": "<ul><li>Kaabah etrafında, Black Stone çizgisinden başlayarak yedi defa Tawaf edin.</li><li>Allah&#39;ı sürekli hatırlayın ve kalabalıkta başkalarına zarar vermekten kaçının.</li><li class=\"pp-ios-only\"> İpucu: Tawaf turlarınızı saymak için Apple Watch uygulamasını kullanabilirsiniz.</li><li class=\"pp-android-only\"> İpucu: Tawaf turlarınızı saymanıza yardımcı olması için saatinizdeki Wear OS uygulamasını kullanın.</li></ul>",
+        "evidence": "Quran 22:29 ve Peygamberimizin tavafına dair belgelenmiş açıklamalar.",
+        "referenceLabel": "Nosuk&#39;ta Umre yolculuğuyla ilgili rehber"
+      },
+      {
+        "title": "Dördüncü Adım: Tawaf Sonrası Dua",
+        "details": "<ul><li>Tawaf tamamladıktan sonra, cemaate zarar vermemek şartıyla mümkünse iki rekat namaz kılın, ardından düzenli bir şekilde Zamzam suyunu için.</li></ul>",
+        "evidence": "Tawaf sonra kılınacak namazla ilgili olarak sahih hadislerde yerleşik bir uygulama.",
+        "referenceLabel": "Umre ve Ziyaret Rehberi Bakanlığı"
+      },
+      {
+        "title": "Beşinci adım: Safa ve Marwah arasında Saie",
+        "details": "<ul><li>Safa ile Marwah arasında, Safa başlayıp Marwah sona eren yedi tur boyunca, dua ve zikir eşliğinde Saie yapın.</li><li class=\"pp-ios-only\"> İpucu: Saie koşularını saymak için Apple Watch uygulamasını kullanabilirsiniz.</li><li class=\"pp-android-only\"> İpucu: Saie koşularını saymanıza yardımcı olması için saatinizdeki Wear OS uygulamasını kullanın.</li></ul>",
+        "evidence": "Quran 2:158 ve Peygamberin emrine göre sahih rivayetler.",
+        "referenceLabel": "Nosuk&#39;ta Umre yolculuğuyla ilgili rehber"
+      },
+      {
+        "title": "Altıncı adım: Saç kesimi veya tıraş",
+        "details": "<ul><li>Erkekler saçlarını tıraş eder veya keser, kadınlar ise saçlarının küçük bir kısmını kısaltır.</li><li>Böylece Umre ve Ihram sona erer.</li></ul>",
+        "evidence": "Quran 48:27 ve tıraş ve kısaltmayla ilgili sahih rivayetler.",
+        "referenceLabel": "Umre ve Ziyaret Rehberi Bakanlığı"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Birinci adım: Ihram ve Hac niyeti.",
+        "details": "<ul><li>Miqat noktasında ihrama girin, hac türünüzü niyet edin, ardından Talbiyah geçin.</li><li>Ihram çıkış noktalarına ulaşana kadar Ihram kurallarına uyun.</li></ul>",
+        "evidence": "Quran 2:196 ve Hac&#39;ın başlangıcı için Peygamberimiz tarafından üzerinde ittifak edilen ritüeller.",
+        "referenceLabel": "Hac Bakanlığı yönergeleri"
+      },
+      {
+        "title": "İkinci Adım: Mina Yawm at-Tarwiyah",
+        "details": "<ul><li>Dhul Hijjah sekizinci günü Mina gidin, namazları vakitlerinde kılın ve Arafah anma töreni için manevi ve lojistik hazırlıklarınızı yapın.</li></ul>",
+        "evidence": "Veda yolculuğundaki ritüellerin belgelenmiş bir dizisi.",
+        "referenceLabel": "Nosuk&#39;a Hac gezisi"
+      },
+      {
+        "title": "Üçüncü adım: Arafah durmak",
+        "details": "<ul><li>Dhul Hijjah dokuzuncu gününü Arafah dua ederek, Allah&#39;ı anarak ve tövbe ederek geçirin.</li><li>Bu, Hac ibadetinin temel direğidir.</li></ul>",
+        "evidence": "Hadith: Hac, Arafah.",
+        "referenceLabel": "Hac Bakanlığı yönergeleri"
+      },
+      {
+        "title": "Dördüncü adım: Muzdalifah ve çakıl taşı toplama",
+        "details": "<ul><li>Güneş battıktan sonra Muzdalifah gidin, akşam ve yatsı namazlarını kılın, geceyi orada geçirin ve Mina taş atmak için çakıl taşları toplayın.</li></ul>",
+        "evidence": "Sahih rivayetlerde Arafah sonraki peygamberlik sıralaması.",
+        "referenceLabel": "Nosuk&#39;a Hac gezisi"
+      },
+      {
+        "title": "Beşinci Adım: Rami, Fedakarlık ve Şiir",
+        "details": "<ul><li>Bayram günü, Jamarat al-Aqabah taşı atılırken, gerekli olan yerlerde kurbanı kesin, ardından ilk tahlil için saçınızı tıraş edin veya kısaltın.</li></ul>",
+        "evidence": "Quran 22:36-37 ve sahih hadislerin sıralaması.",
+        "referenceLabel": "Hac Bakanlığı yönergeleri"
+      },
+      {
+        "title": "Altıncı adım: Tawaf al-Ifadah (yedi tur)",
+        "details": "<ul><li>Mekke&#39;ye dönerek Tawaf al-Ifadah gerçekleştirin, yedi turu tamamlayın ve yoğun zamanlarda güvenli ve düzenli bir şekilde hareket edin.</li><li class=\"pp-ios-only\"> İpucu: Tawaf turlarınızı saymak için Apple Watch uygulamasını kullanabilirsiniz.</li><li class=\"pp-android-only\"> İpucu: Tawaf turlarınızı saymanıza yardımcı olması için saatinizdeki Wear OS uygulamasını kullanın.</li></ul>",
+        "evidence": "Quran 22:29 ve farz olan tavafın belgelenmiş açıklamaları.",
+        "referenceLabel": "Nosuk&#39;a Hac gezisi"
+      },
+      {
+        "title": "Adım 7: İhtiyaç duyulan kişiyi bilgilendirin.",
+        "details": "<ul><li>Hac türünüz gerektirdiğinde, Safa ve Marwah arasındaki yedi turun sırasını ve sayısını koruyarak Saie yerine getirin.</li><li class=\"pp-ios-only\"> İpucu: Saie koşularını saymak için Apple Watch uygulamasını kullanabilirsiniz.</li><li class=\"pp-android-only\"> İpucu: Saie koşularını saymanıza yardımcı olması için saatinizdeki Wear OS uygulamasını kullanın.</li></ul>",
+        "evidence": "Quran 2:158 ve bunun Hac ritüellerindeki fıkıh uygulaması.",
+        "referenceLabel": "Hac Bakanlığı yönergeleri"
+      },
+      {
+        "title": "Adım 8: Ayyam at-Tashriq ve Tawaf al-Wada&#39;",
+        "details": "<ul><li>Teşrik süresince Mina kalıp Jamarat atma ritüellerini yerine getirmek, ardından Mekke&#39;den ayrılmadan önce Tawaf al-Wada&#39; tamamlamak, muaf olanlar hariç.</li><li class=\"pp-ios-only\"> İpucu: Tawaf turlarınızı saymak için Apple Watch uygulamasını kullanabilirsiniz.</li><li class=\"pp-android-only\"> İpucu: Tawaf turlarınızı saymanıza yardımcı olması için saatinizdeki Wear OS uygulamasını kullanın.</li></ul>",
+        "evidence": "Yerleşik ritüeller, Quran rehberliğine ve Peygamber Sunnah doğru uygulanmasına dayanmaktadır.",
+        "referenceLabel": "Nosuk&#39;a Hac gezisi"
+      }
+    ]
+  }
+}

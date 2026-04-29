@@ -1,0 +1,129 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "94:1",
+      "verse_number": 1,
+      "text_uthmani": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "Did We not expand for you, [O Muhammad], your breast",
+        "fr": "N'avons-Nous pas ouvert pour toi ta poitrine",
+        "tr": "Senin gönlünü açmadık mı",
+        "ur": "(اے نبیؐ) کیا ہم نے تمہارا سینہ تمہارے لیے کھول نہیں دیا؟",
+        "id": "Bukankah kami telah melapangkan dadamu (Muhammad)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "94:2",
+      "verse_number": 2,
+      "text_uthmani": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "And We removed from you your burden",
+        "fr": "Et ne t'avons-Nous pas déchargé du fardeau",
+        "tr": "Belini büken yükünü üzerinden almadık mı",
+        "ur": "اور تم پر سے وہ بھاری بوجھ اتار دیا",
+        "id": "dan kami pun telah menurunkan beban darimu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "94:3",
+      "verse_number": 3,
+      "text_uthmani": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "Which had weighed upon your back",
+        "fr": "qui accablait ton dos",
+        "tr": "Belini büken yükünü üzerinden almadık mı",
+        "ur": "جو تمہاری کمر توڑے ڈال رہا تھا",
+        "id": "yang memberatkan punggungmu"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "94:4",
+      "verse_number": 4,
+      "text_uthmani": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "And raised high for you your repute",
+        "fr": "Et exalté pour toi ta renommée",
+        "tr": "Senin şanını yükseltmedik mi",
+        "ur": "اور تمہاری خاطر تمہارے ذکر کا آوازہ بلند کر دیا",
+        "id": "dan kami tinggikan sebutan (nama)mu914) bagimu"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "94:5",
+      "verse_number": 5,
+      "text_uthmani": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "For indeed, with hardship [will be] ease",
+        "fr": "A côté de la difficulté est, certes, une facilité",
+        "tr": "Elbette güçlükle beraber şüphesiz bir kolaylık vardır",
+        "ur": "پس حقیقت یہ ہے کہ تنگی کے ساتھ فراخی بھی ہے",
+        "id": "Maka sesungguhnya bersama kesulitan ada kemudahan"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "94:6",
+      "verse_number": 6,
+      "text_uthmani": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "Indeed, with hardship [will be] ease",
+        "fr": "A côté de la difficulté est, certes, une facilité",
+        "tr": "Gerçekten, güçlükle beraber bir kolaylık vardır",
+        "ur": "بے شک تنگی کے ساتھ فراخی بھی ہے",
+        "id": "sesungguhnya bersama kesulitan ada kemudahan"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "94:7",
+      "verse_number": 7,
+      "text_uthmani": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "So when you have finished [your duties], then stand up [for worship]",
+        "fr": "Quand tu te libères, donc, lève-toi",
+        "tr": "Öyleyse, bir işi bitirince diğerine giriş",
+        "ur": "لہٰذا جب تم فارغ ہو تو عبادت کی مشقت میں لگ جاؤ",
+        "id": "Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "94:8",
+      "verse_number": 8,
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+      "chapter_id": 94,
+      "words": [],
+      "translations": {
+        "en": "And to your Lord direct [your] longing",
+        "fr": "et à ton Seigneur aspire",
+        "tr": "Ve ümit edeceğini yalnız Rabbinden iste",
+        "ur": "اور اپنے رب ہی کی طرف راغب ہو",
+        "id": "dan hanya kepada Tuhanmulah engkau berharap"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 94,
+    "name_arabic": "الشرح",
+    "name_english": "Ash-Sharh"
+  }
+}

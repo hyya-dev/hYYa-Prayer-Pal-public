@@ -1,0 +1,1418 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "appName": {
+      "extractionState": "manual",
+      "localizations": {
+        "am": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ሀያ የጸሎት ጓደኛ"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا رفيق الصلاة"
+          }
+        },
+        "as": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "হাইয়া প্ৰাৰ্থনা পাল"
+          }
+        },
+        "az": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Dua Dostu"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хайя Молитвен приятел"
+          }
+        },
+        "bm": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delili Pal"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "হাইয়া প্রার্থনা পাল"
+          }
+        },
+        "bs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Molitveni prijatelj"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Gebetsfreund"
+          }
+        },
+        "dv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ހައްޔާ ނަމާދުގެ ޞަޙާބީއެވެ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Prayer Pal (Source)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Compañero de oración"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا نماز رفیق"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Ami de prière"
+          }
+        },
+        "gu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "હૈયા પ્રાર્થના પાલ"
+          }
+        },
+        "ha": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Abokin Addu'a"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "הייא חבר תפילה"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "हय्या प्रार्थना मित्र"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Teman Doa"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Amico di preghiera"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ハイヤ 祈りの仲間"
+          }
+        },
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хайя Дұға досы"
+          }
+        },
+        "km": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ហៃយ៉ា ប៉ាលអធិស្ឋាន"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "하이야 기도 친구"
+          }
+        },
+        "ku": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Hevalê Dua"
+          }
+        },
+        "ml": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ഹയ്യാ പ്രാർത്ഥന പാൽ"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "हय्या प्रार्थना पाल"
+          }
+        },
+        "mrw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Sahabat Doa"
+          }
+        },
+        "ne": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "हय्या प्रार्थना पाल"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Gebedsmaatje"
+          }
+        },
+        "om": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kadhannaa Pal"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Przyjaciel modlitewny"
+          }
+        },
+        "prs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا نماز رفیق"
+          }
+        },
+        "ps": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا د لمونځ پال"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Pal de oração"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Prieten de rugăciune"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хайя Друг по молитвам"
+          }
+        },
+        "rw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Umukunzi w'amasengesho"
+          }
+        },
+        "sd": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا نماز پال"
+          }
+        },
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "හයියා යාච්ඤා පල්"
+          }
+        },
+        "so": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Saaxiib Salaada"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Mik Lutjeje"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Bönevän"
+          }
+        },
+        "sw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Rafiki wa Maombi"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஹய்யா பிரார்த்தனை பால்"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "హయ్యా ప్రార్థన పాల్"
+          }
+        },
+        "tg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хайя Палвари дуогӯ"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ไฮยา เพื่อนร่วมภาวนา"
+          }
+        },
+        "tl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Dua Arkadaşı"
+          }
+        },
+        "ug": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا ناماز دوستى"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хайя Молитовний друг"
+          }
+        },
+        "ur": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هيّا نماز پال"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Namoz do'sti"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Bạn cầu nguyện"
+          }
+        },
+        "yo": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hYYa Ọ̀rẹ́ Àdúrà"
+          }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "海亚 祈祷伙伴"
+          }
+        }
+      }
+    },
+    "welcome": {
+      "extractionState": "manual",
+      "localizations": {
+        "am": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "እንኳን ደህና መጣህ!"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مرحبًا!"
+          }
+        },
+        "as": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "স্বাগতম!"
+          }
+        },
+        "az": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xoş gəlmisiniz!"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добре дошли!"
+          }
+        },
+        "bm": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I danse!"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "স্বাগত!"
+          }
+        },
+        "bs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dobrodošli!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Willkommen!"
+          }
+        },
+        "dv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "މަރުޙަބާ!"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welcome!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¡Bienvenido!"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خوش آمدید!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bienvenue!"
+          }
+        },
+        "gu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "સ્વાગત છે!"
+          }
+        },
+        "ha": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maraba!"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קַבָּלַת פָּנִים!"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्वागत!"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selamat datang!"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benvenuto!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "いらっしゃいませ！"
+          }
+        },
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қош келдіңіз!"
+          }
+        },
+        "km": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "សូមស្វាគមន៍!"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "환영!"
+          }
+        },
+        "ku": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bi xêr hatî!"
+          }
+        },
+        "ml": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "സ്വാഗതം!"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्वागत आहे!"
+          }
+        },
+        "mrw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maligayang pagdating!"
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selamat datang!"
+          }
+        },
+        "ne": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "स्वागत छ!"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welkom!"
+          }
+        },
+        "om": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baga nagaan dhufte!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Powitanie!"
+          }
+        },
+        "prs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خوش آمدید!"
+          }
+        },
+        "ps": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ښه راغلاست!"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bem-vindo!"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bun venit!"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добро пожаловать!"
+          }
+        },
+        "rw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Murakaza neza!"
+          }
+        },
+        "sd": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ڀلي ڪري آيا!"
+          }
+        },
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සාදරයෙන් පිළිගනිමු!"
+          }
+        },
+        "so": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Soo dhawoow!"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mirë se vini!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Välkommen!"
+          }
+        },
+        "sw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karibu!"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வரவேற்பு!"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "స్వాగతం!"
+          }
+        },
+        "tg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Хуш омадед!"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ยินดีต้อนรับ!"
+          }
+        },
+        "tl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maligayang pagdating!"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoş geldin!"
+          }
+        },
+        "ug": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خۇش كەپسىز!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ласкаво просимо!"
+          }
+        },
+        "ur": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خوش آمدید!"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xush kelibsiz!"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chào mừng!"
+          }
+        },
+        "yo": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaabo!"
+          }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "欢迎！"
+          }
+        }
+      }
+    },
+    "openAppToSync": {
+      "extractionState": "manual",
+      "localizations": {
+        "am": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ለማመሳሰል መተግበሪያን ይክፈቱ"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "افتح التطبيق للمزامنة"
+          }
+        },
+        "as": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ছিঙ্ক কৰিবলৈ এপ খোলক"
+          }
+        },
+        "az": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinxronizasiya üçün Tətbiqi Açın"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отворете приложението за синхронизиране"
+          }
+        },
+        "bm": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App da yele ka Sync"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সিঙ্ক করার জন্য অ্যাপ খুলুন"
+          }
+        },
+        "bs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvori aplikaciju za sinhronizaciju"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App zum Synchronisieren öffnen"
+          }
+        },
+        "dv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ސިންކް ކުރުމަށް އެޕް ހުޅުވާލާށެވެ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open App to Sync"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir la aplicación para sincronizar"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "برنامه را برای همگام‌سازی باز کنید"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrez l'application pour synchroniser"
+          }
+        },
+        "gu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "સિંક કરવા માટે એપ્લિકેશન ખોલો"
+          }
+        },
+        "ha": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bude Manhaja don Daidaita Aiki"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתח את האפליקציה לסנכרון"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक करने के लिए ऐप खोलें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buka Aplikasi untuk Sinkronisasi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri l'app per sincronizzare"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アプリを開いて同期する"
+          }
+        },
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Синхрондау үшін қолданбаны ашыңыз"
+          }
+        },
+        "km": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "បើកកម្មវិធីដើម្បីធ្វើសមកាលកម្ម"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱을 열어 동기화하세요"
+          }
+        },
+        "ku": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ji bo senkronîzekirinê sepanê veke"
+          }
+        },
+        "ml": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "സമന്വയിപ്പിക്കാൻ ആപ്പ് തുറക്കുക"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक करण्यासाठी अ‍ॅप उघडा"
+          }
+        },
+        "mrw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buksan ang App para Mag-sync"
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buka Apl untuk Segerakkan"
+          }
+        },
+        "ne": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक गर्न एप खोल्नुहोस्"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open de app om te synchroniseren."
+          }
+        },
+        "om": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App banaa Sync gochuuf"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwórz aplikację, aby zsynchronizować"
+          }
+        },
+        "prs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "برنامه را برای همگام‌سازی باز کنید"
+          }
+        },
+        "ps": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "د همغږۍ لپاره اپلیکیشن خلاص کړئ"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abra o aplicativo para sincronizar"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschideți aplicația pentru sincronizare"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Откройте приложение для синхронизации."
+          }
+        },
+        "rw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fungura Porogaramu kugira ngo uhuze"
+          }
+        },
+        "sd": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هم وقت سازي لاءِ ايپ کوليو"
+          }
+        },
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සමමුහුර්ත කිරීමට යෙදුම විවෘත කරන්න"
+          }
+        },
+        "so": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fur Abka si aad u Isku-xidho"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hap aplikacionin për të sinkronizuar"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öppna appen för att synkronisera"
+          }
+        },
+        "sw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fungua Programu ili Usawazishe"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஒத்திசைக்க பயன்பாட்டைத் திறக்கவும்"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "సమకాలీకరణకు యాప్‌ను తెరవండి"
+          }
+        },
+        "tg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Барномаро барои ҳамоҳангсозӣ кушоед"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เปิดแอปเพื่อซิงค์ข้อมูล"
+          }
+        },
+        "tl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buksan ang App para Mag-sync"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senkronizasyon için uygulamayı açın"
+          }
+        },
+        "ug": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ئەپنى ئېچىڭ، سىنخرونلاشتۇرۇڭ"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкрити програму для синхронізації"
+          }
+        },
+        "ur": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مطابقت پذیری کے لیے ایپ کھولیں۔"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinxronlashtirish uchun ilovani oching"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở ứng dụng để đồng bộ hóa"
+          }
+        },
+        "yo": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ṣí Àpù láti Ṣíṣe Ìmúṣiṣẹ́pọ̀"
+          }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开应用进行同步"
+          }
+        }
+      }
+    },
+    "waitingForPhone": {
+      "extractionState": "manual",
+      "localizations": {
+        "am": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ለማመሳሰል መተግበሪያን ይክፈቱ"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "افتح التطبيق للمزامنة"
+          }
+        },
+        "as": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ছিঙ্ক কৰিবলৈ এপ খোলক"
+          }
+        },
+        "az": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinxronizasiya üçün Tətbiqi Açın"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отворете приложението за синхронизиране"
+          }
+        },
+        "bm": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App da yele ka Sync"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "সিঙ্ক করার জন্য অ্যাপ খুলুন"
+          }
+        },
+        "bs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otvori aplikaciju za sinhronizaciju"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App zum Synchronisieren öffnen"
+          }
+        },
+        "dv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ސިންކް ކުރުމަށް އެޕް ހުޅުވާލާށެވެ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open App to Sync"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir la aplicación para sincronizar"
+          }
+        },
+        "fa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "برنامه را برای همگام‌سازی باز کنید"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrez l'application pour synchroniser"
+          }
+        },
+        "gu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "સિંક કરવા માટે એપ્લિકેશન ખોલો"
+          }
+        },
+        "ha": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bude Manhaja don Daidaita Aiki"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "פתח את האפליקציה לסנכרון"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक करने के लिए ऐप खोलें"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buka Aplikasi untuk Sinkronisasi"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apri l'app per sincronizzare"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アプリを開いて同期する"
+          }
+        },
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Синхрондау үшін қолданбаны ашыңыз"
+          }
+        },
+        "km": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "បើកកម្មវិធីដើម្បីធ្វើសមកាលកម្ម"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱을 열어 동기화하세요"
+          }
+        },
+        "ku": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ji bo senkronîzekirinê sepanê veke"
+          }
+        },
+        "ml": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "സമന്വയിപ്പിക്കാൻ ആപ്പ് തുറക്കുക"
+          }
+        },
+        "mr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक करण्यासाठी अ‍ॅप उघडा"
+          }
+        },
+        "mrw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buksan ang App para Mag-sync"
+          }
+        },
+        "ms": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buka Apl untuk Segerakkan"
+          }
+        },
+        "ne": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "सिंक गर्न एप खोल्नुहोस्"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open de app om te synchroniseren."
+          }
+        },
+        "om": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App banaa Sync gochuuf"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otwórz aplikację, aby zsynchronizować"
+          }
+        },
+        "prs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "برنامه را برای همگام‌سازی باز کنید"
+          }
+        },
+        "ps": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "د همغږۍ لپاره اپلیکیشن خلاص کړئ"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abra o aplicativo para sincronizar"
+          }
+        },
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deschideți aplicația pentru sincronizare"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Откройте приложение для синхронизации."
+          }
+        },
+        "rw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fungura Porogaramu kugira ngo uhuze"
+          }
+        },
+        "sd": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هم وقت سازي لاءِ ايپ کوليو"
+          }
+        },
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සමමුහුර්ත කිරීමට යෙදුම විවෘත කරන්න"
+          }
+        },
+        "so": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fur Abka si aad u Isku-xidho"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hap aplikacionin për të sinkronizuar"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öppna appen för att synkronisera"
+          }
+        },
+        "sw": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fungua Programu ili Usawazishe"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஒத்திசைக்க பயன்பாட்டைத் திறக்கவும்"
+          }
+        },
+        "te": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "సమకాలీకరణకు యాప్‌ను తెరవండి"
+          }
+        },
+        "tg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Барномаро барои ҳамоҳангсозӣ кушоед"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "เปิดแอปเพื่อซิงค์ข้อมูล"
+          }
+        },
+        "tl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buksan ang App para Mag-sync"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Senkronizasyon için uygulamayı açın"
+          }
+        },
+        "ug": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ئەپنى ئېچىڭ، سىنخرونلاشتۇرۇڭ"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відкрити програму для синхронізації"
+          }
+        },
+        "ur": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مطابقت پذیری کے لیے ایپ کھولیں۔"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinxronlashtirish uchun ilovani oching"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở ứng dụng để đồng bộ hóa"
+          }
+        },
+        "yo": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ṣí Àpù láti Ṣíṣe Ìmúṣiṣẹ́pọ̀"
+          }
+        },
+        "zh": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开应用进行同步"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

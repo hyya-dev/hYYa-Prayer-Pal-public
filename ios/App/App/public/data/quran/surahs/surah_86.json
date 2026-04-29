@@ -1,0 +1,264 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "86:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "By the sky and the night comer",
+        "fr": "Par le ciel et par l'astre nocturne",
+        "tr": "Göğe ve Tarık'a and olsun",
+        "ur": "قسم ہے آسمان کی اور رات کو نمودار ہونے والے کی",
+        "id": "Demi langit dan yang datang pada malam hari"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "86:2",
+      "verse_number": 2,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is the night comer",
+        "fr": "Et qui te dira ce qu'est l'astre nocturne",
+        "tr": "Tarık'ın ne olduğunu sen bilir misin",
+        "ur": "اور تم کیا جانو کہ وہ رات کو نمودار ہونے والا کیا ہے؟",
+        "id": "Dan tahukah kamu apakah yang datang pada malam hari itu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "86:3",
+      "verse_number": 3,
+      "text_uthmani": "ٱلنَّجۡمُ ٱلثَّاقِبُ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "It is the piercing star",
+        "fr": "C'est l'étoile vivement brillante",
+        "tr": "O, (ışığıyla karanlığı) delen yıldızdır",
+        "ur": "چمکتا ہوا تارا",
+        "id": "(Yaitu) bintang yang bersinar tajam"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "86:4",
+      "verse_number": 4,
+      "text_uthmani": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "There is no soul but that it has over it a protector",
+        "fr": "Il n'est pas d'âme qui n'ait sur elle un gardien",
+        "tr": "Üzerinde gözetici olmayan kimse yoktur",
+        "ur": "کوئی جان ایسی نہیں ہے جس کے اوپر کوئی نگہبان نہ ہو",
+        "id": "setiap orang pasti ada penjaganya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "86:5",
+      "verse_number": 5,
+      "text_uthmani": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "So let man observe from what he was created",
+        "fr": "Que l'homme considère donc de quoi il a été créé",
+        "tr": "Öyleyse insan neden yaratıldığına bir baksın",
+        "ur": "پھر ذرا انسان یہی دیکھ لے کہ وہ کس چیز سے پیدا کیا گیا ہے",
+        "id": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "86:6",
+      "verse_number": 6,
+      "text_uthmani": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "He was created from a fluid, ejected",
+        "fr": "Il a été créé d'une giclée d'eau",
+        "tr": "O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir sudan yaratılmıştır",
+        "ur": "ایک اچھلنے والے پانی سے پیدا کیا گیا ہے",
+        "id": "Dia diciptakan dari air (mani) yang terpancar"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "86:7",
+      "verse_number": 7,
+      "text_uthmani": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "Emerging from between the backbone and the ribs",
+        "fr": "sortie d'entre les lombes et les côtes",
+        "tr": "O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir sudan yaratılmıştır",
+        "ur": "جو پیٹھ اور سینے کی ہڈیوں کے درمیان سے نکلتا ہے",
+        "id": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "86:8",
+      "verse_number": 8,
+      "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "Indeed, Allah, to return him [to life], is Able",
+        "fr": "Allah est certes capable de le ressusciter",
+        "tr": "Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir",
+        "ur": "یقیناً وہ (خالق) اُسے دوبارہ پیدا کرنے پر قادر ہے",
+        "id": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "86:9",
+      "verse_number": 9,
+      "text_uthmani": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "The Day when secrets will be put on trial",
+        "fr": "Le jour où les cœurs dévoileront leurs secrets",
+        "tr": "Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir",
+        "ur": "جس روز پوشیدہ اسرار کی جانچ پڑتال ہوگی",
+        "id": "Pada hari ditampakkan segala rahasia"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "86:10",
+      "verse_number": 10,
+      "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "Then man will have no power or any helper",
+        "fr": "Il n'aura alors ni force ni secoureur",
+        "tr": "O gün, insanın gücü de, yardımcısı da olmaz",
+        "ur": "اُس وقت انسان کے پاس نہ خود اپنا کوئی زور ہوگا اور نہ کوئی اس کی مدد کرنے والا ہوگا",
+        "id": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "86:11",
+      "verse_number": 11,
+      "text_uthmani": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "By the sky which returns [rain]",
+        "fr": "Par le ciel qui fait revenir la pluie",
+        "tr": "Dönüşlü göğe ve yarılan yeryüzüne and olsun ki",
+        "ur": "قسم ہے بارش برسانے والے آسمان کی",
+        "id": "Demi langit yang mengandung hujan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "86:12",
+      "verse_number": 12,
+      "text_uthmani": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "And [by] the earth which cracks open",
+        "fr": "et par la terre qui se fend",
+        "tr": "Dönüşlü göğe ve yarılan yeryüzüne and olsun ki",
+        "ur": "اور (نباتات اگتے وقت) پھٹ جانے والی زمین کی",
+        "id": "dan bumi yang mempunyai tumbuh-tumbuhan"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "86:13",
+      "verse_number": 13,
+      "text_uthmani": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the Qur'an is a decisive statement",
+        "fr": "Ceci [le Coran] est certes, une parole décisive [qui tranche entre le vrai et le faux]",
+        "tr": "Doğrusu bu Kuran kesin bir sözdür",
+        "ur": "یہ ایک جچی تلی بات ہے",
+        "id": "sungguh, (Alquran) itu benar-benar firman pemisah (antara yang hak dan yang batil)"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "86:14",
+      "verse_number": 14,
+      "text_uthmani": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "And it is not amusement",
+        "fr": "et non point une plaisanterie frivole",
+        "tr": "O, eğlence için değildir",
+        "ur": "ہنسی مذاق نہیں ہے",
+        "id": "dan (Alquran) itu bukanlah senda gurauan"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "86:15",
+      "verse_number": 15,
+      "text_uthmani": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "Indeed, they are planning a plan",
+        "fr": "Ils se servent d'une ruse",
+        "tr": "Gerçekten onlar düzen kuruyorlar",
+        "ur": "یہ لوگ چالیں چل رہے ہیں",
+        "id": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "86:16",
+      "verse_number": 16,
+      "text_uthmani": "وَأَكِيدُ كَيۡدٗا",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "But I am planning a plan",
+        "fr": "et Moi aussi Je me sers de Mon plan",
+        "tr": "Ben de bir düzen kurmaktayım",
+        "ur": "اور میں بھی ایک چال چل رہا ہوں",
+        "id": "dan Aku pun membuat rencana (tipu daya) yang jitu"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "86:17",
+      "verse_number": 17,
+      "text_uthmani": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+      "chapter_id": 86,
+      "words": [],
+      "translations": {
+        "en": "So allow time for the disbelievers. Leave them awhile",
+        "fr": "Accorde (ô Prophète) donc un délai aux infidèles: accorde-leur un court délai",
+        "tr": "Sen inkarcılara mehil ver; onlara mukabeleyi biraz geri bırak",
+        "ur": "پس چھوڑ دو اے نبیؐ، اِن کافروں کو اک ذرا کی ذرا اِن کے حال پر چھوڑ دو",
+        "id": "Karena itu berilah penangguhan kepada orang-orang kafir. Berilah mereka kesempatan untuk sementara waktu"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 86,
+    "name_arabic": "الطارق",
+    "name_english": "At-Tariq"
+  }
+}

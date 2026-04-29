@@ -1,0 +1,69 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "106:1",
+      "verse_number": 1,
+      "text_uthmani": "لِإِيلَٰفِ قُرَيۡشٍ",
+      "chapter_id": 106,
+      "words": [],
+      "translations": {
+        "en": "For the accustomed security of the Quraysh",
+        "fr": "A cause du pacte des Coraïch",
+        "tr": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır",
+        "ur": "چونکہ قریش مانوس ہوئے",
+        "id": "Karena kebiasaan orang-orang Quraisy"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "106:2",
+      "verse_number": 2,
+      "text_uthmani": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "chapter_id": 106,
+      "words": [],
+      "translations": {
+        "en": "Their accustomed security [in] the caravan of winter and summer",
+        "fr": "De leur pacte [concernant] les voyages d'hiver et d'été",
+        "tr": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır",
+        "ur": "(یعنی) جاڑے اور گرمی کے سفروں سے مانوس",
+        "id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "106:3",
+      "verse_number": 3,
+      "text_uthmani": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+      "chapter_id": 106,
+      "words": [],
+      "translations": {
+        "en": "Let them worship the Lord of this House",
+        "fr": "Qu'ils adorent donc le Seigneur de cette Maison [la Ka'ba]",
+        "tr": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler",
+        "ur": "لہٰذا اُن کو چاہیے کہ اِس گھر کے رب کی عبادت کریں",
+        "id": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "106:4",
+      "verse_number": 4,
+      "text_uthmani": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+      "chapter_id": 106,
+      "words": [],
+      "translations": {
+        "en": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear",
+        "fr": "qui les a nourris contre la faim et rassurés de la crainte",
+        "tr": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler",
+        "ur": "جس نے اُنہیں بھوک سے بچا کر کھانے کو دیا اور خوف سے بچا کر امن عطا کیا",
+        "id": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 106,
+    "name_arabic": "قريش",
+    "name_english": "Quraysh"
+  }
+}

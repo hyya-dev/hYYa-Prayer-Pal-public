@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "첫 번째 단계: 의도와 Ihram",
+        "details": "<ul><li>Umrah를 수행할 계획을 세우고 Miqat 의 Ihram에 들어가서 Talbiyah 시작합니다.</li><li>그는 Ihram 금지 사항을 준수했으며, 의식을 시작하기 전에 정화 의식을 완료했습니다.</li></ul>",
+        "evidence": "Quran 2:196과 Miqat 의식이 시작된 해.",
+        "referenceLabel": "움라부 및 방문 안내"
+      },
+      {
+        "title": "2단계: Al-Masjid Al-Haram 입장",
+        "details": "<ul><li>조용히, 기도하는 마음으로, 겸손한 마음으로 들어가십시오.</li><li>인파 속을 안전하게 이동할 수 있는 쪽에서 시작하여 Tawaf 구역으로 향하십시오.</li></ul>",
+        "evidence": "모스크에서의 예절과 예배 진행을 위한 일반적인 예언자적 지침.",
+        "referenceLabel": "장관 인식 센터"
+      },
+      {
+        "title": "3단계: Tawaf (일곱 바퀴)",
+        "details": "<ul><li>Black Stone 선에서 시작하여 Kaabah 주위를 일곱 번 Tawaf 하십시오.</li><li>하나님을 기억하고 군중 속에서 다른 사람에게 해를 끼치지 않도록 하십시오.</li><li class=\"pp-ios-only\"> 팁: Apple Watch 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li><li class=\"pp-android-only\"> 팁: 스마트워치의 Wear OS 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li></ul>",
+        "evidence": "Quran 22장 29절과 예언자의 순례에 대한 기록된 묘사.",
+        "referenceLabel": "누숙 지역 움라 여행 안내"
+      },
+      {
+        "title": "4단계: Tawaf 후 기도",
+        "details": "<ul><li>가능하다면 Tawaf 마친 후 회중에게 피해를 주지 않고 두 라카트를 기도한 다음, 질서정연하게 Zamzam 수를 마시러 가십시오.</li></ul>",
+        "evidence": "Tawaf 후 기도에 관한 것은 정통 하디스에 잘 확립된 관례입니다.",
+        "referenceLabel": "움라부 및 방문 안내"
+      },
+      {
+        "title": "5단계: Safa 와 Marwah 와 Saie",
+        "details": "<ul><li>Safa 에서 시작하여 마르 Marwah 에서 끝나는 Safa 와 Marwah 사이를 일곱 바퀴 도는 사이 Saie 의식을 간구와 기억을 담아 수행하십시오.</li><li class=\"pp-ios-only\"> 팁: Apple Watch 앱을 사용하여 Saie 달린 횟수를 세어보세요.</li><li class=\"pp-android-only\"> 팁: 스마트워치의 Wear OS 앱을 사용하여 Saie 달리기 횟수를 세어보세요.</li></ul>",
+        "evidence": "Quran 2장 158절과 예언자의 명령에 따른 정통 전승들.",
+        "referenceLabel": "누숙 지역 움라 여행 안내"
+      },
+      {
+        "title": "6단계: 이발 또는 면도",
+        "details": "<ul><li>남성들은 머리를 면도하거나 자르고, 여성들은 머리카락의 일부를 다듬는다.</li><li>이로써 움라와 Ihram 끝납니다.</li></ul>",
+        "evidence": "꾸란 48장 27 Quran 과 면도 및 머리 자르기와 관련된 신뢰할 만한 전승들.",
+        "referenceLabel": "움라부 및 방문 안내"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "첫 번째 단계: Ihram 및 하지를 향한 의지 표명",
+        "details": "<ul><li>Miqat 에서 이흐람에 들어가시고, 본인의 하지 유형을 정하신 후 Talbiyah 계속하십시오.</li><li>이 Ihram 출구에 도착할 때까지 Ihram 규정을 준수하십시오.</li></ul>",
+        "evidence": "Quran 2:196과 하즈 순례 시작을 위한 예언자들이 합의한 의식들.",
+        "referenceLabel": "순례부 지침"
+      },
+      {
+        "title": "2단계: Mina 의 Yawm at-Tarwiyah",
+        "details": "<ul><li>Dhul Hijjah 에는 Mina 로 가서 정해진 시간에 기도를 드리고, Arafah 기념식을 위해 영적으로나 실질적으로 준비하십시오.</li></ul>",
+        "evidence": "이별 여정에서 행해지는 일련의 의식들을 기록한 것.",
+        "referenceLabel": "누숙으로 가는 하즈 여행"
+      },
+      {
+        "title": "3단계: Arafah 에 서기",
+        "details": "<ul><li>Dhul Hijjah 9일에는 Arafah 에서 기도하고, 하나님을 기억하고, 회개하는 시간을 보내십시오.</li><li>이것이 바로 하즈 순례의 핵심 기둥입니다.</li></ul>",
+        "evidence": "Hadith: 하지는 Arafah 에서 행해집니다.",
+        "referenceLabel": "순례부 지침"
+      },
+      {
+        "title": "4단계: Muzdalifah 파와 조약돌 수집",
+        "details": "<ul><li>해가 진 후 Muzdalifah 가서 마그립과 이샤 기도를 드리고, 그곳에서 밤을 보내고, Mina 에 던질 돌멩이를 모으세요.</li></ul>",
+        "evidence": "신뢰할 만한 전승에 나타난 Arafah 이후의 예언자적 순서.",
+        "referenceLabel": "누숙으로 가는 하즈 여행"
+      },
+      {
+        "title": "5단계: 라미, 희생, 그리고 시",
+        "details": "<ul><li>이드 당일, Jamarat al-Aqabah 돌 던지기 의식을 행할 때 필요한 경우 희생 제물을 바치고, 첫 번째 타흘릴을 위해 머리카락을 깎거나 자르십시오.</li></ul>",
+        "evidence": "Quran 22:36-37과 정통 하디스의 순서.",
+        "referenceLabel": "순례부 지침"
+      },
+      {
+        "title": "6단계: Tawaf al-Ifadah (7라운드)",
+        "details": "<ul><li>메카로 돌아가 Tawaf al-Ifadah 수행하고, 일곱 바퀴를 완주하며, 혼잡한 시간대에는 안전하고 질서 있는 이동을 유지하십시오.</li><li class=\"pp-ios-only\"> 팁: Apple Watch 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li><li class=\"pp-android-only\"> 팁: 스마트워치의 Wear OS 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li></ul>",
+        "evidence": "Quran 과 의무적인 순례에 대한 기록된 설명들을 참조하십시오.",
+        "referenceLabel": "누숙으로 가는 하즈 여행"
+      },
+      {
+        "title": "7단계: 필요한 사람에게 알리세요",
+        "details": "<ul><li>Safa 와 Marwah 사이를 일곱 바퀴 도는 순서와 횟수를 준수하면서, 본인의 하지 유형에 따라 Saie 수행하십시오.</li><li class=\"pp-ios-only\"> 팁: Apple Watch 앱을 사용하여 Saie 달린 횟수를 세어보세요.</li><li class=\"pp-android-only\"> 팁: 스마트워치의 Wear OS 앱을 사용하여 Saie 달리기 횟수를 세어보세요.</li></ul>",
+        "evidence": "Quran 2장 158절과 하즈 순례 의식에서의 법학적 적용.",
+        "referenceLabel": "순례부 지침"
+      },
+      {
+        "title": "8단계: Ayyam at-Tashriq 및 Tawaf al-Wada&#39;",
+        "details": "<ul><li>타슈리크 기간 동안 Mina 에 머물면서 Jamarat 던지기 의식을 행하고, 메카를 떠나기 전에 Tawaf al-Wada&#39; 완료하는 것은 면제 대상자를 제외한 모든 사람에게 적용됩니다.</li><li class=\"pp-ios-only\"> 팁: Apple Watch 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li><li class=\"pp-android-only\"> 팁: 스마트워치의 Wear OS 앱을 사용하여 Tawaf 순례 횟수를 세어보세요.</li></ul>",
+        "evidence": "정해진 의식들은 Quran 가르침과 예언자 Sunnah 의 순나에 따른 올바른 실천에 기초하고 있습니다.",
+        "referenceLabel": "누숙으로 가는 하즈 여행"
+      }
+    ]
+  }
+}

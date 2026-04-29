@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Eerste stap: intentie en Ihram",
+        "details": "<ul><li>Ben van plan om Umrah uit te voeren, ga Ihram binnen in Miqat en begin Talbiyah.</li><li>Hij hield zich aan de verboden Ihram en voltooide de rituele reiniging voordat hij met het ritueel begon.</li></ul>",
+        "evidence": "Quran 2:196 en het jaar waarin de rituelen van Miqat begonnen.",
+        "referenceLabel": "Ministerie van Umrah en bezoekersgids"
+      },
+      {
+        "title": "Stap twee: Het betreden Al-Masjid Al-Haram",
+        "details": "<ul><li>Ga er in stilte heen, met gebed en nederigheid.</li><li>Begin aan de kant die het veiligst is om je door de menigte te bewegen en ga dan richting het Tawaf gebied.</li></ul>",
+        "evidence": "Algemene profetische richtlijnen voor etiquette in moskeeën en het faciliteren van de eredienst.",
+        "referenceLabel": "Centrum voor Ministeriële Bewustwording"
+      },
+      {
+        "title": "Stap drie: Tawaf (zeven rondgangen)",
+        "details": "<ul><li>Verricht Tawaf zeven keer rond Kaabah, beginnend bij de lijn van de Black Stone.</li><li>Blijf aan God denken en vermijd het om anderen schade toe te brengen in drukke menigten.</li><li class=\"pp-ios-only\"> Tip: Gebruik de Apple Watch app om je Tawaf -rondjes te tellen.</li><li class=\"pp-android-only\"> Tip: Gebruik de Wear OS app op je horloge om je Tawaf -rondjes te tellen.</li></ul>",
+        "evidence": "Quran 22:29 en de gedocumenteerde beschrijvingen van de omloop van de Profeet.",
+        "referenceLabel": "Richtlijnen voor een Umrah-reis in Nosuk"
+      },
+      {
+        "title": "Stap vier: Gebed na Tawaf",
+        "details": "<ul><li>Bid, indien mogelijk zonder de gemeente te hinderen, twee rak&#39;ahs na het voltooien van Tawaf, en ga vervolgens op een georganiseerde manier Zamzam water drinken.</li></ul>",
+        "evidence": "Een gevestigde praktijk in authentieke hadiths met betrekking tot het gebed na de Tawaf.",
+        "referenceLabel": "Ministerie van Umrah en bezoekersgids"
+      },
+      {
+        "title": "Stap vijf: Saie tussen Safa en Marwah",
+        "details": "<ul><li>Verricht Saie zeven ronden tussen Safa en Marwah, beginnend in Safa en eindigend in Marwah, met smeekbeden en gedenken.</li><li class=\"pp-ios-only\"> Tip: Gebruik de Apple Watch app om Saie hardlooprondjes te tellen.</li><li class=\"pp-android-only\"> Tip: Gebruik de Wear OS app op je horloge om Saie hardlooprondjes te tellen.</li></ul>",
+        "evidence": "Quran 2:158 en de authentieke overleveringen volgens de opdracht van de boodschapper.",
+        "referenceLabel": "Richtlijnen voor een Umrah-reis in Nosuk"
+      },
+      {
+        "title": "Stap zes: Knippen of scheren",
+        "details": "<ul><li>Mannen scheren of knippen hun haar, en vrouwen knippen een klein gedeelte bij.</li><li>En daarmee eindigt de Umrah en de Ihram.</li></ul>",
+        "evidence": "Quran 48:27 en de authentieke overleveringen met betrekking tot scheren en het inkorten van haar.",
+        "referenceLabel": "Ministerie van Umrah en bezoekersgids"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Eerste stap: Ihram en de intentie voor de Hajj.",
+        "details": "<ul><li>Betreed de ihram-kleding bij Miqat, bepaal je intentie voor het type Hajj dat je wilt verrichten en vervolg daarna Talbiyah.</li><li>Houd je aan de regels Ihram totdat je de uitgang Ihram bereikt.</li></ul>",
+        "evidence": "Quran 2:196 en de overeengekomen profetische rituelen voor de aanvang van de Hajj.",
+        "referenceLabel": "Richtlijnen van het Ministerie van Hadj"
+      },
+      {
+        "title": "Stap twee: Yawm at-Tarwiyah in Mina",
+        "details": "<ul><li>Ga op de achtste van Dhul Hijjah naar Mina, verricht de gebeden op de vastgestelde tijden en bereid je geestelijk en praktisch voor op de herdenking Arafah.</li></ul>",
+        "evidence": "Een gedocumenteerde reeks rituelen tijdens de afscheidsreis.",
+        "referenceLabel": "Hajj-reis naar Nosuk"
+      },
+      {
+        "title": "Stap drie: Staan in Arafah",
+        "details": "<ul><li>Breng de negende dag van Dhul Hijjah door in Arafah, biddend, God gedenkend en berouw tonend.</li><li>Dit is de essentiële pijler van de Hajj.</li></ul>",
+        "evidence": "Hadith: De Hajj is Arafah.",
+        "referenceLabel": "Richtlijnen van het Ministerie van Hadj"
+      },
+      {
+        "title": "Stap vier: Muzdalifah en het verzamelen van kiezelstenen",
+        "details": "<ul><li>Ga na zonsondergang naar Muzdalifah, bid Maghrib en Isha, breng de nacht daar door en verzamel kiezelstenen om naar Mina te gooien.</li></ul>",
+        "evidence": "De profetische volgorde na Arafah in authentieke overleveringen.",
+        "referenceLabel": "Hajj-reis naar Nosuk"
+      },
+      {
+        "title": "Stap vijf: Rami, offer en poëzie",
+        "details": "<ul><li>Op de dag van Eid, wanneer Jamarat al-Aqabah -steen wordt geworpen, verricht dan waar nodig het offer, en scheer of knip vervolgens je haar voor de eerste tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 en de volgorde van authentieke hadiths.",
+        "referenceLabel": "Richtlijnen van het Ministerie van Hadj"
+      },
+      {
+        "title": "Stap zes: Tawaf al-Ifadah (zeven ronden)",
+        "details": "<ul><li>Keer terug naar Mekka om Tawaf al-Ifadah te verrichten, de zeven rondgangen te voltooien en te zorgen voor een veilige en ordelijke doorstroming tijdens drukke perioden.</li><li class=\"pp-ios-only\"> Tip: Gebruik de Apple Watch app om je Tawaf -rondjes te tellen.</li><li class=\"pp-android-only\"> Tip: Gebruik de Wear OS app op je horloge om je Tawaf -rondjes te tellen.</li></ul>",
+        "evidence": "Quran 22:29 en de gedocumenteerde beschrijvingen van de verplichte omloop.",
+        "referenceLabel": "Hajj-reis naar Nosuk"
+      },
+      {
+        "title": "Stap 7: Vertel het aan de persoon die nodig is.",
+        "details": "<ul><li>Verricht Saie wanneer uw type Hajj dit vereist, met behoud van de volgorde en het aantal van zeven rondgangen tussen Safa en Marwah.</li><li class=\"pp-ios-only\"> Tip: Gebruik de Apple Watch app om Saie hardlooprondjes te tellen.</li><li class=\"pp-android-only\"> Tip: Gebruik de Wear OS app op je horloge om Saie hardlooprondjes te tellen.</li></ul>",
+        "evidence": "Quran 2:158 en de juridische toepassing ervan in de rituelen van de Hajj.",
+        "referenceLabel": "Richtlijnen van het Ministerie van Hadj"
+      },
+      {
+        "title": "Stap 8: Ayyam at-Tashriq en Tawaf al-Wada&#39;",
+        "details": "<ul><li>Het verblijf in Mina tijdens Tashreeq om de rituelen van het werpen Jamarat uit te voeren, en vervolgens Tawaf al-Wada&#39; te voltooien alvorens Mekka te verlaten, met uitzondering van degenen die hiervan zijn vrijgesteld.</li><li class=\"pp-ios-only\"> Tip: Gebruik de Apple Watch app om je Tawaf -rondjes te tellen.</li><li class=\"pp-android-only\"> Tip: Gebruik de Wear OS app op je horloge om je Tawaf -rondjes te tellen.</li></ul>",
+        "evidence": "De vastgestelde rituelen zijn gebaseerd op de richtlijnen Quran en de juiste toepassing van de profetische Sunnah.",
+        "referenceLabel": "Hajj-reis naar Nosuk"
+      }
+    ]
+  }
+}

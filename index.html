@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' capacitor://* http://localhost:* https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com; img-src 'self' data: blob: https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com; media-src 'self' capacitor://* http://localhost:* data: blob: https://download.quranicaudio.com https://verses.quran.com; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' capacitor://* http://localhost:* https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com https://download.quranicaudio.com https://verses.quran.com;">
+    <title>hYYa Prayer Pal</title>
+
+    <!-- Analytics removed - native app only -->
+    <meta
+      name="description"
+      content="Your cute companion for spiritual moments, prayer reminders, and a blessed life."
+    />
+    <meta name="author" content="hYYa Prayer Pal" />
+    <meta name="theme-color" content="#1a1a2e" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="apple-mobile-web-app-title" content="hYYa Prayer Pal" />
+
+    <!-- Social meta tags removed - native app only -->
+
+    <!-- App Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Arabic fonts: Cairo for premium UI readability + Amiri Quran fallback -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet" />
+
+    <style>
+      /* Safe area support */
+      .pt-safe {
+        padding-top: var(--safe-area-inset-top, env(safe-area-inset-top, 0px));
+      }
+      .pb-safe {
+        padding-bottom: var(
+          --safe-area-inset-bottom,
+          env(safe-area-inset-bottom, 0px)
+        );
+      }
+      .safe-area-pb {
+        padding-bottom: max(
+          1.5rem,
+          var(--safe-area-inset-bottom, env(safe-area-inset-bottom, 0px))
+        );
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

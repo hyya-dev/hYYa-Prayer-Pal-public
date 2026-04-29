@@ -1,0 +1,1464 @@
+{
+  "version": "3.0",
+  "totalCities": 1944332,
+  "countries": [
+    {
+      "name": "Andorra",
+      "file": "cities/Andorra.json",
+      "count": 32,
+      "size": 962
+    },
+    {
+      "name": "United Arab Emirates",
+      "file": "cities/United_Arab_Emirates.json",
+      "count": 84,
+      "size": 3119
+    },
+    {
+      "name": "Afghanistan",
+      "file": "cities/Afghanistan.json",
+      "count": 3165,
+      "size": 163245
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "file": "cities/Antigua_and_Barbuda.json",
+      "count": 67,
+      "size": 2141
+    },
+    {
+      "name": "Anguilla",
+      "file": "cities/Anguilla.json",
+      "count": 6,
+      "size": 243
+    },
+    {
+      "name": "Albania",
+      "file": "cities/Albania.json",
+      "count": 586,
+      "size": 18804
+    },
+    {
+      "name": "Armenia",
+      "file": "cities/Armenia.json",
+      "count": 1163,
+      "size": 57611
+    },
+    {
+      "name": "Angola",
+      "file": "cities/Angola.json",
+      "count": 975,
+      "size": 28698
+    },
+    {
+      "name": "Argentina",
+      "file": "cities/Argentina.json",
+      "count": 1643,
+      "size": 58660
+    },
+    {
+      "name": "Austria",
+      "file": "cities/Austria.json",
+      "count": 3340,
+      "size": 108305
+    },
+    {
+      "name": "Australia",
+      "file": "cities/Australia.json",
+      "count": 6114,
+      "size": 188663
+    },
+    {
+      "name": "Aruba",
+      "file": "cities/Aruba.json",
+      "count": 16,
+      "size": 514
+    },
+    {
+      "name": "Azerbaijan",
+      "file": "cities/Azerbaijan.json",
+      "count": 514,
+      "size": 16724
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "file": "cities/Bosnia_and_Herzegovina.json",
+      "count": 2190,
+      "size": 80997
+    },
+    {
+      "name": "Barbados",
+      "file": "cities/Barbados.json",
+      "count": 418,
+      "size": 13013
+    },
+    {
+      "name": "Bangladesh",
+      "file": "cities/Bangladesh.json",
+      "count": 46132,
+      "size": 1438720
+    },
+    {
+      "name": "Belgium",
+      "file": "cities/Belgium.json",
+      "count": 8071,
+      "size": 230936
+    },
+    {
+      "name": "Burkina Faso",
+      "file": "cities/Burkina_Faso.json",
+      "count": 1464,
+      "size": 39935
+    },
+    {
+      "name": "Bulgaria",
+      "file": "cities/Bulgaria.json",
+      "count": 3009,
+      "size": 144626
+    },
+    {
+      "name": "Bahrain",
+      "file": "cities/Bahrain.json",
+      "count": 95,
+      "size": 5162
+    },
+    {
+      "name": "Burundi",
+      "file": "cities/Burundi.json",
+      "count": 6050,
+      "size": 169129
+    },
+    {
+      "name": "Benin",
+      "file": "cities/Benin.json",
+      "count": 807,
+      "size": 22375
+    },
+    {
+      "name": "Saint Barthelemy",
+      "file": "cities/Saint_Barthelemy.json",
+      "count": 27,
+      "size": 970
+    },
+    {
+      "name": "Bermuda",
+      "file": "cities/Bermuda.json",
+      "count": 19,
+      "size": 652
+    },
+    {
+      "name": "Brunei",
+      "file": "cities/Brunei.json",
+      "count": 135,
+      "size": 7067
+    },
+    {
+      "name": "Bolivia",
+      "file": "cities/Bolivia.json",
+      "count": 518,
+      "size": 17949
+    },
+    {
+      "name": "Bonaire, Sint Eustatius, and Saba",
+      "file": "cities/Bonaire__Sint_Eustatius__and_Saba.json",
+      "count": 45,
+      "size": 1473
+    },
+    {
+      "name": "Brazil",
+      "file": "cities/Brazil.json",
+      "count": 9265,
+      "size": 324347
+    },
+    {
+      "name": "Bahamas, The",
+      "file": "cities/Bahamas__The.json",
+      "count": 51,
+      "size": 1721
+    },
+    {
+      "name": "Bhutan",
+      "file": "cities/Bhutan.json",
+      "count": 44,
+      "size": 1873
+    },
+    {
+      "name": "Botswana",
+      "file": "cities/Botswana.json",
+      "count": 185,
+      "size": 5499
+    },
+    {
+      "name": "Belarus",
+      "file": "cities/Belarus.json",
+      "count": 315,
+      "size": 14685
+    },
+    {
+      "name": "Belize",
+      "file": "cities/Belize.json",
+      "count": 27,
+      "size": 903
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "file": "cities/Cocos__Keeling__Islands.json",
+      "count": 1,
+      "size": 84
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "file": "cities/Congo__Kinshasa_.json",
+      "count": 1898,
+      "size": 52829
+    },
+    {
+      "name": "Central African Republic",
+      "file": "cities/Central_African_Republic.json",
+      "count": 201,
+      "size": 5423
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "file": "cities/Congo__Brazzaville_.json",
+      "count": 142,
+      "size": 4191
+    },
+    {
+      "name": "Switzerland",
+      "file": "cities/Switzerland.json",
+      "count": 10828,
+      "size": 312057
+    },
+    {
+      "name": "Côte d’Ivoire",
+      "file": "cities/C_te_d_Ivoire.json",
+      "count": 1288,
+      "size": 36886
+    },
+    {
+      "name": "Cook Islands",
+      "file": "cities/Cook_Islands.json",
+      "count": 10,
+      "size": 346
+    },
+    {
+      "name": "Chile",
+      "file": "cities/Chile.json",
+      "count": 805,
+      "size": 26519
+    },
+    {
+      "name": "Cameroon",
+      "file": "cities/Cameroon.json",
+      "count": 2876,
+      "size": 79233
+    },
+    {
+      "name": "China",
+      "file": "cities/China.json",
+      "count": 374216,
+      "size": 15969606
+    },
+    {
+      "name": "Colombia",
+      "file": "cities/Colombia.json",
+      "count": 4992,
+      "size": 152970
+    },
+    {
+      "name": "Costa Rica",
+      "file": "cities/Costa_Rica.json",
+      "count": 832,
+      "size": 26157
+    },
+    {
+      "name": "Cuba",
+      "file": "cities/Cuba.json",
+      "count": 1895,
+      "size": 60502
+    },
+    {
+      "name": "Cabo Verde",
+      "file": "cities/Cabo_Verde.json",
+      "count": 116,
+      "size": 4372
+    },
+    {
+      "name": "Curaçao",
+      "file": "cities/Cura_ao.json",
+      "count": 42,
+      "size": 1297
+    },
+    {
+      "name": "Christmas Island",
+      "file": "cities/Christmas_Island.json",
+      "count": 3,
+      "size": 147
+    },
+    {
+      "name": "Cyprus",
+      "file": "cities/Cyprus.json",
+      "count": 78,
+      "size": 3745
+    },
+    {
+      "name": "Czechia",
+      "file": "cities/Czechia.json",
+      "count": 7660,
+      "size": 235432
+    },
+    {
+      "name": "Germany",
+      "file": "cities/Germany.json",
+      "count": 27862,
+      "size": 829027
+    },
+    {
+      "name": "Djibouti",
+      "file": "cities/Djibouti.json",
+      "count": 14,
+      "size": 537
+    },
+    {
+      "name": "Denmark",
+      "file": "cities/Denmark.json",
+      "count": 963,
+      "size": 27950
+    },
+    {
+      "name": "Dominica",
+      "file": "cities/Dominica.json",
+      "count": 22,
+      "size": 737
+    },
+    {
+      "name": "Dominican Republic",
+      "file": "cities/Dominican_Republic.json",
+      "count": 2280,
+      "size": 74420
+    },
+    {
+      "name": "Algeria",
+      "file": "cities/Algeria.json",
+      "count": 3615,
+      "size": 132292
+    },
+    {
+      "name": "Ecuador",
+      "file": "cities/Ecuador.json",
+      "count": 1929,
+      "size": 64477
+    },
+    {
+      "name": "Estonia",
+      "file": "cities/Estonia.json",
+      "count": 240,
+      "size": 6900
+    },
+    {
+      "name": "Egypt",
+      "file": "cities/Egypt.json",
+      "count": 10839,
+      "size": 645890
+    },
+    {
+      "name": "Eritrea",
+      "file": "cities/Eritrea.json",
+      "count": 163,
+      "size": 5297
+    },
+    {
+      "name": "Spain",
+      "file": "cities/Spain.json",
+      "count": 9891,
+      "size": 322126
+    },
+    {
+      "name": "Ethiopia",
+      "file": "cities/Ethiopia.json",
+      "count": 3078,
+      "size": 82970
+    },
+    {
+      "name": "Finland",
+      "file": "cities/Finland.json",
+      "count": 988,
+      "size": 29396
+    },
+    {
+      "name": "Fiji",
+      "file": "cities/Fiji.json",
+      "count": 215,
+      "size": 7174
+    },
+    {
+      "name": "Falkland Islands (Islas Malvinas)",
+      "file": "cities/Falkland_Islands__Islas_Malvinas_.json",
+      "count": 1,
+      "size": 83
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "file": "cities/Micronesia__Federated_States_of.json",
+      "count": 109,
+      "size": 2978
+    },
+    {
+      "name": "Faroe Islands",
+      "file": "cities/Faroe_Islands.json",
+      "count": 39,
+      "size": 1264
+    },
+    {
+      "name": "France",
+      "file": "cities/France.json",
+      "count": 37906,
+      "size": 1234680
+    },
+    {
+      "name": "Gabon",
+      "file": "cities/Gabon.json",
+      "count": 73,
+      "size": 2038
+    },
+    {
+      "name": "United Kingdom",
+      "file": "cities/United_Kingdom.json",
+      "count": 11977,
+      "size": 346017
+    },
+    {
+      "name": "Grenada",
+      "file": "cities/Grenada.json",
+      "count": 224,
+      "size": 7044
+    },
+    {
+      "name": "Georgia",
+      "file": "cities/Georgia.json",
+      "count": 228,
+      "size": 12461
+    },
+    {
+      "name": "French Guiana",
+      "file": "cities/French_Guiana.json",
+      "count": 78,
+      "size": 2506
+    },
+    {
+      "name": "Guernsey",
+      "file": "cities/Guernsey.json",
+      "count": 219,
+      "size": 6941
+    },
+    {
+      "name": "Ghana",
+      "file": "cities/Ghana.json",
+      "count": 5108,
+      "size": 138282
+    },
+    {
+      "name": "Gibraltar",
+      "file": "cities/Gibraltar.json",
+      "count": 3,
+      "size": 118
+    },
+    {
+      "name": "Greenland",
+      "file": "cities/Greenland.json",
+      "count": 36,
+      "size": 1163
+    },
+    {
+      "name": "Gambia, The",
+      "file": "cities/Gambia__The.json",
+      "count": 213,
+      "size": 6572
+    },
+    {
+      "name": "Guinea",
+      "file": "cities/Guinea.json",
+      "count": 406,
+      "size": 11404
+    },
+    {
+      "name": "Guadeloupe",
+      "file": "cities/Guadeloupe.json",
+      "count": 718,
+      "size": 22476
+    },
+    {
+      "name": "Equatorial Guinea",
+      "file": "cities/Equatorial_Guinea.json",
+      "count": 55,
+      "size": 1756
+    },
+    {
+      "name": "Greece",
+      "file": "cities/Greece.json",
+      "count": 2251,
+      "size": 110624
+    },
+    {
+      "name": "South Georgia And South Sandwich Islands",
+      "file": "cities/South_Georgia_And_South_Sandwich_Islands.json",
+      "count": 1,
+      "size": 102
+    },
+    {
+      "name": "Guatemala",
+      "file": "cities/Guatemala.json",
+      "count": 7206,
+      "size": 237608
+    },
+    {
+      "name": "Guinea-Bissau",
+      "file": "cities/Guinea_Bissau.json",
+      "count": 155,
+      "size": 4639
+    },
+    {
+      "name": "Guyana",
+      "file": "cities/Guyana.json",
+      "count": 98,
+      "size": 3060
+    },
+    {
+      "name": "Hong Kong",
+      "file": "cities/Hong_Kong.json",
+      "count": 871,
+      "size": 37968
+    },
+    {
+      "name": "Honduras",
+      "file": "cities/Honduras.json",
+      "count": 1662,
+      "size": 51832
+    },
+    {
+      "name": "Croatia",
+      "file": "cities/Croatia.json",
+      "count": 1184,
+      "size": 35575
+    },
+    {
+      "name": "Haiti",
+      "file": "cities/Haiti.json",
+      "count": 7614,
+      "size": 226623
+    },
+    {
+      "name": "Hungary",
+      "file": "cities/Hungary.json",
+      "count": 3781,
+      "size": 114863
+    },
+    {
+      "name": "Indonesia",
+      "file": "cities/Indonesia.json",
+      "count": 179608,
+      "size": 5550190
+    },
+    {
+      "name": "Ireland",
+      "file": "cities/Ireland.json",
+      "count": 915,
+      "size": 32289
+    },
+    {
+      "name": "Israel",
+      "file": "cities/Israel.json",
+      "count": 838,
+      "size": 38883
+    },
+    {
+      "name": "Isle of Man",
+      "file": "cities/Isle_of_Man.json",
+      "count": 10,
+      "size": 378
+    },
+    {
+      "name": "India",
+      "file": "cities/India.json",
+      "count": 429473,
+      "size": 13207069
+    },
+    {
+      "name": "Iraq",
+      "file": "cities/Iraq.json",
+      "count": 8816,
+      "size": 489095
+    },
+    {
+      "name": "Iran",
+      "file": "cities/Iran.json",
+      "count": 25904,
+      "size": 1393496
+    },
+    {
+      "name": "Iceland",
+      "file": "cities/Iceland.json",
+      "count": 63,
+      "size": 2139
+    },
+    {
+      "name": "Italy",
+      "file": "cities/Italy.json",
+      "count": 9988,
+      "size": 317969
+    },
+    {
+      "name": "Jersey",
+      "file": "cities/Jersey.json",
+      "count": 32,
+      "size": 1046
+    },
+    {
+      "name": "Jamaica",
+      "file": "cities/Jamaica.json",
+      "count": 864,
+      "size": 26702
+    },
+    {
+      "name": "Jordan",
+      "file": "cities/Jordan.json",
+      "count": 714,
+      "size": 36402
+    },
+    {
+      "name": "Japan",
+      "file": "cities/Japan.json",
+      "count": 25302,
+      "size": 1129139
+    },
+    {
+      "name": "Kenya",
+      "file": "cities/Kenya.json",
+      "count": 4337,
+      "size": 120209
+    },
+    {
+      "name": "Kyrgyzstan",
+      "file": "cities/Kyrgyzstan.json",
+      "count": 387,
+      "size": 20034
+    },
+    {
+      "name": "Cambodia",
+      "file": "cities/Cambodia.json",
+      "count": 4238,
+      "size": 191376
+    },
+    {
+      "name": "Kiribati",
+      "file": "cities/Kiribati.json",
+      "count": 89,
+      "size": 2539
+    },
+    {
+      "name": "Comoros",
+      "file": "cities/Comoros.json",
+      "count": 284,
+      "size": 9018
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "file": "cities/Saint_Kitts_and_Nevis.json",
+      "count": 67,
+      "size": 2138
+    },
+    {
+      "name": "Korea, North",
+      "file": "cities/Korea__North.json",
+      "count": 14182,
+      "size": 570767
+    },
+    {
+      "name": "Korea, South",
+      "file": "cities/Korea__South.json",
+      "count": 16359,
+      "size": 650468
+    },
+    {
+      "name": "Kuwait",
+      "file": "cities/Kuwait.json",
+      "count": 17,
+      "size": 1031
+    },
+    {
+      "name": "Cayman Islands",
+      "file": "cities/Cayman_Islands.json",
+      "count": 33,
+      "size": 1079
+    },
+    {
+      "name": "Kazakhstan",
+      "file": "cities/Kazakhstan.json",
+      "count": 513,
+      "size": 23821
+    },
+    {
+      "name": "Laos",
+      "file": "cities/Laos.json",
+      "count": 1524,
+      "size": 51893
+    },
+    {
+      "name": "Lebanon",
+      "file": "cities/Lebanon.json",
+      "count": 2323,
+      "size": 105447
+    },
+    {
+      "name": "Saint Lucia",
+      "file": "cities/Saint_Lucia.json",
+      "count": 187,
+      "size": 5840
+    },
+    {
+      "name": "Liechtenstein",
+      "file": "cities/Liechtenstein.json",
+      "count": 34,
+      "size": 973
+    },
+    {
+      "name": "Sri Lanka",
+      "file": "cities/Sri_Lanka.json",
+      "count": 12987,
+      "size": 399890
+    },
+    {
+      "name": "Liberia",
+      "file": "cities/Liberia.json",
+      "count": 218,
+      "size": 6222
+    },
+    {
+      "name": "Lesotho",
+      "file": "cities/Lesotho.json",
+      "count": 50,
+      "size": 1533
+    },
+    {
+      "name": "Lithuania",
+      "file": "cities/Lithuania.json",
+      "count": 918,
+      "size": 30093
+    },
+    {
+      "name": "Luxembourg",
+      "file": "cities/Luxembourg.json",
+      "count": 223,
+      "size": 7052
+    },
+    {
+      "name": "Latvia",
+      "file": "cities/Latvia.json",
+      "count": 313,
+      "size": 9031
+    },
+    {
+      "name": "Libya",
+      "file": "cities/Libya.json",
+      "count": 154,
+      "size": 6608
+    },
+    {
+      "name": "Morocco",
+      "file": "cities/Morocco.json",
+      "count": 4612,
+      "size": 168092
+    },
+    {
+      "name": "Monaco",
+      "file": "cities/Monaco.json",
+      "count": 1,
+      "size": 57
+    },
+    {
+      "name": "Moldova",
+      "file": "cities/Moldova.json",
+      "count": 586,
+      "size": 26868
+    },
+    {
+      "name": "Montenegro",
+      "file": "cities/Montenegro.json",
+      "count": 539,
+      "size": 16075
+    },
+    {
+      "name": "Saint Martin",
+      "file": "cities/Saint_Martin.json",
+      "count": 61,
+      "size": 2120
+    },
+    {
+      "name": "Madagascar",
+      "file": "cities/Madagascar.json",
+      "count": 1714,
+      "size": 57719
+    },
+    {
+      "name": "Marshall Islands",
+      "file": "cities/Marshall_Islands.json",
+      "count": 2,
+      "size": 94
+    },
+    {
+      "name": "North Macedonia",
+      "file": "cities/North_Macedonia.json",
+      "count": 1207,
+      "size": 58040
+    },
+    {
+      "name": "Mali",
+      "file": "cities/Mali.json",
+      "count": 1037,
+      "size": 30444
+    },
+    {
+      "name": "Burma",
+      "file": "cities/Burma.json",
+      "count": 6376,
+      "size": 202876
+    },
+    {
+      "name": "Mongolia",
+      "file": "cities/Mongolia.json",
+      "count": 367,
+      "size": 13678
+    },
+    {
+      "name": "Macau",
+      "file": "cities/Macau.json",
+      "count": 7,
+      "size": 310
+    },
+    {
+      "name": "Martinique",
+      "file": "cities/Martinique.json",
+      "count": 807,
+      "size": 26181
+    },
+    {
+      "name": "Mauritania",
+      "file": "cities/Mauritania.json",
+      "count": 77,
+      "size": 2885
+    },
+    {
+      "name": "Montserrat",
+      "file": "cities/Montserrat.json",
+      "count": 15,
+      "size": 498
+    },
+    {
+      "name": "Malta",
+      "file": "cities/Malta.json",
+      "count": 171,
+      "size": 5556
+    },
+    {
+      "name": "Mauritius",
+      "file": "cities/Mauritius.json",
+      "count": 397,
+      "size": 13109
+    },
+    {
+      "name": "Maldives",
+      "file": "cities/Maldives.json",
+      "count": 26,
+      "size": 1039
+    },
+    {
+      "name": "Malawi",
+      "file": "cities/Malawi.json",
+      "count": 3838,
+      "size": 111531
+    },
+    {
+      "name": "Mexico",
+      "file": "cities/Mexico.json",
+      "count": 13311,
+      "size": 485835
+    },
+    {
+      "name": "Malaysia",
+      "file": "cities/Malaysia.json",
+      "count": 7173,
+      "size": 268669
+    },
+    {
+      "name": "Mozambique",
+      "file": "cities/Mozambique.json",
+      "count": 947,
+      "size": 28576
+    },
+    {
+      "name": "Namibia",
+      "file": "cities/Namibia.json",
+      "count": 95,
+      "size": 2753
+    },
+    {
+      "name": "New Caledonia",
+      "file": "cities/New_Caledonia.json",
+      "count": 8,
+      "size": 279
+    },
+    {
+      "name": "Niger",
+      "file": "cities/Niger.json",
+      "count": 990,
+      "size": 29530
+    },
+    {
+      "name": "Norfolk Island",
+      "file": "cities/Norfolk_Island.json",
+      "count": 1,
+      "size": 70
+    },
+    {
+      "name": "Nigeria",
+      "file": "cities/Nigeria.json",
+      "count": 27698,
+      "size": 730567
+    },
+    {
+      "name": "Nicaragua",
+      "file": "cities/Nicaragua.json",
+      "count": 472,
+      "size": 15515
+    },
+    {
+      "name": "Netherlands",
+      "file": "cities/Netherlands.json",
+      "count": 4785,
+      "size": 137272
+    },
+    {
+      "name": "Norway",
+      "file": "cities/Norway.json",
+      "count": 2168,
+      "size": 62723
+    },
+    {
+      "name": "Nepal",
+      "file": "cities/Nepal.json",
+      "count": 20204,
+      "size": 677667
+    },
+    {
+      "name": "Nauru",
+      "file": "cities/Nauru.json",
+      "count": 7,
+      "size": 241
+    },
+    {
+      "name": "Niue",
+      "file": "cities/Niue.json",
+      "count": 1,
+      "size": 56
+    },
+    {
+      "name": "New Zealand",
+      "file": "cities/New_Zealand.json",
+      "count": 1433,
+      "size": 44937
+    },
+    {
+      "name": "Oman",
+      "file": "cities/Oman.json",
+      "count": 247,
+      "size": 12240
+    },
+    {
+      "name": "Panama",
+      "file": "cities/Panama.json",
+      "count": 885,
+      "size": 28340
+    },
+    {
+      "name": "Peru",
+      "file": "cities/Peru.json",
+      "count": 2581,
+      "size": 85001
+    },
+    {
+      "name": "French Polynesia",
+      "file": "cities/French_Polynesia.json",
+      "count": 59,
+      "size": 1800
+    },
+    {
+      "name": "Papua New Guinea",
+      "file": "cities/Papua_New_Guinea.json",
+      "count": 658,
+      "size": 18835
+    },
+    {
+      "name": "Philippines",
+      "file": "cities/Philippines.json",
+      "count": 29240,
+      "size": 859133
+    },
+    {
+      "name": "Pakistan",
+      "file": "cities/Pakistan.json",
+      "count": 99679,
+      "size": 3370063
+    },
+    {
+      "name": "Poland",
+      "file": "cities/Poland.json",
+      "count": 28070,
+      "size": 877247
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "file": "cities/Saint_Pierre_and_Miquelon.json",
+      "count": 1,
+      "size": 84
+    },
+    {
+      "name": "Pitcairn Islands",
+      "file": "cities/Pitcairn_Islands.json",
+      "count": 1,
+      "size": 74
+    },
+    {
+      "name": "Portugal",
+      "file": "cities/Portugal.json",
+      "count": 6451,
+      "size": 199407
+    },
+    {
+      "name": "Palau",
+      "file": "cities/Palau.json",
+      "count": 9,
+      "size": 287
+    },
+    {
+      "name": "Paraguay",
+      "file": "cities/Paraguay.json",
+      "count": 362,
+      "size": 13825
+    },
+    {
+      "name": "Qatar",
+      "file": "cities/Qatar.json",
+      "count": 82,
+      "size": 4811
+    },
+    {
+      "name": "Akrotiri",
+      "file": "cities/Akrotiri.json",
+      "count": 3,
+      "size": 154
+    },
+    {
+      "name": "Reunion",
+      "file": "cities/Reunion.json",
+      "count": 536,
+      "size": 18958
+    },
+    {
+      "name": "Romania",
+      "file": "cities/Romania.json",
+      "count": 1049,
+      "size": 34907
+    },
+    {
+      "name": "Serbia",
+      "file": "cities/Serbia.json",
+      "count": 1062,
+      "size": 44675
+    },
+    {
+      "name": "Russia",
+      "file": "cities/Russia.json",
+      "count": 11817,
+      "size": 587257
+    },
+    {
+      "name": "Rwanda",
+      "file": "cities/Rwanda.json",
+      "count": 9361,
+      "size": 263273
+    },
+    {
+      "name": "Saudi Arabia",
+      "file": "cities/Saudi_Arabia.json",
+      "count": 492,
+      "size": 20380
+    },
+    {
+      "name": "Solomon Islands",
+      "file": "cities/Solomon_Islands.json",
+      "count": 232,
+      "size": 6788
+    },
+    {
+      "name": "Seychelles",
+      "file": "cities/Seychelles.json",
+      "count": 13,
+      "size": 433
+    },
+    {
+      "name": "Sudan",
+      "file": "cities/Sudan.json",
+      "count": 919,
+      "size": 29955
+    },
+    {
+      "name": "Sweden",
+      "file": "cities/Sweden.json",
+      "count": 1758,
+      "size": 50327
+    },
+    {
+      "name": "Singapore",
+      "file": "cities/Singapore.json",
+      "count": 113,
+      "size": 4273
+    },
+    {
+      "name": "Saint Helena, Ascension, and Tristan da Cunha",
+      "file": "cities/Saint_Helena__Ascension__and_Tristan_da_Cunha.json",
+      "count": 4,
+      "size": 219
+    },
+    {
+      "name": "Slovenia",
+      "file": "cities/Slovenia.json",
+      "count": 572,
+      "size": 18461
+    },
+    {
+      "name": "Slovakia",
+      "file": "cities/Slovakia.json",
+      "count": 3097,
+      "size": 96720
+    },
+    {
+      "name": "Sierra Leone",
+      "file": "cities/Sierra_Leone.json",
+      "count": 679,
+      "size": 18996
+    },
+    {
+      "name": "San Marino",
+      "file": "cities/San_Marino.json",
+      "count": 10,
+      "size": 356
+    },
+    {
+      "name": "Senegal",
+      "file": "cities/Senegal.json",
+      "count": 1922,
+      "size": 58311
+    },
+    {
+      "name": "Somalia",
+      "file": "cities/Somalia.json",
+      "count": 266,
+      "size": 8261
+    },
+    {
+      "name": "Suriname",
+      "file": "cities/Suriname.json",
+      "count": 22,
+      "size": 717
+    },
+    {
+      "name": "South Sudan",
+      "file": "cities/South_Sudan.json",
+      "count": 177,
+      "size": 4814
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "file": "cities/Sao_Tome_and_Principe.json",
+      "count": 179,
+      "size": 5221
+    },
+    {
+      "name": "El Salvador",
+      "file": "cities/El_Salvador.json",
+      "count": 1736,
+      "size": 56393
+    },
+    {
+      "name": "Sint Maarten",
+      "file": "cities/Sint_Maarten.json",
+      "count": 56,
+      "size": 1881
+    },
+    {
+      "name": "Syria",
+      "file": "cities/Syria.json",
+      "count": 4904,
+      "size": 253643
+    },
+    {
+      "name": "Eswatini",
+      "file": "cities/Eswatini.json",
+      "count": 22,
+      "size": 661
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "file": "cities/Turks_and_Caicos_Islands.json",
+      "count": 9,
+      "size": 355
+    },
+    {
+      "name": "Chad",
+      "file": "cities/Chad.json",
+      "count": 257,
+      "size": 7685
+    },
+    {
+      "name": "Togo",
+      "file": "cities/Togo.json",
+      "count": 972,
+      "size": 25794
+    },
+    {
+      "name": "Thailand",
+      "file": "cities/Thailand.json",
+      "count": 16348,
+      "size": 1145434
+    },
+    {
+      "name": "Tajikistan",
+      "file": "cities/Tajikistan.json",
+      "count": 763,
+      "size": 29154
+    },
+    {
+      "name": "Timor-Leste",
+      "file": "cities/Timor_Leste.json",
+      "count": 550,
+      "size": 16048
+    },
+    {
+      "name": "Turkmenistan",
+      "file": "cities/Turkmenistan.json",
+      "count": 84,
+      "size": 2809
+    },
+    {
+      "name": "Tunisia",
+      "file": "cities/Tunisia.json",
+      "count": 517,
+      "size": 19505
+    },
+    {
+      "name": "Tonga",
+      "file": "cities/Tonga.json",
+      "count": 68,
+      "size": 2255
+    },
+    {
+      "name": "Turkey",
+      "file": "cities/Turkey.json",
+      "count": 7153,
+      "size": 213187
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "file": "cities/Trinidad_and_Tobago.json",
+      "count": 290,
+      "size": 9058
+    },
+    {
+      "name": "Tuvalu",
+      "file": "cities/Tuvalu.json",
+      "count": 6,
+      "size": 196
+    },
+    {
+      "name": "Taiwan",
+      "file": "cities/Taiwan.json",
+      "count": 10046,
+      "size": 402755
+    },
+    {
+      "name": "Tanzania",
+      "file": "cities/Tanzania.json",
+      "count": 2254,
+      "size": 60793
+    },
+    {
+      "name": "Ukraine",
+      "file": "cities/Ukraine.json",
+      "count": 1941,
+      "size": 92852
+    },
+    {
+      "name": "Uganda",
+      "file": "cities/Uganda.json",
+      "count": 7690,
+      "size": 206494
+    },
+    {
+      "name": "Uruguay",
+      "file": "cities/Uruguay.json",
+      "count": 267,
+      "size": 9475
+    },
+    {
+      "name": "Uzbekistan",
+      "file": "cities/Uzbekistan.json",
+      "count": 3858,
+      "size": 126977
+    },
+    {
+      "name": "Vatican City",
+      "file": "cities/Vatican_City.json",
+      "count": 1,
+      "size": 87
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "file": "cities/Saint_Vincent_and_the_Grenadines.json",
+      "count": 45,
+      "size": 1423
+    },
+    {
+      "name": "Venezuela",
+      "file": "cities/Venezuela.json",
+      "count": 4401,
+      "size": 138979
+    },
+    {
+      "name": "Virgin Islands, British",
+      "file": "cities/Virgin_Islands__British.json",
+      "count": 97,
+      "size": 3171
+    },
+    {
+      "name": "Vietnam",
+      "file": "cities/Vietnam.json",
+      "count": 18928,
+      "size": 619578
+    },
+    {
+      "name": "Vanuatu",
+      "file": "cities/Vanuatu.json",
+      "count": 139,
+      "size": 4203
+    },
+    {
+      "name": "Wallis and Futuna",
+      "file": "cities/Wallis_and_Futuna.json",
+      "count": 2,
+      "size": 114
+    },
+    {
+      "name": "Samoa",
+      "file": "cities/Samoa.json",
+      "count": 143,
+      "size": 4484
+    },
+    {
+      "name": "Gaza Strip",
+      "file": "cities/Gaza_Strip.json",
+      "count": 38,
+      "size": 2050
+    },
+    {
+      "name": "Kosovo",
+      "file": "cities/Kosovo.json",
+      "count": 1031,
+      "size": 43911
+    },
+    {
+      "name": "Svalbard",
+      "file": "cities/Svalbard.json",
+      "count": 1,
+      "size": 66
+    },
+    {
+      "name": "West Bank",
+      "file": "cities/West_Bank.json",
+      "count": 901,
+      "size": 41651
+    },
+    {
+      "name": "Yemen",
+      "file": "cities/Yemen.json",
+      "count": 49999,
+      "size": 2427307
+    },
+    {
+      "name": "Mayotte",
+      "file": "cities/Mayotte.json",
+      "count": 116,
+      "size": 3788
+    },
+    {
+      "name": "South Africa",
+      "file": "cities/South_Africa.json",
+      "count": 3754,
+      "size": 116205
+    },
+    {
+      "name": "Zambia",
+      "file": "cities/Zambia.json",
+      "count": 203,
+      "size": 5763
+    },
+    {
+      "name": "Zimbabwe",
+      "file": "cities/Zimbabwe.json",
+      "count": 157,
+      "size": 4775
+    },
+    {
+      "name": "American Samoa",
+      "file": "cities/American_Samoa.json",
+      "count": 44,
+      "size": 1389
+    },
+    {
+      "name": "Guam",
+      "file": "cities/Guam.json",
+      "count": 49,
+      "size": 1523
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "file": "cities/Northern_Mariana_Islands.json",
+      "count": 77,
+      "size": 2450
+    },
+    {
+      "name": "Puerto Rico",
+      "file": "cities/Puerto_Rico.json",
+      "count": 280,
+      "size": 8906
+    },
+    {
+      "name": "United States",
+      "file": "cities/United_States.json",
+      "count": 107938,
+      "size": 3357250
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "file": "cities/U_S__Virgin_Islands.json",
+      "count": 4,
+      "size": 176
+    },
+    {
+      "name": "Canada",
+      "file": "cities/Canada.json",
+      "count": 1718,
+      "size": 52955
+    }
+  ]
+}

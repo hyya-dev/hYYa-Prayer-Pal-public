@@ -1,0 +1,129 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "99:1",
+      "verse_number": 1,
+      "text_uthmani": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "When the earth is shaken with its [final] earthquake",
+        "fr": "Quand la terre tremblera d'un violent tremblement",
+        "tr": "Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: \"Buna ne oluyor?\" dediği zaman",
+        "ur": "جب زمین اپنی پوری شدت کے ساتھ ہلا ڈالی جائے گی",
+        "id": "Apabila bumi diguncangkan dengan guncangan yang dahsyat"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "99:2",
+      "verse_number": 2,
+      "text_uthmani": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "And the earth discharges its burdens",
+        "fr": "et que la terre fera sortir ses fardeaux",
+        "tr": "Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: \"Buna ne oluyor?\" dediği zaman",
+        "ur": "اور زمین اپنے اندر کے سارے بوجھ نکال کر باہر ڈال دے گی",
+        "id": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "99:3",
+      "verse_number": 3,
+      "text_uthmani": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "And man says, \"What is [wrong] with it",
+        "fr": "et que l'homme dira: «Qu'a-t-elle?»",
+        "tr": "Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: \"Buna ne oluyor?\" dediği zaman",
+        "ur": "اور انسان کہے گا کہ یہ اِس کو کیا ہو رہا ہے",
+        "id": "dan manusia bertanya, \"Apa yang terjadi pada bumi ini"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "99:4",
+      "verse_number": 4,
+      "text_uthmani": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "That Day, it will report its news",
+        "fr": "ce jour-là, elle contera son histoire",
+        "tr": "İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır",
+        "ur": "اُس روز وہ اپنے (اوپر گزرے ہوئے) حالات بیان کرے گی",
+        "id": "Pada hari itu bumi menyampaikan beritanya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "99:5",
+      "verse_number": 5,
+      "text_uthmani": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "Because your Lord has commanded it",
+        "fr": "selon ce que ton Seigneur lui aura révélé [ordonné]",
+        "tr": "İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır",
+        "ur": "کیونکہ تیرے رب نے اُسے (ایساکرنے کا) حکم دیا ہوگا",
+        "id": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "99:6",
+      "verse_number": 6,
+      "text_uthmani": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds",
+        "fr": "Ce jour-là, les gens sortiront séparément pour que leur soient montrées leurs œuvres",
+        "tr": "O gün insanlar işlerinin kendilerine gösterilmesi için bölük bölük dönerler",
+        "ur": "اُس روز لوگ متفرق حالت میں پلٹیں گے تاکہ اُن کے اعمال اُن کو دکھائے جائیں",
+        "id": "(Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,922) untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "99:7",
+      "verse_number": 7,
+      "text_uthmani": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "So whoever does an atom's weight of good will see it",
+        "fr": "Quiconque fait un bien fût-ce du poids d'un atome, le verra",
+        "tr": "Kim zerre kadar iyilik yapmışsa onu görür",
+        "ur": "پھر جس نے ذرہ برابر نیکی کی ہوگی وہ اس کو دیکھ لے گا",
+        "id": "Maka barangsiapa mengerjakan kebaikan seberat zarah, niscaya dia akan melihat (balasan)nya"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "99:8",
+      "verse_number": 8,
+      "text_uthmani": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "chapter_id": 99,
+      "words": [],
+      "translations": {
+        "en": "And whoever does an atom's weight of evil will see it",
+        "fr": "et quiconque fait un mal fût-ce du poids d'un atome, le verra",
+        "tr": "Kim de zerre kadar kötülük yapmışsa onu görür",
+        "ur": "اور جس نے ذرہ برابر بدی کی ہوگی وہ اس کو دیکھ لے گا",
+        "id": "Dan barangsiapa mengerjakan kejahatan seberat zarah, niscaya dia akan melihat (balasan)nya"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 99,
+    "name_arabic": "الزلزلة",
+    "name_english": "Az-Zalzalah"
+  }
+}

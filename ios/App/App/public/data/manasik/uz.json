@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Birinchi qadam: Niyat va Ihram",
+        "details": "<ul><li>Umraga niyat qilib, Miqat ehromga kiring va Talbiyah boshlang.</li><li>U Ihram taqiqlariga amal qildi va marosimni boshlashdan oldin poklanishni tugatdi.</li></ul>",
+        "evidence": "Quran 2:196 va marosimlar Miqat boshlangan yil.",
+        "referenceLabel": "Umra vazirligi va tashrif buyuruvchilar uchun qo&#39;llanma"
+      },
+      {
+        "title": "Ikkinchi qadam: Al-Masjid Al-Haram kirish",
+        "details": "<ul><li>Ibodat va kamtarlik bilan jimgina kiring.</li><li>Olomon orasidan xavfsiz harakatlanishni osonlashtiradigan tomondan boshlang, keyin Tawaf hududiga qarab yo&#39;l oling.</li></ul>",
+        "evidence": "Masjidlarda odob-axloq qoidalari va ibodatni osonlashtirish bo&#39;yicha umumiy payg&#39;ambarlik ko&#39;rsatmalari.",
+        "referenceLabel": "Vazirlar Ma&#39;rifat Markazi"
+      },
+      {
+        "title": "Uchinchi qadam: Tawaf (yetti aylanma)",
+        "details": "<ul><li>Kaabah atrofida Black Stone chizig&#39;idan boshlab yetti marta Tawaf qiling.</li><li>Xudoni yodda tuting va olomon harakatida boshqalarga zarar yetkazishdan saqlaning.</li><li class=\"pp-ios-only\"> Maslahat: Tawaf aylanishlaringizni sanashda yordam berish uchun Apple Watch ilovasidan foydalaning.</li><li class=\"pp-android-only\"> Maslahat: Tawaf aylanishlarini sanashda yordam berish uchun soatingizdagi Wear OS ilovasidan foydalaning.</li></ul>",
+        "evidence": "Quran 22:29 va Payg&#39;ambarning tavof qilishining hujjatlashtirilgan tavsiflari.",
+        "referenceLabel": "Nosukda Umra safari bo&#39;yicha ko&#39;rsatmalar"
+      },
+      {
+        "title": "To&#39;rtinchi qadam: Tawaf keyin ibodat",
+        "details": "<ul><li>Iloji bo&#39;lsa, jamoatga zarar yetkazmasdan Tawaf tugatgandan so&#39;ng ikki rakat namoz o&#39;qing, so&#39;ngra Zamzam suvini ichish uchun tartibli tarzda davom eting.</li></ul>",
+        "evidence": "Tawaf keyingi namozga oid sahih hadislarda keng tarqalgan amaliyot.",
+        "referenceLabel": "Umra vazirligi va tashrif buyuruvchilar uchun qo&#39;llanma"
+      },
+      {
+        "title": "Beshinchi qadam: Safa va Marwah oralig&#39;ida Saie",
+        "details": "<ul><li>Safa va Marwah oralig&#39;ida yetti marta aylanib, Safa boshlab Marwah tugaydigan duo va zikr bilan Saie qiling.</li><li class=\"pp-ios-only\"> Maslahat: Saie yugurishlarini hisoblashda Apple Watch ilovasidan foydalaning.</li><li class=\"pp-android-only\"> Maslahat: Saie yugurishlarini hisoblash uchun soatingizdagi Wear OS ilovasidan foydalaning.</li></ul>",
+        "evidence": "Quran 2:158 va Payg&#39;ambarning buyrug&#39;iga binoan sahih rivoyatlar.",
+        "referenceLabel": "Nosukda Umra safari bo&#39;yicha ko&#39;rsatmalar"
+      },
+      {
+        "title": "Oltinchi qadam: Soch kesish yoki soqol olish",
+        "details": "<ul><li>Erkaklar sochlarini oldirishadi yoki qirqishadi, ayollar esa sochlarining kichik bir qismini qirqishadi.</li><li>Va shu bilan umra tugaydi va Ihram tugaydi.</li></ul>",
+        "evidence": "Quran 48:27 va soqol olish va kaltalanish bilan bog&#39;liq sahih rivoyatlar.",
+        "referenceLabel": "Umra vazirligi va tashrif buyuruvchilar uchun qo&#39;llanma"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Birinchi qadam: Hajga Ihram va niyat",
+        "details": "<ul><li>Miqat ehrom kiring, o&#39;zingiz xohlagan haj turini niyat qiling, so&#39;ngra Talbiyah qiling.</li><li>Ihram chiqish joylariga yetguningizcha Ihram qoidalariga rioya qiling.</li></ul>",
+        "evidence": "Quran 2:196 va Hajning boshlanishi uchun kelishilgan payg&#39;ambarlik marosimlari.",
+        "referenceLabel": "Haj vazirligining ko&#39;rsatmalari"
+      },
+      {
+        "title": "Ikkinchi qadam: Mina Yawm at-Tarwiyah",
+        "details": "<ul><li>Dhul Hijjah sakkizinchi kunida Mina boring, namozlarni belgilangan vaqtda o&#39;qing va Arafah nishonlash uchun ruhiy va logistik jihatdan tayyorgarlik ko&#39;ring.</li></ul>",
+        "evidence": "Vidolashuv safaridagi marosimlarning hujjatlashtirilgan ketma-ketligi.",
+        "referenceLabel": "Nosukga Haj safari"
+      },
+      {
+        "title": "Uchinchi qadam: Arafah turish",
+        "details": "<ul><li>Dhul Hijjah to&#39;qqizinchi kunini Arafah ibodat, Allohni zikr qilish va tavba qilish bilan o&#39;tkazing.</li><li>Bu Hajning asosiy ruknidir.</li></ul>",
+        "evidence": "Hadith: Haj Arafah.",
+        "referenceLabel": "Haj vazirligining ko&#39;rsatmalari"
+      },
+      {
+        "title": "To&#39;rtinchi qadam: Muzdalifah yig&#39;ish va toshlarni yig&#39;ish",
+        "details": "<ul><li>Quyosh botgandan keyin Muzdalifah boring, shom va xufton namozlarini o&#39;qing, tunni u yerda o&#39;tkazing va Mina tosh otish uchun toshlarni yig&#39;ing.</li></ul>",
+        "evidence": "Ishonchli rivoyatlarda Arafah keyingi payg&#39;ambarlik ketma-ketligi.",
+        "referenceLabel": "Nosukga Haj safari"
+      },
+      {
+        "title": "Beshinchi qadam: Rami, qurbonlik va she&#39;riyat",
+        "details": "<ul><li>Hayit kuni Jamarat al-Aqabah toshini otishda zarur bo&#39;lgan joyda qurbonlik qiling, so&#39;ngra birinchi tahlil uchun sochingizni qirqing yoki qirqing.</li></ul>",
+        "evidence": "Quran 22:36-37 va sahih hadislar ketma-ketligi.",
+        "referenceLabel": "Haj vazirligining ko&#39;rsatmalari"
+      },
+      {
+        "title": "Oltinchi qadam: Tawaf al-Ifadah (etti tur)",
+        "details": "<ul><li>Tawaf al-Ifadah bajarish uchun Makkaga qaytib, yettita aylanishni yakunlang va gavjum vaqtlarda xavfsiz va tartibli harakatni saqlang.</li><li class=\"pp-ios-only\"> Maslahat: Tawaf aylanishlaringizni sanashda yordam berish uchun Apple Watch ilovasidan foydalaning.</li><li class=\"pp-android-only\"> Maslahat: Tawaf aylanishlarini sanashda yordam berish uchun soatingizdagi Wear OS ilovasidan foydalaning.</li></ul>",
+        "evidence": "Quran 22:29 va majburiy tavofning hujjatlashtirilgan tavsiflari.",
+        "referenceLabel": "Nosukga Haj safari"
+      },
+      {
+        "title": "7-qadam: Kerakli odamga ayting",
+        "details": "<ul><li>Safa va Marwah orasidagi yettita aylanish ketma-ketligi va sonini saqlab, haj turi talab qilganda Saie qiling.</li><li class=\"pp-ios-only\"> Maslahat: Saie yugurishlarini hisoblashda Apple Watch ilovasidan foydalaning.</li><li class=\"pp-android-only\"> Maslahat: Saie yugurishlarini hisoblash uchun soatingizdagi Wear OS ilovasidan foydalaning.</li></ul>",
+        "evidence": "Quran 2:158 va uning Haj marosimlarida fiqhiy qo&#39;llanilishi.",
+        "referenceLabel": "Haj vazirligining ko&#39;rsatmalari"
+      },
+      {
+        "title": "8-qadam: Ayyam at-Tashriq va Tawaf al-Wada&#39;",
+        "details": "<ul><li>Tashriq paytida Mina qolib Jamarat otish marosimlarini bajarish, keyin esa Makkadan chiqishdan oldin Tawaf al-Wada&#39; tugatish, bundan mustasno.</li><li class=\"pp-ios-only\"> Maslahat: Tawaf aylanishlaringizni sanashda yordam berish uchun Apple Watch ilovasidan foydalaning.</li><li class=\"pp-android-only\"> Maslahat: Tawaf aylanishlarini sanashda yordam berish uchun soatingizdagi Wear OS ilovasidan foydalaning.</li></ul>",
+        "evidence": "O&#39;rnatilgan marosimlar Quran ko&#39;rsatmalariga va Payg&#39;ambar Sunnah to&#39;g&#39;ri amaliyotiga asoslangan.",
+        "referenceLabel": "Nosukga Haj safari"
+      }
+    ]
+  }
+}

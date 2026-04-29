@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "የመጀመሪያው እርምጃ፡- ሀሳብና Ihram",
+        "details": "<ul><li>ዑምራ ለማድረግ አስቡ፣ Miqat ላይ ወደ ኢህራም ግቡ እና Talbiyah ጀምሩ።</li><li>Ihram ክልከላዎች አክብሮ አምልኮ ከመጀመሩ በፊት የአምልኮ ሥርዓቱን አጠናቀቀ።</li></ul>",
+        "evidence": "Quran 2:196 እና የአምልኮ ሥርዓቶች የሚጀመሩበት ዓመት Miqat ።",
+        "referenceLabel": "የዑምራ ሚኒስቴር እና የጉብኝት መመሪያ"
+      },
+      {
+        "title": "ደረጃ ሁለት፡- ወደ Al-Masjid Al-Haram መግባት",
+        "details": "<ul><li>በጸጥታ፣ በጸሎትና በትሕትና ግቡ።</li><li>በሕዝቡ መካከል ደህንነቱ በተጠበቀ ሁኔታ ለመንቀሳቀስ ከሚያስችል ጎን ይጀምሩ፣ ከዚያም ወደ Tawaf አካባቢ ይሂዱ።</li></ul>",
+        "evidence": "በመስጊዶች ውስጥ ሥነ ምግባርን እና አምልኮን ስለማመቻቸት አጠቃላይ የትንቢት መመሪያዎች።",
+        "referenceLabel": "የሚኒስትሮች ግንዛቤ ማዕከል"
+      },
+      {
+        "title": "ደረጃ ሶስት Tawaf (ሰባት ወረዳዎች)",
+        "details": "<ul><li>Black Stone መስመር ጀምሮ ሰባት ጊዜ Kaabah ዙሪያ Tawaf አድርግ።</li><li>እግዚአብሔርን ማስታወስህን ቀጥል እና በሕዝብ እንቅስቃሴ ውስጥ ሌሎችን ከመጉዳት ተቆጠብ።</li><li class=\"pp-ios-only\"> ጠቃሚ ምክር Tawaf ሰርኮችዎን ለመቁጠር Apple Watch መተግበሪያን ይጠቀሙ።</li><li class=\"pp-android-only\"> ጠቃሚ ምክር፡- Tawaf ሰርክዩቶችን ለመቁጠር እንዲረዳዎት በሰዓትዎ ላይ ያለውን Wear OS መተግበሪያ ይጠቀሙ።</li></ul>",
+        "evidence": "Quran 22:29 እና የነቢዩን የዙሪያ ጉዞ የተመዘገቡ መግለጫዎች።",
+        "referenceLabel": "የኡምራ የጉዞ መመሪያዎች በኖሱክ"
+      },
+      {
+        "title": "ደረጃ አራት፡- Tawaf በኋላ የሚደረግ ጸሎት",
+        "details": "<ul><li>ምዕመናንን ሳይጎዱ Tawaf ከጨረሱ በኋላ ሁለት ረከዓዎችን ይስገዱ፤ ከዚያም በተደራጀ መንገድ Zamzam ውሃ ይጠጡ።</li></ul>",
+        "evidence": "Tawaf በኋላ ስለሚሰገድበት ጸሎት በተረጋገጡ ሐዲሶች ውስጥ በሚገባ የተቋቋመ ልምምድ።",
+        "referenceLabel": "የዑምራ ሚኒስቴር እና የጉብኝት መመሪያ"
+      },
+      {
+        "title": "ደረጃ አምስት፡- Safa እና Marwah መካከል Saie",
+        "details": "<ul><li>Safa ጀምሮ እስከ Marwah ድረስ በሰባት ዙርያዎች በጸሎትና በማስታወስ Safa Marwah መካከል Saie አከናውን።</li><li class=\"pp-ios-only\"> ጠቃሚ ምክር Saie ሩጫዎች ለመቁጠር Apple Watch መተግበሪያን ይጠቀሙ።</li><li class=\"pp-android-only\"> ጠቃሚ ምክር Saie ሩጫዎች ለመቁጠር እንዲረዳዎት በሰዓትዎ ላይ ያለውን Wear OS መተግበሪያ ይጠቀሙ።</li></ul>",
+        "evidence": "Quran 2:158 እና በመልክተኛው ትዕዛዝ መሰረት ትክክለኛ ትረካዎች።",
+        "referenceLabel": "የኡምራ የጉዞ መመሪያዎች በኖሱክ"
+      },
+      {
+        "title": "ደረጃ ስድስት፡ የፀጉር መቆረጥ ወይም መላጨት",
+        "details": "<ul><li>ወንዶች ፀጉራቸውን ይላጫሉ ወይም ይቆርጣሉ፣ ሴቶች ደግሞ ፀጉራቸውን ትንሽ ክፍል ይቆርጣሉ።</li><li>በዚህም ዑምራው ያበቃል Ihram ያበቃል።</li></ul>",
+        "evidence": "Quran 48:27 እና ስለ መላጨትና ስለ ማሳጠር የተነገሩ ትክክለኛ ትረካዎች።",
+        "referenceLabel": "የዑምራ ሚኒስቴር እና የጉብኝት መመሪያ"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "የመጀመሪያው እርምጃ፡- Ihram እና የሐጅ ዓላማ",
+        "details": "<ul><li>Miqat ኢህራም ገብተህ የሐጅ አይነትህን አስብ ከዚያም Talbiyah ቀጥል።</li><li>Ihram መውጫዎች እስክትደርሱ ድረስ Ihram ህግጋት ጠብቁ።</li></ul>",
+        "evidence": "Quran 2:196 እና ለሐጅ ጅማሬ የተስማሙባቸው ትንቢታዊ ሥርዓቶች።",
+        "referenceLabel": "የሐጅ ሚኒስቴር መመሪያዎች"
+      },
+      {
+        "title": "ደረጃ ሁለት Yawm at-Tarwiyah Mina",
+        "details": "<ul><li>Dhul Hijjah ስምንተኛው ቀን ወደ Mina ሂዱ፣ ጸሎቶችን በተወሰነላቸው ጊዜ ስገዱ፣ እና Arafah መታሰቢያ በመንፈሳዊ እና በሎጂስቲክስ ተዘጋጁ።</li></ul>",
+        "evidence": "በስንብት ጉዞው ውስጥ የተመዘገቡ የአምልኮ ሥርዓቶች ቅደም ተከተል።",
+        "referenceLabel": "የሐጅ ጉዞ ወደ ኖሱክ"
+      },
+      {
+        "title": "ደረጃ ሶስት Arafah መቆም",
+        "details": "<ul><li>Dhul Hijjah ዘጠነኛውን ቀን Arafah ውስጥ በጸሎት፣ እግዚአብሔርን በማስታወስ እና በንስሐ በማሳለፍ አሳልፉ።</li><li>ይህ የሐጅ አስፈላጊ ምሰሶ ነው።</li></ul>",
+        "evidence": "Hadith ፡- ሐጅ Arafah ነው።",
+        "referenceLabel": "የሐጅ ሚኒስቴር መመሪያዎች"
+      },
+      {
+        "title": "ደረጃ አራት፡- Muzdalifah እና ጠጠሮችን መሰብሰብ",
+        "details": "<ul><li>ፀሐይ ከጠለቀች በኋላ ወደ Muzdalifah ሂድ፣ መግሪብና ኢሻን ጸልይ፣ እዚያው ተኛ፣ እና Mina ላይ ድንጋይ ለመወርወር የሚያገለግሉ ጠጠሮችን ሰብስብ።</li></ul>",
+        "evidence": "በእውነተኛ ትረካዎች ውስጥ Arafah በኋላ ያለው የትንቢታዊ ቅደም ተከተል።",
+        "referenceLabel": "የሐጅ ጉዞ ወደ ኖሱክ"
+      },
+      {
+        "title": "ደረጃ አምስት፡ ራሚ፣ መስዋዕትነት እና ግጥም",
+        "details": "<ul><li>በዒድ ቀን Jamarat al-Aqabah ድንጋይ ስትወረውር አስፈላጊ በሚሆንበት ጊዜ መስዋዕት አድርግ፤ ከዚያም ለመጀመሪያው ታህሊል ፀጉርህን ተላጭ ወይም ቁረጥ።</li></ul>",
+        "evidence": "Quran 22:36-37 እና የትክክለኛ ሐዲሶች ቅደም ተከተል።",
+        "referenceLabel": "የሐጅ ሚኒስቴር መመሪያዎች"
+      },
+      {
+        "title": "ደረጃ ስድስት Tawaf al-Ifadah (ሰባት ዙር)",
+        "details": "<ul><li>ወደ መካ ተመለስ፤ Tawaf al-Ifadah ለማድረግ፣ ሰባት ዙርዎችን ለማጠናቀቅ እና በተጨናነቀ ጊዜ ውስጥ ደህንነቱ የተጠበቀ እና ሥርዓታማ እንቅስቃሴን ለመጠበቅ።</li><li class=\"pp-ios-only\"> ጠቃሚ ምክር Tawaf ሰርኮችዎን ለመቁጠር Apple Watch መተግበሪያን ይጠቀሙ።</li><li class=\"pp-android-only\"> ጠቃሚ ምክር፡- Tawaf ሰርክዩቶችን ለመቁጠር እንዲረዳዎት በሰዓትዎ ላይ ያለውን Wear OS መተግበሪያ ይጠቀሙ።</li></ul>",
+        "evidence": "Quran 22:29 እና ስለ አስገዳጅው ዙር የተመዘገቡ መግለጫዎች።",
+        "referenceLabel": "የሐጅ ጉዞ ወደ ኖሱክ"
+      },
+      {
+        "title": "ደረጃ 7፡ ለሚፈለገው ሰው ይንገሩ",
+        "details": "<ul><li>የሐጅ አይነትዎ ሲያስፈልግዎ Saie ያድርጉ፣ Safa እና Marwah መካከል የሰባት ወረዳዎችን ቅደም ተከተል እና ብዛት እየጠበቁ።</li><li class=\"pp-ios-only\"> ጠቃሚ ምክር Saie ሩጫዎች ለመቁጠር Apple Watch መተግበሪያን ይጠቀሙ።</li><li class=\"pp-android-only\"> ጠቃሚ ምክር Saie ሩጫዎች ለመቁጠር እንዲረዳዎት በሰዓትዎ ላይ ያለውን Wear OS መተግበሪያ ይጠቀሙ።</li></ul>",
+        "evidence": "Quran 2:158 እና በሐጅ ሥርዓቶች ውስጥ ያለው የሕግ አተገባበር።",
+        "referenceLabel": "የሐጅ ሚኒስቴር መመሪያዎች"
+      },
+      {
+        "title": "ደረጃ 8 Ayyam at-Tashriq እና Tawaf al-Wada&#39;",
+        "details": "<ul><li>በተሽሪቅ ወቅት Mina ቆይታ ጀምራትን Jamarat ሥነ ሥርዓቶችን ማከናወን፣ ከዚያም ከመካ ከመውጣትዎ በፊት Tawaf al-Wada&#39; ማጠናቀቅ፣ ነፃ የሆኑ ሰዎች ሳይቀሩ።</li><li class=\"pp-ios-only\"> ጠቃሚ ምክር Tawaf ሰርኮችዎን ለመቁጠር Apple Watch መተግበሪያን ይጠቀሙ።</li><li class=\"pp-android-only\"> ጠቃሚ ምክር፡- Tawaf ሰርክዩቶችን ለመቁጠር እንዲረዳዎት በሰዓትዎ ላይ ያለውን Wear OS መተግበሪያ ይጠቀሙ።</li></ul>",
+        "evidence": "የተቋቋሙት የአምልኮ ሥርዓቶች Quran መመሪያ እና በነቢዩ Sunnah ትክክለኛ አሠራር ላይ የተመሰረቱ ናቸው።",
+        "referenceLabel": "የሐጅ ጉዞ ወደ ኖሱክ"
+      }
+    ]
+  }
+}

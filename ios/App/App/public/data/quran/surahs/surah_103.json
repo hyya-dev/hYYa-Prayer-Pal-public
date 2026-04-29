@@ -1,0 +1,54 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "103:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلۡعَصۡرِ",
+      "chapter_id": 103,
+      "words": [],
+      "translations": {
+        "en": "By time",
+        "fr": "Par le Temps",
+        "tr": "İkindi vaktine (Asra; çağa) and olsun ki",
+        "ur": "زمانے کی قسم",
+        "id": "Demi masa"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "103:2",
+      "verse_number": 2,
+      "text_uthmani": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "chapter_id": 103,
+      "words": [],
+      "translations": {
+        "en": "Indeed, mankind is in loss",
+        "fr": "L'homme est certes, en perdition",
+        "tr": "İnsan hiç şüphesiz hüsran içindedir",
+        "ur": "انسان درحقیقت بڑے خسارے میں ہے",
+        "id": "Sungguh, manusia berada dalam kerugian"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "103:3",
+      "verse_number": 3,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "chapter_id": 103,
+      "words": [],
+      "translations": {
+        "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience",
+        "fr": "sauf ceux qui croient et accomplissent les bonnes œuvres, s'enjoignent mutuellement la vérité et s'enjoignent mutuellement l'endurance",
+        "tr": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır",
+        "ur": "سوائے اُن لوگوں کے جو ایمان لائے، اور نیک اعمال کرتے رہے، اور ایک دوسرے کو حق کی نصیحت اور صبر کی تلقین کرتے رہے",
+        "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 103,
+    "name_arabic": "العصر",
+    "name_english": "Al-'Asr"
+  }
+}

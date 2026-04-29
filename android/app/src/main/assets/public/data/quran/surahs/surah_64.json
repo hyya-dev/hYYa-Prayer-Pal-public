@@ -1,0 +1,279 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "64:1",
+      "verse_number": 1,
+      "text_uthmani": "يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Whatever is in the heavens and whatever is on the earth is exalting Allah. To Him belongs dominion, and to Him belongs [all] praise, and He is over all things competent",
+        "fr": "Ce qui est dans les cieux et ce qui est sur la terre glorifient Allah. A Lui la royauté et à Lui les louanges. Et Il est Omnipotent",
+        "tr": "Göklerde olanlar ve yerde bulunanlar Allah'ı tesbih ederler. Hükümranlık O'nundur, Övülmek O'na mahsustur. O herşeye Kadir'dir",
+        "ur": "اللہ کی تسبیح کر رہی ہے ہر وہ چیز جو آسمانوں میں ہے اور ہر وہ چیز جو زمین میں ہے اسی کی بادشاہی ہے اور اسی کے لیے تعریف ہے اور وہ ہر چیز پر قادر ہے",
+        "id": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah; milik-Nya semua kerajaan dan bagi-Nya (pula) segala puji; dan Dia Mahakuasa atas segala sesuatu"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "64:2",
+      "verse_number": 2,
+      "text_uthmani": "هُوَ ٱلَّذِي خَلَقَكُمۡ فَمِنكُمۡ كَافِرٞ وَمِنكُم مُّؤۡمِنٞۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٌ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "It is He who created you, and among you is the disbeliever, and among you is the believer. And Allah, of what you do, is Seeing",
+        "fr": "C'est Lui qui vous a créés. Parmi vous [il y a] mécréant et croyant. Allah observe parfaitement ce que vous faites",
+        "tr": "Sizi yaratan O'dur; kiminiz inkarcı kiminiz mümindir. Allah yaptıklarınızı gören'dir",
+        "ur": "وہی ہے جس نے تم کو پیدا کیا، پھر تم میں سے کوئی کافر ہے اور کوئی مومن، اور اللہ وہ سب کچھ دیکھ رہا ہے جو تم کرتے ہو",
+        "id": "Dialah yang menciptakan kamu, lalu di antara kamu ada yang kafir dan di antara kamu (juga) ada yang mukmin. Dan Allah Maha Melihat apa yang kamu kerjakan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "64:3",
+      "verse_number": 3,
+      "text_uthmani": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَصَوَّرَكُمۡ فَأَحۡسَنَ صُوَرَكُمۡۖ وَإِلَيۡهِ ٱلۡمَصِيرُ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "He created the heavens and earth in truth and formed you and perfected your forms; and to Him is the [final] destination",
+        "fr": "Il a créé les cieux et la terre en toute vérité et vous a donné votre forme et quelle belle forme Il vous a donnée! Et vers Lui est le devenir",
+        "tr": "Gökleri ve yeri gerektiği gibi yaratmıştır. Size şekil vermiş ve şeklinizi güzel yapmıştır. Dönüş O'nadır",
+        "ur": "اس نے زمین اور آسمانوں کو برحق پیدا کیا ہے، اور تمہاری صورت بنائی اور بڑی عمدہ بنائی ہے، اور اسی کی طرف آخرکار تمہیں پلٹنا ہے",
+        "id": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu lalu memperbagus rupamu, dan kepada-Nya tempat kembali"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "64:4",
+      "verse_number": 4,
+      "text_uthmani": "يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَيَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَۚ وَٱللَّهُ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "He knows what is within the heavens and earth and knows what you conceal and what you declare. And Allah is Knowing of that within the breasts",
+        "fr": "Il sait ce qui est dans les cieux et la terre, et Il sait ce que vous cachez ainsi que ce que vous divulguez. Et Allah connaît bien le contenu des poitrines",
+        "tr": "Göklerde ve yerde olanları bilir; gizlediklerinizi de açığa vurduklarınızı da bilir; Allah, kalblerde olanı da bilendir",
+        "ur": "زمین اور آسمانوں کی ہر چیز کا اسے علم ہے جو کچھ تم چھپاتے ہو اور جو کچھ تم ظاہر کرتے ہو سب اس کو معلوم ہے، اور وہ دلوں کا حال تک جانتا ہے",
+        "id": "Dia mengetahui apa yang ada di langit dan di bumi, dan mengetahui apa yang kamu rahasiakan dan apa yang kamu nyatakan. Dan Allah Maha Mengetahui segala isi hati"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "64:5",
+      "verse_number": 5,
+      "text_uthmani": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُ فَذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Has there not come to you the news of those who disbelieved before? So they tasted the bad consequence of their affair, and they will have a painful punishment",
+        "fr": "Ne vous est-elle pas parvenue, la nouvelle de ceux qui auparavant ont mécru et qui ont goûté la conséquence néfaste de leur acte; ils auront en outre un châtiment douloureux",
+        "tr": "Daha önce inkar edip de, inkarlarının karşılığını tadan kimselerin haberi size gelmedi mi? Onlara, can yakıcı azap vardır",
+        "ur": "کیا تمہیں اُن لوگوں کی کوئی خبر نہیں پہنچی جنہوں نے اِس سے پہلے کفر کیا اور پھر اپنی شامت اعمال کا مزہ چکھ لیا؟ اور آگے اُن کے لیے ایک دردناک عذاب ہے",
+        "id": "Apakah belum sampai kepadamu (orang-orang kafir) berita orang-orang kafir dahulu? Maka mereka telah merasakan akibat buruk dari perbuatannya dan mereka memperoleh azab yang pedih"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "64:6",
+      "verse_number": 6,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأۡتِيهِمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَقَالُوٓاْ أَبَشَرٞ يَهۡدُونَنَا فَكَفَرُواْ وَتَوَلَّواْۖ وَّٱسۡتَغۡنَى ٱللَّهُۚ وَٱللَّهُ غَنِيٌّ حَمِيدٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "That is because their messengers used to come to them with clear evidences, but they said, \"Shall human beings guide us?\" and disbelieved and turned away. And Allah dispensed [with them]; and Allah is Free of need and Praiseworthy",
+        "fr": "Il en est ainsi parce que leurs messagers leur venaient avec des preuves évidentes, et qu'ils ont dit: «Sont-ce des hommes qui nous guideront?» Ils mécrurent alors et se détournèrent et Allah Se passa [d'eux] et Allah Se suffit à Lui-même et Il est Digne de louange",
+        "tr": "Bu, kendilerine peygamberleri belgelerle geldiğinde: \"Bizi doğru yola bir insan mı eriştirecek?\" diyerek inkar edip gerçeğe yüz çevirmelerinden ötürüdür. Allah hiçbir şeye muhtaç olmadığını ortaya koymuştur. Allah müstağnidir, övülmeğe layık olandır",
+        "ur": "اِس انجام کے مستحق وہ اس لیے ہوئے کہ اُن کے پاس اُن کے رسول کھلی کھلی دلیلیں اور نشانیاں لے کر آتے رہے، مگر اُنہوں نے کہا \"کیا انسان ہمیں ہدایت دیں گے؟\" اس طرح انہوں نے ماننے سے انکار کر دیا اور منہ پھیر لیا، تب اللہ بھی ان سے بے پروا ہو گیا اور اللہ تو ہے ہی بے نیاز اور اپنی ذات میں آپ محمود",
+        "id": "Yang demikian itu karena sesungguhnya ketika rasul-rasul datang kepada mereka membawa keterangan-keterangan, lalu mereka berkata, \"Apakah (pantas) manusia yang memberi petunjuk kepada kami?\" Lalu mereka ingkar dan berpaling; padahal Allah tidak memerlukan (mereka). Dan Allah Mahakaya, Maha Terpuji"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "64:7",
+      "verse_number": 7,
+      "text_uthmani": "زَعَمَ ٱلَّذِينَ كَفَرُوٓاْ أَن لَّن يُبۡعَثُواْۚ قُلۡ بَلَىٰ وَرَبِّي لَتُبۡعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلۡتُمۡۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Those who disbelieve have claimed that they will never be resurrected. Say, \"Yes, by my Lord, you will surely be resurrected; then you will surely be informed of what you did. And that, for Allah, is easy",
+        "fr": "Ceux qui ont mécru prétendent qu'ils ne seront point ressuscités. Dis: «Mais si! Par mon Seigneur! Vous serez très certainement ressuscités; puis vous serez certes informés de ce que vous faisiez. Et cela est facile pour Allah»",
+        "tr": "İnkar edenler, tekrar dirilmeyeceklerini ileri sürerler. De ki: \"Evet; Rabbime and olsun ki, şüphesiz diriltileceksiniz ve sonra, yaptıklarınız size bildirilecektir. Bu, Allah'a kolaydır",
+        "ur": "منکرین نے بڑے دعوے سے کہا ہے کہ وہ مرنے کے بعد ہرگز دوبارہ نہ اٹھائے جائیں گے ان سے کہو \"نہیں، میرے رب کی قسم تم ضرور اٹھائے جاؤ گے، پھر ضرور تمہیں بتایا جائے گا کہ تم نے (دنیا میں) کیا کچھ کیا ہے، اور ایسا کرنا اللہ کے لیے بہت آسان ہے",
+        "id": "Orang-orang yang kafir mengira, bahwa mereka tidak akan dibangkitkan. Katakanlah (Muhammad), \"Tidak demikian, demi Tuhanku, kamu pasti dibangkitkan, kemudian diberitakan semua yang telah kamu kerjakan.\" Dan yang demikian itu mudah bagi Allah"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "64:8",
+      "verse_number": 8,
+      "text_uthmani": "فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِيٓ أَنزَلۡنَاۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "So believe in Allah and His Messenger and the Qur'an which We have sent down. And Allah is Acquainted with what you do",
+        "fr": "Croyez en Allah donc et en Son messager, ainsi qu'en la Lumière [le Coran] que Nous avons fait descendre. Et Allah est Parfaitement Connaisseur de ce que vous faites",
+        "tr": "Öyleyse Allah'a, Peygamberine ve indirdiğimiz nura, Kuran'a inanın; Allah işlediklerinizden haberdardır",
+        "ur": "پس ایمان لاؤ اللہ پر، اور اُس کے رسول پر، اور اُس روشنی پر جو ہم نے نازل کی ہے جو کچھ تم کرتے ہو اللہ اس سے باخبر ہے",
+        "id": "Maka berimanlah kamu kepada Allah dan Rasul-Nya dan kepada cahaya (Alquran) yang telah Kami turunkan. Dan Allah Mahateliti terhadap apa yang kamu kerjakan"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "64:9",
+      "verse_number": 9,
+      "text_uthmani": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "The Day He will assemble you for the Day of Assembly - that is the Day of Deprivation. And whoever believes in Allah and does righteousness - He will remove from him his misdeeds and admit him to gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment",
+        "fr": "Le jour où Il vous réunira pour le jour du Rassemblement, ce sera le jour de la grande perte. Et celui qui croit en Allah et accomplit les bonnes œuvres, Il lui effacera ses mauvaises actions et le fera entrer dans des Jardins sous lesquels coulent les ruisseaux où ils demeureront éternellement. Voilà l'énorme succès",
+        "tr": "Toplanma günü için, sizi bir araya getirdiği zaman, işte o, kimin aldandığının ortaya çıkacağı gündür; Allah'a kim inanmış ve yararlı iş işlemişse, Allah onun kötülüklerini örter, onu içinde temelli ve sonsuz kalacağı, içlerinden ırmaklar akan cennetlere koyar; büyük kurtuluş işte budur",
+        "ur": "(اِس کا پتا تمہیں اس روز چل جائے گا) جب اجتماع کے دن وہ تم سب کو اکٹھا کرے گا وہ دن ہوگا ایک دوسرے کے مقابلے میں لوگوں کی ہار جیت کا جو اللہ پر ایمان لایا ہے اور نیک عمل کرتا ہے، اللہ اس کے گناہ جھاڑ دے گا اور اسے ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی یہ لوگ ہمیشہ ہمیشہ ان میں رہیں گے یہ بڑی کامیابی ہے",
+        "id": "(Ingatlah) pada hari (ketika) Allah mengumpulkan kamu pada hari berhimpun, itulah hari pengungkapan kesalahan-kesalahan. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan niscaya Allah akan menghapus kesalahan-kesalahannya dan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Itulah kemenangan yang agung"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "64:10",
+      "verse_number": 10,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَاۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "But the ones who disbelieved and denied Our verses - those are the companions of the Fire, abiding eternally therein; and wretched is the destination",
+        "fr": "Et ceux qui ont mécru et traité de mensonges Nos versets, ceux-là sont les gens du Feu où ils demeureront éternellement. Et quelle mauvaise destination",
+        "tr": "İnkar edip, ayetlerimizi yalanlayanlar, işte onlar da ateşliklerdir, orada temellidirler. Ne kötü bir dönüştür",
+        "ur": "اور جن لوگوں نے کفر کیا ہے اور ہماری آیات کو جھٹلایا ہے وہ دوزخ کے باشندے ہوں گے جس میں وہ ہمیشہ رہیں گے اور وہ بدترین ٹھکانا ہے",
+        "id": "Dan orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itulah penghuni neraka, mereka kekal di dalamnya. Dan itulah seburuk-buruk tempat kembali"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "64:11",
+      "verse_number": 11,
+      "text_uthmani": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ يَهۡدِ قَلۡبَهُۥۚ وَٱللَّهُ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart. And Allah is Knowing of all things",
+        "fr": "Nul malheur n'atteint [l'homme] que par la permission d'Allah. Et quiconque croit en Allah, [Allah] guide son cœur. Allah est Omniscient",
+        "tr": "Başa gelen hiçbir musibet Allah'ın izni olmaksızın olamaz; Allah'a kim inanırsa onun gönlünü doğruya yöneltir. Allah herşeyi bilendir",
+        "ur": "کوئی مصیبت کبھی نہیں آتی مگر اللہ کے اذن ہی سے آتی ہے جو شخص اللہ پر ایمان رکھتا ہو اللہ اس کے دل کو ہدایت بخشتا ہے، اور اللہ کو ہر چیز کا علم ہے",
+        "id": "Tidak ada suatu musibah yang menimpa (seseorang), kecuali dengan izin Allah; dan barangsiapa beriman kepada Allah, niscaya Allah akan memberi petunjuk kepada hatinya. Dan Allah Maha Mengetahui segala sesuatu"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "64:12",
+      "verse_number": 12,
+      "text_uthmani": "وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "And obey Allah and obey the Messenger; but if you turn away - then upon Our Messenger is only [the duty of] clear notification",
+        "fr": "Obéissez à Allah et obéissez au Messager et si vous vous détournez... il n'incombe à Notre messager que de transmettre en clair (son message)",
+        "tr": "Allah'a itaat edin; eğer bundan yüz çevirirseniz bilin ki Peygamberimize düşen apaçık tebliğdir",
+        "ur": "اللہ کی اطاعت کرو اور رسول کی طاعت کرو لیکن اگر تم اطاعت سے منہ موڑتے ہو تو ہمارے رسول پر صاف صاف حق پہنچا دینے کے سوا کوئی ذمہ داری نہیں ہے",
+        "id": "Dan taatlah kepada Allah dan taatlah kepada Rasul. Jika kamu berpaling maka sesungguhnya kewajiban Rasul Kami hanyalah menyampaikan (amanah Allah) dengan terang"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "64:13",
+      "verse_number": 13,
+      "text_uthmani": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Allah - there is no deity except Him. And upon Allah let the believers rely",
+        "fr": "Allah nulle autre divinité que Lui! Et c'est à Allah que les croyants [doivent] s'en remettre",
+        "tr": "Allah vardır, O'ndan başka tanrı yoktur. İnananlar yalnız Allah 'a güvensinler",
+        "ur": "اللہ وہ ہے جس کے سوا کوئی خدا نہیں، لہٰذا ایمان لانے والوں کو اللہ ہی پر بھروسا رکھنا چاہیے",
+        "id": "(Dialah) Allah, tidak ada tuhan selain Dia. Dan hendaklah orang-orang mukmin bertawakal kepada Allah"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "64:14",
+      "verse_number": 14,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "O you who have believed, indeed, among your wives and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive - then indeed, Allah is Forgiving and Merciful",
+        "fr": "O vous qui avez cru, vous avez de vos épouses et de vos enfants un ennemi [une tentation]. Prenez-y garde donc. Mais si vous [les] excusez, passez sur [leurs] fautes et [leur] pardonnez, sachez qu'Allah est Pardonneur, Très Miséricordieux",
+        "tr": "Ey inananlar! Eşleriniz ve çocuklarınızdan size düşmanlık edenler olur, onlardan sakının; ama, siz affeder, suçlarını örter ve bağışlarsanız bilin ki Allah da bağışlar ve acır",
+        "ur": "اے لوگو جو ایمان لائے ہو، تمہاری بیویوں اور تمہاری اولاد میں سے بعض تمہارے دشمن ہیں، ان سے ہوشیار رہو اور اگر تم عفو و درگزر سے کام لو اور معاف کر دو تو اللہ غفور و رحیم ہے",
+        "id": "(Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu,844) maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "64:15",
+      "verse_number": 15,
+      "text_uthmani": "إِنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةٞۚ وَٱللَّهُ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Your wealth and your children are but a trial, and Allah has with Him a great reward",
+        "fr": "Vos biens et vos enfants ne sont qu'une tentation, alors qu'auprès d'Allah est une énorme récompense",
+        "tr": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır",
+        "ur": "تمہارے مال اور تمہاری اولاد تو ایک آزمائش ہیں، اور اللہ ہی ہے جس کے پاس بڑا اجر ہے",
+        "id": "Sesungguhnya hartamu dan anak-anakmu hanyalah cobaan (bagimu), dan di sisi Allah pahala yang besar"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "64:16",
+      "verse_number": 16,
+      "text_uthmani": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ خَيۡرٗا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "So fear Allah as much as you are able and listen and obey and spend [in the way of Allah]; it is better for your selves. And whoever is protected from the stinginess of his soul - it is those who will be the successful",
+        "fr": "Craignez Allah, donc autant que vous pouvez, écoutez, obéissez et faites largesses. Ce sera un bien pour vous. Et quiconque a été protégé contre sa propre avidité... ceux-là sont ceux qui réussissent",
+        "tr": "Allah'a karşı gelmekten gücünüzün yettiği kadar sakının, buyruklarını dinleyin, itaat edin; kendinizin iyiliğine olarak mallarınızdan sarfedin; nefsinin tamahkarlığından korunan kimseler, işte onlar saadete erenlerdir",
+        "ur": "لہٰذا جہاں تک تمہارے بس میں ہو اللہ سے ڈرتے رہو، اور سنو اور اطاعت کرو، اور اپنے مال خرچ کرو، یہ تمہارے ہی لیے بہتر ہے جو اپنے دل کی تنگی سے محفوظ رہ گئے بس وہی فلاح پانے والے ہیں",
+        "id": "Maka bertakwalah kamu kepada Allah menurut kesanggupanmu dan dengarlah serta taatlah; dan infakkanlah harta yang baik untuk dirimu. Dan barangsiapa dijaga dirinya dari kekikiran, mereka itulah orang-orang yang beruntung"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "64:17",
+      "verse_number": 17,
+      "text_uthmani": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "If you loan Allah a goodly loan, He will multiply it for you and forgive you. And Allah is Most Appreciative and Forbearing",
+        "fr": "Si vous faites à Allah un prêt sincère, Il le multipliera pour vous et vous pardonnera. Allah cependant est très Reconnaissant et Indulgent",
+        "tr": "Eğer Allah'a güzel bir ödünç takdiminde bulunursanız, onu sizin için kat kat yapar ve sizi bağışlar; Allah, şükrün karşılığını verendir; Halim'dir",
+        "ur": "اگر تم اللہ کو قرض حسن دو تو وہ تمہیں کئی گنا بڑھا کر دے گا اور تمہارے قصوروں سے درگزر فرمائے گا، اللہ بڑا قدردان اور بردبار ہے",
+        "id": "Jika kamu meminjamkan kepada Allah dengan pinjaman yang baik, niscaya Dia melipatgandakan (balasan) untukmu dan mengampuni kamu. Dan Allah Maha Mensyukuri, Maha Penyantun"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "64:18",
+      "verse_number": 18,
+      "text_uthmani": "عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+      "chapter_id": 64,
+      "words": [],
+      "translations": {
+        "en": "Knower of the unseen and the witnessed, the Exalted in Might, the Wise",
+        "fr": "Il est le Connaisseur du monde Invisible et visible, et Il est le Puissant, le Sage",
+        "tr": "Görüleni görülmeyeni bilendir, güçlüdür. Hakim'dir",
+        "ur": "حاضر اور غائب ہر چیز کو جانتا ہے، زبردست اور دانا ہے",
+        "id": "Yang Mengetahui yang gaib dan yang nyata. Yang Mahaperkasa, Mahabijaksana"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 64,
+    "name_arabic": "التغابن",
+    "name_english": "At-Taghabun"
+  }
+}

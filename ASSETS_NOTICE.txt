@@ -1,0 +1,5 @@
+All files within the `/src/assets`, `/public/assets`, `/ios/App/App/Assets.xcassets`, and `/android/app/src/main/res` directories, including the name 'hYYa', logos, mascots, and specific UI illustrations, are **All Rights Reserved**. 
+
+These are NOT covered by the CC BY-NC-SA 4.0 license. 
+
+Users may use the code logic but must provide their own unique branding and assets for any derivative works or builds.

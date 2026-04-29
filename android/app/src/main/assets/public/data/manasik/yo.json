@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Igbesẹ akọkọ: Ero ati Ihram",
+        "details": "<ul><li>Gbero lati ṣe Umrah, wọ inu Ihram ni Miqat, ki o si bẹrẹ Talbiyah.</li><li>Ó tẹ̀lé òfin Ihram, ó sì parí ìwẹ̀nùmọ́ náà kí ó tó bẹ̀rẹ̀ ìsìn náà.</li></ul>",
+        "evidence": "Quran 2:196 ati odun ibẹrẹ awọn ilana lati Miqat.",
+        "referenceLabel": "Ilé Iṣẹ́ Ìsìn Umrah àti Ìtọ́sọ́nà Ìbẹ̀wò"
+      },
+      {
+        "title": "Igbese Keji: Wiwọ si Al-Masjid Al-Haram",
+        "details": "<ul><li>Wọlé pẹ̀lú ìdákẹ́jẹ́ẹ́, pẹ̀lú àdúrà àti ìrẹ̀lẹ̀.</li><li>Bẹ̀rẹ̀ láti ẹ̀gbẹ́ tí ó rọrùn fún ìrìn àjò láìléwu láàárín àwọn ènìyàn, lẹ́yìn náà lọ sí agbègbè Tawaf.</li></ul>",
+        "evidence": "Àwọn ìlànà àsọtẹ́lẹ̀ gbogbogbò lórí ìwà rere nínú àwọn mọ́sálásí àti ṣíṣe ìrànlọ́wọ́ fún ìjọsìn.",
+        "referenceLabel": "Ile-iṣẹ Imọran Minisita"
+      },
+      {
+        "title": "Igbese kẹta: Tawaf (awọn iyipo meje)",
+        "details": "<ul><li>Ṣe Tawaf yí Kaabah ká ní ìgbà méje, bẹ̀rẹ̀ láti ìlà Black Stone.</li><li>Máa rántí Ọlọ́run kí o sì yẹra fún ṣíṣe ìpalára fún àwọn ẹlòmíràn nígbà tí àwùjọ bá ń rìn kiri.</li><li class=\"pp-ios-only\"> Àmọ̀ràn: Lo àpù Apple Watch láti ràn ọ́ lọ́wọ́ láti ka àwọn àyíká Tawaf rẹ.</li><li class=\"pp-android-only\"> Àmọ̀ràn: Lo àpù Wear OS lórí aago rẹ láti ràn ọ́ lọ́wọ́ láti ka iye àwọn ìyípo Tawaf rẹ.</li></ul>",
+        "evidence": "Quran 22:29 àti àwọn àpèjúwe tí a kọ sílẹ̀ nípa yíyíká Anabi.",
+        "referenceLabel": "Ìlànà ìrìnàjò Umrah ní Nosuk"
+      },
+      {
+        "title": "Igbese Kẹrin: Adura lẹhin Tawaf",
+        "details": "<ul><li>Ẹ gbàdúrà rak&#39;ah méjì lẹ́yìn tí ẹ bá parí Tawaf tí ó bá ṣeé ṣe láìsí ìpalára fún ìjọ, lẹ́yìn náà ẹ tẹ̀síwájú ní ọ̀nà tí a ṣètò láti mu omi Zamzam.</li></ul>",
+        "evidence": "Àṣà tó ti fìdí múlẹ̀ nínú àwọn Hédíìsì tó jẹ́ òótọ́ nípa àdúrà lẹ́yìn Tawaf.",
+        "referenceLabel": "Ilé Iṣẹ́ Ìsìn Umrah àti Ìtọ́sọ́nà Ìbẹ̀wò"
+      },
+      {
+        "title": "Igbese karun: Saie laarin Safa ati Marwah",
+        "details": "<ul><li>Ṣe Saie fún àwọn ìrìnàjò méje láàrín Safa àti Marwah, bẹ̀rẹ̀ láti Safa títí dé Marwah, pẹ̀lú àdúrà àti ìrántí.</li><li class=\"pp-ios-only\"> Àmọ̀ràn: Lo àpù Apple Watch láti ràn ọ́ lọ́wọ́ láti ka iye ìṣiṣẹ́ Saie.</li><li class=\"pp-android-only\"> Àmọ̀ràn: Lo àpù Wear OS lórí aago rẹ láti ràn ọ́ lọ́wọ́ láti ka iye ìṣiṣẹ́ Saie.</li></ul>",
+        "evidence": "Quran 2:158 ati awọn itan ododo gẹgẹbi aṣẹ ojiṣẹ naa.",
+        "referenceLabel": "Ìlànà ìrìnàjò Umrah ní Nosuk"
+      },
+      {
+        "title": "Igbese kẹfa: Gígé irun tabi fá irun ori",
+        "details": "<ul><li>Àwọn ọkùnrin máa ń fá irun tàbí kí wọ́n gé irun wọn, àwọn obìnrin sì máa ń gé irun díẹ̀ lára rẹ̀.</li><li>Pẹ̀lú èyí, Umrah parí, Ihram sì parí.</li></ul>",
+        "evidence": "Quran 48:27 àti àwọn ìtàn tó jẹ́ òótọ́ tó ní í ṣe pẹ̀lú fífá irun àti kíkúrú.",
+        "referenceLabel": "Ilé Iṣẹ́ Ìsìn Umrah àti Ìtọ́sọ́nà Ìbẹ̀wò"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Igbesẹ akọkọ: Ihram ati ero fun Hajj",
+        "details": "<ul><li>Tẹ ihram sí Miqat, pinnu irú Hajj rẹ, lẹ́yìn náà tẹ̀síwájú pẹ̀lú Talbiyah.</li><li>Tẹ̀lé àwọn òfin Ihram títí tí o fi dé ẹnu ọ̀nà Ihram.</li></ul>",
+        "evidence": "Quran 2:196 àti àwọn ìlànà àsọtẹ́lẹ̀ tí a gbà láti ìbẹ̀rẹ̀ Hajj.",
+        "referenceLabel": "Àwọn ìlànà tí Ilé Iṣẹ́ Hajj"
+      },
+      {
+        "title": "Igbesẹ Meji: Yawm at-Tarwiyah ni Mina",
+        "details": "<ul><li>Ní ọjọ́ kẹjọ oṣù Dhul Hijjah, lọ sí Mina, kí o ṣe àwọn àdúrà ní àkókò tí a yàn fún wọn, kí o sì múra sílẹ̀ nípa ti ẹ̀mí àti nípa ti ìṣètò fún ìrántí Arafah.</li></ul>",
+        "evidence": "Ìtẹ̀lé àwọn àṣà ìbílẹ̀ tí a kọ sílẹ̀ nínú ìrìn àjò ìdágbére.",
+        "referenceLabel": "Ìrìnàjò Hajj sí Nosuk"
+      },
+      {
+        "title": "Igbese kẹta: Diduro ni Arafah",
+        "details": "<ul><li>Lo ọjọ́ kẹsàn-án oṣù Dhul Hijjah ní Arafah láti gbàdúrà, láti rántí Ọlọ́run, àti láti ronúpìwàdà.</li><li>Èyí ni òpó pàtàkì nínú Hajj.</li></ul>",
+        "evidence": "Hadith: Hajj ni Arafah.",
+        "referenceLabel": "Àwọn ìlànà tí Ilé Iṣẹ́ Hajj"
+      },
+      {
+        "title": "Igbese kẹrin: Muzdalifah ati gbigba awọn okuta kekere",
+        "details": "<ul><li>Lẹ́yìn tí oòrùn bá wọ̀, lọ sí Muzdalifah, kí o gbàdúrà Maghrib àti Isha, sùn níbẹ̀, kí o sì kó àwọn òkúta jọ fún jíjí ní Mina.</li></ul>",
+        "evidence": "Ìtẹ̀lé àsọtẹ́lẹ̀ lẹ́yìn Arafah nínú àwọn ìtàn tòótọ́.",
+        "referenceLabel": "Ìrìnàjò Hajj sí Nosuk"
+      },
+      {
+        "title": "Igbese Karun: Rami, Irubo, ati Ewi",
+        "details": "<ul><li>Ní ọjọ́ Eid, nígbà tí o bá ń ju òkúta Jamarat al-Aqabah, ṣe ẹbọ níbi tí ó bá yẹ, lẹ́yìn náà, fá irun rẹ tàbí gé irun rẹ fún tahlil àkọ́kọ́.</li></ul>",
+        "evidence": "Quran 22:36-37 àti ìtẹ̀lé àwọn hadith tó jẹ́ òótọ́.",
+        "referenceLabel": "Àwọn ìlànà tí Ilé Iṣẹ́ Hajj"
+      },
+      {
+        "title": "Igbesẹ mẹfa: Tawaf al-Ifadah (awọn iyipo meje)",
+        "details": "<ul><li>Pada si Mekka lati ṣe Tawaf al-Ifadah, pari awọn iyipo meje, ki o si ṣetọju gbigbe lailewu ati tito lakoko awọn akoko ti o kun fun iṣẹ.</li><li class=\"pp-ios-only\"> Àmọ̀ràn: Lo àpù Apple Watch láti ràn ọ́ lọ́wọ́ láti ka àwọn àyíká Tawaf rẹ.</li><li class=\"pp-android-only\"> Àmọ̀ràn: Lo àpù Wear OS lórí aago rẹ láti ràn ọ́ lọ́wọ́ láti ka iye àwọn ìyípo Tawaf rẹ.</li></ul>",
+        "evidence": "Quran 22:29 àti àwọn àpèjúwe tí a kọ sílẹ̀ nípa yíyíká tí ó pọndandan.",
+        "referenceLabel": "Ìrìnàjò Hajj sí Nosuk"
+      },
+      {
+        "title": "Igbese 7: Sọ fun ẹni ti o nilo",
+        "details": "<ul><li>Ṣe Saie nígbà tí irú Hajj rẹ bá nílò rẹ̀, nígbà tí o ń ṣe àtúnṣe ìtẹ̀lé àti iye àwọn iyipo méje láàrín Safa àti Marwah.</li><li class=\"pp-ios-only\"> Àmọ̀ràn: Lo àpù Apple Watch láti ràn ọ́ lọ́wọ́ láti ka iye ìṣiṣẹ́ Saie.</li><li class=\"pp-android-only\"> Àmọ̀ràn: Lo àpù Wear OS lórí aago rẹ láti ràn ọ́ lọ́wọ́ láti ka iye ìṣiṣẹ́ Saie.</li></ul>",
+        "evidence": "Quran 2:158 àti ìlò rẹ̀ nínú ìlànà Hajj.",
+        "referenceLabel": "Àwọn ìlànà tí Ilé Iṣẹ́ Hajj"
+      },
+      {
+        "title": "Igbesẹ 8: Ayyam at-Tashriq ati Tawaf al-Wada&#39;",
+        "details": "<ul><li>Dídúró ní Mina nígbà Tashreeq láti ṣe àwọn àṣà ìjókòó Jamarat, lẹ́yìn náà kí a parí Tawaf al-Wada&#39; kí a tó kúrò ní Makkah, àyàfi àwọn tí a kò fún ní àǹfààní.</li><li class=\"pp-ios-only\"> Àmọ̀ràn: Lo àpù Apple Watch láti ràn ọ́ lọ́wọ́ láti ka àwọn àyíká Tawaf rẹ.</li><li class=\"pp-android-only\"> Àmọ̀ràn: Lo àpù Wear OS lórí aago rẹ láti ràn ọ́ lọ́wọ́ láti ka iye àwọn ìyípo Tawaf rẹ.</li></ul>",
+        "evidence": "Àwọn ìlànà tí a gbé kalẹ̀ dá lórí ìtọ́sọ́nà Quran àti ìṣe tó tọ́ ti Sunnah Ànábì.",
+        "referenceLabel": "Ìrìnàjò Hajj sí Nosuk"
+      }
+    ]
+  }
+}

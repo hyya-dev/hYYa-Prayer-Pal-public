@@ -1,0 +1,1167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Prevent horizontal overflow globally + suppress native tap/selection behaviors */
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+/* Global Typography: Unified font stacks.
+   Decoupling typography from `html[lang]` root prevents global font bleeding.
+   We use CSS `:lang()` pseudo-classes to strictly scope fonts based on DOM context.
+   This guarantees that dynamically inserted translated text inside English UI
+   forces Cairo (or other matched font) independently! */
+
+:root {
+  /* stylelint-disable-next-line value-keyword-case */
+  --pp-font-ar-ui: "Cairo", "Geeza Pro", "Tahoma", sans-serif;
+}
+
+/* Base font for all general text */
+body, button, input, select, textarea, .title-3d, .city-3d, .prayer-text, .prayer-text-secondary, .pp-text-primary, .pp-text-secondary {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Arabic Script Languages override */
+/* Applies to any element (or descendant of an element) that has lang="ar", "ur", "fa", etc. */
+/* UX Logic Layer 3: Mandatory Cairo font for ALL Arabic script layers.
+   Mixed-language UI (e.g. English settings + Arabic curated text) must set `lang="ar"` (etc.)
+   on the subtree that carries that script so :lang() applies; `dir` alone does not. */
+:lang(ar), :lang(ur), :lang(fa), :lang(ps), :lang(prs), :lang(sd), :lang(ug) {
+  font-family: "Cairo", var(--pp-font-ar-ui) !important;
+  letter-spacing: 0;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+body:lang(ar) {
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+:lang(ar) h1,
+:lang(ar) h2,
+:lang(ar) h3,
+:lang(ar) h4,
+:lang(ar) .title-3d,
+:lang(ar) .city-3d {
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+:lang(ar) button,
+:lang(ar) input,
+:lang(ar) select,
+:lang(ar) textarea {
+  line-height: 1.45;
+  font-weight: 500;
+}
+
+/*
+  Android Scaling Fix: Prevent WebView text inflation on high-DPI devices (S25 Ultra)
+  Round 4 Aggressive Fix: Global override to rule out class injection timing
+*/
+html {
+  /* Prevent font inflation */
+  touch-action: manipulation;
+}
+
+/* Android-only visual scale normalization (closer to iOS proportions) */
+html.is-android {
+  font-size: 15.5px;
+}
+
+/* Platform-specific content helpers */
+.pp-android-only {
+  display: none;
+}
+html.is-android .pp-android-only {
+  display: list-item;
+}
+html.is-android .pp-ios-only {
+  display: none;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+  position: relative;
+  min-height: 100%;
+}
+
+/* Home screen: lock vertical scroll (no bounce/scroll up or down) */
+html.home-no-scroll,
+body.home-no-scroll {
+  overflow: hidden !important;
+  overscroll-behavior: none;
+  touch-action: pan-y;
+}
+body.home-no-scroll #root {
+  overflow: hidden !important;
+  max-height: 100vh;
+}
+
+
+img,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* PrayerPal Design System - All colors MUST be HSL */
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+
+    /* ---- PrayerPal Theme-aware surfaces ---- */
+    /* Cards/buttons adapt to the active background theme (sunrise/afternoon/sunset). */
+    --pp-text-primary: #ffffff;
+    --pp-text-secondary: rgba(255, 255, 255, 0.7);
+    --pp-border-strong: rgba(204, 222, 245, 0.34);
+    --pp-border-soft: rgba(204, 222, 245, 0.26);
+    --pp-card-bg: rgba(20, 40, 70, 0.74);
+    --pp-card-bg-soft: rgba(20, 40, 70, 0.62);
+    --pp-button-bg: rgba(24, 54, 92, 0.84);
+    --pp-button-bg-soft: rgba(24, 54, 92, 0.72);
+    --pp-reading-surface: rgba(20, 40, 70, 0.9);
+    --pp-quran-reading-surface: rgba(20, 40, 70, 0.95);
+    --pp-accent: #ffffff;
+    --pp-accent-alpha: rgba(255, 255, 255, 0.85);
+
+    --pp-home-card-bg: linear-gradient(145deg, rgba(24, 54, 92, 0.72) 0%, rgba(20, 40, 70, 0.9) 100%);
+    --pp-home-card-next-bg: linear-gradient(145deg, rgba(58, 92, 138, 0.76) 0%, rgba(108, 145, 189, 0.68) 100%);
+    --pp-home-cta-bg: linear-gradient(145deg, rgba(34, 74, 124, 0.82) 0%, rgba(20, 40, 70, 0.92) 100%);
+    --pp-home-cta-border: rgba(255, 255, 255, 0.5);
+
+    --pp-header-title-color: #ffffff;
+    --pp-header-meta-color: var(--pp-text-secondary);
+    --pp-header-title-shadow: 0 1px 2px rgba(0, 0, 0, 0.55),
+      0 2px 6px rgba(0, 0, 0, 0.45);
+    --pp-header-meta-shadow: 0 1px 1px rgba(0, 0, 0, 0.48),
+      0 2px 4px rgba(0, 0, 0, 0.34);
+
+    --pp-surface-gradient: var(--pp-card-bg);
+    --pp-surface-gradient-strong: var(--pp-button-bg);
+    --pp-surface-gradient-soft: var(--pp-card-bg-soft);
+    --pp-surface-shadow:
+      0 4px 16px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+    --pp-surface-shadow-lg:
+      0 4px 16px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+    --pp-bottom-nav-height: 80px;
+    --pp-bottom-gap: 5mm;
+    --pp-bottom-safe: var(
+      --safe-area-inset-bottom,
+      env(safe-area-inset-bottom, 0px)
+    );
+    --pp-content-bottom: calc(
+      var(--pp-bottom-nav-height) + var(--pp-bottom-gap) + var(--pp-bottom-safe)
+    );
+    /* For elements that need exactly 5mm clearance above the navbar */
+    --pp-above-nav: calc(
+      var(--pp-bottom-nav-height) + 5mm + var(--pp-bottom-safe)
+    );
+    /* For scrollable content - just navbar height + safe area (no gap) */
+    --pp-nav-only: calc(var(--pp-bottom-nav-height) + var(--pp-bottom-safe));
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  button {
+    color: var(--pp-text-primary, #ffffff);
+  }
+}
+
+/* Custom fonts */
+/* Uthmanic Hafs font for Arabic Quranic text (Quran.com standard font) */
+@font-face {
+  font-family: "Uthmanic Hafs";
+  src: url("/fonts/uthmanic_hafs_v20.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amiri Quran font for Arabic Quranic text (fallback font) */
+/* Loaded via Google Fonts in index.html */
+
+.prayer-text-secondary {
+  /* Inherits from core styles */
+  color: var(--pp-header-meta-color, #ffffff);
+}
+
+/* Reduced 3D Text Effect for Screen Titles - Less blur, dark shadow */
+.title-3d {
+  color: var(--pp-header-title-color, #ffffff) !important;
+  text-shadow: var(
+    --pp-header-title-shadow,
+    0 1px 2px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.4)
+  );
+  /* Optional: font-family removed as it inherits from top selector */
+}
+
+/* City/Location name: same text shadow as page title (.title-3d), size unchanged */
+.city-3d {
+  color: var(--pp-header-title-color, #ffffff) !important;
+  text-shadow: var(
+    --pp-header-title-shadow,
+    0 1px 2px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.4)
+  );
+  /* Optional: font-family removed as it inherits from top selector */
+}
+
+@keyframes pulse-glow {
+  0%,
+  100% {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes pp-fade-in-up {
+  0% {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Smooth crossfade for switching between reading modes (page ↔ verse) */
+@keyframes pp-crossfade {
+  0% {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.pp-mode-switch {
+  animation: pp-crossfade 0.3s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+@keyframes pp-arrow-blink {
+  0%,
+  100% {
+    opacity: 0.2;
+    transform: translateY(0);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(4px);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+  animation: pp-fade-in-up 0.35s ease both;
+}
+
+.pp-view-enter {
+  animation: pp-fade-in-up 0.35s ease both;
+}
+
+.pp-fade-in-up {
+  animation: pp-fade-in-up 0.35s ease both;
+}
+
+
+/* Universal RTL Mirroring Utility */
+[dir="rtl"] .rtl-mirror {
+  transform: scaleX(-1);
+}
+
+
+
+
+/* iPad-specific layout fixes */
+/* Home Screen: Use flexbox to push content down on iPad */
+.is-ipad .home-screen-container {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-end !important;
+  padding-bottom: 0 !important;
+}
+
+/* Home Screen: Reduce mascot space on iPad */
+.is-ipad .home-mascot-space {
+  min-height: 8vh !important;
+  padding-bottom: 0.5rem !important;
+  margin-bottom: -80px !important;
+}
+
+/* Home Screen: Ensure content wrapper takes minimal space on iPad */
+.is-ipad .home-content-wrapper {
+  flex-shrink: 0 !important;
+}
+
+/* Settings Screen: Use flexbox on iPad */
+.is-ipad .settings-container {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+/* Settings Screen: Apply same flexbox fix to iPhone */
+.settings-container {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+/* Legacy SettingsScreen hardcoded utility normalization (token-scoped) */
+.settings-container .text-white {
+  color: var(--pp-text-primary) !important;
+}
+.settings-container .text-white\/90,
+.settings-container .text-white\/80,
+.settings-container .text-white\/70,
+.settings-container .text-white\/60,
+.settings-container .text-white\/55,
+.settings-container .text-white\/50,
+.settings-container .text-white\/45,
+.settings-container .text-white\/40,
+.settings-container .text-white\/30 {
+  color: var(--pp-text-secondary) !important;
+}
+
+.settings-container .border-white\/5,
+.settings-container .border-white\/10,
+.settings-container .border-white\/15,
+.settings-container .border-white\/20,
+.settings-container .border-white\/30,
+.settings-container .border-white\/40 {
+  border-color: var(--pp-border-soft) !important;
+}
+
+.settings-container .bg-white\/5,
+.settings-container .bg-white\/10 {
+  background-color: var(--pp-button-bg-soft) !important;
+}
+
+.settings-container .bg-black\/30,
+.settings-container .bg-black\/35 {
+  background-color: var(--pp-card-bg-soft) !important;
+}
+
+/* Android-only: reduce compositor-heavy effects on scroll containers */
+.is-android .settings-container .backdrop-blur-sm,
+.is-android .page-quran .backdrop-blur-sm,
+.is-android .page-library .backdrop-blur-sm {
+  -webkit-backdrop-filter: none !important;
+  backdrop-filter: none !important;
+}
+
+.is-android .settings-container .animate-fade-in,
+.is-android .settings-container .animate-fade-in-up,
+.is-android .settings-container .animate-scale-in {
+  animation: none !important;
+  transform: none !important;
+}
+
+.is-android .is-android\:no-blur {
+  -webkit-backdrop-filter: none !important;
+  backdrop-filter: none !important;
+}
+
+/* Android: keep app shell fixed, scroll only page content areas */
+.is-android .page-settings,
+.is-android .page-quran,
+.is-android .page-library {
+  height: 100% !important;
+  min-height: 0 !important;
+  overflow: hidden !important;
+}
+
+.is-android .page-scroll-content {
+  min-height: 0;
+  backface-visibility: hidden;
+}
+
+/* Settings Screen: Ensure content wrapper takes minimal space on both iPad and iPhone */
+.settings-content-wrapper {
+  flex-shrink: 0 !important;
+}
+
+/* Qibla Screen: iPad-specific - use overflow-visible for transform positioning */
+.is-ipad .qibla-compass-container {
+  overflow: visible !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex: 1 1 auto !important;
+  min-height: 0 !important;
+}
+
+/* Qibla Screen: Ensure the parent container allows overflow on iPad */
+.is-ipad .qibla-screen-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  overflow: visible !important;
+}
+
+/* Qibla Screen: Apply same centering fix to iPhone */
+.qibla-compass-container {
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+/* Qibla Screen: Ensure parent wrapper centers content on iPhone */
+.qibla-screen-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+
+
+.theme-sunrise {
+  --pp-text-primary: #ffffff;
+  --pp-text-secondary: #ffffff;
+  --pp-border-strong: rgba(204, 222, 245, 0.34);
+  --pp-border-soft: rgba(204, 222, 245, 0.26);
+  --pp-card-bg: rgba(20, 40, 70, 0.74);
+  --pp-card-bg-soft: rgba(20, 40, 70, 0.62);
+  --pp-button-bg: rgba(24, 54, 92, 0.84);
+  --pp-button-bg-soft: rgba(24, 54, 92, 0.72);
+  --pp-reading-surface: rgba(20, 40, 70, 0.9);
+  --pp-quran-reading-surface: rgba(20, 40, 70, 0.95);
+  --pp-accent: #ffffff;
+  --pp-accent-alpha: rgba(255, 255, 255, 0.85);
+
+  --pp-home-card-bg: linear-gradient(145deg, rgba(24, 54, 92, 0.72) 0%, rgba(20, 40, 70, 0.9) 100%);
+  --pp-home-card-next-bg: linear-gradient(145deg, rgba(58, 92, 138, 0.76) 0%, rgba(108, 145, 189, 0.68) 100%);
+  --pp-home-cta-bg: linear-gradient(145deg, rgba(34, 74, 124, 0.82) 0%, rgba(20, 40, 70, 0.92) 100%);
+  --pp-home-cta-border: rgba(255, 255, 255, 0.5);
+
+  --pp-header-title-color: #ffffff;
+  --pp-header-meta-color: var(--pp-text-secondary);
+  --pp-header-title-shadow: 0 1px 2px rgba(0, 0, 0, 0.55),
+    0 2px 6px rgba(0, 0, 0, 0.45);
+  --pp-header-meta-shadow: 0 1px 1px rgba(0, 0, 0, 0.48),
+    0 2px 4px rgba(0, 0, 0, 0.34);
+}
+
+.theme-afternoon {
+  --pp-text-primary: #ffffff;
+  --pp-text-secondary: #ffffff;
+  --pp-border-strong: rgba(204, 222, 245, 0.34);
+  --pp-border-soft: rgba(204, 222, 245, 0.26);
+  --pp-card-bg: rgba(20, 40, 70, 0.74);
+  --pp-card-bg-soft: rgba(20, 40, 70, 0.62);
+  --pp-button-bg: rgba(24, 54, 92, 0.84);
+  --pp-button-bg-soft: rgba(24, 54, 92, 0.72);
+  --pp-reading-surface: rgba(20, 40, 70, 0.9);
+  --pp-quran-reading-surface: rgba(20, 40, 70, 0.95);
+  --pp-accent: #ffffff;
+  --pp-accent-alpha: rgba(255, 255, 255, 0.85);
+
+  --pp-home-card-bg: linear-gradient(145deg, rgba(24, 54, 92, 0.72) 0%, rgba(20, 40, 70, 0.9) 100%);
+  --pp-home-card-next-bg: linear-gradient(145deg, rgba(58, 92, 138, 0.76) 0%, rgba(108, 145, 189, 0.68) 100%);
+  --pp-home-cta-bg: linear-gradient(145deg, rgba(34, 74, 124, 0.82) 0%, rgba(20, 40, 70, 0.92) 100%);
+  --pp-home-cta-border: rgba(255, 255, 255, 0.5);
+
+  --pp-header-title-color: #ffffff;
+  --pp-header-meta-color: var(--pp-text-secondary);
+  --pp-header-title-shadow: 0 1px 2px rgba(0, 0, 0, 0.55),
+    0 2px 6px rgba(0, 0, 0, 0.45);
+  --pp-header-meta-shadow: 0 1px 1px rgba(0, 0, 0, 0.48),
+    0 2px 4px rgba(0, 0, 0, 0.34);
+}
+
+.theme-sunset {
+  --pp-text-primary: #ffffff;
+  --pp-text-secondary: #ffffff;
+  --pp-border-strong: rgba(204, 222, 245, 0.34);
+  --pp-border-soft: rgba(204, 222, 245, 0.26);
+  --pp-card-bg: rgba(20, 40, 70, 0.74);
+  --pp-card-bg-soft: rgba(20, 40, 70, 0.62);
+  --pp-button-bg: rgba(24, 54, 92, 0.84);
+  --pp-button-bg-soft: rgba(24, 54, 92, 0.72);
+  --pp-reading-surface: rgba(20, 40, 70, 0.9);
+  --pp-quran-reading-surface: rgba(20, 40, 70, 0.95);
+  --pp-accent: #ffffff;
+  --pp-accent-alpha: rgba(255, 255, 255, 0.85);
+
+  --pp-home-card-bg: linear-gradient(145deg, rgba(24, 54, 92, 0.72) 0%, rgba(20, 40, 70, 0.9) 100%);
+  --pp-home-card-next-bg: linear-gradient(145deg, rgba(58, 92, 138, 0.76) 0%, rgba(108, 145, 189, 0.68) 100%);
+  --pp-home-cta-bg: linear-gradient(145deg, rgba(34, 74, 124, 0.82) 0%, rgba(20, 40, 70, 0.92) 100%);
+  --pp-home-cta-border: rgba(255, 255, 255, 0.5);
+
+  --pp-header-title-color: #ffffff;
+  --pp-header-meta-color: var(--pp-text-secondary);
+  --pp-header-title-shadow: 0 1px 2px rgba(0, 0, 0, 0.55),
+    0 2px 6px rgba(0, 0, 0, 0.45);
+  --pp-header-meta-shadow: 0 1px 1px rgba(0, 0, 0, 0.48),
+    0 2px 4px rgba(0, 0, 0, 0.34);
+}
+
+/* Android edge-to-edge: Capacitor injects --safe-area-inset-top on API 35+.
+   env(safe-area-inset-top) does NOT work in Android WebView;
+   inline styles use var(--safe-area-inset-top, env(…)) for cross-platform support.
+   No hardcoded Android overrides needed. */
+
+/* Responsive spacing for Home Screen Mascot/Top Area */
+/* Reduced by 1.5cm so button stack (Qibla, prayer cards, Counter) sits higher and Counter is not clipped */
+.home-mascot-spacer {
+  min-height: calc(38vh - 2.5cm);
+}
+
+/* For larger phones (Pro Max, Plus) */
+@media (min-height: 880px) {
+  .home-mascot-spacer {
+    min-height: calc(44vh - 2.5cm);
+  }
+}
+
+/* RTL (Right-to-Left) Language Support */
+/* We enforce direction: rtl at the document level to enable native mirroring.
+   Any broken flex layouts must be fixed using logical CSS properties or start/end alignment. */
+
+/* ------------------------------------------------------------
+   Performance Optimizations - CSS Containment
+   Using contain property to isolate layout/paint calculations
+   ------------------------------------------------------------ */
+
+/* Main app container - isolate layout (iOS only).
+   Android WebView: contain:layout causes rendering magnification
+   on Samsung devices when combined with nested overflow-y-auto
+   scroll containers (Quran, Library, Settings pages).
+   The is-android class is set in Index.tsx. */
+:not(.is-android) #root {
+  contain: layout;
+}
+
+
+/* Bottom navigation optimization - isolate layout, style, and paint */
+nav {
+  contain: layout style paint;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+
+/* Android-only: avoid nav containment/compositor issues */
+.is-android nav {
+  contain: none !important;
+  -webkit-backdrop-filter: none !important;
+  backdrop-filter: none !important;
+}
+
+/* CSS-based styling for components originally using inline styles */
+
+/* List mode toggle buttons (Surah/Juz) */
+.pp-list-mode-button {
+  background: var(--pp-button-bg-soft);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-secondary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-list-mode-button.pp-list-mode-active {
+  background: var(--pp-surface-gradient-soft);
+  border-color: var(--pp-accent);
+  color: var(--pp-text-primary);
+  box-shadow: 0 0 0 1px var(--pp-accent-alpha), var(--pp-surface-shadow);
+}
+
+/* Juz selection buttons */
+.pp-juz-button {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow-lg);
+}
+
+.pp-juz-button-active {
+  border-color: var(--pp-accent);
+  box-shadow: 0 0 0 1px var(--pp-accent-alpha), 0 12px 30px rgba(0,0,0,0.35);
+}
+
+/* Tafsir language toggle */
+.pp-tafsir-lang-toggle {
+  background: var(--pp-surface-gradient-strong);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+/* Tafsir language menu dropdown */
+.pp-tafsir-lang-menu {
+  background: var(--pp-surface-gradient-strong);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow-lg);
+  width: fit-content;
+  overflow-y: auto;
+}
+
+.pp-tafsir-lang-menu-maxh {
+  max-height: 60vh;
+}
+
+.pp-tafsir-lang-option {
+  color: var(--pp-text-primary);
+}
+
+.pp-tafsir-lang-option-selected {
+  border-color: var(--pp-border-soft);
+}
+
+/* Tafsir resource item button */
+.pp-tafsir-item {
+  background: var(--pp-button-bg);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-tafsir-item-index,
+.pp-tafsir-item-title {
+  color: var(--pp-text-primary);
+}
+
+.pp-tafsir-note {
+  color: #ffffff;
+  opacity: 0.85;
+}
+
+.pp-tafsir-item-unbundled {
+  border-color: var(--pp-border-soft);
+}
+
+.pp-tafsir-item-bundled {
+  border-color: var(--pp-border-soft);
+}
+
+/* Tafsir header card */
+.pp-tafsir-header {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+  isolation: isolate;
+}
+
+/* Tafsir no-content card */
+.pp-tafsir-no-content {
+  background: var(--pp-surface-gradient);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+/* Tafsir surah select dropdown container */
+.pp-tafsir-surah-select {
+  background: var(--pp-surface-gradient);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-tafsir-surah-native {
+  background: var(--pp-button-bg-soft);
+  color: var(--pp-text-primary);
+  border-color: var(--pp-border-soft);
+}
+
+.pp-tafsir-surah-native option {
+  background: #142846; /* Matching rgba(20, 40, 70) as solid hex for option tags */
+  color: #f8fafc;
+}
+
+/* Tafsir verse article cards */
+.pp-tafsir-verse {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-tafsir-justify {
+  text-align: justify;
+  text-justify: inter-word;
+  /* Prevent stretched "few words" last lines. */
+  text-align-last: start;
+  /* Improve justification aesthetics where supported. */
+  hyphens: auto;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+
+.pp-tafsir-bismillah-ar {
+  font-size: 1.32rem;
+  font-weight: 500;
+  /* Arabic connected script: no letter-spacing */
+  letter-spacing: 0;
+  line-height: 2.2rem;
+}
+
+.pp-tafsir-bismillah-l10n {
+  font-size: 1.02rem;
+  font-weight: 600;
+  letter-spacing: 0.008em;
+  line-height: 2rem;
+}
+
+.pp-tafsir-scroll-content {
+  /* Tafsir has interactive controls near the bottom; give extra clearance above the navbar. */
+  padding-bottom: var(--pp-content-bottom);
+}
+
+.pp-tafsir-status {
+  color: var(--pp-text-secondary);
+}
+
+.pp-tafsir-error {
+  color: #fca5a5;
+}
+
+/* Library home buttons */
+.pp-library-quran-btn,
+.pp-library-hisn-btn,
+.pp-library-tafsir-btn {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+/* Library retry button */
+.pp-library-retry-btn {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-anim-fill-both {
+  animation-fill-mode: both;
+}
+
+.pp-text-primary {
+  color: var(--pp-text-primary);
+}
+
+.pp-text-secondary {
+  color: var(--pp-text-secondary);
+}
+
+.pp-glass-surface-button {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-glass-surface-soft {
+  background: var(--pp-surface-gradient-soft);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-glass-surface-strong {
+  background: var(--pp-surface-gradient-strong);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow-lg);
+}
+
+.pp-curated-translations-btn {
+  background:
+    radial-gradient(120% 130% at 22% 10%, rgba(191, 227, 255, 0.35) 0%, rgba(191, 227, 255, 0) 46%),
+    linear-gradient(180deg, rgba(59, 130, 246, 0.28) 0%, rgba(29, 78, 216, 0.36) 100%),
+    var(--pp-surface-gradient-strong);
+  border-color: rgba(147, 197, 253, 0.72);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.45),
+    inset 0 -2px 0 rgba(15, 50, 122, 0.42),
+    0 8px 22px rgba(0, 0, 0, 0.38),
+    0 2px 0 rgba(96, 165, 250, 0.22);
+}
+
+.pp-curated-translations-btn:hover {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.52),
+    inset 0 -2px 0 rgba(15, 50, 122, 0.5),
+    0 12px 28px rgba(0, 0, 0, 0.42),
+    0 0 0 1px rgba(96, 165, 250, 0.36);
+}
+
+.pp-curated-translations-btn:active {
+  transform: translateY(1px) scale(0.99);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.32),
+    inset 0 -1px 0 rgba(15, 50, 122, 0.46),
+    0 5px 14px rgba(0, 0, 0, 0.35);
+}
+
+.pp-translation-compact-menu {
+  width: fit-content;
+  max-width: none;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.pp-translation-menu {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.pp-translation-option-selected {
+  border-color: var(--pp-border-soft);
+}
+
+/* Sonner: allow taps to pass through empty toast container. */
+.toaster {
+  pointer-events: none;
+}
+
+.toaster [data-sonner-toast],
+.toaster [data-sonner-toast] * {
+  pointer-events: auto;
+}
+
+.pp-quran-header-chip {
+  background: var(--pp-surface-gradient-soft);
+  border-color: var(--pp-border-strong);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-quran-scroll-content {
+  padding-bottom: var(--pp-nav-only);
+}
+
+.pp-library-scroll-content {
+  padding-bottom: var(--pp-nav-only);
+}
+
+.pp-quran-modal-card {
+  background: var(--pp-surface-gradient-strong);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow-lg);
+}
+
+.pp-quran-bookmark-row {
+  border-color: var(--pp-border-soft);
+  background: var(--pp-card-bg-soft);
+}
+
+.pp-surah-item {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  color: var(--pp-text-primary);
+  box-shadow: var(--pp-surface-shadow-lg);
+}
+
+.pp-surah-item-active {
+  background: var(--pp-button-bg);
+  border-color: #ffffff;
+  color: var(--pp-text-primary);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.7), 0 12px 30px rgba(0,0,0,0.35);
+}
+
+.pp-quran-arabic-optimized,
+.pp-quran-arabic-text {
+  font-family: var(--pp-font-ar-ui) !important;
+  /* tashkeel marks (fatha/kasra/shadda etc.) need ≥2.0 line-height to avoid clipping */
+  line-height: 2.2;
+  /* Arabic is a connected script — letter-spacing puts gaps inside words, breaking ligatures */
+  letter-spacing: 0;
+  word-spacing: 0.1em;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  /* Uthmanic Hafs is single-weight; browser bold synthesis distorts letterforms and tashkeel */
+  font-weight: normal !important;
+}
+
+.pp-quran-reading-card {
+  background: var(--pp-button-bg);
+  border-color: var(--pp-border-soft);
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-white-border-glow {
+  border-color: rgba(255, 255, 255, 0.28) !important;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.22) inset,
+    0 8px 32px rgba(255, 255, 255, 0.12),
+    0 4px 12px rgba(0, 0, 0, 0.42),
+    var(--pp-surface-shadow-lg) !important;
+}
+
+.pp-min-h-60vh {
+  min-height: 60vh;
+}
+
+.pp-quran-arabic-font {
+  font-family: var(--pp-font-ar-ui) !important;
+}
+
+.pp-quran-arabic-block {
+  line-height: 2.8;
+  text-align: justify !important;
+  text-justify: inter-word;
+  text-align-last: auto;
+  -webkit-text-align-last: auto;
+  /* Arabic connected script: letter-spacing breaks ligatures inside words */
+  letter-spacing: 0;
+  word-spacing: 0.08em;
+}
+
+
+.pp-quran-mushaf-line {
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.pp-quran-mushaf-word {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.pp-quran-translation-block {
+  line-height: 2;
+  text-align: justify !important;
+  text-justify: inter-word;
+  /* Avoid "few words stretched across full row" on the last line */
+  text-align-last: auto;
+  -webkit-text-align-last: auto;
+  word-spacing: 0.05em;
+}
+
+/* Fatiha v1 translation (Basmalah) should be centered, never justified */
+.pp-quran-translation-block .pp-quran-translation-basmalah {
+  text-align: center !important;
+  text-align-last: auto;
+  -webkit-text-align-last: auto;
+}
+
+.pp-quran-arabic-size-sm {
+  font-size: 1rem;
+}
+
+.pp-quran-arabic-size-md {
+  font-size: 1.5rem;
+}
+
+.pp-quran-arabic-size-lg {
+  font-size: 2rem;
+}
+
+.pp-quran-translation-size-sm {
+  font-size: 0.75rem;
+}
+
+.pp-quran-translation-size-md {
+  font-size: 1rem;
+}
+
+.pp-quran-translation-size-lg {
+  font-size: 1.25rem;
+}
+
+.pp-quran-arabic-verse-num-sm {
+  font-size: 11px;
+}
+
+.pp-quran-arabic-verse-num-md {
+  font-size: 17px;
+}
+
+.pp-quran-arabic-verse-num-lg {
+  font-size: 22px;
+}
+
+.pp-quran-translation-verse-num-sm {
+  font-size: 8px;
+}
+
+.pp-quran-translation-verse-num-md {
+  font-size: 11px;
+}
+
+.pp-quran-translation-verse-num-lg {
+  font-size: 14px;
+}
+
+.pp-quran-word-spacing {
+  margin-left: 0.1em;
+}
+
+.pp-sajdah-underline {
+  text-decoration: underline;
+  /* tashkeel below-line marks (kasra ِ, shadda+kasra) need extra clearance */
+  text-underline-offset: 0.35em;
+  text-decoration-color: #ffffff;
+  /* skip-ink leaves gaps where descenders/diacritics intersect the underline */
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: 1.5px;
+}
+
+.pp-sajdah-chip {
+  background: rgba(255, 255, 255, 0.22);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  color: var(--pp-accent);
+}
+
+.pp-sajdah-chip-text {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-color: var(--pp-accent);
+}
+
+.pp-accent-sajdah {
+  color: var(--pp-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-color: var(--pp-accent);
+}
+
+.pp-quran-bookmark-btn {
+  box-shadow: var(--pp-surface-shadow);
+}
+
+.pp-quran-bookmark-btn-idle {
+  background: var(--pp-button-bg);
+  color: var(--pp-text-primary);
+}
+
+.pp-quran-bookmark-btn-active {
+  background: var(--pp-button-bg);
+  color: var(--pp-text-primary);
+}
+
+/* App root containers */
+.pp-app-root {
+  overflow: hidden;
+  width: 100%;
+  max-width: 100vw;
+  position: relative;
+}
+
+.pp-app-container {
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  left: 0;
+  right: 0;
+}

@@ -1,0 +1,1449 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "56:1",
+      "verse_number": 1,
+      "text_uthmani": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "When the Occurrence occurs",
+        "fr": "Quand l'événement (le Jugement) arrivera",
+        "tr": "Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin yalan olmadığı ortaya çıkacaktır",
+        "ur": "جب وہ ہونے والا واقعہ پیش آ جائے گا",
+        "id": "Apabila terjadi hari Kiamat"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "56:2",
+      "verse_number": 2,
+      "text_uthmani": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "There is, at its occurrence, no denial",
+        "fr": "nul ne traitera sa venue de mensonge",
+        "tr": "Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin yalan olmadığı ortaya çıkacaktır",
+        "ur": "تو کوئی اس کے وقوع کو جھٹلانے والا نہ ہوگا",
+        "id": "terjadinya tidak dapat didustakan (disangkal)"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "56:3",
+      "verse_number": 3,
+      "text_uthmani": "خَافِضَةٞ رَّافِعَةٌ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "It will bring down [some] and raise up [others]",
+        "fr": "Il abaissera (les uns), il élèvera (les autres)",
+        "tr": "Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin yalan olmadığı ortaya çıkacaktır",
+        "ur": "وہ تہ و بالا کر دینے والی آفت ہوگی",
+        "id": "(Kejadian itu) merendahkan (satu golongan) dan meninggikan (golongan yang lain)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "56:4",
+      "verse_number": 4,
+      "text_uthmani": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "When the earth is shaken with convulsion",
+        "fr": "Quand la terre sera secouée violemment",
+        "tr": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz",
+        "ur": "زمین اس وقت یکبارگی ہلا ڈالی جائے گی",
+        "id": "Apabila bumi diguncangkan sedahsyat-dahsyatnya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "56:5",
+      "verse_number": 5,
+      "text_uthmani": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And the mountains are broken down, crumbling",
+        "fr": "et les montagnes seront réduites en miettes",
+        "tr": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz",
+        "ur": "اور پہاڑ اس طرح ریزہ ریزہ کر دیے جائیں گے",
+        "id": "dan gunung-gunung dihancur luluhkan sehancur-hancurnya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "56:6",
+      "verse_number": 6,
+      "text_uthmani": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And become dust dispersing",
+        "fr": "et qu'elles deviendront poussière éparpillée",
+        "tr": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz",
+        "ur": "کہ پراگندہ غبار بن کر رہ جائیں گے",
+        "id": "maka jadilah ia debu yang berterbangan"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "56:7",
+      "verse_number": 7,
+      "text_uthmani": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And you become [of] three kinds",
+        "fr": "alors vous serez trois catégories",
+        "tr": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz",
+        "ur": "تم لوگ اُس وقت تین گروہوں میں تقسیم ہو جاؤ گے",
+        "id": "dan kamu menjadi tiga golongan"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "56:8",
+      "verse_number": 8,
+      "text_uthmani": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then the companions of the right - what are the companions of the right",
+        "fr": "les gens de la droite - que sont les gens de la droite",
+        "tr": "İyi işler işlediklerini belirtmek için, amel defterleri sağdan verilenler; ne mutlu o sağcılara",
+        "ur": "دائیں بازو والے، سو دائیں بازو والوں (کی خوش نصیبی) کا کیا کہنا",
+        "id": "(yaitu golongan kanan,825) alangkah mulianya golongan kanan itu"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "56:9",
+      "verse_number": 9,
+      "text_uthmani": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And the companions of the left - what are the companions of the left",
+        "fr": "Et les gens de la gauche - que sont les gens de la gauche",
+        "tr": "Kötülük işlediklerini belirtmek üzere, amel defterleri soldan verilenler; ne yazık o solculara",
+        "ur": "اور بائیں بازو والے، تو بائیں بازو والوں (کی بد نصیبی کا) کا کیا ٹھکانا",
+        "id": "(dan golongan kiri,826) alangkah sengsaranya golongan kiri itu"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "56:10",
+      "verse_number": 10,
+      "text_uthmani": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And the forerunners, the forerunners",
+        "fr": "Les premiers (à suivre les ordres d'Allah sur la terre) ce sont eux qui seront les premiers (dans l'au-delà)",
+        "tr": "İyilik işlemekte önde olanlar, karşılıklarını almakta da önde olanlardır",
+        "ur": "اور آگے والے تو پھر آگے وا لے ہی ہیں",
+        "id": "dan orang-orang yang paling dahulu (beriman), merekalah yang paling dahulu (masuk surga)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "56:11",
+      "verse_number": 11,
+      "text_uthmani": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Those are the ones brought near [to Allah]",
+        "fr": "Ce sont ceux-là les plus rapprochés d'Allah",
+        "tr": "Naim cennetlerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır",
+        "ur": "وہی تو مقرب لوگ ہیں",
+        "id": "mereka itulah orang yang dekat (kepada Allah)"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "56:12",
+      "verse_number": 12,
+      "text_uthmani": "فِي جَنَّـٰتِ ٱلنَّعِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "In the Gardens of Pleasure",
+        "fr": "dans les Jardins des délices",
+        "tr": "Naim cennetlerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır",
+        "ur": "نعمت بھری جنتوں میں رہیں گے",
+        "id": "Berada dalam surga kenikmatan"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "56:13",
+      "verse_number": 13,
+      "text_uthmani": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "A [large] company of the former peoples",
+        "fr": "une multitude d'élus parmi les premières [générations]",
+        "tr": "Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir",
+        "ur": "اگلوں میں سے بہت ہوں گے",
+        "id": "segolongan besar dari orang-orang yang terdahulu"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "56:14",
+      "verse_number": 14,
+      "text_uthmani": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And a few of the later peoples",
+        "fr": "et un petit nombre parmi les dernières [générations]",
+        "tr": "Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir",
+        "ur": "اور پچھلوں میں سے کم",
+        "id": "dan segolongan kecil dari orang-orang yang kemudian"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "56:15",
+      "verse_number": 15,
+      "text_uthmani": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "On thrones woven [with ornament]",
+        "fr": "sur des lits ornés [d'or et de pierreries]",
+        "tr": "Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar",
+        "ur": "مرصع تختوں پر",
+        "id": "mereka berada di atas dipan-dipan yang bertahtakan emas dan permata"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "56:16",
+      "verse_number": 16,
+      "text_uthmani": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Reclining on them, facing each other",
+        "fr": "s'y accoudant et se faisant face",
+        "tr": "Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar",
+        "ur": "تکیے لگا ئے آمنے سامنے بیٹھیں گے",
+        "id": "mereka bersandar di atasnya berhadap-hadapan"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "56:17",
+      "verse_number": 17,
+      "text_uthmani": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "There will circulate among them young boys made eternal",
+        "fr": "Parmi eux circuleront des garçons éternellement jeunes",
+        "tr": "Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar",
+        "ur": "اُن کی مجلسوں میں ابدی لڑکے شراب چشمہ جاری سے",
+        "id": "Mereka dikelilingi oleh anak-anak muda yang tetap muda"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "56:18",
+      "verse_number": 18,
+      "text_uthmani": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "With vessels, pitchers and a cup [of wine] from a flowing spring",
+        "fr": "avec des coupes, des aiguières et un verre [rempli] d'une liqueur de source",
+        "tr": "Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar",
+        "ur": "لبریز پیالے کنٹر اور ساغر لیے دوڑتے پھرتے ہونگے",
+        "id": "dengan membawa gelas, cerek dan gelas besar (piala) berisi minuman yang diambil dari air yang mengalir"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "56:19",
+      "verse_number": 19,
+      "text_uthmani": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "No headache will they have therefrom, nor will they be intoxicated",
+        "fr": "qui ne leur provoquera ni maux de tête ni étourdissement",
+        "tr": "Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar",
+        "ur": "جسے پی کر نہ اُن کا سر چکرائے گا نہ ان کی عقل میں فتور آئے گا",
+        "id": "mereka tidak pening karenanya dan tidak pula mabuk"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "56:20",
+      "verse_number": 20,
+      "text_uthmani": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And fruit of what they select",
+        "fr": "et des fruits de leur choix",
+        "tr": "Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar",
+        "ur": "اور وہ اُن کے سامنے طرح طرح کے لذیذ پھل پیش کریں گے جسے چاہیں چن لیں",
+        "id": "dan buah-buahan apa pun yang mereka pilih"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "56:21",
+      "verse_number": 21,
+      "text_uthmani": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And the meat of fowl, from whatever they desire",
+        "fr": "et toute chair d'oiseau qu'ils désireront",
+        "tr": "Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar",
+        "ur": "اور پرندوں کے گوشت پیش کریں گے کہ جس پرندے کا چاہیں استعمال کریں",
+        "id": "dan daging burung apa pun yang mereka inginkan"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "56:22",
+      "verse_number": 22,
+      "text_uthmani": "وَحُورٌ عِينٞ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And [for them are] fair women with large, [beautiful] eyes",
+        "fr": "Et ils auront des houris aux yeux, grands et beaux",
+        "tr": "İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve günaha sokacak bir söz duymazlar",
+        "ur": "اور ان کے لیے خوبصورت آنکھوں والی حوریں ہونگی",
+        "id": "dan ada bidadari-bidadari yang bermata indah"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "56:23",
+      "verse_number": 23,
+      "text_uthmani": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "The likenesses of pearls well-protected",
+        "fr": "pareilles à des perles en coquille",
+        "tr": "İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve günaha sokacak bir söz duymazlar",
+        "ur": "ایسی حسین جیسے چھپا کر رکھے ہوئے موتی",
+        "id": "laksana mutiara yang tersimpan baik"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "56:24",
+      "verse_number": 24,
+      "text_uthmani": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "As reward for what they used to do",
+        "fr": "en récompense pour ce qu'ils faisaient",
+        "tr": "İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve günaha sokacak bir söz duymazlar",
+        "ur": "یہ سب کچھ اُن اعمال کی جزا کے طور پر انہیں ملے گا جو وہ دنیا میں کرتے رہے تھے",
+        "id": "Sebagai balasan atas apa yang mereka kerjakan"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "56:25",
+      "verse_number": 25,
+      "text_uthmani": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "They will not hear therein ill speech or commission of sin",
+        "fr": "Ils n'y entendront ni futilité ni blasphème",
+        "tr": "Sadece selama karşılık selam sözü işitirler",
+        "ur": "وہاں وہ کوئی بیہودہ کلام یا گناہ کی بات نہ سنیں گے",
+        "id": "Di sana mereka tidak mendengar percakapan yang sia-sia maupun yang menimbulkan dosa"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "56:26",
+      "verse_number": 26,
+      "text_uthmani": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Only a saying: \"Peace, peace",
+        "fr": "mais seulement les propos: «Salâm! Salâm!»... [Paix! Paix]",
+        "tr": "Defterleri sağdan verilenler; ne mutlu o sağcılara",
+        "ur": "جو بات بھی ہوگی ٹھیک ٹھیک ہوگی",
+        "id": "tetapi mereka mendengar ucapan salam"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "56:27",
+      "verse_number": 27,
+      "text_uthmani": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "The companions of the right - what are the companions of the right",
+        "fr": "Et les gens de la droite; que sont les gens de la droite",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور دائیں بازو والے، دائیں بازو والوں کی خوش نصیبی کا کیا کہنا",
+        "id": "Dan golongan kanan, alangkah mulianya golongan kanan itu"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "56:28",
+      "verse_number": 28,
+      "text_uthmani": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "[They will be] among lote trees with thorns removed",
+        "fr": "[Ils seront parmi] des jujubiers sans épines",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "وہ بے خار بیریوں",
+        "id": "(Mereka) berada di antara pohon bidara yang tidak berduri"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "56:29",
+      "verse_number": 29,
+      "text_uthmani": "وَطَلۡحٖ مَّنضُودٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And [banana] trees layered [with fruit]",
+        "fr": "et parmi des bananiers aux régimes bien fournis",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور تہ بر تہ چڑھے ہوئے کیلوں",
+        "id": "dan pohon pisang yang bersusun-susun (buahnya)"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "56:30",
+      "verse_number": 30,
+      "text_uthmani": "وَظِلّٖ مَّمۡدُودٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And shade extended",
+        "fr": "dans une ombre étendue",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور دور تک پھیلی ہوئی چھاؤں",
+        "id": "dan naungan yang terbentang luas"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "56:31",
+      "verse_number": 31,
+      "text_uthmani": "وَمَآءٖ مَّسۡكُوبٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And water poured out",
+        "fr": "[près] d'une eau coulant continuellement",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور ہر دم رواں پانی",
+        "id": "dan air yang mengalir terus-menerus"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "56:32",
+      "verse_number": 32,
+      "text_uthmani": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And fruit, abundant [and varied]",
+        "fr": "et des fruits abondants",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور کبھی ختم نہ ہونے والے",
+        "id": "dan buah-buahan yang banyak"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "56:33",
+      "verse_number": 33,
+      "text_uthmani": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Neither limited [to season] nor forbidden",
+        "fr": "ni interrompus ni défendus",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور بے روک ٹوک ملنے والے بکثرت پھلوں",
+        "id": "yang tidak berhenti berbuah dan tidak terlarang mengambilnya"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "56:34",
+      "verse_number": 34,
+      "text_uthmani": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And [upon] beds raised high",
+        "fr": "sur des lits surélevés",
+        "tr": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler",
+        "ur": "اور اونچی نشست گاہوں میں ہوں گے",
+        "id": "dan kasur-kasur yang tebal lagi empuk"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "56:35",
+      "verse_number": 35,
+      "text_uthmani": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We have produced the women of Paradise in a [new] creation",
+        "fr": "C'est Nous qui les avons créées à la perfection",
+        "tr": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır",
+        "ur": "ان کی بیویوں کو ہم خاص طور پر نئے سرے سے پیدا کریں گے",
+        "id": "Kami menciptakan mereka (bidadari-bidadari itu) secara langsung"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "56:36",
+      "verse_number": 36,
+      "text_uthmani": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And made them virgins",
+        "fr": "et Nous les avons faites vierges",
+        "tr": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır",
+        "ur": "اور انہیں با کرہ بنا دیں گے",
+        "id": "lalu Kami jadikan mereka perawan-perawan"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "56:37",
+      "verse_number": 37,
+      "text_uthmani": "عُرُبًا أَتۡرَابٗا",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Devoted [to their husbands] and of equal age",
+        "fr": "gracieuses, toutes de même âge",
+        "tr": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır",
+        "ur": "اپنے شوہروں کی عاشق اور عمر میں ہم سن",
+        "id": "yang penuh cinta (dan) sebaya umurnya"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "56:38",
+      "verse_number": 38,
+      "text_uthmani": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "For the companions of the right [who are]",
+        "fr": "pour les gens de la droite",
+        "tr": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır",
+        "ur": "یہ کچھ دائیں بازو والوں کے لیے ہے",
+        "id": "untuk golongan kanan"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "56:39",
+      "verse_number": 39,
+      "text_uthmani": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "A company of the former peoples",
+        "fr": "une multitude d'élus parmi les premières [générations]",
+        "tr": "Bunların bir kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir",
+        "ur": "وہ اگلوں میں سے بہت ہوں گے",
+        "id": "segolongan besar dari orang-orang yang terdahulu"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "56:40",
+      "verse_number": 40,
+      "text_uthmani": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And a company of the later peoples",
+        "fr": "et une multitude d'élus parmi les dernières [générations]",
+        "tr": "Bunların bir kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir",
+        "ur": "اور پچھلوں میں سے بھی بہت",
+        "id": "dan segolongan besar pula dari orang yang kemudian"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "56:41",
+      "verse_number": 41,
+      "text_uthmani": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And the companions of the left - what are the companions of the left",
+        "fr": "Et les gens de la gauche; que sont les gens de la gauche",
+        "tr": "Defterleri soldan verilenler; ne yazık o solculara",
+        "ur": "اور بائیں بازو والے، بائیں بازو والوں کی بد نصیبی کا کیا پوچھنا",
+        "id": "Dan golongan kiri, alangkah sengsaranya golongan kiri itu"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "56:42",
+      "verse_number": 42,
+      "text_uthmani": "فِي سَمُومٖ وَحَمِيمٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "[They will be] in scorching fire and scalding water",
+        "fr": "ils seront au milieu d'un souffle brûlant et d'une eau bouillante",
+        "tr": "İnsanın içine işleyen bir sıcaklık ve kaynar su içinde, serinliği ve hoşluğu olmayan kara bir dumanın gölgesinde bulunurlar",
+        "ur": "وہ لو کی لپٹ اور کھولتے ہوئے پانی",
+        "id": "(Mereka) dalam siksaan angin yang sangat panas dan air yang mendidih"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "56:43",
+      "verse_number": 43,
+      "text_uthmani": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And a shade of black smoke",
+        "fr": "à l'ombre d'une fumée noire",
+        "tr": "İnsanın içine işleyen bir sıcaklık ve kaynar su içinde, serinliği ve hoşluğu olmayan kara bir dumanın gölgesinde bulunurlar",
+        "ur": "اور کالے دھوئیں کے سائے میں ہوں گے",
+        "id": "dan naungan asap yang hitam"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "56:44",
+      "verse_number": 44,
+      "text_uthmani": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Neither cool nor beneficial",
+        "fr": "ni fraîche, ni douce",
+        "tr": "İnsanın içine işleyen bir sıcaklık ve kaynar su içinde, serinliği ve hoşluğu olmayan kara bir dumanın gölgesinde bulunurlar",
+        "ur": "جو نہ ٹھنڈا ہوگا نہ آرام دہ",
+        "id": "tidak sejuk dan tidak menyenangkan"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "56:45",
+      "verse_number": 45,
+      "text_uthmani": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Indeed they were, before that, indulging in affluence",
+        "fr": "Ils vivaient auparavant dans le luxe",
+        "tr": "Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük günah işlemekte direnir dururlardı",
+        "ur": "یہ وہ لوگ ہوں گے جو اِس انجام کو پہنچنے سے پہلے خوشحال تھے",
+        "id": "Sesungguhnya mereka sebelum itu (dahulu) hidup bermewah-mewah"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "56:46",
+      "verse_number": 46,
+      "text_uthmani": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And they used to persist in the great violation",
+        "fr": "Ils persistaient dans le grand péché [le polythéisme]",
+        "tr": "Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük günah işlemekte direnir dururlardı",
+        "ur": "اور گناہ عظیم پر اصرار کرتے تھے",
+        "id": "dan mereka terus-menerus mengerjakan dosa yang besar"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "56:47",
+      "verse_number": 47,
+      "text_uthmani": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected",
+        "fr": "et disaient: «Quand nous mourrons et serons poussière et ossements, serons-nous ressuscités",
+        "tr": "Şöyle söylerlerdi: \"Öldüğümüzde, toprak ve kemik yığını olduğumuzda mı, biz mi tekrar dirileceğiz",
+        "ur": "کہتے تھے \"کیا جب ہم مر کر خاک ہو جائیں گے اور ہڈیوں کا پنجر رہ جائیں گے تو پھر اٹھا کھڑے کیے جائیں گے؟",
+        "id": "dan mereka berkata, \"Apabila kami sudah mati, menjadi tanah dan tulang-belulang, apakah kami benar-benar akan dibangkitkan kembali"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "56:48",
+      "verse_number": 48,
+      "text_uthmani": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And our forefathers [as well]",
+        "fr": "ainsi que nos anciens ancêtres?..»",
+        "tr": "Önce gelip geçmiş babalarımız da mı",
+        "ur": "اور کیا ہمارے وہ باپ دادا بھی اٹھائے جائیں گے جو پہلے گزر چکے ہیں؟",
+        "id": "Apakah nenek moyang kami yang terdahulu (dibangkitkan pula)"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "56:49",
+      "verse_number": 49,
+      "text_uthmani": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Say, [O Muhammad], \"Indeed, the former and the later peoples",
+        "fr": "Dis: «En vérité les premiers et les derniers",
+        "tr": "De ki: \"Şüphesiz öncekiler de, sonrakiler de belli bir günün belirli bir vaktinde toplanacaklardır",
+        "ur": "اے نبیؐ، اِن لوگوں سے کہو، یقیناً اگلے اور پچھلے سب",
+        "id": "Katakanlah, \"(Ya), sesungguhnya orang-orang yang terdahulu dan yang kemudian"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "56:50",
+      "verse_number": 50,
+      "text_uthmani": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Are to be gathered together for the appointment of a known Day",
+        "fr": "seront réunis pour le rendez-vous d'un jour connu»",
+        "tr": "De ki: \"Şüphesiz öncekiler de, sonrakiler de belli bir günün belirli bir vaktinde toplanacaklardır",
+        "ur": "ایک دن ضرور جمع کیے جانے والے ہیں جس کا وقت مقرر کیا جا چکا ہے",
+        "id": "pasti semua akan dikumpulkan pada waktu tertentu, pada hari yang sudah dimaklumi"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "56:51",
+      "verse_number": 51,
+      "text_uthmani": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then indeed you, O those astray [who are] deniers",
+        "fr": "Et puis, vous, les égarés, qui traitiez (la Résurrection) de mensonge",
+        "tr": "Sonra, siz ey sapıklar, yalanlayanlar",
+        "ur": "پھر اے گمراہو اور جھٹلانے والو",
+        "id": "Kemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "56:52",
+      "verse_number": 52,
+      "text_uthmani": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Will be eating from trees of zaqqum",
+        "fr": "vous mangerez certainement d'un arbre de Zaqqûm",
+        "tr": "Doğrusu bir zakkum ağacından yiyeceksiniz",
+        "ur": "تم شجر زقوم کی غذا کھانے والے ہو",
+        "id": "pasti akan memakan pohon zaqqum"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "56:53",
+      "verse_number": 53,
+      "text_uthmani": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And filling with it your bellies",
+        "fr": "vous vous en remplirez le ventre",
+        "tr": "Karınlarınızı onunla dolduracaksınız",
+        "ur": "اُسی سے تم پیٹ بھرو گے",
+        "id": "Maka akan penuh perutmu dengannya"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "56:54",
+      "verse_number": 54,
+      "text_uthmani": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And drinking on top of it from scalding water",
+        "fr": "puis vous boirez par-dessus cela de l'eau bouillante",
+        "tr": "Onun üzerine kaynar su içeceksiniz",
+        "ur": "اور اوپر سے کھولتا ہوا پانی",
+        "id": "Setelah itu kamu akan memimun air yang sangat panas"
+      }
+    },
+    {
+      "id": 55,
+      "verse_key": "56:55",
+      "verse_number": 55,
+      "text_uthmani": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And will drink as the drinking of thirsty camels",
+        "fr": "vous en boirez comme boivent les chameaux assoiffés",
+        "tr": "Hem de susamış develerin suya saldırışı gibi içeceksiniz",
+        "ur": "تونس لگے ہوئے اونٹ کی طرح پیو گے",
+        "id": "Maka kamu minum seperti unta (yang sangat haus) minum"
+      }
+    },
+    {
+      "id": 56,
+      "verse_key": "56:56",
+      "verse_number": 56,
+      "text_uthmani": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "That is their accommodation on the Day of Recompense",
+        "fr": "Voilà le repas d'accueil qui leur sera servi, au jour de la Rétribution",
+        "tr": "İşte onlara, ceza günü sunulacak konukluk budur",
+        "ur": "یہ ہے بائیں والوں کی ضیافت کا سامان روز جزا میں",
+        "id": "Itulah hidangan untuk mereka pada hari pembalasan"
+      }
+    },
+    {
+      "id": 57,
+      "verse_key": "56:57",
+      "verse_number": 57,
+      "text_uthmani": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "We have created you, so why do you not believe",
+        "fr": "C'est Nous qui vous avons créés. Pourquoi ne croiriez-vous donc pas [à la résurrection]",
+        "tr": "Sizi yaratan Biziz; hala tasdik etmez misiniz",
+        "ur": "ہم نے تمہیں پیدا کیا ہے پھر کیوں تصدیق نہیں کرتے؟",
+        "id": "Kami telah menciptakan kamu, mengapa kamu tidak membenarkan (hari berbangkit)"
+      }
+    },
+    {
+      "id": 58,
+      "verse_key": "56:58",
+      "verse_number": 58,
+      "text_uthmani": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Have you seen that which you emit",
+        "fr": "Voyez-vous donc ce que vous éjaculez",
+        "tr": "Söyleyin; akıttığınız meniden insanı yaratan siz misiniz, yoksa Biz mi yaratmaktayız",
+        "ur": "کبھی تم نے غور کیا، یہ نطفہ جو تم ڈالتے ہو",
+        "id": "Maka adakah kamu perhatikan, tentang (benih manusia) yang kamu pancarkan"
+      }
+    },
+    {
+      "id": 59,
+      "verse_key": "56:59",
+      "verse_number": 59,
+      "text_uthmani": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Is it you who creates it, or are We the Creator",
+        "fr": "est-ce vous qui le créez ou [en] sommes Nous le Créateur",
+        "tr": "Söyleyin; akıttığınız meniden insanı yaratan siz misiniz, yoksa Biz mi yaratmaktayız",
+        "ur": "اس سے بچہ تم بناتے ہو یا اس کے بنانے والے ہم ہیں؟",
+        "id": "Kamukah yang menciptakannya, ataukah Kami penciptanya"
+      }
+    },
+    {
+      "id": 60,
+      "verse_key": "56:60",
+      "verse_number": 60,
+      "text_uthmani": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "We have decreed death among you, and We are not to be outdone",
+        "fr": "Nous avons prédéterminé la mort parmi vous. Nous ne serons point empêchés",
+        "tr": "Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez",
+        "ur": "ہم نے تمہارے درمیان موت کو تقسیم کیا ہے، اور ہم اِس سے عاجز نہیں ہیں",
+        "id": "Kami telah menentukan kematian masing-masing kamu dan Kami tidak lemah"
+      }
+    },
+    {
+      "id": 61,
+      "verse_key": "56:61",
+      "verse_number": 61,
+      "text_uthmani": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "In that We will change your likenesses and produce you in that [form] which you do not know",
+        "fr": "de vous remplacer par vos semblables, et vous faire renaître dans [un état] que vous ne savez pas",
+        "tr": "Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez",
+        "ur": "کہ تمہاری شکلیں بدل دیں اور کسی ایسی شکل میں تمہیں پیدا کر دیں جس کو تم نہیں جانتے",
+        "id": "untuk menggantikan kamu dengan orang-orang yang seperti kamu (di dunia) dan membangkitkan kamu kelak (di akhirat) dalam keadaan yang tidak kamu ketahui"
+      }
+    },
+    {
+      "id": 62,
+      "verse_key": "56:62",
+      "verse_number": 62,
+      "text_uthmani": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And you have already known the first creation, so will you not remember",
+        "fr": "Vous avez connu la première création. Ne vous rappelez-vous donc pas",
+        "tr": "And olsun ki, ilk yaratmayı bilirsiniz, yine de düşünmez misiniz",
+        "ur": "اپنی پہلی پیدائش کو تو تم جانتے ہو، پھر کیوں سبق نہیں لیتے؟",
+        "id": "Dan sungguh, kamu telah tahu penciptaan yang pertama, mengapa kamu tidak mengambil pelajaran"
+      }
+    },
+    {
+      "id": 63,
+      "verse_key": "56:63",
+      "verse_number": 63,
+      "text_uthmani": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And have you seen that [seed] which you sow",
+        "fr": "Voyez-vous donc ce que vous labourez",
+        "tr": "Söyleyin, ektiklerinizi yerden bitirenler sizler misiniz, yoksa Biz mi bitiriyoruz",
+        "ur": "کبھی تم نے سوچا، یہ بیج جو تم بوتے ہو",
+        "id": "Pernahkah kamu perhatikan benih yang kamu tanam"
+      }
+    },
+    {
+      "id": 64,
+      "verse_key": "56:64",
+      "verse_number": 64,
+      "text_uthmani": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Is it you who makes it grow, or are We the grower",
+        "fr": "Est-ce vous qui le cultivez? ou [en] sommes Nous le cultivateur",
+        "tr": "Söyleyin, ektiklerinizi yerden bitirenler sizler misiniz, yoksa Biz mi bitiriyoruz",
+        "ur": "اِن سے کھیتیاں تم اگاتے ہو یا اُن کے اگانے والے ہم ہیں؟",
+        "id": "Kamukah yang menumbuhkannya ataukah Kami yang menumbuhkan"
+      }
+    },
+    {
+      "id": 65,
+      "verse_key": "56:65",
+      "verse_number": 65,
+      "text_uthmani": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "If We willed, We could make it [dry] debris, and you would remain in wonder",
+        "fr": "Si Nous voulions, Nous le réduirions en débris. Et vous ne cesseriez pas de vous étonner et [de crier]",
+        "tr": "Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; \"Doğrusu borç altına girdik, hatta yoksun kaldık",
+        "ur": "ہم چاہیں تو ان کھیتیوں کو بھس بنا کر رکھ دیں اور تم طرح طرح کی باتیں بناتے رہ جاؤ",
+        "id": "Sekiranya Kami kehendaki, niscaya Kami hancurkan sampai lumat; maka kamu akan heran tercengang"
+      }
+    },
+    {
+      "id": 66,
+      "verse_key": "56:66",
+      "verse_number": 66,
+      "text_uthmani": "إِنَّا لَمُغۡرَمُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "[Saying], \"Indeed, we are [now] in debt",
+        "fr": "«Nous voilà endettés",
+        "tr": "Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; \"Doğrusu borç altına girdik, hatta yoksun kaldık",
+        "ur": "کہ ہم پر تو الٹی چٹی پڑ گئی",
+        "id": "(sambil berkata), \"Sungguh, kami benar-benar menderita kerugian"
+      }
+    },
+    {
+      "id": 67,
+      "verse_key": "56:67",
+      "verse_number": 67,
+      "text_uthmani": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Rather, we have been deprived",
+        "fr": "ou plutôt, exposés aux privations»",
+        "tr": "Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; \"Doğrusu borç altına girdik, hatta yoksun kaldık",
+        "ur": "بلکہ ہمارے تو نصیب ہی پھوٹے ہوئے ہیں",
+        "id": "bahkan kami tidak mendapat hasil apa pun"
+      }
+    },
+    {
+      "id": 68,
+      "verse_key": "56:68",
+      "verse_number": 68,
+      "text_uthmani": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And have you seen the water that you drink",
+        "fr": "Voyez-vous donc l'eau que vous buvez",
+        "tr": "Söyleyin; içtiğiniz suyu buluttan indirenler sizler misiniz yoksa onu Biz mi indiririz",
+        "ur": "کبھی تم نے آنکھیں کھول کر دیکھا، یہ پانی جو تم پیتے ہو",
+        "id": "Pernahkah kamu memperhatikan air yang kamu minum"
+      }
+    },
+    {
+      "id": 69,
+      "verse_key": "56:69",
+      "verse_number": 69,
+      "text_uthmani": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Is it you who brought it down from the clouds, or is it We who bring it down",
+        "fr": "Est-ce vous qui l'avez fait descendre du nuage? ou [en] sommes Nous le descendeur",
+        "tr": "Söyleyin; içtiğiniz suyu buluttan indirenler sizler misiniz yoksa onu Biz mi indiririz",
+        "ur": "اِسے تم نے بادل سے برسایا ہے یا اِس کے برسانے والے ہم ہیں؟",
+        "id": "Kamukah yang menurunkannya dari awan ataukah Kami yang menurunkan"
+      }
+    },
+    {
+      "id": 70,
+      "verse_key": "56:70",
+      "verse_number": 70,
+      "text_uthmani": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "If We willed, We could make it bitter, so why are you not grateful",
+        "fr": "Si Nous voulions, Nous la rendrions salée. Pourquoi n'êtes-vous donc pas reconnaissants",
+        "tr": "Dileseydik onu acılaştırırdık; hala şükretmez misiniz",
+        "ur": "ہم چاہیں تو اسے سخت کھاری بنا کر رکھ دیں، پھر کیوں تم شکر گزار نہیں ہوتے؟",
+        "id": "Sekiranya Kami menghendaki, niscaya Kami menjadikannya asin, mengapa kamu tidak bersyukur"
+      }
+    },
+    {
+      "id": 71,
+      "verse_key": "56:71",
+      "verse_number": 71,
+      "text_uthmani": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And have you seen the fire that you ignite",
+        "fr": "Voyez-vous donc le feu que vous obtenez par frottement",
+        "tr": "Söyleyin; yaktığınız ateşin ağacını var eden sizler misiniz, yoksa onu Biz mi var ederiz",
+        "ur": "کبھی تم نے خیال کیا، یہ آگ جو تم سلگاتے ہو",
+        "id": "Maka pernahkah kamu memperhatikan tentang api yang kamu nyalakan (dengan kayu)"
+      }
+    },
+    {
+      "id": 72,
+      "verse_key": "56:72",
+      "verse_number": 72,
+      "text_uthmani": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Is it you who produced its tree, or are We the producer",
+        "fr": "Est-ce vous qui avez créé son arbre ou [en] sommes Nous le Créateur",
+        "tr": "Söyleyin; yaktığınız ateşin ağacını var eden sizler misiniz, yoksa onu Biz mi var ederiz",
+        "ur": "اِس کا درخت تم نے پیدا کیا ہے، یا اس کے پیدا کرنے والے ہم ہیں؟",
+        "id": "Kamukah yang menumbuhkan kayu itu ataukah Kami yang menumbuhkan"
+      }
+    },
+    {
+      "id": 73,
+      "verse_key": "56:73",
+      "verse_number": 73,
+      "text_uthmani": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "We have made it a reminder and provision for the travelers",
+        "fr": "Nous en avons fait un rappel (de l'Enfer), et un élément utile pour ceux qui en ont besoin",
+        "tr": "Biz onu bir ibret ve çölde konaklayanlar için yararlı kıldık",
+        "ur": "ہم نے اُس کو یاد دہانی کا ذریعہ اور حاجت مندوں کے لیے سامان زیست بنایا ہے",
+        "id": "Kami menjadikannya (api itu) untuk peringatan dan bahan yang berguna bagi musafir"
+      }
+    },
+    {
+      "id": 74,
+      "verse_key": "56:74",
+      "verse_number": 74,
+      "text_uthmani": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "So exalt the name of your Lord, the Most Great",
+        "fr": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+        "tr": "Öyleyse çok büyük Rabbinin adını tesbih et",
+        "ur": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو",
+        "id": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahabesar"
+      }
+    },
+    {
+      "id": 75,
+      "verse_key": "56:75",
+      "verse_number": 75,
+      "text_uthmani": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then I swear by the setting of the stars",
+        "fr": "Non!.. Je jure par les positions des étoiles (dans le firmament)",
+        "tr": "Hayır; yıldızların yerleri üzerine yemin ederim; ki bunun ne büyük yemin olduğunu bir bilseniz",
+        "ur": "پس نہیں، میں قسم کھاتا ہوں تاروں کے مواقع کی",
+        "id": "Lalu Aku bersumpah dengan tempat beredarnya bintang-bintang"
+      }
+    },
+    {
+      "id": 76,
+      "verse_key": "56:76",
+      "verse_number": 76,
+      "text_uthmani": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And indeed, it is an oath - if you could know - [most] great",
+        "fr": "Et c'est vraiment un serment solennel, si vous saviez",
+        "tr": "Hayır; yıldızların yerleri üzerine yemin ederim; ki bunun ne büyük yemin olduğunu bir bilseniz",
+        "ur": "اور اگر تم سمجھو تو یہ بہت بڑی قسم ہے",
+        "id": "Dan sesungguhnya itu benar-benar sumpah yang besar sekiranya kamu mengetahui"
+      }
+    },
+    {
+      "id": 77,
+      "verse_key": "56:77",
+      "verse_number": 77,
+      "text_uthmani": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Indeed, it is a noble Qur'an",
+        "fr": "Et c'est certainement un Coran noble",
+        "tr": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir",
+        "ur": "کہ یہ ایک بلند پایہ قرآن ہے",
+        "id": "dan (ini) sesungguhnya Alquran yang sangat mulia"
+      }
+    },
+    {
+      "id": 78,
+      "verse_key": "56:78",
+      "verse_number": 78,
+      "text_uthmani": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "In a Register well-protected",
+        "fr": "dans un Livre bien gardé",
+        "tr": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir",
+        "ur": "ایک محفوظ کتاب میں ثبت",
+        "id": "dalam Kitab yang terpelihara (Lauḥ Maḥfūẓ)"
+      }
+    },
+    {
+      "id": 79,
+      "verse_key": "56:79",
+      "verse_number": 79,
+      "text_uthmani": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "None touch it except the purified",
+        "fr": "que seuls les purifiés touchent",
+        "tr": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir",
+        "ur": "جسے مطہرین کے سوا کوئی چھو نہیں سکتا",
+        "id": "tidak ada yang menyentuhnya selain hamba-hamba yang disucikan"
+      }
+    },
+    {
+      "id": 80,
+      "verse_key": "56:80",
+      "verse_number": 80,
+      "text_uthmani": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "[It is] a revelation from the Lord of the worlds",
+        "fr": "C'est une révélation de la part du Seigneur de l'Univers",
+        "tr": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir",
+        "ur": "یہ رب العالمین کا نازل کردہ ہے",
+        "id": "Diturunkan dari Tuhan seluruh alam"
+      }
+    },
+    {
+      "id": 81,
+      "verse_key": "56:81",
+      "verse_number": 81,
+      "text_uthmani": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then is it to this statement that you are indifferent",
+        "fr": "Est-ce ce discours-là que vous traitez de mensonge",
+        "tr": "Siz bu sözü mü hor görüyorsunuz",
+        "ur": "پھر کیا اس کلام کے ساتھ تم بے اعتنائی برتتے ہو",
+        "id": "Apakah kamu menganggap remeh berita ini (Alquran)"
+      }
+    },
+    {
+      "id": 82,
+      "verse_key": "56:82",
+      "verse_number": 82,
+      "text_uthmani": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And make [the thanks for] your provision that you deny [the Provider]",
+        "fr": "Et est-ce pour vous [une façon d'être reconnaissant] à votre subsistance que de traiter (le Coran) de mensonge",
+        "tr": "Rızkınıza şükredeceğiniz yere onu vereni mi yalanlıyorsunuz",
+        "ur": "اور اِس نعمت میں اپنا حصہ تم نے یہ رکھا ہے کہ اِسے جھٹلاتے ہو؟",
+        "id": "dan kamu menjadikan rezeki yang kamu terima (dari Allah) justru untuk mendustakan(-Nya)"
+      }
+    },
+    {
+      "id": 83,
+      "verse_key": "56:83",
+      "verse_number": 83,
+      "text_uthmani": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then why, when the soul at death reaches the throat",
+        "fr": "Lorsque le souffle de la vie remonte à la gorge (d'un moribond)",
+        "tr": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz",
+        "ur": "تو جب مرنے والے کی جان حلق تک پہنچ چکی ہوتی ہے",
+        "id": "Maka kalau begitu mengapa (tidak mencegah) ketika (nyawa) telah sampai di kerongkongan"
+      }
+    },
+    {
+      "id": 84,
+      "verse_key": "56:84",
+      "verse_number": 84,
+      "text_uthmani": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And you are at that time looking on",
+        "fr": "et qu'à ce moment là vous regardez",
+        "tr": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz",
+        "ur": "اور تم آنکھوں سے دیکھ رہے ہوتے ہو کہ وہ مر رہا ہے،",
+        "id": "dan kamu ketika itu melihat"
+      }
+    },
+    {
+      "id": 85,
+      "verse_key": "56:85",
+      "verse_number": 85,
+      "text_uthmani": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And Our angels are nearer to him than you, but you do not see",
+        "fr": "et que Nous sommes plus proche de lui que vous [qui l'entourez] mais vous ne [le] voyez point",
+        "tr": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz",
+        "ur": "اُس وقت تمہاری بہ نسبت ہم اُس کے زیادہ قریب ہوتے ہیں مگر تم کو نظر نہیں آتے",
+        "id": "dan Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat"
+      }
+    },
+    {
+      "id": 86,
+      "verse_key": "56:86",
+      "verse_number": 86,
+      "text_uthmani": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then why do you not, if you are not to be recompensed",
+        "fr": "Pourquoi donc, si vous croyez que vous n'avez pas de compte à rendre",
+        "tr": "Siz dirilip yaptıklarınıza karşılık görmeyecekseniz ve eğer bu sözünüzde samimi iseniz, o çıkmak üzere olan canı geri çevirsenize",
+        "ur": "اب اگر تم کسی کے محکوم نہیں ہو اور اپنے اِس خیال میں سچے ہو،",
+        "id": "maka mengapa jika kamu memang tidak dikuasai (oleh Allah)"
+      }
+    },
+    {
+      "id": 87,
+      "verse_key": "56:87",
+      "verse_number": 87,
+      "text_uthmani": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Bring it back, if you should be truthful",
+        "fr": "ne la faites-vous pas revenir [cette âme], si vous êtes véridiques",
+        "tr": "Siz dirilip yaptıklarınıza karşılık görmeyecekseniz ve eğer bu sözünüzde samimi iseniz, o çıkmak üzere olan canı geri çevirsenize",
+        "ur": "اُس وقت اُس کی نکلتی ہوئی جان کو واپس کیوں نہیں لے آتے؟",
+        "id": "kamu tidak mengembalikannya (nyawa itu) jika kamu orang yang benar"
+      }
+    },
+    {
+      "id": 88,
+      "verse_key": "56:88",
+      "verse_number": 88,
+      "text_uthmani": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And if the deceased was of those brought near to Allah",
+        "fr": "Si celui-ci est du nombre des rapprochés (d'Allah)",
+        "tr": "Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet cenneti onundur",
+        "ur": "پھر وہ مرنے والا اگر مقربین میں سے ہو",
+        "id": "Jika dia (orang yang mati) itu termasuk yang didekatkan (kepada Allah)"
+      }
+    },
+    {
+      "id": 89,
+      "verse_key": "56:89",
+      "verse_number": 89,
+      "text_uthmani": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then [for him is] rest and bounty and a garden of pleasure",
+        "fr": "alors (il aura) du repos, de la grâce et un Jardin de délices",
+        "tr": "Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet cenneti onundur",
+        "ur": "تو اس کے لیے راحت اور عمدہ رزق اور نعمت بھری جنت ہے",
+        "id": "maka dia memperoleh ketenteraman dan rezeki serta surga (yang penuh) kenikmatan"
+      }
+    },
+    {
+      "id": 90,
+      "verse_key": "56:90",
+      "verse_number": 90,
+      "text_uthmani": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And if he was of the companions of the right",
+        "fr": "Et s'il est du nombre des gens de la droite",
+        "tr": "Eğer defteri sağdan verilenlerden ise",
+        "ur": "اور اگر وہ اصحاب یمین میں سے ہو",
+        "id": "Dan jika dia termasuk golongan kanan"
+      }
+    },
+    {
+      "id": 91,
+      "verse_key": "56:91",
+      "verse_number": 91,
+      "text_uthmani": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right",
+        "fr": "il sera [accueilli par ces mots]: «Paix à toi» de la part des gens de la droite",
+        "tr": "Ey sağcılardan olan kişi, sana selam olsun!\" denir",
+        "ur": "تو اس کا استقبال یوں ہوتا ہے کہ سلام ہے تجھے، تو اصحاب الیمین میں سے ہے",
+        "id": "maka, \"Salam bagimu (wahai) dari golongan kanan!\" (sambut malaikat)"
+      }
+    },
+    {
+      "id": 92,
+      "verse_key": "56:92",
+      "verse_number": 92,
+      "text_uthmani": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "But if he was of the deniers [who were] astray",
+        "fr": "Et s'il est de ceux qui avaient traité de mensonge (la résurrection) et s'étaient égarés",
+        "tr": "Eğer, sapık yalancılardan ise",
+        "ur": "اور اگر وہ جھٹلانے والے گمراہ لوگوں میں سے ہو",
+        "id": "Namun jika dia termasuk golongan yang mendustakan dan sesat"
+      }
+    },
+    {
+      "id": 93,
+      "verse_key": "56:93",
+      "verse_number": 93,
+      "text_uthmani": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Then [for him is] accommodation of scalding water",
+        "fr": "alors, il sera installé dans une eau bouillante",
+        "tr": "Ona kaynar sudan konukluk sunulur",
+        "ur": "تو اس کی تواضع کے لیے کھولتا ہوا پانی ہے",
+        "id": "maka dia disambut siraman air yang mendidih"
+      }
+    },
+    {
+      "id": 94,
+      "verse_key": "56:94",
+      "verse_number": 94,
+      "text_uthmani": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "And burning in Hellfire",
+        "fr": "et il brûlera dans la Fournaise",
+        "tr": "Cehenneme sokulur",
+        "ur": "اور جہنم میں جھونکا جانا",
+        "id": "dan dibakar di dalam neraka"
+      }
+    },
+    {
+      "id": 95,
+      "verse_key": "56:95",
+      "verse_number": 95,
+      "text_uthmani": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "Indeed, this is the true certainty",
+        "fr": "C'est cela la pleine certitude",
+        "tr": "Doğrusu kesin gerçek budur",
+        "ur": "یہ سب کچھ قطعی حق ہے",
+        "id": "Sungguh, inilah keyakinan yang benar"
+      }
+    },
+    {
+      "id": 96,
+      "verse_key": "56:96",
+      "verse_number": 96,
+      "text_uthmani": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "chapter_id": 56,
+      "words": [],
+      "translations": {
+        "en": "So exalt the name of your Lord, the Most Great",
+        "fr": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+        "tr": "Öyleyse çok büyük Rabbinin adını tesbih et",
+        "ur": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو",
+        "id": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahabesar"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 56,
+    "name_arabic": "الواقعة",
+    "name_english": "Al-Waqi'ah"
+  }
+}

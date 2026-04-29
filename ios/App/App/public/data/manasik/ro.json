@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Primul pas: Intenția și Ihram",
+        "details": "<ul><li>Intenționați să faceți Umrah, să intrați în Ihram la Miqat și să începeți Talbiyah.</li><li>El a respectat interdicțiile Ihram și a finalizat purificarea ritualică înainte de a începe ritualul.</li></ul>",
+        "evidence": "Quran 2:196 și anul începerii ritualurilor de la Miqat.",
+        "referenceLabel": "Ministerul Umrah și ghid de vizitare"
+      },
+      {
+        "title": "Pasul doi: Intrarea în Al-Masjid Al-Haram",
+        "details": "<ul><li>Intrați în liniște, cu rugăciune și smerenie.</li><li>Începeți din partea care facilitează deplasarea în siguranță prin mulțime, apoi îndreptați-vă spre zona Tawaf.</li></ul>",
+        "evidence": "Îndrumări profetice generale privind eticheta în moschei și facilitarea slujbelor religioase.",
+        "referenceLabel": "Centrul de Conștientizare Ministerială"
+      },
+      {
+        "title": "Pasul trei: Tawaf (șapte circuite)",
+        "details": "<ul><li>Execută Tawaf în jurul Kaabah de șapte ori, începând de la linia Black Stone.</li><li>Adu-ți aminte încontinuu de Dumnezeu și evită să-i faci rău altora în mișcările mulțimii.</li><li class=\"pp-ios-only\"> Sfat: Folosește aplicația Apple Watch pentru a număra circuitele Tawaf.</li><li class=\"pp-android-only\"> Sfat: Folosește aplicația Wear OS de pe ceas pentru a-ți număra circuitele Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 și descrierile documentate ale circumambulației Profetului.",
+        "referenceLabel": "Ghiduri pentru călătoria de Umrah în Nosuk"
+      },
+      {
+        "title": "Pasul patru: Rugăciunea după Tawaf",
+        "details": "<ul><li>Rugați-vă de două rak&#39;ah-uri după finalizarea Tawaf, dacă este posibil fără a dăuna congregației, apoi continuați într-un mod organizat să beți apă Zamzam.</li></ul>",
+        "evidence": "O practică bine stabilită în haditurile autentice privind rugăciunea de după Tawaf.",
+        "referenceLabel": "Ministerul Umrah și ghid de vizitare"
+      },
+      {
+        "title": "Pasul cinci: Saie între Safa și Marwah",
+        "details": "<ul><li>Efectuați Saie timp de șapte circuite între Safa și Marwah, începând din Safa și terminând la Marwah, cu rugăciune și amintire.</li><li class=\"pp-ios-only\"> Sfat: Folosește aplicația Apple Watch pentru a număra alergările Saie.</li><li class=\"pp-android-only\"> Sfat: Folosește aplicația Wear OS de pe ceas pentru a număra alergările Saie.</li></ul>",
+        "evidence": "Quran 2:158 și narațiunile autentice conform rânduielii mesagerului.",
+        "referenceLabel": "Ghiduri pentru călătoria de Umrah în Nosuk"
+      },
+      {
+        "title": "Pasul șase: Tuns sau bărbierit",
+        "details": "<ul><li>Bărbații se rad sau se tund, iar femeile tund o mică porțiune din el.</li><li>Și cu aceasta, Umrah se termină și Ihram se termină.</li></ul>",
+        "evidence": "Quran 48:27 și narațiunile autentice legate de ras și scurtare.",
+        "referenceLabel": "Ministerul Umrah și ghid de vizitare"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Primul pas: Ihram și intenția pentru Hajj",
+        "details": "<ul><li>Intră în ihram la Miqat, intenționează-ți tipul de Hajj, apoi continuă cu Talbiyah.</li><li>Respectați regulile Ihram până ajungeți la ieșirile Ihram.</li></ul>",
+        "evidence": "Quran 2:196 și ritualurile profetice convenite pentru începerea Hajj-ului.",
+        "referenceLabel": "Instrucțiunile Ministerului Hajj"
+      },
+      {
+        "title": "Pasul doi: Yawm at-Tarwiyah în Mina",
+        "details": "<ul><li>În a opta zi a lunii Dhul Hijjah, îndreaptă-te spre Mina, execută rugăciunile la orele stabilite și pregătește-te spiritual și logistic pentru comemorarea Arafah.</li></ul>",
+        "evidence": "O secvență documentată de ritualuri în călătoria de rămas bun.",
+        "referenceLabel": "Excursie Hajj la Nosuk"
+      },
+      {
+        "title": "Pasul trei: Stați la Arafah",
+        "details": "<ul><li>Petreceți a noua zi a lunii Dhul Hijjah în Arafah rugându-vă, pomenindu-L pe Dumnezeu și pocăindu-vă.</li><li>Acesta este pilonul esențial al Hajj-ului.</li></ul>",
+        "evidence": "Hadith: Hajj este Arafah.",
+        "referenceLabel": "Instrucțiunile Ministerului Hajj"
+      },
+      {
+        "title": "Pasul patru: Muzdalifah și colectarea pietricelelor",
+        "details": "<ul><li>După apusul soarelui, mergi la Muzdalifah, roagă-te pentru Maghrib și Isha, petrece noaptea acolo și adună pietricele pentru a le arunca cu pietre în Mina.</li></ul>",
+        "evidence": "Secvența profetică de după Arafah în narațiunile autentice.",
+        "referenceLabel": "Excursie Hajj la Nosuk"
+      },
+      {
+        "title": "Pasul cinci: Rami, sacrificiu și poezie",
+        "details": "<ul><li>În ziua de Eid, când arunci piatra Jamarat al-Aqabah, efectuează sacrificiul acolo unde este necesar, apoi rade-te sau tunde-te pentru primul tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 și secvența hadithurilor autentice.",
+        "referenceLabel": "Instrucțiunile Ministerului Hajj"
+      },
+      {
+        "title": "Pasul șase: Tawaf al-Ifadah (șapte runde)",
+        "details": "<ul><li>Întoarce-te la Mecca pentru a efectua Tawaf al-Ifadah, a completa șapte circuite și a menține o mișcare sigură și ordonată în perioadele aglomerate.</li><li class=\"pp-ios-only\"> Sfat: Folosește aplicația Apple Watch pentru a număra circuitele Tawaf.</li><li class=\"pp-android-only\"> Sfat: Folosește aplicația Wear OS de pe ceas pentru a-ți număra circuitele Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 și descrierile documentate ale circumambulației obligatorii.",
+        "referenceLabel": "Excursie Hajj la Nosuk"
+      },
+      {
+        "title": "Pasul 7: Spuneți persoanei de care este nevoie",
+        "details": "<ul><li>Efectuați Saie atunci când tipul dvs. de Hajj o cere, menținând în același timp secvența și numărul de șapte circuite între Safa și Marwah.</li><li class=\"pp-ios-only\"> Sfat: Folosește aplicația Apple Watch pentru a număra alergările Saie.</li><li class=\"pp-android-only\"> Sfat: Folosește aplicația Wear OS de pe ceas pentru a număra alergările Saie.</li></ul>",
+        "evidence": "Quran 2:158 și aplicarea sa jurisprudențială în ritualurile Hajjului.",
+        "referenceLabel": "Instrucțiunile Ministerului Hajj"
+      },
+      {
+        "title": "Pasul 8: Ayyam at-Tashriq și Tawaf al-Wada&#39;",
+        "details": "<ul><li>Rămânerea în Mina în timpul Tashreeq pentru a efectua ritualurile de aruncare Jamarat, apoi finalizarea Tawaf al-Wada&#39; înainte de a părăsi Mecca, cu excepția celor care sunt scutiți.</li><li class=\"pp-ios-only\"> Sfat: Folosește aplicația Apple Watch pentru a număra circuitele Tawaf.</li><li class=\"pp-android-only\"> Sfat: Folosește aplicația Wear OS de pe ceas pentru a-ți număra circuitele Tawaf.</li></ul>",
+        "evidence": "Ritualurile stabilite se bazează pe îndrumarea Quran și pe practica corectă a Sunnah profetice.",
+        "referenceLabel": "Excursie Hajj la Nosuk"
+      }
+    ]
+  }
+}

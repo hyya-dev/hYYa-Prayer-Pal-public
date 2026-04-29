@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Första steget: Intention och Ihram",
+        "details": "<ul><li>Avser att utföra Umrah, gå in i Ihram vid Miqat och börja Talbiyah.</li><li>Han höll sig till Ihram förbud och fullbordade den rituella reningen innan han påbörjade ritualen.</li></ul>",
+        "evidence": "Quran 2:196 och året då ritualerna började från Miqat.",
+        "referenceLabel": "Umrah-ministeriet och besöksguide"
+      },
+      {
+        "title": "Steg två: Att gå in Al-Masjid Al-Haram",
+        "details": "<ul><li>Gå in tyst, med bön och ödmjukhet.</li><li>Börja från den sida som underlättar säker förflyttning genom folkmassorna och bege dig sedan mot Tawaf området.</li></ul>",
+        "evidence": "Allmänna profetiska riktlinjer för etikett i moskéer och hur man underlättar gudstjänster.",
+        "referenceLabel": "Center för medvetenhet om ministerierna"
+      },
+      {
+        "title": "Steg tre: Tawaf (sju kretsar)",
+        "details": "<ul><li>Utför Tawaf runt Kaabah sju gånger, med början från linjen vid den Black Stone.</li><li>Fortsätt att komma ihåg Gud och undvik att skada andra i folkmassor.</li><li class=\"pp-ios-only\"> Tips: Använd Apple Watch -appen för att räkna dina Tawaf kretsar.</li><li class=\"pp-android-only\"> Tips: Använd Wear OS appen på din klocka för att räkna dina Tawaf kretsar.</li></ul>",
+        "evidence": "Quran 22:29 och de dokumenterade beskrivningarna av profetens omgång.",
+        "referenceLabel": "Riktlinjer för Umrah-resor i Nosuk"
+      },
+      {
+        "title": "Steg fyra: Bön efter Tawaf",
+        "details": "<ul><li>Be två rak&#39;ahs efter att ha avslutat Tawaf om möjligt utan att skada församlingen, och fortsätt sedan på ett organiserat sätt att dricka Zamzam -vatten.</li></ul>",
+        "evidence": "En väletablerad praxis i autentiska hadither angående bönen efter Tawaf.",
+        "referenceLabel": "Umrah-ministeriet och besöksguide"
+      },
+      {
+        "title": "Steg fem: Saie mellan Safa och Marwah",
+        "details": "<ul><li>Utför Saie i sju varv mellan Safa och Marwah, med början i Safa och slut i Marwah, med bön och påminnelse.</li><li class=\"pp-ios-only\"> Tips: Använd Apple Watch appen för att räkna Saie löprundor.</li><li class=\"pp-android-only\"> Tips: Använd Wear OS appen på din klocka för att räkna Saie löprundor.</li></ul>",
+        "evidence": "Quran 2:158 och de autentiska återberättelserna enligt budbärarens ordning.",
+        "referenceLabel": "Riktlinjer för Umrah-resor i Nosuk"
+      },
+      {
+        "title": "Steg sex: Klippning eller rakning",
+        "details": "<ul><li>Män rakar eller klipper håret, och kvinnor trimmar en liten del av det.</li><li>Och med detta slutar Umrah och Ihram slutar.</li></ul>",
+        "evidence": "Quran 48:27 och de autentiska berättelserna relaterade till rakning och avkortning.",
+        "referenceLabel": "Umrah-ministeriet och besöksguide"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Första steget: Ihram och avsikten för Hajj",
+        "details": "<ul><li>Gå in i ihram vid Miqat, avsikt att göra din typ av Hajj och fortsätt sedan med Talbiyah.</li><li>Följ Ihram regler tills du når Ihram utgångar.</li></ul>",
+        "evidence": "Quran 2:196 och de överenskomna profetiska ritualerna för inledningen av Hajj.",
+        "referenceLabel": "Riktlinjer för Hajj-ministeriet"
+      },
+      {
+        "title": "Steg två: Yawm at-Tarwiyah i Mina",
+        "details": "<ul><li>Den åttonde Dhul Hijjah, bege dig till Mina, utför bönerna vid deras bestämda tider och förbered dig andligt och logistiskt för åminnelsen Arafah.</li></ul>",
+        "evidence": "En dokumenterad sekvens av ritualer under avskedsresan.",
+        "referenceLabel": "Hajj-resa till Nosuk"
+      },
+      {
+        "title": "Steg tre: Stående vid Arafah",
+        "details": "<ul><li>Tillbringa den nionde dagen av Dhul Hijjah i Arafah med att be, komma ihåg Gud och ångra sig.</li><li>Detta är den viktigaste pelaren i Hajj.</li></ul>",
+        "evidence": "Hadith: Hajj är Arafah.",
+        "referenceLabel": "Riktlinjer för Hajj-ministeriet"
+      },
+      {
+        "title": "Steg fyra: Muzdalifah och samla småsten",
+        "details": "<ul><li>Efter solnedgången, gå till Muzdalifah, be Maghrib och Isha, tillbringa natten där och samla småsten för att kasta stenar på Mina.</li></ul>",
+        "evidence": "Den profetiska sekvensen efter Arafah i autentiska berättelser.",
+        "referenceLabel": "Hajj-resa till Nosuk"
+      },
+      {
+        "title": "Steg fem: Rami, offer och poesi",
+        "details": "<ul><li>På Eid-dagen, när du kastar Jamarat al-Aqabah -stenen, utför offret där det behövs, och raka eller klipp sedan håret för den första tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 och sekvensen av autentiska hadither.",
+        "referenceLabel": "Riktlinjer för Hajj-ministeriet"
+      },
+      {
+        "title": "Steg sex: Tawaf al-Ifadah (sju omgångar)",
+        "details": "<ul><li>Återvänd till Mecka för att utföra Tawaf al-Ifadah, genomföra sju varv och upprätthålla säker och ordnad rörelse under hektiska tider.</li><li class=\"pp-ios-only\"> Tips: Använd Apple Watch -appen för att räkna dina Tawaf kretsar.</li><li class=\"pp-android-only\"> Tips: Använd Wear OS appen på din klocka för att räkna dina Tawaf kretsar.</li></ul>",
+        "evidence": "Quran 22:29 och de dokumenterade beskrivningarna av den obligatoriska omgången.",
+        "referenceLabel": "Hajj-resa till Nosuk"
+      },
+      {
+        "title": "Steg 7: Berätta för personen som behövs",
+        "details": "<ul><li>Utför Saie när din typ av Hajj kräver det, samtidigt som du bibehåller sekvensen och antalet sju varv mellan Safa och Marwah.</li><li class=\"pp-ios-only\"> Tips: Använd Apple Watch appen för att räkna Saie löprundor.</li><li class=\"pp-android-only\"> Tips: Använd Wear OS appen på din klocka för att räkna Saie löprundor.</li></ul>",
+        "evidence": "Quran 2:158 och dess rättsvetenskapliga tillämpning i ritualerna kring Hajj.",
+        "referenceLabel": "Riktlinjer för Hajj-ministeriet"
+      },
+      {
+        "title": "Steg 8: Ayyam at-Tashriq och Tawaf al-Wada&#39;",
+        "details": "<ul><li>Att stanna i Mina under Tashreeq för att utföra ritualerna med att kasta Jamarat, och sedan fullborda Tawaf al-Wada&#39; innan man lämnar Mecka, förutom för de som är undantagna.</li><li class=\"pp-ios-only\"> Tips: Använd Apple Watch -appen för att räkna dina Tawaf kretsar.</li><li class=\"pp-android-only\"> Tips: Använd Wear OS appen på din klocka för att räkna dina Tawaf kretsar.</li></ul>",
+        "evidence": "De etablerade ritualerna är baserade på Quran vägledning och den korrekta utövningen av den profetiska Sunnah.",
+        "referenceLabel": "Hajj-resa till Nosuk"
+      }
+    ]
+  }
+}

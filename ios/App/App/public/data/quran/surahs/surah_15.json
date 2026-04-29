@@ -1,0 +1,1494 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "15:1",
+      "verse_number": 1,
+      "text_uthmani": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Alif, Lam, Ra. These are the verses of the Book and a clear Qur'an",
+        "fr": "Alif, Lâm, Râ. Voici les versets du Livre et d'une Lecture explicite",
+        "tr": "Elif, Lam, Ra. Bunlar Kitap'ın ve apaçık olan Kuran'ın ayetleridir",
+        "ur": "ا ل ر یہ آیات ہیں کتاب الٰہی اور قرآن مبین کی",
+        "id": "Alif Lām Rā`. (Surah) ini adalah (sebagian dari) ayat-ayat Kitab (yang sempurna) yaitu (ayat-ayat) Alquran yang memberi penjelasan"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "15:2",
+      "verse_number": 2,
+      "text_uthmani": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Perhaps those who disbelieve will wish that they had been Muslims",
+        "fr": "[Le Jour du Jugement Dernier] les mécréants voudraient avoir été Musulmans [soumis]",
+        "tr": "İnkar edenler, keşke müslüman olsaydık temennisinde bulunacaklardır",
+        "ur": "بعید نہیں کہ ایک وقت وہ آ جائے جب وہی لوگ جنہوں نے آج (دعوت اسلام کو قبول کرنے سے) انکار کر دیا ہے پچھتا پچھتا کر کہیں گے کہ کاش ہم نے سر تسلیم خم کر دیا ہوتا",
+        "id": "Orang kafir itu kadang-kadang (nanti di akhirat) menginginkan, sekiranya mereka dahulu (di dunia) menjadi orang muslim"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "15:3",
+      "verse_number": 3,
+      "text_uthmani": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know",
+        "fr": "Laisse-les manger, jouir (un temps), et être distraits par l'espoir; car bientôt ils sauront",
+        "tr": "Bırak onları yesinler, zevk alsınlar; ümit onları avundursun; ilerde öğrenecekler",
+        "ur": "چھوڑو اِنہیں کھائیں، پییں، مزے کریں، اور بھلاوے میں ڈالے رکھے اِن کو جھوٹی امید عنقریب اِنہیں معلوم ہو جائے گا",
+        "id": "Biarkanlah mereka (di dunia ini) makan dan bersenang-senang dan dilalaikan oleh angan-angan (kosong) mereka, kelak mereka akan mengetahui (akibat perbuatannya)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "15:4",
+      "verse_number": 4,
+      "text_uthmani": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We did not destroy any city but that for it was a known decree",
+        "fr": "Or Nous ne détruisons aucune cité sans qu'elle n'ait eu [un terme fixé en] une Ecriture connue",
+        "tr": "Yok ettiğimiz herhangi bir kasabanın elbette belli bir yazısı vardır",
+        "ur": "ہم نے اِس سے پہلے جس بستی کو بھی ہلاک کیا ہے اس کے لیے ایک خاص مہلت عمل لکھی جاچکی تھی",
+        "id": "Dan Kami tidak membinasakan suatu negeri, melainkan sudah ada ketentuan yang di tetapkan baginya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "15:5",
+      "verse_number": 5,
+      "text_uthmani": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "No nation will precede its term, nor will they remain thereafter",
+        "fr": "Nulle communauté ne devance son terme, ni ne le retarde",
+        "tr": "Hiçbir ümmet kendi süresini öne alamaz, geciktiremez de",
+        "ur": "کوئی قوم نہ اپنے وقت مقرر سے پہلے ہلاک ہوسکتی ہے، نہ اُس کے بعد چھوٹ سکتی ہے",
+        "id": "Tidak ada suatu umat pun yang dapat mendahului ajalnya, dan tidak (pula) dapat meminta penundaan(nya)"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "15:6",
+      "verse_number": 6,
+      "text_uthmani": "وَقَالُواْ يَـٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And they say, \"O you upon whom the message has been sent down, indeed you are mad",
+        "fr": "Et ils (les mecquois) disent: «O toi sur qui on a fait descendre le Coran, tu es certainement fou",
+        "tr": "Onlar: \"Ey kendisine Kitap indirilen kimse! Sen mutlaka delisin. Doğrulardan isen melekleri bize getirsene\" dediler",
+        "ur": "یہ لوگ کہتے ہیں \"اے وہ شخص جس پر ذکر نازل ہوا ہے، تو یقیناً دیوانہ ہے",
+        "id": "Dan mereka berkata, \"Wahai orang yang kepadanya diturunkan Alquran, sesungguhnya engkau (Muhammad) benar-benar orang yang gila"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "15:7",
+      "verse_number": 7,
+      "text_uthmani": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَـٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Why do you not bring us the angels, if you should be among the truthful",
+        "fr": "Pourquoi ne nous es-tu pas venu avec les Anges, si tu es du nombre des véridiques?»",
+        "tr": "Onlar: \"Ey kendisine Kitap indirilen kimse! Sen mutlaka delisin. Doğrulardan isen melekleri bize getirsene\" dediler",
+        "ur": "اگر تو سچا ہے تو ہمارے سامنے فرشتوں کو لے کیوں نہیں آتا؟",
+        "id": "Mengapa engkau tidak mendatangkan malaikat kepada kami, jika engkau termasuk orang yang benar"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "15:8",
+      "verse_number": 8,
+      "text_uthmani": "مَا نُنَزِّلُ ٱلۡمَلَـٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "We do not send down the angels except with truth; and the disbelievers would not then be reprieved",
+        "fr": "Nous ne faisons descendre les Anges qu'avec la vérité; et alors, il ne leur sera pas accordé de répit [à ces impies]",
+        "tr": "Biz melekleri ancak gerekince indiririz. O takdirde de ceza görecekler asla geri bırakılmazlar",
+        "ur": "ہم فرشتوں کو یوں ہی نہیں اتار دیا کرتے وہ جب اترتے ہیں تو حق کے ساتھ اترتے ہیں، اور پھر لوگوں کو مہلت نہیں دی جاتی",
+        "id": "Kami tidak menurunkan malaikat melainkan dengan kebenaran (untuk membawa azab) dan mereka ketika itu tidak diberi penangguhan"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "15:9",
+      "verse_number": 9,
+      "text_uthmani": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian",
+        "fr": "En vérité c'est Nous qui avons fait descendre le Coran, et c'est Nous qui en sommes gardien",
+        "tr": "Doğrusu Kitap'ı Biz indirdik, onun koruyucusu elbette Biziz",
+        "ur": "رہا یہ ذکر، تو اِس کو ہم نے نازل کیا ہے اور ہم خود اِس کے نگہبان ہیں",
+        "id": "Sesungguhnya Kamilah yang menurunkan Alquran, dan pasti Kami (pula) yang memeliharanya"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "15:10",
+      "verse_number": 10,
+      "text_uthmani": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples",
+        "fr": "Et nous avons certes envoyé, avant toi, [des Messagers] parmi les peuples des Anciens",
+        "tr": "And olsun ki, senden önce çeşitli ümmetlere peygamber göndermiştik",
+        "ur": "اے محمدؐ، ہم تم سے پہلے بہت سی گزری ہوئی قوموں میں رسول بھیج چکے ہیں",
+        "id": "Dan sungguh, Kami telah mengutus (beberapa rasul) sebelum engkau (Muhammad) kepada umat-umat terdahulu"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "15:11",
+      "verse_number": 11,
+      "text_uthmani": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And no messenger would come to them except that they ridiculed him",
+        "fr": "Et pas un Messager ne leur est venu sans qu'ils s'en soient moqués",
+        "tr": "Onlara gelen her peygamberi alaya alıyorlardı",
+        "ur": "کبھی ایسا نہیں ہوا کہ اُن کہ پاس کوئی رسول آیا ہو اور اُنہوں نے اُس کا مذاق نہ اڑایا ہو",
+        "id": "Dan setiap kali seorang rasul datang kepada mereka, mereka selalu memperolok-olokannya"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "15:12",
+      "verse_number": 12,
+      "text_uthmani": "كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Thus do We insert denial into the hearts of the criminals",
+        "fr": "C'est ainsi que Nous faisons pénétrer (la mécréance) dans les cœurs des coupables",
+        "tr": "Aynı şekilde biz de Kitap'ı suçluların kalblerine sokarız, ama ona yine de inanmazlar. Oysa kendilerinden öncekilerin uğradıkları meydandadır",
+        "ur": "مجرمین کے دلوں میں تو ہم اس ذکر کو اِسی طرح (سلاخ کے مانند) گزارتے ہیں",
+        "id": "Demikianlah, Kami memasukkannya (olok-olok itu) ke dalam hati orang yang berdosa"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "15:13",
+      "verse_number": 13,
+      "text_uthmani": "لَا يُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They will not believe in it, while there has already occurred the precedent of the former peoples",
+        "fr": "Ils ne croiront pas en lui [le Messager ou le Coran] bien que se soit accompli le sort traditionnel des anciens",
+        "tr": "Aynı şekilde biz de Kitap'ı suçluların kalblerine sokarız, ama ona yine de inanmazlar. Oysa kendilerinden öncekilerin uğradıkları meydandadır",
+        "ur": "وہ اِس پر ایمان نہیں لایا کرتے قدیم سے اِس قماش کے لوگوں کا یہی طریقہ چلا آ رہا ہے",
+        "id": "mereka tidak beriman kepadanya (Alquran) padahal telah berlalu sunnatullah433) terhadap orang-orang terdahulu"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "15:14",
+      "verse_number": 14,
+      "text_uthmani": "وَلَوۡ فَتَحۡنَا عَلَيۡهِم بَابٗا مِّنَ ٱلسَّمَآءِ فَظَلُّواْ فِيهِ يَعۡرُجُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend",
+        "fr": "Et même si Nous ouvrions pour eux une porte du ciel, et qu'ils pussent y monter",
+        "tr": "Onlara gökten bir kapı açsak da, oradan çıkmağa koyulsalar: \"Gözlerimiz döndü, biz herhalde büyülendik\" derler",
+        "ur": "اگر ہم اُن پر آسمان کا کوئی دروازہ کھول دیتے اور وہ دن دہاڑے اُس میں چڑھنے بھی لگتے",
+        "id": "Dan kalau Kami bukakan kepada mereka salah satu pintu langit, lalu mereka terus menerus naik ke atasnya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "15:15",
+      "verse_number": 15,
+      "text_uthmani": "لَقَالُوٓاْ إِنَّمَا سُكِّرَتۡ أَبۡصَٰرُنَا بَلۡ نَحۡنُ قَوۡمٞ مَّسۡحُورُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic",
+        "fr": "ils diraient: «Vraiment nos yeux sont voilés. Mais plutôt, nous sommes des gens ensorcelés»",
+        "tr": "Onlara gökten bir kapı açsak da, oradan çıkmağa koyulsalar: \"Gözlerimiz döndü, biz herhalde büyülendik\" derler",
+        "ur": "تب بھی وہ یہی کہتے کہ ہماری آنکھوں کو دھوکا ہو رہا ہے، بلکہ ہم پر جادو کر دیا گیا ہے",
+        "id": "tentulah mereka berkata, \"Sesungguhnya pandangan kamilah yang dikaburkan, bahkan kami adalah orang yang terkena sihir"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "15:16",
+      "verse_number": 16,
+      "text_uthmani": "وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجٗا وَزَيَّنَّـٰهَا لِلنَّـٰظِرِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have placed within the heaven great stars and have beautified it for the observers",
+        "fr": "Certes Nous avons placé dans le ciel des constellations et Nous l'avons embelli pour ceux qui regardent",
+        "tr": "And olsun ki, gökte burçlar meydana getirdik, onları bakanlar için donattık",
+        "ur": "یہ ہماری کار فرمائی ہے کہ آسمان میں ہم نے بہت سے مضبوط قلعے بنائے، اُن کو دیکھنے والوں کے لیے مزین کیا",
+        "id": "Dan sungguh, Kami telah menciptakan gugusan bintang di langit dan menjadikannya terasa indah bagi orang yang memandang(nya)"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "15:17",
+      "verse_number": 17,
+      "text_uthmani": "وَحَفِظۡنَٰهَا مِن كُلِّ شَيۡطَٰنٖ رَّجِيمٍ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have protected it from every devil expelled [from the mercy of Allah]",
+        "fr": "Et Nous l'avons protégé contre tout diable banni",
+        "tr": "Onları, kovulmuş her şeytandan koruduk",
+        "ur": "اور ہر شیطان مردود سے ان کو محفوظ کر دیا",
+        "id": "dan Kami menjaganya dari setiap (gangguan) setan yang terkutuk"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "15:18",
+      "verse_number": 18,
+      "text_uthmani": "إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابٞ مُّبِينٞ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Except one who steals a hearing and is pursued by a clear burning flame",
+        "fr": "A moins que l'un d'eux parvienne subrepticement à écouter, une flamme brillante alors le poursuit",
+        "tr": "Fakat kulak hırsızlığı yapan olursa, parlak bir ateş onu kovalar",
+        "ur": "کوئی شیطان ان میں راہ نہیں پا سکتا، الا یہ کہ کچھ سن گن لے لے اور جب وہ سن گن لینے کی کوشش کرتا ہے تو ایک شعلہ روشن اُس کا پیچھا کرتا ہے",
+        "id": "kecuali (setan) yang mencuri-curi (berita) yang dapat didengar (dari malaikat) lalu dikejar oleh semburan api yang terang"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "15:19",
+      "verse_number": 19,
+      "text_uthmani": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ شَيۡءٖ مَّوۡزُونٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing",
+        "fr": "Et quant à la terre, Nous l'avons étalée et y avons placé des montagnes (immobiles) et y avons fait pousser toute chose harmonieusement proportionnée",
+        "tr": "Yeri yaydık, oraya sabit dağlar yerleştirdik, orada her şeyi bir ölçüye göre bitirdik",
+        "ur": "ہم نے زمین کو پھیلایا، اُس میں پہاڑ جمائے، اس میں ہر نوع کی نباتات ٹھیک ٹھیک نپی تلی مقدار کے ساتھ اگائی",
+        "id": "Dan Kami telah menghamparkan bumi dan Kami pancangkan padanya gunung-gunung serta Kami tumbuhkan di sana segala sesuatu menurut ukuran"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "15:20",
+      "verse_number": 20,
+      "text_uthmani": "وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرَٰزِقِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have made for you therein means of living and [for] those for whom you are not providers",
+        "fr": "Et Nous y avons placé des vivres pour vous, et (placé aussi pour vous) des êtres que vous ne nourrissez pas",
+        "tr": "Orada sizin ve rızık veremeyeceğiniz kimseler için geçimlikler meydana getirdik",
+        "ur": "اور اس میں معیشت کے اسباب فراہم کیے، تمہارے لیے بھی اور اُن بہت سی مخلوقات کے لیے بھی جن کے رازق تم نہیں ہو",
+        "id": "Dan Kami telah menjadikan padanya sumber-sumber kehidupan untuk keperluanmu, dan (Kami ciptakan pula) makhluk-makhluk yang bukan kamu pemberi rezekinya"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "15:21",
+      "verse_number": 21,
+      "text_uthmani": "وَإِن مِّن شَيۡءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٖ مَّعۡلُومٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure",
+        "fr": "Et il n'est rien dont Nous n'ayons les réserves et Nous ne le faisons descendre que dans une mesure déterminée",
+        "tr": "Hazinesi Bizim katımızda olmayan hiçbir şey yoktur. Biz onu ancak belli bir ölçüye göre indiririz",
+        "ur": "کوئی چیز ایسی نہیں جس کے خزانے ہمارے پاس نہ ہوں، اور جس چیز کو بھی ہم نازل کرتے ہیں ایک مقرر مقدار میں نازل کرتے ہیں",
+        "id": "(Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya;434) Kami tidak menurunkannya melainkan dengan ukuran tertentu"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "15:22",
+      "verse_number": 22,
+      "text_uthmani": "وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers",
+        "fr": "Et Nous envoyons les vents fécondants; et Nous faisons alors descendre du ciel une eau dont Nous vous abreuvons et que vous n'êtes pas en mesure de conserver",
+        "tr": "Rüzgarları aşılayıcı olarak gönderdik; yukarıdan su indirdik de sizi onunla suladık. Yoksa siz onu toplayamazdınız",
+        "ur": "بار آور ہواؤں کو ہم ہی بھیجتے ہیں، پھر آسمان سے پانی برساتے ہیں، اور اُس پانی سے تمہیں سیراب کرتے ہیں اِس دولت کے خزانہ دار تم نہیں ہو",
+        "id": "(Dan Kami telah meniupkan angin untuk mengawinkan435) dan Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengan (air) itu, dan bukanlah kamu yang menyimpannya"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "15:23",
+      "verse_number": 23,
+      "text_uthmani": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And indeed, it is We who give life and cause death, and We are the Inheritor",
+        "fr": "Et c'est bien Nous qui donnons la vie et donnons la mort, et c'est Nous qui sommes l'héritier [de tout]",
+        "tr": "Doğrusu dirilten ve öldüren Biziz; hepsinin gerisinde de Biz kalırız",
+        "ur": "زندگی اور موت ہم دیتے ہیں، اور ہم ہی سب کے وارث ہونے والے ہیں",
+        "id": "Dan sungguh, Kamilah yang menghidupkan dan mematikan dan Kami (pulalah) yang mewarisi"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "15:24",
+      "verse_number": 24,
+      "text_uthmani": "وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِينَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَـٔۡخِرِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come]",
+        "fr": "Et Nous connaissons certes ceux qui parmi vous ont avancé et Nous connaissons ceux qui tardent encore",
+        "tr": "And olsun ki, sizden önce geçenleri biliriz; and olsun ki, geri kalanları da biliriz",
+        "ur": "پہلے جو لوگ تم میں سے ہو گزرے ہیں اُن کو بھی ہم نے دیکھ رکھا ہے، اور بعد کے آنے والے بھی ہماری نگاہ میں ہیں",
+        "id": "Dan sungguh, Kami mengetahui orang yang terdahulu sebelum kamu dan Kami mengetahui pula orang yang terkemudian"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "15:25",
+      "verse_number": 25,
+      "text_uthmani": "وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And indeed, your Lord will gather them; indeed, He is Wise and Knowing",
+        "fr": "Certes, c'est ton Seigneur qui les rassemblera. Car c'est Lui le Sage, l'Omniscient",
+        "tr": "Doğrusu Rabbin onları diriltip bir araya getirecektir. Şüphesiz O Hakim'dir, Herşeyi Bilen'dir",
+        "ur": "یقیناً تمہارا رب ان سب کو اکٹھا کرے گا، وہ حکیم بھی ہے اور علیم بھی",
+        "id": "Dan sesungguhnya Tuhanmu, Dialah yang akan mengumpulkan mereka. Sungguh, Dia Mahabijaksana, Maha Mengetahui"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "15:26",
+      "verse_number": 26,
+      "text_uthmani": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We did certainly create man out of clay from an altered black mud",
+        "fr": "Nous créâmes l'homme d'une argile crissante, extraite d'une boue malléable",
+        "tr": "And olsun ki, insanı kuru balçıktan, işlenebilen kara topraktan yarattık",
+        "ur": "ہم نے انسان کو سٹری ہوئی مٹی کے سوکھے گارے سے بنایا",
+        "id": "Dan sungguh, Kami telah menciptakan manusia (Adam) dari tanah liat kering dari lumpur hitam yang diberi bentuk"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "15:27",
+      "verse_number": 27,
+      "text_uthmani": "وَٱلۡجَآنَّ خَلَقۡنَٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And the jinn We created before from scorching fire",
+        "fr": "Et quant au djinn, Nous l'avions auparavant créé d'un feu d'une chaleur ardente",
+        "tr": "Cinleri de, daha önce, dumansız ateşten yarattık",
+        "ur": "اور اُس سے پہلے جنوں کو ہم آگ کی لپٹ سے پیدا کر چکے تھے",
+        "id": "Dan Kami telah menciptakan jin sebelum (Adam) dari api yang sangat panas"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "15:28",
+      "verse_number": 28,
+      "text_uthmani": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud",
+        "fr": "Et lorsque ton Seigneur dit aux Anges: «Je vais créer un homme d'argile crissante, extraite d'une boue malléable",
+        "tr": "Rabbin meleklere: \"Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp ruhumdan üflediğimde ona secdeye kapanın\" demişti",
+        "ur": "پھر یاد کرو اُس موقع کو جب تمہارے رب نے فرشتوں سے کہا کہ \"میں سڑی ہوئی مٹی کے سوکھے گارے سے ایک بشر پیدا کر رہا ہوں",
+        "id": "Dan (ingatlah), ketika Tuhanmu berfirman kepada para malaikat, \"Sungguh, Aku akan menciptakan seorang manusia dari tanah liat kering dari lumpur hitam yang diberi bentuk"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "15:29",
+      "verse_number": 29,
+      "text_uthmani": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration",
+        "fr": "et dès que Je l'aurai harmonieusement formé et lui aurai insufflé Mon souffle de vie, jetez-vous alors, prosternés devant lui»",
+        "tr": "Rabbin meleklere: \"Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp ruhumdan üflediğimde ona secdeye kapanın\" demişti",
+        "ur": "جب میں اُسے پورا بنا چکوں اور اس میں اپنی روح سے کچھ پھونک دوں تو تم سب اس کے آگے سجدے میں گر جانا",
+        "id": "Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "15:30",
+      "verse_number": 30,
+      "text_uthmani": "فَسَجَدَ ٱلۡمَلَـٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So the angels prostrated - all of them entirely",
+        "fr": "Alors, les Anges se prosternèrent tous ensemble",
+        "tr": "Bunun üzerine, İblis'in dışında bütün melekler hemen secde ettiler. O, secde edenlerle beraber olmaktan çekindi",
+        "ur": "چنانچہ تمام فرشتوں نے سجدہ کیا",
+        "id": "Maka bersujudlah para malaikat itu semuanya bersama-sama"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "15:31",
+      "verse_number": 31,
+      "text_uthmani": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّـٰجِدِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Except Iblees, he refused to be with those who prostrated",
+        "fr": "excepté Iblis qui refusa d'être avec les prosternés",
+        "tr": "Bunun üzerine, İblis'in dışında bütün melekler hemen secde ettiler. O, secde edenlerle beraber olmaktan çekindi",
+        "ur": "سوائے ابلیس کے کہ اُس نے سجدہ کرنے والوں کا ساتھ دینے سے انکار کر دیا",
+        "id": "kecuali Iblis. Ia enggan ikut bersama-sama para (malaikat) yang sujud itu"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "15:32",
+      "verse_number": 32,
+      "text_uthmani": "قَالَ يَـٰٓإِبۡلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Allah] said, O Iblees, what is [the matter] with you that you are not with those who prostrate",
+        "fr": "Alors [Allah] dit: «O Iblis, pourquoi n'es-tu pas au nombre des prosternés?»",
+        "tr": "Allah: \"Ey İblis! Secde edenlerle beraber olmaktan seni alıkoyan nedir?\" dedi",
+        "ur": "رب نے پوچھا \"اے ابلیس، تجھے کیا ہوا کہ تو نے سجدہ کرنے والوں کا ساتھ نہ دیا؟",
+        "id": "Dia (Allah) berfirman, \"Wahai Iblis! Apa sebabnya kamu (tidak ikut) sujud bersama mereka"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "15:33",
+      "verse_number": 33,
+      "text_uthmani": "قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud",
+        "fr": "Il dit: «Je ne puis me prosterner devant un homme que Tu as créé d'argile crissante, extraite d'une boue malléable»",
+        "tr": "O: \"Balçıktan, işlenebilen kara topraktan yarattığın insana secde edemem\" dedi",
+        "ur": "اس نے کہا \"میرا یہ کام نہیں ہے کہ میں اِس بشر کو سجدہ کروں جسے تو نے سڑی ہوئی مٹی کے سوکھے گارے سے پیدا کیا ہے",
+        "id": "Ia (Iblis) berkata, \"Aku sekali-kali tidak akan sujud kepada manusia yang Engkau telah menciptakannya dari tanah liat kering dari lumpur hitam yang diberi bentuk"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "15:34",
+      "verse_number": 34,
+      "text_uthmani": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Allah] said, \"Then get out of it, for indeed, you are expelled",
+        "fr": "Et [Allah] dit: «Sors de là [du Paradis], car te voilà banni",
+        "tr": "Öyleyse defol oradan, sen artık kovulmuş birisin. Doğrusu hesap gününe kadar lanet sanadır\" dedi",
+        "ur": "رب نے فرمایا \"اچھا تو نکل جا یہاں سے کیونکہ تو مردود ہے",
+        "id": "Dia (Allah) berfirman, \"(Kalau begitu) keluarlah dari surga, karena sesungguhnya kamu terkutuk"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "15:35",
+      "verse_number": 35,
+      "text_uthmani": "وَإِنَّ عَلَيۡكَ ٱللَّعۡنَةَ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And indeed, upon you is the curse until the Day of Recompense",
+        "fr": "Et malédiction sur toi, jusqu'au Jour de la rétribution!»",
+        "tr": "Öyleyse defol oradan, sen artık kovulmuş birisin. Doğrusu hesap gününe kadar lanet sanadır\" dedi",
+        "ur": "اور اب روز جزا تک تجھ پر لعنت ہے",
+        "id": "dan sesungguhnya kutukan itu tetap menimpamu sampai hari Kiamat"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "15:36",
+      "verse_number": 36,
+      "text_uthmani": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "He said, \"My Lord, then reprieve me until the Day they are resurrected",
+        "fr": "Il dit: «O mon Seigneur, donne-moi donc un délai jusqu'au jour où ils (les gens) seront ressuscités»",
+        "tr": "Rabbim! Beni hiç olmazsa, tekrar dirilecekleri güne kadar ertele\" dedi",
+        "ur": "اُس نے عرض کیا \"میرے رب، یہ بات ہے تو پھر مجھے اُس روز تک کے لیے مہلت دے جبکہ سب انسان دوبارہ اٹھائے جائیں گے",
+        "id": "Ia (Iblis) berkata, \"Ya Tuhanku, (kalau begitu) maka berilah penangguhan kepadaku sampai hari (manusia) dibangkitkan"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "15:37",
+      "verse_number": 37,
+      "text_uthmani": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Allah] said, \"So indeed, you are of those reprieved",
+        "fr": "[Allah] dit: «tu es de ceux à qui ce délai est accordé",
+        "tr": "Allah: \"Sen, bilinen gün gelene kadar bırakılanlardansın\" dedi",
+        "ur": "فرمایا \"اچھا، تجھے مہلت ہے",
+        "id": "Allah berfirman, \"(Baiklah) maka sesungguhnya kamu termasuk yang diberi penangguhan"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "15:38",
+      "verse_number": 38,
+      "text_uthmani": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Until the Day of the time well-known",
+        "fr": "jusqu'au jour de l'instant connu» [d'Allah]",
+        "tr": "Allah: \"Sen, bilinen gün gelene kadar bırakılanlardansın\" dedi",
+        "ur": "اُس دن تک جس کا وقت ہمیں معلوم ہے",
+        "id": "sampai hari yang telah ditentukan (Kiamat)"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "15:39",
+      "verse_number": 39,
+      "text_uthmani": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them on earth, and I will mislead them all",
+        "fr": "Il dit: «O mon Seigneur, parce que Tu m'as induit en erreur, eh bien je leur enjoliverai la vie sur terre et les égarerai tous",
+        "tr": "Rabbim! Beni saptırdığın için, and olsun ki yeryüzünde fenalıkları onlara güzel göstereceğim; halis kıldığın kulların bir yana, onların hepsini saptıracağım\" dedi",
+        "ur": "وہ بولا \"میرے رب، جیسا تو نے مجھے بہکایا اُسی طرح اب میں زمین میں اِن کے لیے دل فریبیاں پیدا کر کے اِن سب کو بہکا دوں گا",
+        "id": "Ia (Iblis) berkata, \"Tuhanku, oleh karena Engkau telah memutuskan bahwa aku sesat, aku pasti akan jadikan (kejahatan) tampak indah bagi mereka di bumi, dan aku akan menyesatkan mereka semuanya"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "15:40",
+      "verse_number": 40,
+      "text_uthmani": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Except, among them, Your chosen servants",
+        "fr": "à l'exception, parmi eux, de Tes serviteurs élus.»",
+        "tr": "Rabbim! Beni saptırdığın için, and olsun ki yeryüzünde fenalıkları onlara güzel göstereceğim; halis kıldığın kulların bir yana, onların hepsini saptıracağım\" dedi",
+        "ur": "سوائے تیرے اُن بندوں کے جنہیں تو نے اِن میں سے خالص کر لیا ہو",
+        "id": "kecuali hamba-hamba-Mu yang terpilih di antara mereka"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "15:41",
+      "verse_number": 41,
+      "text_uthmani": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Allah] said, \"This is a path [of return] to Me [that is] straight",
+        "fr": "«[Allah] dit: voici une voie droite [qui mène] vers Moi",
+        "tr": "Allah şöyle dedi: \"Benim gerekli kıldığım dosdoğru yol budur; kullarımın üzerinde senin bir nüfuzun olamaz. Ancak sana uyan sapıklar bunun dışındadır",
+        "ur": "فرمایا \"یہ راستہ ہے جو سیدھا مجھ تک پہنچتا ہے",
+        "id": "Dia (Allah) berfirman, \"Ini adalah jalan yang lurus (menuju) kepada-Ku"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "15:42",
+      "verse_number": 42,
+      "text_uthmani": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed, My servants - no authority will you have over them, except those who follow you of the deviators",
+        "fr": "Sur Mes serviteurs tu n'auras aucune autorité, excepté sur celui qui te suivra parmi les dévoyés",
+        "tr": "Allah şöyle dedi: \"Benim gerekli kıldığım dosdoğru yol budur; kullarımın üzerinde senin bir nüfuzun olamaz. Ancak sana uyan sapıklar bunun dışındadır",
+        "ur": "بے شک، جو میرے حقیقی بندے ہیں ان پر تیرا بس نہ چلے گا تیرا بس تو صرف اُن بہکے ہوئے لوگوں ہی پر چلے گا جو تیری پیروی کریں",
+        "id": "Sesungguhnya kamu (Iblis) tidak kuasa atas hamba-hamba-Ku, kecuali mereka yang mengikutimu, yaitu orang yang sesat"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "15:43",
+      "verse_number": 43,
+      "text_uthmani": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And indeed, Hell is the promised place for them all",
+        "fr": "Et l'Enfer sera sûrement leur lieu de rendez-vous à tous",
+        "tr": "Ve Cehennem onların hepsinin toplanacağı yerdir",
+        "ur": "اور ان سب کے لیے جہنم کی وعید ہے",
+        "id": "Dan sungguh, Jahanam itu benar-benar (tempat) yang telah dijanjikan untuk mereka (pengikut setan) semuanya"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "15:44",
+      "verse_number": 44,
+      "text_uthmani": "لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "It has seven gates; for every gate is of them a portion designated",
+        "fr": "Il a sept portes; et chaque porte en a sa part déterminée»",
+        "tr": "O cehennemin yedi kapısı olup, her kapıdan onların girecekleri ayrılmış bir kısım vardır",
+        "ur": "یہ جہنم (جس کی وعید پیروان ابلیس کے لیے کی گئی ہے) اس کے سات دروازے ہیں ہر دروازے کے لیے اُن میں سے ایک حصہ مخصوص کر دیا گیا ہے",
+        "id": "(Jahanam) itu mempunyai tujuh pintu. Setiap pintu (telah ditetapkan) untuk golongan tertentu dari mereka"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "15:45",
+      "verse_number": 45,
+      "text_uthmani": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the righteous will be within gardens and springs",
+        "fr": "Certes, les pieux seront dans des jardins avec des sources",
+        "tr": "Allah'a karşı gelmekten sakınanlar ise, cennetlerde, pınar başlarındadırlar",
+        "ur": "بخلاف اِس کے متقی لوگ باغوں اور چشموں میں ہوں گے",
+        "id": "Sesungguhnya orang yang bertakwa itu berada dalam surga-surga (taman-taman) dan (di dekat) mata air (yang mengalir)"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "15:46",
+      "verse_number": 46,
+      "text_uthmani": "ٱدۡخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Having been told], \"Enter it in peace, safe [and secure]",
+        "fr": "«Entrez-y en paix et en sécurité»",
+        "tr": "Oraya güven içinde, esenlikle girin\" denilir",
+        "ur": "اور اُن سے کہا جائے گا کہ داخل ہو جاؤ ان میں سلامتی کے ساتھ بے خوف و خطر",
+        "id": "(Allah berfirman), \"Masuklah ke dalamnya dengan sejahtera dan aman"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "15:47",
+      "verse_number": 47,
+      "text_uthmani": "وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلٍّ إِخۡوَٰنًا عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other",
+        "fr": "Et Nous aurons arraché toute rancune de leurs poitrines: et ils se sentiront frères, faisant face les uns aux autres sur des lits",
+        "tr": "Biz onların gönüllerinde olan kini çıkardık, artık onlar sedirler üzerinde karşılıklı oturan kardeşlerdir",
+        "ur": "اُن کے دلوں میں جو تھوڑی بہت کھوٹ کپٹ ہوگی اسے ہم نکال دیں گے، وہ آپس میں بھائی بھائی بن کر آمنے سامنے تختوں پر بیٹھیں گے",
+        "id": "Dan Kami lenyapkan segala rasa dendam yang ada dalam hati mereka; mereka merasa bersaudara, duduk berhadap-hadapan di atas dipan-dipan"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "15:48",
+      "verse_number": 48,
+      "text_uthmani": "لَا يَمَسُّهُمۡ فِيهَا نَصَبٞ وَمَا هُم مِّنۡهَا بِمُخۡرَجِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "No fatigue will touch them therein, nor from it will they [ever] be removed",
+        "fr": "Nulle fatigue ne les y touchera. Et on ne les en fera pas sortir",
+        "tr": "Onlar orada bir yorgunluk hissetmezler. Oradan çıkarılacak da değillerdir",
+        "ur": "اُنہیں نہ وہاں کسی مشقت سے پالا پڑے گا اور نہ وہ وہاں سے نکالے جائیں گے",
+        "id": "Mereka tidak merasa lelah di dalamnya dan mereka tidak akan dikeluarkan darinya"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "15:49",
+      "verse_number": 49,
+      "text_uthmani": "۞نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful",
+        "fr": "Informe Mes serviteurs que c'est Moi le Pardonneur, le Très Miséricordieux",
+        "tr": "Kullarıma Benim bağışlayan, merhamet eden olduğumu, azabımın can yakıcı bir azap olduğunu haber ver",
+        "ur": "اے نبیؐ، میرے بندوں کو خبر دے دو کہ میں بہت درگزر کرنے والا اور رحیم ہوں",
+        "id": "Kabarkanlah kepada hamba-hamba-Ku, bahwa Akulah Yang Maha Pengampun, Maha Penyayang"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "15:50",
+      "verse_number": 50,
+      "text_uthmani": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And that it is My punishment which is the painful punishment",
+        "fr": "et que Mon châtiment est certes le châtiment douloureux",
+        "tr": "Kullarıma Benim bağışlayan, merhamet eden olduğumu, azabımın can yakıcı bir azap olduğunu haber ver",
+        "ur": "مگر اِس کے ساتھ میرا عذاب بھی نہایت دردناک عذاب ہے",
+        "id": "dan sesungguhnya azab-Ku adalah azab yang sangat pedih"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "15:51",
+      "verse_number": 51,
+      "text_uthmani": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And inform them about the guests of Abraham",
+        "fr": "Et informe-les au sujet des hôtes d'Abraham",
+        "tr": "Onlara İbrahim'in konuklarını da anlat",
+        "ur": "اور انہیں ذرا ابراہیمؑ کے مہمانوں کا قصہ سناؤ",
+        "id": "Dan kabarkanlah (Muhammad) kepada mereka tentang tamu Ibrahim (malaikat)"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "15:52",
+      "verse_number": 52,
+      "text_uthmani": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful of you",
+        "fr": "Quand ils entrèrent chez lui et dirent: «Salâm» - Il dit: «Nous avons peur de vous»",
+        "tr": "İbrahim'in yanına girdiklerinde selam vermişlerdi. O: \"Doğrusu biz sizden korkuyoruz\" demişti de: \"Korkma, biz sana, bilgin bir oğlun olacağını müjdelemeye geldik\" demişlerdi",
+        "ur": "جب وہ آئے اُس کے ہاں اور کہا \"سلام ہو تم پر،\" تو اُس نے کہا \"ہمیں تم سے ڈر لگتا ہے",
+        "id": "Ketika mereka masuk ke tempatnya, lalu mereka mengucapkan, \"Salām.\" Dia (Ibrahim) berkata, \"kami benar-benar merasa takut kepadamu"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "15:53",
+      "verse_number": 53,
+      "text_uthmani": "قَالُواْ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy",
+        "fr": "Ils dirent: «N'aie pas peur! Nous t'annonçons une bonne nouvelle, [la naissance] d'un garçon plein de savoir»",
+        "tr": "İbrahim'in yanına girdiklerinde selam vermişlerdi. O: \"Doğrusu biz sizden korkuyoruz\" demişti de: \"Korkma, biz sana, bilgin bir oğlun olacağını müjdelemeye geldik\" demişlerdi",
+        "ur": "اُنہوں نے جواب دیا \"ڈرو نہیں، ہم تمہیں ایک بڑے سیانے لڑکے کی بشارت دیتے ہیں",
+        "id": "(Mereka) berkata, \"Janganlah engkau merasa takut, sesungguhnya kami memberi kabar gembira kepadamu dengan (kelahiran seorang) anak laki-laki (yang akan menjadi) orang yang pandai (Ishak)"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "15:54",
+      "verse_number": 54,
+      "text_uthmani": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform",
+        "fr": "Il dit: «M'annoncez-vous [cette nouvelle] alors que la vieillesse m'a touché? Que m'annoncez-vous donc?»",
+        "tr": "Ben kocamışken bana müjde mi veriyorsunuz? Neye dayanarak müjdeliyorsunuz?\" deyince",
+        "ur": "ابراہیمؑ نے کہا \"کیا تم اِس بڑھاپے میں مجھے اولاد کی بشارت دیتے ہو؟ ذرا سوچو تو سہی کہ یہ کیسی بشارت تم مجھے دے رہے ہو؟",
+        "id": "Dia (Ibrahim) berkata, \"Benarkah kamu memberi kabar gembira kepadaku padahal usiaku telah lanjut, lalu (dengan cara) bagaimana kamu memberi (kabar gembira) tersebut"
+      }
+    },
+    {
+      "id": 55,
+      "verse_key": "15:55",
+      "verse_number": 55,
+      "text_uthmani": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They said, \"We have given you good tidings in truth, so do not be of the despairing",
+        "fr": "Ils dirent: «Nous t'annonçons la vérité. Ne sois donc pas de ceux qui désespèrent»",
+        "tr": "Seni gerçekten müjdeliyoruz, umutsuzlardan olma\" demişlerdi",
+        "ur": "اُنہوں نے جواب دیا \"ہم تمہیں برحق بشارت دے رہے ہیں، تم مایوس نہ ہو",
+        "id": "(Mereka) menjawab, \"Kami menyampaikan kabar gembira kepadamu dengan benar, maka janganlah engkau termasuk orang yang berputus asa"
+      }
+    },
+    {
+      "id": 56,
+      "verse_key": "15:56",
+      "verse_number": 56,
+      "text_uthmani": "قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "He said, \"And who despairs of the mercy of his Lord except for those astray",
+        "fr": "Il dit: «Et qui désespère de la miséricorde de son Seigneur, sinon les égarés?»",
+        "tr": "Zaten sapıklardan başka kim Rabbinin rahmetinden umudunu keser!\" diyerek sormuştu: \"Ey elçiler! İşiniz nedir",
+        "ur": "ابراہیمؑ نے کہا \"اپنے رب کی رحمت سے مایوس تو گمراہ لوگ ہی ہوا کرتے ہیں",
+        "id": "Dia (Ibrahim) berkata, \"Tidak ada yang berputus asa dari rahmat Tuhannya, kecuali orang yang sesat"
+      }
+    },
+    {
+      "id": 57,
+      "verse_key": "15:57",
+      "verse_number": 57,
+      "text_uthmani": "قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Abraham] said, \"Then what is your business [here], O messengers",
+        "fr": "Et il [leur] dit: «Que voulez-vous, ô envoyés d'Allah?»",
+        "tr": "Zaten sapıklardan başka kim Rabbinin rahmetinden umudunu keser!\" diyerek sormuştu: \"Ey elçiler! İşiniz nedir",
+        "ur": "پھر ابراہیمؑ نے پوچھا \"اے فرستادگان الٰہی، وہ مہم کیا ہے جس پر آپ حضرات تشریف لائے ہیں؟",
+        "id": "Dia (Ibrahim) berkata, \"Apakah perkara pentingmu, wahai para utusan"
+      }
+    },
+    {
+      "id": 58,
+      "verse_key": "15:58",
+      "verse_number": 58,
+      "text_uthmani": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They said, \"Indeed, we have been sent to a people of criminals",
+        "fr": "Ils dirent: «En vérité, nous sommes envoyés à des gens criminels",
+        "tr": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk",
+        "ur": "وہ بولے، \"ہم ایک مجرم قوم کی طرف بھیجے گئے ہیں",
+        "id": "(Mereka) menjawab, \"Sesungguhnya kami diutus kepada kaum yang berdosa"
+      }
+    },
+    {
+      "id": 59,
+      "verse_key": "15:59",
+      "verse_number": 59,
+      "text_uthmani": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Except the family of Lot; indeed, we will save them all",
+        "fr": "à l'exception de la famille de Lot que nous sauverons tous",
+        "tr": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk",
+        "ur": "صرف لوطؑ کے گھر والے مستثنیٰ ہیں، ان سب کو ہم بچا لیں گے",
+        "id": "kecuali para pengikut Luṭ. Sesungguhnya kami pasti menyelamatkan mereka semuanya"
+      }
+    },
+    {
+      "id": 60,
+      "verse_key": "15:60",
+      "verse_number": 60,
+      "text_uthmani": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Except his wife.\" Allah decreed that she is of those who remain behind",
+        "fr": "sauf sa femme.«Nous (Allah) avions déterminé qu'elle sera du nombre des exterminés",
+        "tr": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk",
+        "ur": "سوائے اُس کی بیوی کے جس کے لیے (اللہ فرماتا ہے کہ) ہم نے مقدر کر دیا ہے کہ وہ پیچھے رہ جانے والوں میں شامل رہے گی",
+        "id": "kecuali istrinya, kami telah menentukan, bahwa dia termasuk orang yang tertinggal (bersama orang kafir lainnya)"
+      }
+    },
+    {
+      "id": 61,
+      "verse_key": "15:61",
+      "verse_number": 61,
+      "text_uthmani": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And when the messengers came to the family of Lot",
+        "fr": "Puis lorsque les envoyés vinrent auprès de la famille de Lot",
+        "tr": "Elçiler Lut'un ailesine gelince, Lut: \"Doğrusu siz tanınmayan kimselersiniz\" dedi",
+        "ur": "پھر جب یہ فرستادے لوطؑ کے ہاں پہنچے",
+        "id": "Maka ketika utusan itu datang kepada para pengikut Luṭ"
+      }
+    },
+    {
+      "id": 62,
+      "verse_key": "15:62",
+      "verse_number": 62,
+      "text_uthmani": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "He said, \"Indeed, you are people unknown",
+        "fr": "celui-ci dit: «Vous êtes [pour moi] des gens inconnus»",
+        "tr": "Elçiler Lut'un ailesine gelince, Lut: \"Doğrusu siz tanınmayan kimselersiniz\" dedi",
+        "ur": "تو اُس نے کہا \"آپ لوگ اجنبی معلوم ہوتے ہیں",
+        "id": "dia (Luṭ) berkata, \"Sesungguhnya kamu orang yang tidak kami kenal"
+      }
+    },
+    {
+      "id": 63,
+      "verse_key": "15:63",
+      "verse_number": 63,
+      "text_uthmani": "قَالُواْ بَلۡ جِئۡنَٰكَ بِمَا كَانُواْ فِيهِ يَمۡتَرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They said, \"But we have come to you with that about which they were disputing",
+        "fr": "Ils dirent: «Nous sommes plutôt venus à toi en apportant (le châtiment) à propos duquel ils doutaient",
+        "tr": "Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün\" dediler",
+        "ur": "اُنہوں نے جواب دیا \"نہیں، بلکہ ہم وہی چیز لے کر آئے ہیں جس کے آنے میں یہ لوگ شک کر رہے تھے",
+        "id": "(Para utusan) menjawab, \"Sebenarnya kami ini datang kepadamu membawa azab yang selalu mereka dustakan"
+      }
+    },
+    {
+      "id": 64,
+      "verse_key": "15:64",
+      "verse_number": 64,
+      "text_uthmani": "وَأَتَيۡنَٰكَ بِٱلۡحَقِّ وَإِنَّا لَصَٰدِقُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And we have come to you with truth, and indeed, we are truthful",
+        "fr": "Et nous venons à toi avec la vérité. Et nous sommes véridiques",
+        "tr": "Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün\" dediler",
+        "ur": "ہم تم سے سچ کہتے ہیں کہ ہم حق کے ساتھ تمہارے پاس آئے ہیں",
+        "id": "Dan kami datang kepadamu membawa kebenaran dan sungguh, kami orang yang benar"
+      }
+    },
+    {
+      "id": 65,
+      "verse_key": "15:65",
+      "verse_number": 65,
+      "text_uthmani": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded",
+        "fr": "Pars donc avec ta famille en parie de nuit et suis leurs arrières; et que nul d'entre vous ne se retourne. Et allez là où on vous le commande»",
+        "tr": "Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün\" dediler",
+        "ur": "لہٰذا اب تم کچھ رات رہے اپنے گھر والوں کو لے کر نکل جاؤ اور خود ان کے پیچھے پیچھے چلو تم میں سے کوئی پلٹ کر نہ دیکھے بس سیدھے چلے جاؤ جدھر جانے کا تمہیں حکم دیا جا رہا ہے",
+        "id": "Maka pergilah kamu pada akhir malam beserta keluargamu, dan ikutilah mereka dari belakang! Jangan ada di antara kamu yang menoleh ke belakang dan teruskanlah perjalanan ke tempat yang diperintahkan kepadamu"
+      }
+    },
+    {
+      "id": 66,
+      "verse_key": "15:66",
+      "verse_number": 66,
+      "text_uthmani": "وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning",
+        "fr": "Et Nous lui annonçâmes cet ordre: que ces gens-là, au matin, seront anéantis jusqu'au dernier",
+        "tr": "Böylece Lut'a bunların sonlarının kesilmiş olarak sabahlıyacaklarını bildirdik",
+        "ur": "اور اُسے ہم نے اپنا یہ فیصلہ پہنچا دیا کہ صبح ہوتے ہوتے اِن لوگوں کی جڑ کاٹ دی جائے گی",
+        "id": "Dan telah Kami tetapkan kepadanya (Luṭ) keputusan itu, bahwa akhirnya mereka akan ditumpas habis pada waktu subuh"
+      }
+    },
+    {
+      "id": 67,
+      "verse_key": "15:67",
+      "verse_number": 67,
+      "text_uthmani": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And the people of the city came rejoicing",
+        "fr": "Et les habitants de la ville (Sodome) vinrent [à lui] dans la joie",
+        "tr": "Şehir halkı, sevinerek geldiler",
+        "ur": "اتنے میں شہر کے لوگ خوشی کے مارے بے تاب ہو کر لوطؑ کے گھر چڑھ آئے",
+        "id": "(Dan datanglah penduduk kota itu437) (ke rumah Luṭ) dengan gembira (karena kedatangan tamu itu)"
+      }
+    },
+    {
+      "id": 68,
+      "verse_key": "15:68",
+      "verse_number": 68,
+      "text_uthmani": "قَالَ إِنَّ هَـٰٓؤُلَآءِ ضَيۡفِي فَلَا تَفۡضَحُونِ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Lot] said, \"Indeed, these are my guests, so do not shame me",
+        "fr": "Il dit: «Ceux-ci sont mes hôtes, ne me déshonorez donc pas",
+        "tr": "Lut: \"Bunlar benim konuklarımdır, onlara karşı beni rüsvay etmeyin, Allah'tan korkun, beni utandırmayın\" dedi",
+        "ur": "لوطؑ نے کہا \"بھائیو، یہ میرے مہمان ہیں، میری فضیحت نہ کرو",
+        "id": "Dia (Luṭ) berkata, \"Sesungguhnya mereka adalah tamuku; maka jangan kamu mempermalukan aku"
+      }
+    },
+    {
+      "id": 69,
+      "verse_key": "15:69",
+      "verse_number": 69,
+      "text_uthmani": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And fear Allah and do not disgrace me",
+        "fr": "Et craignez Allah. Et ne me couvrez pas d'ignominie.»",
+        "tr": "Lut: \"Bunlar benim konuklarımdır, onlara karşı beni rüsvay etmeyin, Allah'tan korkun, beni utandırmayın\" dedi",
+        "ur": "اللہ سے ڈرو، مجھے رسوا نہ کرو",
+        "id": "dan bertakwalah kepada Allah dan janganlah kamu membuat aku terhina"
+      }
+    },
+    {
+      "id": 70,
+      "verse_key": "15:70",
+      "verse_number": 70,
+      "text_uthmani": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "They said, \"Have we not forbidden you from [protecting] people",
+        "fr": "Ils dirent: «Ne t'avions-nous pas interdit de [recevoir] du monde?»",
+        "tr": "Biz sana kimseyi misafir kabul etmeyi yasak etmemiş miydik?\" dediler",
+        "ur": "وہ بولے \"کیا ہم بارہا تمہیں منع نہیں کر چکے ہیں کہ دنیا بھر کے ٹھیکے دار نہ بنو؟",
+        "id": "(Mereka) berkata, \"Bukankah kami telah melarangmu dari (melindungi) manusia"
+      }
+    },
+    {
+      "id": 71,
+      "verse_key": "15:71",
+      "verse_number": 71,
+      "text_uthmani": "قَالَ هَـٰٓؤُلَآءِ بَنَاتِيٓ إِن كُنتُمۡ فَٰعِلِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage]",
+        "fr": "Il dit: «Voici mes filles, si vous voulez faire [quelque chose]!»",
+        "tr": "Lut: \"Alacaksanız, işte benim kızlarım\" dedi",
+        "ur": "لوطؑ نے عاجز ہو کر کہا \"اگر تمہیں کچھ کرنا ہی ہے تو یہ میری بیٹیاں موجود ہیں",
+        "id": "Dia (Luṭ) berkata, \"Mereka itulah putri-putri (negeri)ku (nikahlah dengan mereka), jika kamu hendak berbuat"
+      }
+    },
+    {
+      "id": 72,
+      "verse_key": "15:72",
+      "verse_number": 72,
+      "text_uthmani": "لَعَمۡرُكَ إِنَّهُمۡ لَفِي سَكۡرَتِهِمۡ يَعۡمَهُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly",
+        "fr": "Par ta vie! ils se confondaient dans leur délire",
+        "tr": "Senin hayatına and olsun ki, onlar sarhoşlukları içinde bocalayıp duruyorlardı",
+        "ur": "تیری جان کی قسم اے نبیؐ، اُس وقت اُن پر ایک نشہ سا چڑھا ہوا تھا جس میں وہ آپے سے باہر ہوئے جاتے تھے",
+        "id": "(Allah berfirman), \"Demi umurmu439) (Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (kesesatan)"
+      }
+    },
+    {
+      "id": 73,
+      "verse_key": "15:73",
+      "verse_number": 73,
+      "text_uthmani": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُشۡرِقِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So the shriek seized them at sunrise",
+        "fr": "Alors, au lever du soleil le Cri (la catastrophe) les saisit",
+        "tr": "Tanyeri ağarırken, çığlık onları yakalayıverdi",
+        "ur": "آخرکار پو پھٹتے ہی اُن کو ایک زبردست دھماکے نے آ لیا",
+        "id": "Maka mereka dibinasakan oleh suara keras yang mengguntur, ketika matahari akan terbit"
+      }
+    },
+    {
+      "id": 74,
+      "verse_key": "15:74",
+      "verse_number": 74,
+      "text_uthmani": "فَجَعَلۡنَا عَٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةٗ مِّن سِجِّيلٍ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay",
+        "fr": "Et Nous renversâmes [la ville] de fond en comble et fîmes pleuvoir sur eux des pierres d'argile dure",
+        "tr": "Memleketlerini alt üst ettik, üzerlerine sert taş yağdırdık",
+        "ur": "اور ہم نے اُس بستی کو تل پٹ کر کے رکھ دیا اور ان پر پکی ہوئی مٹی کے پتھروں کی بارش برسا دی",
+        "id": "maka Kami jungkirbalikan (negeri itu) dan Kami hujani mereka dengan batu dari tanah yang keras"
+      }
+    },
+    {
+      "id": 75,
+      "verse_key": "15:75",
+      "verse_number": 75,
+      "text_uthmani": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed in that are signs for those who discern",
+        "fr": "Voilà vraiment des preuves, pour ceux qui savent observer",
+        "tr": "Bunda, görebilen insanlar için ibretler vardır",
+        "ur": "اِس واقعے میں بڑی نشانیاں ہیں اُن لوگوں کے لیے جو صاحب فراست ہیں",
+        "id": "Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang yang memperhatikan tanda-tanda"
+      }
+    },
+    {
+      "id": 76,
+      "verse_key": "15:76",
+      "verse_number": 76,
+      "text_uthmani": "وَإِنَّهَا لَبِسَبِيلٖ مُّقِيمٍ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And indeed, those cities are [situated] on an established road",
+        "fr": "Elle [cette ville] se trouvait sur un chemin connu de tous",
+        "tr": "O şehrin kalıntıları işlek yollar üzerinde hala durmaktadır",
+        "ur": "اور وہ علاقہ (جہاں یہ واقعہ پیش آیا تھا) گزرگاہ عام پر واقع ہے",
+        "id": "dan sungguh, (negeri) itu benar-benar terletak di jalan yang masih tetap (dilalui manusia)"
+      }
+    },
+    {
+      "id": 77,
+      "verse_key": "15:77",
+      "verse_number": 77,
+      "text_uthmani": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed in that is a sign for the believers",
+        "fr": "Voilà vraiment une exhortation pour les croyants",
+        "tr": "Bunda inananlar için ibret vardır",
+        "ur": "اُس میں سامان عبرت ہے اُن لوگوں کے لیے جو صاحب ایمان ہیں",
+        "id": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah) bagi orang yang beriman"
+      }
+    },
+    {
+      "id": 78,
+      "verse_key": "15:78",
+      "verse_number": 78,
+      "text_uthmani": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And the companions of the thicket were [also] wrongdoers",
+        "fr": "Et les habitants d'al-Aïka étaient [aussi] des injustes",
+        "tr": "Eykeliler de, şüphesiz zalim kimselerdi",
+        "ur": "اور ایکہ والے ظالم تھے",
+        "id": "(Dan sesungguhnya penduduk Aikah440) itu benar-benar kaum yang zalim"
+      }
+    },
+    {
+      "id": 79,
+      "verse_key": "15:79",
+      "verse_number": 79,
+      "text_uthmani": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So We took retribution from them, and indeed, both [cities] are on a clear highway",
+        "fr": "Nous Nous sommes donc vengés d'eux. Et ces deux [cités], vraiment, sont sur une route bien évidente [que vous connaissez]",
+        "tr": "Bunun için onlardan da öç aldık. Hala her iki memleket de işlek bir yol üzerindedirler",
+        "ur": "تو دیکھ لو کہ ہم نے بھی اُن سے انتقام لیا، اور اِن دونوں قوموں کے اجڑے ہوئے علاقے کھلے راستے پر واقع ہیں",
+        "id": "maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)441) itu terletak di satu jalur jalan raya"
+      }
+    },
+    {
+      "id": 80,
+      "verse_key": "15:80",
+      "verse_number": 80,
+      "text_uthmani": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And certainly did the companions of Thamud deny the messengers",
+        "fr": "Certes, les gens d'al-Hijr ont traité de menteurs les messagers",
+        "tr": "And olsun ki, Hicr halkı peygamberi yalanlamışlardı",
+        "ur": "حجر کے لوگ بھی رسولوں کی تکذیب کر چکے ہیں",
+        "id": "(Dan sesungguhnya penduduk negeri Hijr442) benar-benar telah mendustakan para rasul (mereka)"
+      }
+    },
+    {
+      "id": 81,
+      "verse_key": "15:81",
+      "verse_number": 81,
+      "text_uthmani": "وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We gave them Our signs, but from them they were turning away",
+        "fr": "Nous leur avons montré Nos miracles, mais ils s'en étaient détournés",
+        "tr": "Onlara ayetlerimizi verdiğimiz halde, yüz çevirmişlerdi",
+        "ur": "ہم نے اپنی آیات اُن کے پاس بھیجیں، اپنی نشانیاں اُن کو دکھائیں، مگر وہ سب کو نظر انداز ہی کرتے رہے",
+        "id": "dan Kami telah mendatangkan kepada mereka tanda-tanda (kekuasaan) Kami, tetapi mereka selalu berpaling darinya"
+      }
+    },
+    {
+      "id": 82,
+      "verse_key": "15:82",
+      "verse_number": 82,
+      "text_uthmani": "وَكَانُواْ يَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتًا ءَامِنِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And they used to carve from the mountains, houses, feeling secure",
+        "fr": "Et ils taillaient des maisons dans les montagnes, vivant en sécurité",
+        "tr": "Dağlarda, güven içinde olarak evler yontuyorlardı",
+        "ur": "وہ پہاڑ تراش تراش کر مکان بناتے تھے اور اپنی جگہ بالکل بے خوف اور مطمئن تھے",
+        "id": "dan mereka memahat rumah-rumah dari gunung batu, (yang didiami) dengan rasa aman"
+      }
+    },
+    {
+      "id": 83,
+      "verse_key": "15:83",
+      "verse_number": 83,
+      "text_uthmani": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "But the shriek seized them at early morning",
+        "fr": "Puis, au matin, le Cri les saisit",
+        "tr": "Sabaha karşı çığlık onları yakalayıverdi",
+        "ur": "آخرکار ایک زبردست دھماکے نے اُن کو صبح ہوتے آ لیا",
+        "id": "Kemudian mereka dibinasakan oleh suara keras yang mengguntur pada pagi hari"
+      }
+    },
+    {
+      "id": 84,
+      "verse_key": "15:84",
+      "verse_number": 84,
+      "text_uthmani": "فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So nothing availed them [from] what they used to earn",
+        "fr": "Ce qu'ils avaient acquis ne leur a donc point profité",
+        "tr": "Yaptıkları kendilerine bir fayda sağlamadı",
+        "ur": "اور اُن کی کمائی اُن کے کچھ کام نہ آئی",
+        "id": "sehingga tidak berguna bagi mereka, apa yang telah mereka usahakan"
+      }
+    },
+    {
+      "id": 85,
+      "verse_key": "15:85",
+      "verse_number": 85,
+      "text_uthmani": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّۗ وَإِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞۖ فَٱصۡفَحِ ٱلصَّفۡحَ ٱلۡجَمِيلَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness",
+        "fr": "Et Nous n'avons créé les cieux et la terre, et ce qui est entre eux, que pour une juste raison. Et l'Heure [sans aucun doute] arrivera! Pardonne-[leur] donc d'un beau pardon",
+        "tr": "Biz, gökleri, yeri ve her ikisi arasında bulunanları gereğince yarattık. Kıyamet günü şüphesiz gelecektir. O halde yumuşak ve iyi davran",
+        "ur": "ہم نے زمین اور آسمان کو اور ان کی سب موجودات کو حق کے سوا کسی اور بنیاد پر خلق نہیں کیا ہے، اور فیصلے کی گھڑی یقیناً آنے والی ہے، پس اے محمدؐ، تم (اِن لوگوں کی بیہودگیوں پر) شریفانہ درگزر سے کام لو",
+        "id": "Dan Kami tidak menciptakan langit dan bumi serta apa yang ada di antara keduanya, melainkan dengan kebenaran. Dan sungguh, Kiamat pasti akan datang, maka maafkanlah (mereka) dengan cara yang baik"
+      }
+    },
+    {
+      "id": 86,
+      "verse_key": "15:86",
+      "verse_number": 86,
+      "text_uthmani": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّـٰقُ ٱلۡعَلِيمُ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed, your Lord - He is the Knowing Creator",
+        "fr": "Ton Seigneur, c'est Lui vraiment le grand Créateur, l'Omniscient",
+        "tr": "Doğrusu yaratan ve bilen ancak Rabbindir",
+        "ur": "یقیناً تمہارا رب سب کا خالق ہے اور سب کچھ جانتا ہے",
+        "id": "Sungguh, Tuhanmu, Dialah Yang Maha Pencipta, Maha Mengetahui"
+      }
+    },
+    {
+      "id": 87,
+      "verse_key": "15:87",
+      "verse_number": 87,
+      "text_uthmani": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We have certainly given you, [O Muhammad], seven of the often repeated [verses] and the great Qur'an",
+        "fr": "Nous t'avons certes donné «les sept versets que l'on répète», ainsi que le Coran sublime",
+        "tr": "And olsun ki, sana daima tekrarlanan yedi ayetli Fatiha'yı ve Kuran-ı Azim'i verdik",
+        "ur": "ہم نے تم کو سات ایسی آیتیں دے رکھی ہیں جو بار بار دہرائی جانے کے لائق ہیں، اور تمہیں قرآن عظیم عطا کیا ہے",
+        "id": "Dan sungguh, Kami telah memberikan kepadamu tujuh (ayat) yang (dibaca) berulang-ulang445) dan Alquran yang agung"
+      }
+    },
+    {
+      "id": 88,
+      "verse_key": "15:88",
+      "verse_number": 88,
+      "text_uthmani": "لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
+        "fr": "Ne regarde surtout pas avec envie les choses dont Nous avons donné jouissance temporaire à certains couples d'entre eux, ne t'afflige pas à leur sujet et abaisse ton aile pour les croyants",
+        "tr": "Kafirler içinde bazı kimselere verdiğimiz kat kat servete gözünü dikme, onlara üzülme; inananları kanatların altına al",
+        "ur": "تم اُس متاع دنیا کی طرف آنکھ اٹھا کر نہ دیکھو جو ہم نے اِن میں سے مختلف قسم کے لوگوں کو دے رکھی ہے، اور نہ اِن کے حال پر اپنا دل کڑھاؤ انہیں چھوڑ کر ایمان لانے والوں کی طرف جھکو",
+        "id": "Jangan sekali-kali engkau (Muhammad) tujukan pandanganmu kepada kenikmatan hidup yang telah Kami berikan kepada beberapa golongan di antara mereka (orang kafir), dan jangan engkau bersedih hati terhadap mereka dan berendah hatilah engkau terhadap orang yang beriman"
+      }
+    },
+    {
+      "id": 89,
+      "verse_key": "15:89",
+      "verse_number": 89,
+      "text_uthmani": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And say, \"Indeed, I am the clear warner",
+        "fr": "Et dis: «Je suis l'avertisseur évident» (d'un châtiment)",
+        "tr": "De ki: \"Doğrusu ben apaçık bir uyarıcıyım",
+        "ur": "اور (نہ ماننے والوں سے) کہہ دو کہ میں تو صاف صاف تنبیہ کرنے والا ہوں",
+        "id": "Dan katakanlah (Muhammad), \"Sesungguhnya aku adalah pemberi peringatan yang jelas"
+      }
+    },
+    {
+      "id": 90,
+      "verse_key": "15:90",
+      "verse_number": 90,
+      "text_uthmani": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Just as We had revealed [scriptures] to the separators",
+        "fr": "De même que Nous avons fait descendre [le châtiment] sur ceux qui ont juré (entre eux)",
+        "tr": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız",
+        "ur": "یہ اُسی کی طرح کی تنبیہ ہے جیسی ہم نے اُن تفرقہ پردازوں کی طرف بھیجی تھی",
+        "id": "Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang yang memilah-milah (Kitab Allah)"
+      }
+    },
+    {
+      "id": 91,
+      "verse_key": "15:91",
+      "verse_number": 91,
+      "text_uthmani": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Who have made the Qur'an into portions",
+        "fr": "ceux qui ont fait du Coran des fractions diverses, (pour créer des doutes)",
+        "tr": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız",
+        "ur": "جنہوں نے اپنے قرآن کو ٹکڑے ٹکڑے کر ڈالا ہے",
+        "id": "(Yaitu) orang-orang447) yang telah menjadikan Alquran itu terbagi-bagi"
+      }
+    },
+    {
+      "id": 92,
+      "verse_key": "15:92",
+      "verse_number": 92,
+      "text_uthmani": "فَوَرَبِّكَ لَنَسۡـَٔلَنَّهُمۡ أَجۡمَعِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So by your Lord, We will surely question them all",
+        "fr": "Par ton Seigneur! Nous les interrogerons tous",
+        "tr": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız",
+        "ur": "تو قسم ہے تیرے رب کی، ہم ضرور ان سب سے پوچھیں گے",
+        "id": "Maka demi Tuhanmu, Kami pasti akan menanyai mereka semua"
+      }
+    },
+    {
+      "id": 93,
+      "verse_key": "15:93",
+      "verse_number": 93,
+      "text_uthmani": "عَمَّا كَانُواْ يَعۡمَلُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "About what they used to do",
+        "fr": "sur ce qu'ils œuvraient",
+        "tr": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız",
+        "ur": "کہ تم کیا کرتے رہے ہو",
+        "id": "tentang apa yang telah mereka kerjakan dahulu"
+      }
+    },
+    {
+      "id": 94,
+      "verse_key": "15:94",
+      "verse_number": 94,
+      "text_uthmani": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Then declare what you are commanded and turn away from the polytheists",
+        "fr": "Expose donc clairement ce qu'on t'a commandé et détourne-toi des associateurs",
+        "tr": "Artık buyrulanı açıkça ortaya koy, puta tapanlara aldırış etme",
+        "ur": "پس اے نبیؐ، جس چیز کا تمہیں حکم دیا جا رہا ہے، اُسے ہانکے پکارے کہہ دو اور شرک کرنے والوں کی ذرا پروا نہ کرو",
+        "id": "Maka sampaikanlah (Muhammad) secara terang-terangan segala apa yang diperintahkan (kepadamu) dan berpalinglah dari orang yang musyrik"
+      }
+    },
+    {
+      "id": 95,
+      "verse_key": "15:95",
+      "verse_number": 95,
+      "text_uthmani": "إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We are sufficient for you against the mockers",
+        "fr": "Nous t'avons effectivement défendu vis-à-vis des railleurs",
+        "tr": "Allah'la beraber başka bir tanrının bulunduğunu kabul eden alaycılara karşı şüphesiz Biz sana kafiyiz. Yakında ne olduğunu öğreneceklerdir",
+        "ur": "تمہاری طرف سے ہم اُن مذاق اڑانے والوں کی خبر لینے کے لیے کافی ہیں",
+        "id": "Sesungguhnya Kami memelihara engkau (Muhammad) dari (kejahatan) orang yang memperolok-olokkan (engkau)"
+      }
+    },
+    {
+      "id": 96,
+      "verse_key": "15:96",
+      "verse_number": 96,
+      "text_uthmani": "ٱلَّذِينَ يَجۡعَلُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۚ فَسَوۡفَ يَعۡلَمُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "Who make [equal] with Allah another deity. But they are going to know",
+        "fr": "Ceux qui associent à Allah une autre divinité. Mais ils sauront bientôt",
+        "tr": "Allah'la beraber başka bir tanrının bulunduğunu kabul eden alaycılara karşı şüphesiz Biz sana kafiyiz. Yakında ne olduğunu öğreneceklerdir",
+        "ur": "جو اللہ کے ساتھ کسی اور کو بھی خدا قرار دیتے ہیں عنقریب انہیں معلوم ہو جائے گا",
+        "id": "(yaitu) orang yang menganggap adanya tuhan selain Allah; mereka kelak akan mengetahui (akibatnya)"
+      }
+    },
+    {
+      "id": 97,
+      "verse_key": "15:97",
+      "verse_number": 97,
+      "text_uthmani": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And We already know that your breast is constrained by what they say",
+        "fr": "Et Nous savons certes que ta poitrine se serre, à cause de ce qu'ils disent",
+        "tr": "And olsun ki, söyledikleri şeylerden senin gönlünün daraldığını biliyoruz",
+        "ur": "ہمیں معلوم ہے کہ جو باتیں یہ لوگ تم پر بناتے ہیں ان سے تمہارے دل کو سخت کوفت ہوتی ہے",
+        "id": "Dan sungguh, Kami mengetahui bahwa dadamu menjadi sempit disebabkan apa yang mereka ucapkan"
+      }
+    },
+    {
+      "id": 98,
+      "verse_key": "15:98",
+      "verse_number": 98,
+      "text_uthmani": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him]",
+        "fr": "Glorifie donc Ton Seigneur par Sa louange et sois de ceux qui se prosternent",
+        "tr": "Rabbini hamd ile an, secde edenlerden ol ve ölünceye kadar Rabbine kulluk et",
+        "ur": "اس کا علاج یہ ہے کہ اپنے رب کی حمد کے ساتھ اس کی تسبیح کرو، اس کی جناب میں سجدہ بجا لاؤ",
+        "id": "maka bertasbihlah dengan memuji Tuhanmu dan jadilah engkau di antara orang yang bersujud (salat)"
+      }
+    },
+    {
+      "id": 99,
+      "verse_key": "15:99",
+      "verse_number": 99,
+      "text_uthmani": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ",
+      "chapter_id": 15,
+      "words": [],
+      "translations": {
+        "en": "And worship your Lord until there comes to you the certainty (death)",
+        "fr": "et adore ton Seigneur jusqu'à ce que te vienne la certitude (la mort)",
+        "tr": "Rabbini hamd ile an, secde edenlerden ol ve ölünceye kadar Rabbine kulluk et",
+        "ur": "اور اُس آخری گھڑی تک اپنے رب کی بندگی کرتے رہو جس کا آنا یقینی ہے",
+        "id": "dan sembahlah Tuhanmu sampai yakin (ajal) datang kepadamu"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 15,
+    "name_arabic": "الحجر",
+    "name_english": "Al-Hijr"
+  }
+}

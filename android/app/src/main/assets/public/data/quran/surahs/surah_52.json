@@ -1,0 +1,744 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "52:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلطُّورِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "By the mount",
+        "fr": "Par At-Tûr",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "قسم ہے طور کی",
+        "id": "Demi gunung (Sinai)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "52:2",
+      "verse_number": 2,
+      "text_uthmani": "وَكِتَٰبٖ مَّسۡطُورٖ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And [by] a Book inscribed",
+        "fr": "Et par un Livre écrit",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "اور ایک ایسی کھلی کتاب کی",
+        "id": "dan demi Kitab yang ditulis"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "52:3",
+      "verse_number": 3,
+      "text_uthmani": "فِي رَقّٖ مَّنشُورٖ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "In parchment spread open",
+        "fr": "sur un parchemin déployé",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "جو رقیق جلد میں لکھی ہوئی ہے",
+        "id": "pada lembaran yang terbuka"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "52:4",
+      "verse_number": 4,
+      "text_uthmani": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And [by] the frequented House",
+        "fr": "Et par la Maison peuplée",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "اور آباد گھر کی",
+        "id": "demi Baitulma'mur (Ka'bah)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "52:5",
+      "verse_number": 5,
+      "text_uthmani": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And [by] the heaven raised high",
+        "fr": "Et par la Voûte élevée",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "اور اونچی چھت کی",
+        "id": "demi atap yang ditinggikan (langit)"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "52:6",
+      "verse_number": 6,
+      "text_uthmani": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And [by] the sea filled [with fire]",
+        "fr": "Et par la Mer portée à ébullition! (au Jour dernier)",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "اور موجزن سمندر کی",
+        "id": "demi lautan yang penuh gelombang"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "52:7",
+      "verse_number": 7,
+      "text_uthmani": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the punishment of your Lord will occur",
+        "fr": "Le châtiment de ton Seigneur aura lieu inévitablement",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "کہ تیرے رب کا عذاب ضرور واقع ہونے والا ہے",
+        "id": "sungguh, azab Tuhanmu pasti terjadi"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "52:8",
+      "verse_number": 8,
+      "text_uthmani": "مَّا لَهُۥ مِن دَافِعٖ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Of it there is no preventer",
+        "fr": "Nul ne pourra le repousser",
+        "tr": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur",
+        "ur": "جسے کوئی دفع کرنے والا نہیں",
+        "id": "tidak sesuatu pun yang dapat menolaknya"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "52:9",
+      "verse_number": 9,
+      "text_uthmani": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "On the Day the heaven will sway with circular motion",
+        "fr": "Le jour où le ciel sera agité d'un tourbillonnement",
+        "tr": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak",
+        "ur": "وہ اُس روز واقع ہوگا جب آسمان بری طرح ڈگمگائے گا",
+        "id": "pada hari (ketika) langit berguncang sekeras-kerasnya"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "52:10",
+      "verse_number": 10,
+      "text_uthmani": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And the mountains will pass on, departing",
+        "fr": "et les montagnes se mettront en marche",
+        "tr": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak",
+        "ur": "اور پہاڑ اڑے اڑے پھریں گے",
+        "id": "dan gunung berjalan (berpindah-pindah)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "52:11",
+      "verse_number": 11,
+      "text_uthmani": "فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Then woe, that Day, to the deniers",
+        "fr": "Ce jour-là, malheur à ceux qui traitent (les signes d'Allah) de mensonges",
+        "tr": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak",
+        "ur": "تباہی ہے اُس روز اُن جھٹلانے والوں کے لیے",
+        "id": "Maka celakalah pada hari itu orang-orang yang mendustakan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "52:12",
+      "verse_number": 12,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Who are in [empty] discourse amusing themselves",
+        "fr": "ceux qui s'ébattent dans des discours frivoles",
+        "tr": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak",
+        "ur": "جو آج کھیل کے طور پر اپنی حجت بازیوں میں لگے ہوئے ہیں",
+        "id": "Orang-orang yang bermain-main dalam kebatilan (perbuatan dosa)"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "52:13",
+      "verse_number": 13,
+      "text_uthmani": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "The Day they are thrust toward the fire of Hell with a [violent] thrust, [its angels will say]",
+        "fr": "le jour où ils seront brutalement poussés au feu de l'Enfer",
+        "tr": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur",
+        "ur": "جس دن انہیں دھکے مار مار کر نار جہنم کی طرف لے چلا جائے گا",
+        "id": "pada hari (ketika) itu mereka di dorong ke neraka Jahanam dengan sekuat-kuatnya"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "52:14",
+      "verse_number": 14,
+      "text_uthmani": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "This is the Fire which you used to deny",
+        "fr": "Voilà le feu que vous traitiez de mensonge",
+        "tr": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur",
+        "ur": "اُس وقت اُن سے کہا جائے گا کہ \"یہ وہی آگ ہے جسے تم جھٹلایا کرتے تھے",
+        "id": "(Dikatakan kepada mereka), \"Inilah neraka yang dahulu kamu mendustakannya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "52:15",
+      "verse_number": 15,
+      "text_uthmani": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Then is this magic, or do you not see",
+        "fr": "Est-ce que cela est de la magie? Ou bien ne voyez-vous pas clair",
+        "tr": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir",
+        "ur": "اب بتاؤ یہ جادو ہے یا تمہیں سوجھ نہیں رہا ہے؟",
+        "id": "Maka apakah ini sihir? Ataukah kamu tidak melihat"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "52:16",
+      "verse_number": 16,
+      "text_uthmani": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "[Enter to] burn therein; then be patient or impatient - it is all the same for you. You are only being recompensed [for] what you used to do",
+        "fr": "Brûlez dedans! Supportez ou ne supportez pas, ce sera égal pour vous: vous n'êtes rétribués que selon ce que vous faisiez",
+        "tr": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir",
+        "ur": "جاؤ اب جھلسو اِس کے اندر، تم خواہ صبر کرو یا نہ کرو، تمہارے لیے یکساں ہے، تمہیں ویسا ہی بدلہ دیا جا رہا ہے جیسے تم عمل کر رہے تھے",
+        "id": "Masuklah ke dalamnya (rasakanlah panas apinya); baik kamu bersabar atau tidak, sama saja bagimu; sesungguhnya kamu hanya diberi balasan atas apa yang telah kamu kerjakan"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "52:17",
+      "verse_number": 17,
+      "text_uthmani": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَنَعِيمٖ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the righteous will be in gardens and pleasure",
+        "fr": "Les pieux seront dans des Jardins et dans des délices",
+        "tr": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur",
+        "ur": "متقی لوگ وہاں باغوں اور نعمتوں میں ہوں گے",
+        "id": "Sesungguhnya orang-orang yang bertakwa berada dalam surga dan kenikmatan"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "52:18",
+      "verse_number": 18,
+      "text_uthmani": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Enjoying what their Lord has given them, and their Lord protected them from the punishment of Hellfire",
+        "fr": "se réjouissant de ce que leur Seigneur leur aura donné, et leur Seigneur les aura protégés du châtiment de la Fournaise",
+        "tr": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur",
+        "ur": "لطف لے رہے ہوں گے اُن چیزوں سے جو اُن کا رب انہیں دے گا، اور اُن کا رب اُنہیں دوزخ کے عذاب سے بچا لے گا",
+        "id": "mereka bersuka ria dengan apa yang diberikan Tuhan kepada mereka; dan Tuhan memelihara mereka dari azab neraka"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "52:19",
+      "verse_number": 19,
+      "text_uthmani": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "[They will be told], \"Eat and drink in satisfaction for what you used to do",
+        "fr": "«En récompense de ce que vous faisiez, mangez et buvez en toute sérénité",
+        "tr": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz",
+        "ur": "(ان سے کہا جائے گا) کھاؤ اور پیو مزے سے اپنے اُن اعمال کے صلے میں جو تم کرتے رہے ہو",
+        "id": "(Dikatakan kepada mereka), \"Makan dan minumlah dengan rasa nikmat sebagai balasan dari apa yang telah kamu kerjakan"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "52:20",
+      "verse_number": 20,
+      "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes",
+        "fr": "accoudés sur des lits bien rangés», et Nous leur ferons épouser des houris aux grands yeux noirs",
+        "tr": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz",
+        "ur": "وہ آمنے سامنے بچھے ہوئے تختوں پر تکیے لگائے بیٹھے ہوں گے اور ہم خوبصورت آنکھوں والی حوریں اُن سے بیاہ دیں گے",
+        "id": "Mereka bersandar di atas dipan-dipan yang tersusun dan Kami berikan kepada mereka pasangan bidadari yang bermata indah"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "52:21",
+      "verse_number": 21,
+      "text_uthmani": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينٞ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And those who believed and whose descendants followed them in faith - We will join with them their descendants, and We will not deprive them of anything of their deeds. Every person, for what he earned, is retained",
+        "fr": "Ceux qui auront cru et que leurs descendants auront suivis dans la foi, Nous ferons que leurs descendants les rejoignent. Et Nous ne diminuerons en rien le mérite de leurs œuvres, chacun étant tenu responsable de ce qu'il aura acquis",
+        "tr": "İnanan, soyları da inançta kendilerine uyan kimselere soylarını da katarız. Onların işlediklerinden hiçbir şey eksiltmeyiz. Herkes kazancına bağlıdır",
+        "ur": "جو لوگ ایمان لائے ہیں اور اُن کی اولاد بھی کسی درجہ ایمان میں ان کے نقش قدم پر چلی ہے ان کی اُس اولاد کو بھی ہم (جنت میں) اُن کے ساتھ ملا دیں گے اور اُن کے عمل میں کوئی گھاٹا ان کو نہ دیں گے ہر شخص اپنے کسب کے عوض رہن ہے",
+        "id": "Dan orang-orang yang beriman, beserta anak cucu mereka yang mengikuti mereka dalam keimanan, Kami pertemukan mereka dengan anak cucu mereka (di dalam surga), dan Kami tidak mengurangi sedikit pun pahala amal (kebajikan) mereka. Setiap orang terikat dengan apa yang dikerjakannya"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "52:22",
+      "verse_number": 22,
+      "text_uthmani": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And We will provide them with fruit and meat from whatever they desire",
+        "fr": "Nous les pourvoirons abondamment des fruits et des viandes qu'ils désireront",
+        "tr": "Cennette olanlara diledikleri meyve ve etten bol bol veririz",
+        "ur": "ہم اُن کو ہر طرح کے پھل اور گوشت، جس چیز کو بھی ان کا جی چاہے گا، خوب دیے چلے جائیں گے",
+        "id": "Dan Kami berikan kepada mereka tambahan berupa buah-buahan dan daging dari segala jenis yang mereka ingini"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "52:23",
+      "verse_number": 23,
+      "text_uthmani": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "They will exchange with one another a cup [of wine] wherein [results] no ill speech or commission of sin",
+        "fr": "Là, ils se passeront les uns les autres une coupe qui ne provoquera ni vanité ni incrimination",
+        "tr": "Orada kadeh tokuştururlar; fakat bunda ne bir saçmalama, ne de bir günaha girme vardır",
+        "ur": "وہاں وہ ایک دوسرے سے جام شراب لپک لپک کر لے رہے ہوں گے جس میں نہ یاوہ گوئی ہوگی نہ بد کرداری",
+        "id": "(Di dalam surga itu) mereka saling mengulurkan gelas yang isinya tidak (menimbulkan) ucapan sia-sia ataupun perbuatan dosa"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "52:24",
+      "verse_number": 24,
+      "text_uthmani": "۞وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "There will circulate among them [servant] boys [especially] for them, as if they were pearls well-protected",
+        "fr": "Et parmi eux circuleront des garçons à leur service, pareils à des perles bien conservées",
+        "tr": "Sedefteki inciler gibi olan gençler yanlarında dolaşırlar",
+        "ur": "اور اُن کی خدمت میں وہ لڑکے دوڑتے پھر رہے ہوں گے جو انہی کے لیے مخصوص ہوں گے ایسے خوبصورت جیسے چھپا کر رکھے ہوئے موتی",
+        "id": "Dan di sekitar mereka ada anak-anak muda yang berkeliling untuk (melayani) mereka, seakan-akan mereka itu mutiara yang tersimpan"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "52:25",
+      "verse_number": 25,
+      "text_uthmani": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And they will approach one another, inquiring of each other",
+        "fr": "Et ils se tourneront les uns vers les autres s'interrogeant",
+        "tr": "Birbirlerine dönüp soruşurlar",
+        "ur": "یہ لوگ آپس میں ایک دوسرے سے (دنیا میں گزرے ہوئے) حالات پوچھیں گے",
+        "id": "Dan sebagian mereka berhadap-hadapan satu sama lain saling bertegur sapa"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "52:26",
+      "verse_number": 26,
+      "text_uthmani": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "They will say, \"Indeed, we were previously among our people fearful [of displeasing Allah]",
+        "fr": "Ils diront: «Nous vivions au milieu des nôtres dans la crainte [d'Allah]",
+        "tr": "Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler",
+        "ur": "یہ کہیں گے کہ ہم پہلے اپنے گھر والوں میں ڈرتے ہوئے زندگی بسر کرتے تھے",
+        "id": "Mereka berkata, \"Sesungguhnya kami dahulu, sewaktu berada di tengah-tengah keluarga kami merasa takut (akan diazab)"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "52:27",
+      "verse_number": 27,
+      "text_uthmani": "فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "So Allah conferred favor upon us and protected us from the punishment of the Scorching Fire",
+        "fr": "Puis Allah nous a favorisés et protégés du châtiment du Samûm",
+        "tr": "Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler",
+        "ur": "آخر کار اللہ نے ہم پر فضل فرمایا اور ہمیں جھلسا دینے والی ہوا کے عذاب سے بچا لیا",
+        "id": "Maka Allah memberikan karunia kepada kami dan memelihara kami dari azab neraka"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "52:28",
+      "verse_number": 28,
+      "text_uthmani": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Indeed, we used to supplicate Him before. Indeed, it is He who is the Beneficent, the Merciful",
+        "fr": "Antérieurement, nous L'invoquions. C'est Lui certes, le Charitable, le Très Miséricordieux»",
+        "tr": "Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler",
+        "ur": "ہم پچھلی زندگی میں اُسی سے دعائیں مانگتے تھے، وہ واقعی بڑا ہی محسن اور رحیم ہے",
+        "id": "Sesungguhnya kami menyembah-Nya sejak dahulu. Dialah Yang Maha Melimpahkan Kebaikan, Maha Penyayang"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "52:29",
+      "verse_number": 29,
+      "text_uthmani": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "So remind [O Muhammad], for you are not, by the favor of your Lord, a soothsayer or a madman",
+        "fr": "Rappelle donc et par la grâce de ton Seigneur tu n'es ni un devin ni un possédé",
+        "tr": "Öğüt ver; Rabbinin nimetiyle sen, ne kahinsin ne de delisin",
+        "ur": "پس اے نبیؐ، تم نصیحت کیے جاؤ، اپنے رب کے فضل سے نہ تم کاہن ہو اور نہ مجنون",
+        "id": "Maka peringatkanlah, karena dengan nikmat Tuhanmu engkau (Muhammad) bukanlah seorang tukang tenung dan bukan pula orang gila"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "52:30",
+      "verse_number": 30,
+      "text_uthmani": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or do they say [of you], \"A poet for whom we await a misfortune of time",
+        "fr": "Ou bien ils disent: «C'est un poète! Attendons pour lui le coup de la mort»",
+        "tr": "Yoksa senin için şöyle mi derler: \"Şairdir, zamanın onun aleyhine dönmesini gözlüyoruz",
+        "ur": "کیا یہ لوگ کہتے ہیں کہ یہ شخص شاعر ہے جس کے حق میں ہم گردش ایام کا انتظار کر رہے ہیں؟",
+        "id": "Bahkan mereka berkata, \"Dia adalah seorang penyair yang kami tunggu-tunggu kecelakaan menimpanya"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "52:31",
+      "verse_number": 31,
+      "text_uthmani": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Wait, for indeed I am, with you, among the waiters",
+        "fr": "Dis: «Attendez! Je suis avec vous parmi ceux qui attendent»",
+        "tr": "De ki: \"Gözleyin, doğrusu ben de sizinle beraber gözlemekteyim",
+        "ur": "اِن سے کہو اچھا انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں",
+        "id": "Katakanlah (Muhammad), \"Tunggulah! Sesungguhnya aku pun termasuk orang yang sedang menunggu bersama kamu"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "52:32",
+      "verse_number": 32,
+      "text_uthmani": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or do their minds command them to [say] this, or are they a transgressing people",
+        "fr": "Est-ce leur raison qui leur commande cela? Ou sont-ils des gens outranciers",
+        "tr": "Bunu onlara akılları mı buyuruyor? Yoksa onlar azgın bir millet midirler",
+        "ur": "کیا اِن کی عقلیں اِنہیں ایسی ہی باتیں کرنے کے لیے کہتی ہیں؟ یا در حقیقت یہ عناد میں حد سے گزرے ہوئے لوگ ہیں؟",
+        "id": "Apakah mereka diperintah oleh pikiran-pikiran mereka untuk mengucapkan (tuduhan-tuduhan) ini ataukah mereka kaum yang melampaui batas"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "52:33",
+      "verse_number": 33,
+      "text_uthmani": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or do they say, \"He has made it up\"? Rather, they do not believe",
+        "fr": "Ou bien ils disent: «Il l'a inventé lui-même?» Non... mais ils ne croient pas",
+        "tr": "Yahut: \"Onu kendi uydurdu\" diyorlar öyle mi? Hayır, inanmıyorlar",
+        "ur": "کیا یہ کہتے ہیں کہ اِس شخص نے یہ قرآن خود گھڑ لیا ہے؟ اصل بات یہ ہے کہ یہ ایمان نہیں لانا چاہتے",
+        "id": "Ataukah mereka berkata, \"Dia (Muhammad) mereka-rekanya.\" Tidak! Merekalah yang tidak beriman"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "52:34",
+      "verse_number": 34,
+      "text_uthmani": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Then let them produce a statement like it, if they should be truthful",
+        "fr": "Eh bien, qu'ils produisent un récit pareil à lui (le Coran), s'ils sont véridiques",
+        "tr": "Eğer iddialarında samimi iseler Kuran'ın benzeri bir söz meydana getirsinler",
+        "ur": "اگر یہ اپنے اِس قول میں سچے ہیں تو اِسی شان کا ایک کلام بنا لائیں",
+        "id": "Maka cobalah mereka membuat yang semisal dengannya (Alquran) jika mereka orang-orang yang benar"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "52:35",
+      "verse_number": 35,
+      "text_uthmani": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or were they created by nothing, or were they the creators [of themselves]",
+        "fr": "Ont-ils été créé à partir de rien ou sont-ils eux les créateurs",
+        "tr": "Onlar, yaratan olmaksızın mı yaratıldılar yoksa yaratanlar kendileri midir",
+        "ur": "کیا یہ کسی خالق کے بغیر خود پیدا ہو گئے ہیں؟ یا یہ خود اپنے خالق ہیں؟",
+        "id": "Atau apakah mereka tercipta tanpa asal-usul ataukah mereka yang menciptakan (diri mereka sendiri)"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "52:36",
+      "verse_number": 36,
+      "text_uthmani": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or did they create the heavens and the earth? Rather, they are not certain",
+        "fr": "Ou ont-ils créé les cieux et la terre? Mais ils n'ont plutôt aucune conviction",
+        "tr": "Yoksa gökleri ve yeri kendileri mi yarattılar? Hayır, Allah'a kesin olarak inanmıyorlar",
+        "ur": "یا زمین اور آسمانوں کو اِنہوں نے پیدا کیا ہے؟ اصل بات یہ ہے کہ یہ یقین نہیں رکھتے",
+        "id": "Ataukah mereka telah menciptakan langit dan bumi? Sebenarnya mereka tidak meyakini (apa yang mereka katakan)"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "52:37",
+      "verse_number": 37,
+      "text_uthmani": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or have they the depositories [containing the provision] of your Lord? Or are they the controllers [of them]",
+        "fr": "Possèdent-ils les trésors de ton Seigneur? Ou sont-ils eux les maîtres souverains",
+        "tr": "Yoksa Rabbinin hazineleri onların yanında mıdır? Yoksa onlar mı işe hakimdirler",
+        "ur": "کیا تیرے رب کے خزانے اِن کے قبضے میں ہیں؟ یا اُن پر اِنہی کا حکم چلتا ہے؟",
+        "id": "Ataukah di sisi mereka ada perbendaharaan Tuhanmu ataukah mereka yang berkuasa"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "52:38",
+      "verse_number": 38,
+      "text_uthmani": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or have they a stairway [into the heaven] upon which they listen? Then let their listener produce a clear authority",
+        "fr": "Ont-ils une échelle d'où ils écoutent? Que celui des leurs qui reste à l'écoute apporte une preuve évidente",
+        "tr": "Yoksa, üzerine çıkıp vahiy dinledikleri bir merdivenleri mi var? Öyleyse, dinleyenleri açık bir delil getirsin",
+        "ur": "کیا اِن کے پاس کوئی سیڑھی ہے جس پر چڑھ کر یہ عالم بالا کی سن گن لیتے ہیں؟ اِن میں سے جس نے سن گن لی ہو وہ لائے کوئی کھلی دلیل",
+        "id": "Atau apakah mereka mempunyai tangga (ke langit) untuk mendengarkan (hal-hal yang gaib)? Maka hendaklah orang yang mendengarkan di antara mereka itu datang membawa keterangan yang nyata"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "52:39",
+      "verse_number": 39,
+      "text_uthmani": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or has He daughters while you have sons",
+        "fr": "[Allah] aurait-Il les filles, tandis que vous, les fils",
+        "tr": "Demek kızlar Allah'ın, oğullar sizin öyle mi",
+        "ur": "کیا اللہ کے لیے تو ہیں بیٹیاں اور تم لوگوں کے لیے ہیں بیٹے؟",
+        "id": "Ataukah (pantas) untuk Dia anak-anak perempuan sedangkan untuk kamu anak-anak laki-laki"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "52:40",
+      "verse_number": 40,
+      "text_uthmani": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or do you, [O Muhammad], ask of them a payment, so they are by debt burdened down",
+        "fr": "Ou leur demandes-tu un salaire, de sorte qu'ils soient grevés d'une lourde dette",
+        "tr": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar",
+        "ur": "کیا تم اِن سے کوئی اجر مانگتے ہو کہ یہ زبردستی پڑی ہوئی چٹی کے بوجھ تلے دبے جاتے ہیں؟",
+        "id": "Ataukah engkau (Muhammad) meminta imbalan kepada mereka sehingga mereka dibebani dengan hutang"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "52:41",
+      "verse_number": 41,
+      "text_uthmani": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or have they [knowledge of] the unseen, so they write [it] down",
+        "fr": "Ou bien détiennent-ils l'Inconnaissable pour le mentionner par écrit",
+        "tr": "Veya, görülmeyeni bilmek kendilerine aittir de, onlar mı yazıyorlar",
+        "ur": "کیا اِن کے پاس غیب کے حقائق کا علم ہے کہ اُس کی بنا پر یہ لکھ رہے ہوں؟",
+        "id": "Ataukah di sisi mereka mempunyai (pengetahuan) tentang yang gaib lalu mereka menuliskannya"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "52:42",
+      "verse_number": 42,
+      "text_uthmani": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or do they intend a plan? But those who disbelieve - they are the object of a plan",
+        "fr": "Ou cherchent-ils un stratagème? Mais ce sont ceux qui ont mécru qui sont victimes de leur propre stratagème",
+        "tr": "Yoksa bir tuzak mı kurmak istiyorlar? Ama o tuzağa yakalanacak olanlar inkar edenlerdir",
+        "ur": "کیا یہ کوئی چال چلنا چاہتے ہیں؟ (اگر یہ بات ہے) تو کفر کرنے والوں پر ان کی چال الٹی ہی پڑے گی",
+        "id": "Ataukah mereka hendak melakukan tipu daya? Tetapi orang-orang yang kafir itu, justru merekalah yang terkena tipu daya"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "52:43",
+      "verse_number": 43,
+      "text_uthmani": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "Or have they a deity other than Allah? Exalted is Allah above whatever they associate with Him",
+        "fr": "Ou ont-ils une autre divinité à part Allah? Qu'Allah soit glorifié et purifié de tout ce qu'ils associent",
+        "tr": "Yoksa Allah'tan başka bir tanrıları mı vardır? Allah, onların ortak koşmalarından münezzehtir",
+        "ur": "کیا اللہ کے سوا یہ کوئی اور معبود رکھتے ہیں؟ اللہ پاک ہے اُس شرک سے جو یہ لوگ کر رہے ہیں",
+        "id": "Ataukah mereka mempunyai tuhan selain Allah? Mahasuci Allah dari apa yang mereka persekutukan"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "52:44",
+      "verse_number": 44,
+      "text_uthmani": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And if they were to see a fragment from the sky falling, they would say, \"[It is merely] clouds heaped up",
+        "fr": "Et s'ils voient tomber des fragments du ciel, ils disent: «Ce sont des nuages superposés»",
+        "tr": "Gökten azap olarak düşen bir parça görseler: \"Bulut kümesidir\" derler",
+        "ur": "یہ لوگ آسمان کے ٹکڑے بھی گرتے ہوئے دیکھ لیں تو کہیں گے یہ بادل ہیں جو امڈے چلے آ رہے ہیں",
+        "id": "Dan jika mereka melihat gumpalan-gumpalan awan berjatuhan dari langit, mereka berkata, \"Itu adalah awan yang bertumpuk-tumpuk"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "52:45",
+      "verse_number": 45,
+      "text_uthmani": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "So leave them until they meet their Day in which they will be struck insensible",
+        "fr": "Laisse-les donc, jusqu'à ce qu'ils rencontrent leur jour où ils seront foudroyés",
+        "tr": "Çarpılacakları güne erişmelerine kadar onları bırak",
+        "ur": "پس اے نبیؐ، اِنہیں اِن کے حال پر چھوڑ دو یہاں تک کہ یہ اپنے اُس دن کو پہنچ جائیں جس میں یہ مار گرائے جائیں گے",
+        "id": "Maka biarkanlah mereka hingga mereka menemui hari (yang dijanjikan kepada) mereka, pada hari itu mereka dibinasakan"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "52:46",
+      "verse_number": 46,
+      "text_uthmani": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "The Day their plan will not avail them at all, nor will they be helped",
+        "fr": "le jour où leur ruse ne leur servira à rien, où ils ne seront pas secourus",
+        "tr": "O gün, düzenleri kendilerine bir fayda vermez; yardım da görmezler",
+        "ur": "جس دن نہ اِن کی اپنی کوئی چال اِن کے کسی کام آئے گی نہ کوئی اِن کی مدد کو آئے گا",
+        "id": "(yaitu) pada hari (ketika) tipu daya mereka tidak berguna sedikit pun bagi mereka dan mereka tidak akan diberi pertolongan"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "52:47",
+      "verse_number": 47,
+      "text_uthmani": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And indeed, for those who have wronged is a punishment before that, but most of them do not know",
+        "fr": "Les injustes auront un châtiment préalable. Mais la plupart d'entre eux ne savent pas",
+        "tr": "Zulmedenlere, şüphesiz, bundan başka da azap vardır; fakat onların çoğu bilmezler",
+        "ur": "اور اُس وقت کے آنے سے پہلے بھی ظالموں کے لیے ایک عذاب ہے، مگر اِن میں سے اکثر جانتے نہیں ہیں",
+        "id": "Dan sesungguhnya bagi orang-orang yang zalim masih ada azab selain itu. Tetapi kebanyakan mereka tidak mengetahui"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "52:48",
+      "verse_number": 48,
+      "text_uthmani": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And be patient, [O Muhammad], for the decision of your Lord, for indeed, you are in Our eyes. And exalt [Allah] with praise of your Lord when you arise",
+        "fr": "Et supporte patiemment la décision de ton Seigneur. Car en vérité, tu es sous Nos yeux. Et célèbre la gloire de ton Seigneur quand tu te lèves",
+        "tr": "Rabbinin hükmü yerine gelinceye kadar sabret; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et",
+        "ur": "اے نبیؐ، اپنے رب کا فیصلہ آنے تک صبر کرو، تم ہماری نگاہ میں ہو تم جب اٹھو تو اپنے رب کی حمد کے ساتھ اس کی تسبیح کرو",
+        "id": "Dan bersabarlah (Muhammad) menunggu ketetapan Tuhanmu, karena sesungguhnya engkau berada dalam pengawasan Kami, dan bertasbihlah dengan memuji Tuhanmu ketika engkau bangun"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "52:49",
+      "verse_number": 49,
+      "text_uthmani": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ",
+      "chapter_id": 52,
+      "words": [],
+      "translations": {
+        "en": "And in a part of the night exalt Him and after [the setting of] the stars",
+        "fr": "Glorifie-Le une partie de la nuit et au déclin des étoiles",
+        "tr": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et",
+        "ur": "رات کو بھی اس کی تسبیح کیا کرو اور ستارے جب پلٹتے ہیں اُس وقت بھی",
+        "id": "dan pada sebagian malam bertasbihlah kepada-Nya dan (juga) pada waktu terbenamnya bintang-bintang (pada waktu fajar)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 52,
+    "name_arabic": "الطور",
+    "name_english": "At-Tur"
+  }
+}

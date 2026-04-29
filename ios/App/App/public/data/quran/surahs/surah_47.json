@@ -1,0 +1,579 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "47:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Those who disbelieve and avert [people] from the way of Allah - He will waste their deeds",
+        "fr": "Ceux qui ont mécru et obstrué le chemin d'Allah, Il a rendu leurs œuvres vaines",
+        "tr": "Allah, inkar edenlerin ve kendi yolundan alıkoyanların işlerini boşa çıkarır",
+        "ur": "جن لوگوں نے کفر کیا اور اللہ کے راستے سے روکا، اللہ نے ان کے اعمال کو رائیگاں کر دیا",
+        "id": "Orang-orang yang kafir dan menghalang-halangi (manusia) dari jalan Allah, maka Allah menghapus segala amal mereka"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "47:2",
+      "verse_number": 2,
+      "text_uthmani": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٖ وَهُوَ ٱلۡحَقُّ مِن رَّبِّهِمۡ كَفَّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَأَصۡلَحَ بَالَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And those who believe and do righteous deeds and believe in what has been sent down upon Muhammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition",
+        "fr": "Et ceux qui ont cru et accompli de bonnes œuvres et ont cru en ce qui a été descendu sur Muhammad - et c'est la vérité venant de leur Seigneur - Il leur efface leurs méfaits et améliore leur condition",
+        "tr": "İnanıp yararlı iş işleyenlerin ve Muhammed'e, Rablerinden bir gerçek olarak indirilene inananların kötülüklerini Allah örter ve durumlarını düzeltir",
+        "ur": "اور جو لوگ ایمان لائے اور جنہوں نے نیک عمل کیے اور اُس چیز کو مان لیا جو محمدؐ پر نازل ہوئی ہے اور ہے وہ سراسر حق اُن کے رب کی طرف سے اللہ نے ان کی برائیاں اُن سے دور کر دیں اور ان کا حال درست کر دیا",
+        "id": "Dan orang-orang yang beriman (kepada Allah) dan mengerjakan kebajikan serta beriman kepada apa yang diturunkan kepada Muhammad, dan itulah kebenaran dari Tuhan mereka; Allah menghapus kesalahan-kesalahan mereka, dan memperbaiki keadaan mereka"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "47:3",
+      "verse_number": 3,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُواْ ٱتَّبَعُواْ ٱلۡبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُواْ ٱتَّبَعُواْ ٱلۡحَقَّ مِن رَّبِّهِمۡۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ لِلنَّاسِ أَمۡثَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "That is because those who disbelieve follow falsehood, and those who believe follow the truth from their Lord. Thus does Allah present to the people their comparisons",
+        "fr": "Il en est ainsi parce que ceux qui ont mécru ont suivi le Faux et que ceux qui ont cru ont suivi la Vérité émanant de leur Seigneur. C'est ainsi qu'Allah propose leurs exemples aux gens",
+        "tr": "Bu, inkar edenlerin batıla uymaları ve inananların Rablerinden gelen gerçeğe uymalarından ötürü böyledir. Allah böylece insanlara kendilerinin misallerini anlatır",
+        "ur": "یہ اس لیے کہ کفر کرنے والوں نے باطل کی پیروی کی اور ایمان لانے والوں نے اُس حق کی پیروی کی جو ان کے رب کی طرف سے آیا ہے اِس طرح اللہ لوگوں کو اُن کی ٹھیک ٹھیک حیثیت بتائے دیتا ہے",
+        "id": "Yang demikian itu, karena sesungguhnya orang-orang kafir mengikuti yang batil (sesat), dan sesungguhnya orang-orang yang beriman mengikuti kebenaran dari Tuhan mereka. Demikianlah Allah membuat perumpamaan-perumpamaan bagi manusia"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "47:4",
+      "verse_number": 4,
+      "text_uthmani": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ فَضَرۡبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثۡخَنتُمُوهُمۡ فَشُدُّواْ ٱلۡوَثَاقَ فَإِمَّا مَنَّۢا بَعۡدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلۡحَرۡبُ أَوۡزَارَهَاۚ ذَٰلِكَۖ وَلَوۡ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنۡهُمۡ وَلَٰكِن لِّيَبۡلُوَاْ بَعۡضَكُم بِبَعۡضٖۗ وَٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure their bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allah had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allah - never will He waste their deeds",
+        "fr": "Lorsque vous rencontrez (au combat) ceux qui ont mécru frappez-en les cous. Puis, quand vous les avez dominés, enchaînez-les solidement. Ensuite, c'est soit la libération gratuite, soit la rançon, jusqu'à ce que la guerre dépose ses fardeaux. Il en est ainsi, car si Allah voulait, Il se vengerait Lui-même contre eux, mais c'est pour vous éprouver les uns par les autres. Et ceux qui seront tués dans le chemin d'Allah, Il ne rendra jamais vaines leurs actions",
+        "tr": "Savaşta inkar edenlerle karşılaştığınızda boyunlarını vurun; sonunda onlara üstün geldiğinizde onları esir alın; savaş sona erince onları ya karşılıksız, ya da fidye ile salıverin; Allah dilemiş olsaydı, onlardan başka türlü öç alabilirdi, bunun böyle olması, kiminizi kiminizle denemek içindir. Allah, kendi yolunda öldürülenlerin işlerini boşa çıkarmaz",
+        "ur": "پس جب اِن کافروں سے تمہاری مڈ بھیڑ ہو تو پہلا کام گردنیں مارنا ہے، یہاں تک کہ جب تم ان کو اچھی طرح کچل دو تب قیدیوں کو مضبوط باندھو، اس کے بعد (تمہیں اختیار ہے) احسان کرو یا فدیے کا معاملہ کر لو، تا آنکہ لڑائی اپنے ہتھیار ڈال دے یہ ہے تمہارے کرنے کا کام اللہ چاہتا تو خود ہی اُن سے نمٹ لیتا، مگر (یہ طریقہ اُس نے اس لیے اختیار کیا ہے) تاکہ تم لوگوں کو ایک دوسرے کے ذریعہ سے آزمائے اور جو لوگ اللہ کی راہ میں مارے جائیں گے اللہ ان کے اعمال کو ہرگز ضائع نہ کرے گا",
+        "id": "Maka apabila kamu bertemu dengan orang-orang kafir (di medan perang), maka pukullah batang leher mereka. Selanjutnya apabila kamu telah mengalahkan mereka, tawanlah mereka, dan setelah itu kamu boleh membebaskan mereka atau menerima tebusan, sampai perang selesai. Demikianlah, dan sekiranya Allah menghendaki, niscaya Dia membinasakan mereka, tetapi Dia hendak menguji kamu satu sama lain. Dan orang-orang yang gugur di jalan Allah, maka Allah tidak akan menyia-nyiakan amal mereka"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "47:5",
+      "verse_number": 5,
+      "text_uthmani": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "He will guide them and amend their condition",
+        "fr": "Il les guidera et améliorera leur condition",
+        "tr": "Onları doğru yola eriştirir, durumlarını düzeltir",
+        "ur": "وہ ان کی رہنمائی فرمائے گا، ان کا حال درست کر دے گا",
+        "id": "Allah akan memberi petunjuk kepada mereka dan memperbaiki keadaan mereka"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "47:6",
+      "verse_number": 6,
+      "text_uthmani": "وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And admit them to Paradise, which He has made known to them",
+        "fr": "et les fera entrer au Paradis qu'Il leur aura fait connaître",
+        "tr": "Onları, kendilerine anlattığı cennete koyar",
+        "ur": "اور ان کو اس جنت میں داخل کرے گا جس سے وہ ان کو واقف کرا چکا ہے",
+        "id": "dan memasukkan mereka ke dalam surga yang telah diperkenalkan-Nya kepada mereka"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "47:7",
+      "verse_number": 7,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرۡكُمۡ وَيُثَبِّتۡ أَقۡدَامَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "O you who have believed, if you support Allah, He will support you and plant firmly your feet",
+        "fr": "O vous qui croyez! si vous faites triompher (la cause d') Allah, Il vous fera triompher et raffermira vos pas",
+        "tr": "Ey inananlar! Siz Allah'ın dinine yardım ederseniz, O da size yardım eder, ayaklarınızı savaşta sabit kılar",
+        "ur": "اے لوگو جو ایمان لائے ہو، اگر تم اللہ کی مدد کرو گے تو وہ تمہاری مدد کرے گا اور تمہارے قدم مضبوط جما دے گا",
+        "id": "Wahai orang-orang yang beriman! Jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "47:8",
+      "verse_number": 8,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُواْ فَتَعۡسٗا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "But those who disbelieve - for them is misery, and He will waste their deeds",
+        "fr": "Et quant à ceux qui ont mécru, il y aura un malheur pour eux, et Il rendra leurs œuvres vaines",
+        "tr": "İnkar edenlere ise, yıkım ve yokluk olsun! Allah onların işlerini boşa çıkarır",
+        "ur": "رہے وہ لوگ جنہوں نے کفر کیا ہے، تو اُن کے لیے ہلاکت ہے اور اللہ نے ان کے اعمال کو بھٹکا دیا ہے",
+        "id": "Dan orang-orang yang kafir, maka celakalah mereka, dan Allah menghapus segala amalnya"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "47:9",
+      "verse_number": 9,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمۡ كَرِهُواْ مَآ أَنزَلَ ٱللَّهُ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "That is because they disliked what Allah revealed, so He rendered worthless their deeds",
+        "fr": "C'est parce qu'ils ont de la répulsion pour ce qu'Allah a fait descendre. Il a rendu donc vaines leurs œuvres",
+        "tr": "Bu, Allah'ın indirdiğini beğenmediklerinden ötürüdür. İşlerini Allah bunun için boşa çıkarmıştır",
+        "ur": "کیونکہ انہوں نے اُس چیز کو ناپسند کیا جسے اللہ نے نازل کیا ہے، لہٰذا اللہ نے اُن کے اعمال ضائع کر دیے",
+        "id": "Yang demikian itu karena mereka membenci apa (Alquran) yang diturunkan Allah, maka Allah menghapus segala amal mereka"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "47:10",
+      "verse_number": 10,
+      "text_uthmani": "۞أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡۖ دَمَّرَ ٱللَّهُ عَلَيۡهِمۡۖ وَلِلۡكَٰفِرِينَ أَمۡثَٰلُهَا",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Have they not traveled through the land and seen how was the end of those before them? Allah destroyed [everything] over them, and for the disbelievers is something comparable",
+        "fr": "N'ont-il pas parcouru la terre pour voir ce qu'il est advenu de leurs prédécesseurs? Allah les a détruits. Pareilles fins sont réservées aux mécréants",
+        "tr": "Yeryüzünde dolaşıp kendilerinden öncekilerin sonlarının nasıl olduğuna bakmazlar mı? Allah onları yere geçirmiştir; inkarcılara da onların başına gelenin benzerleri vardır",
+        "ur": "کیا وہ زمین میں چلے پھرے نہ تھے کہ اُن لوگوں کا انجام دیکھتے جو ان سے پہلے گزر چکے ہیں؟ اللہ نے اُن کا سب کچھ اُن پر الٹ دیا، اور ایسے نتائج اِن کافروں کے لیے مقدر ہیں",
+        "id": "Maka apakah mereka tidak pernah mengadakan perjalanan di bumi, sehingga dapat memperhatikan bagaimana kesudahan orang-orang yang sebelum mereka. Allah telah membinasakan mereka, dan bagi orang-orang kafir akan menerima (nasib) yang serupa"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "47:11",
+      "verse_number": 11,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "That is because Allah is the protector of those who have believed and because the disbelievers have no protector",
+        "fr": "C'est qu'Allah est vraiment le Protecteur de ceux qui ont cru; tandis que les mécréants n'ont pas de protecteur",
+        "tr": "Çünkü Allah inananların sahibidir. Kafirlerin ise sahibi yoktur",
+        "ur": "یہ اس لیے کہ ایمان لانے والوں کا حامی و ناصر اللہ ہے اور کافروں کا حامی و ناصر کوئی نہیں",
+        "id": "Yang demikian itu karena Allah pelindung bagi orang-orang yang beriman; sedang orang-orang kafir tidak ada pelindung bagi mereka"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "47:12",
+      "verse_number": 12,
+      "text_uthmani": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَٱلَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَأۡكُلُونَ كَمَا تَأۡكُلُ ٱلۡأَنۡعَٰمُ وَٱلنَّارُ مَثۡوٗى لَّهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Indeed, Allah will admit those who have believed and done righteous deeds to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them",
+        "fr": "Ceux qui croient et accomplissent de bonnes œuvres Allah les fera entrer dans des Jardins sous lesquels coulent les ruisseaux. Et ceux qui mécroient jouissent et mangent comme mangent les bestiaux; et le Feu sera leur lieu de séjour",
+        "tr": "Doğrusu Allah, inanıp yararlı işler işleyenleri içlerinden ırmaklar akan cennetlere koyar. Durakları ateş olduğu halde kafirler, zevklenirler ve hayvanlar gibi yerler",
+        "ur": "ایمان لانے والوں اور نیک عمل کرنے والوں کو اللہ اُن جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہیں، اور کفر کرنے والے بس دنیا کی چند روزہ زندگی کے مزے لوٹ رہے ہیں، جانوروں کی طرح کھا پی رہے ہیں، اور اُن کا آخری ٹھکانا جہنم ہے",
+        "id": "Sungguh, Allah akan memasukkan orang-orang yang beriman dan mengerjakan kebajikan ke dalam surga yang mengalir di bawahnya sungai-sungai. Dan orang-orang yang kafir menikmati kesenangan (dunia), dan mereka makan seperti hewan makan; dan (kelak) nerakalah tempat tinggal bagi mereka"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "47:13",
+      "verse_number": 13,
+      "text_uthmani": "وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةٗ مِّن قَرۡيَتِكَ ٱلَّتِيٓ أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And how many a city was stronger than your city [Makkah] which drove you out? We destroyed them; and there was no helper for them",
+        "fr": "Et que de cités, bien plus fortes que ta cité qui t'a expulsé, avons-Nous fait périr, et ils n'eurent point de secoureur",
+        "tr": "Seni sürüp çıkaran şehirden daha kuvvetli olan nice şehirler yok ettik. Yardım edenleri bulunmadı",
+        "ur": "اے نبیؐ، کتنی ہی بستیاں ایسی گزر چکی ہیں جو تمہاری اُس بستی سے بہت زیادہ زور آور تھیں جس نے تمہیں نکال دیا ہے اُنہیں ہم نے اِس طرح ہلاک کر دیا کہ کوئی ان کا بچانے والا نہ تھا",
+        "id": "Dan betapa banyak negeri yang (penduduknya) lebih kuat dari (penduduk) negerimu (Muhammad) yang telah mengusirmu. Kami telah membinasakan mereka; maka tidak ada seorang pun yang menolong mereka"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "47:14",
+      "verse_number": 14,
+      "text_uthmani": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُم",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "So is he who is on clear evidence from his Lord like him to whom the evil of his work has been made attractive and they follow their [own] desires",
+        "fr": "Est-ce que celui qui se base sur une preuve claire venant de son Seigneur est comparable à ceux dont on a embelli les mauvaises actions et qui ont suivi leurs propres passions",
+        "tr": "Rabbinin katından bir belgesi olan kimse, kötü işi kendisine güzel gösterilen kimseye benzer mi? Bunlar heveslerine uymuşlardır",
+        "ur": "بھلا کہیں ایسا ہو سکتا ہے کہ جو اپنے رب کی طرف سے ایک صاف و صریح ہدایت پر ہو، وہ اُن لوگوں کی طرح ہو جائے جن کے لیے اُن کا برا عمل خوشنما بنا دیا گیا ہے اور وہ اپنی خواہشات کے پیرو بن گئے ہیں؟",
+        "id": "Maka apakah orang yang berpegang pada keterangan yang datang dari Tuhannya sama dengan orang yang dijadikan terasa indah baginya perbuatan buruknya dan mengikuti keinginannya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "47:15",
+      "verse_number": 15,
+      "text_uthmani": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّـٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord, like [that of] those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines",
+        "fr": "Voici la description du Paradis qui a été promis aux pieux: il y aura là des ruisseaux d'une eau jamais malodorante, et des ruisseaux d'un lait au goût inaltérable, et des ruisseaux d'un vin délicieux à boire, ainsi que des ruisseaux d'un miel purifié. Et il y a là, pour eux, des fruits de toutes sortes, ainsi qu'un pardon de la part de leur Seigneur. [Ceux-là] seront-ils pareils à ceux qui s'éternisent dans le Feu et qui sont abreuvés d'une eau bouillante qui leur déchire les entrailles",
+        "tr": "Allah'a karşı gelmekten sakınanlara söz verilen cennet şöyledir: Orada temiz su ırmakları, tadı bozulmayan süt ırmakları, içenlere zevk veren şarap ırmakları, süzme bal ırmakları vardır. Onlara orada her türlü ürün ve Rablerinden mağfiret vardır. Bunların durumu, ateşte temelli kalan ve bağırsaklarını parça parça edecek kaynar su içirilen kimselerin durumu gibi olur mu",
+        "ur": "پرہیز گاروں کے لیے جس جنت کا وعدہ کیا گیا ہے اس کی شان تو یہ ہے کہ اس میں نہریں بہہ رہی ہوں گی نتھرے ہوئے پانی کی، نہریں بہہ رہی ہوں گی ایسے دودھ کی جس کے مزے میں ذرا فرق نہ آیا ہو گا، نہریں بہہ رہی ہوں گی ایسی شراب کی جو پینے والوں کے لیے لذیذ ہوگی، نہریں بہہ رہی ہوں گی صاف شفاف شہد کی اُس میں اُن کے لیے ہر طرح کے پھل ہوں گے اور اُن کے رب کی طرف سے بخشش (کیا وہ شخص جس کے حصہ میں یہ جنت آنے والی ہے) اُن لوگوں کی طرح ہو سکتا ہے جو جہنم میں ہمیشہ رہیں گے اور جنہیں ایسا گرم پانی پلایا جائے گا جو ان کی آنتیں تک کاٹ دے گا؟",
+        "id": "Perumpamaan taman surga yang dijanjikan kepada orang-orang yang bertakwa; di sana ada sungai-sungai yang airnya tidak payau, dan sungai-sungai air susu yang tidak berubah rasanya, dan sungai-sungai khamar (anggur yang tidak memabukkan) yang lezat rasanya bagi peminumnya, dan sungai-sungai madu yang murni. Di dalamnya mereka memperoleh segala macam buah-buahan, dan ampunan dari Tuhan mereka. Samakah mereka dengan orang yang kekal dalam neraka, dan diberi minuman dengan air yang mendidih, sehingga ususnya terpotong-potong"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "47:16",
+      "verse_number": 16,
+      "text_uthmani": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنۡ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And among them, [O Muhammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge, \"What has he said just now?\" Those are the ones of whom Allah has sealed over their hearts and who have followed their [own] desires",
+        "fr": "Et il en est parmi eux qui t'écoutent. Une fois sortis de chez toi ils disent à ceux qui ont reçu la science: «Qu'a-t-il dit tout à l'heure?» Ce sont ceux-là dont Allah a scellé les cœurs et qui suivent leurs propres passions",
+        "tr": "Onların içinde seni dinleyenler vardır; sonra senin yanından çıkınca, bilgili kimselere \"Az önce ne demişti?\" diye sorarlar. İşte bunlar, Allah'ın kalblerini mühürlemiş olduğu, kendi heveslerine uyan kimselerdir",
+        "ur": "اِن میں سے کچھ لوگ ایسے ہیں جو کان لگا کر تمہاری بات سنتے ہیں اور پھر جب تمہارے پاس سے نکلتے ہیں تو اُن لوگوں سے جنہیں علم کی نعمت بخشی گئی ہے پوچھتے ہیں کہ ابھی ابھی اِنہوں نے کیا کہا تھا؟ یہ وہ لوگ ہیں جن کے دلوں پر اللہ نے ٹھپہ لگا دیا ہے اور یہ اپنی خواہشات کے پیرو بنے ہوئے ہیں",
+        "id": "Dan di antara mereka ada orang yang mendengarkan perkataanmu (Muhammad), tetapi apabila mereka telah keluar dari sisimu, mereka berkata kepada orang yang telah diberi ilmu (sahabat-sahabat Nabi), \"Apakah yang dikatakannya tadi?\" Mereka itulah orang-orang yang dikunci hatinya oleh Allah, dan mengikuti keinginannya"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "47:17",
+      "verse_number": 17,
+      "text_uthmani": "وَٱلَّذِينَ ٱهۡتَدَوۡاْ زَادَهُمۡ هُدٗى وَءَاتَىٰهُمۡ تَقۡوَىٰهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And those who are guided - He increases them in guidance and gives them their righteousness",
+        "fr": "Quant à ceux qui se mirent sur la bonne voie, Il les guida encore plus et leur inspira leur piété",
+        "tr": "Doğru yolu bulanların ise Allah doğruluklarını artırır, onların karşı gelmekten sakınmalarını sağlar",
+        "ur": "رہے وہ لوگ جنہوں نے ہدایت پائی ہے، اللہ اُن کو اور زیادہ ہدایت دیتا ہے اور انہیں اُن کے حصے کا تقویٰ عطا فرماتا ہے",
+        "id": "Dan orang-orang yang mendapat petunjuk, Allah akan menambah petunjuk kepada mereka dan menganugerahi ketakwaan pada mereka"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "47:18",
+      "verse_number": 18,
+      "text_uthmani": "فَهَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗۖ فَقَدۡ جَآءَ أَشۡرَاطُهَاۚ فَأَنَّىٰ لَهُمۡ إِذَا جَآءَتۡهُمۡ ذِكۡرَىٰهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Then do they await except that the Hour should come upon them unexpectedly? But already there have come [some of] its indications. Then what good to them, when it has come, will be their remembrance",
+        "fr": "Qu'est-ce qu'ils attendent sinon que l'Heure leur vienne à l'improviste? Or ses signes avant-coureurs sont certes déjà venus. Et comment pourront-ils se rappeler quand elle leur viendra (à l'improviste)",
+        "tr": "Onlar kıyamet gününün kendilerine ansızın gelmesini mi bekliyorlar. Şüphesiz onun alametleri belirmiştir. Kendilerine gelip çatınca ibret almaları neye yarar",
+        "ur": "اب کیا یہ لوگ بس قیامت ہی کے منتظر ہیں کہ وہ اچانک اِن پر آ جائے؟ اُس کی علامات تو آ چکی ہیں جب وہ خود آ جائے گی تو اِن کے لیے نصیحت قبول کرنے کا کونسا موقع باقی رہ جائے گا؟",
+        "id": "Maka apalagi yang mereka tunggu-tunggu selain hari Kiamat, yang akan datang kepada mereka secara tiba-tiba, karena tanda-tandanya sungguh telah datang. Maka apa gunanya bagi mereka kesadaran mereka itu, apabila (hari Kiamat) itu sudah datang"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "47:19",
+      "verse_number": 19,
+      "text_uthmani": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "So know, [O Muhammad], that there is no deity except Allah and ask forgiveness for your sin and for the believing men and believing women. And Allah knows of your movement and your resting place",
+        "fr": "Sache donc qu'en vérité il n'y a point de divinité à part Allah et implore le pardon pour ton péché, ainsi que pour les croyants et les croyantes. Allah connaît vos activités (sur terre) et votre lieu de repos (dans l'au-delà)",
+        "tr": "Bil ki, Allah'tan başka tanrı yoktur; kendinin, inanmış erkek ve kadınların günahlarının bağışlanmasını dile. Allah, gezip dolaştığınız ve duracağınız yerleri bilir",
+        "ur": "پس اے نبیؐ، خوب جان لو کہ اللہ کے سوا کوئی عبادت کا مستحق نہیں ہے، اور معافی مانگو اپنے قصور کے لیے بھی اور مومن مردوں اور عورتوں کے لیے بھی اللہ تمہاری سرگرمیوں کو بھی جانتا ہے اور تمہارے ٹھکانے سے بھی واقف ہے",
+        "id": "Maka ketahuilah, bahwa tidak ada tuhan (yang patut disembah) selain Allah, dan mohonlah ampunan atas dosamu dan atas (dosa) orang-orang mukmin, laki-laki dan perempuan. Dan Allah mengetahui tempat usaha dan tempat tinggalmu"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "47:20",
+      "verse_number": 20,
+      "text_uthmani": "وَيَقُولُ ٱلَّذِينَ ءَامَنُواْ لَوۡلَا نُزِّلَتۡ سُورَةٞۖ فَإِذَآ أُنزِلَتۡ سُورَةٞ مُّحۡكَمَةٞ وَذُكِرَ فِيهَا ٱلۡقِتَالُ رَأَيۡتَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ يَنظُرُونَ إِلَيۡكَ نَظَرَ ٱلۡمَغۡشِيِّ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَأَوۡلَىٰ لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Those who believe say, \"Why has a surah not been sent down? But when a precise surah is revealed and fighting is mentioned therein, you see those in whose hearts is hypocrisy looking at you with a look of one overcome by death. And more appropriate for them [would have been]",
+        "fr": "Ceux qui ont cru disent: «Ah! Si une Sourate descendait!» Puis, quand on fait descendre une Sourate explicite et qu'on y mentionne le combat, tu vois ceux qui ont une maladie au cœur te regarder du regard de celui qui s'évanouit devant la mort. Seraient bien préférables pour eux",
+        "tr": "İnananlar: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri yeminde doğruluk gösterselerdi, onların iyiliğine olurdu",
+        "ur": "جو لوگ ایمان لائے ہیں وہ کہہ رہے تھے کہ کوئی سورت کیوں نہیں نازل کی جاتی (جس میں جنگ کا حکم دیا جائے) مگر جب ایک محکم سورت نازل کر دی گئی جس میں جنگ کا ذکر تھا تو تم نے دیکھا کہ جن کے دلوں میں بیماری تھی وہ تمہاری طرف اس طرح دیکھ رہے ہیں جیسے کسی پر موت چھا گئی ہو افسوس اُن کے حال پر",
+        "id": "Dan orang-orang yang beriman berkata, \"Mengapa tidak ada suatu surah (tentang perintah jihad) yang diturunkan?\" Maka apabila ada suatu surah diturunkan yang jelas maksudnya dan di dalamnya terdapat (perintah) perang, engkau melihat orang-orang yang di dalam hatinya ada penyakit akan memandang kepadamu seperti pandangan orang yang pingsan karena takut mati. Tetapi itu lebih pantas bagi mereka"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "47:21",
+      "verse_number": 21,
+      "text_uthmani": "طَاعَةٞ وَقَوۡلٞ مَّعۡرُوفٞۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُواْ ٱللَّهَ لَكَانَ خَيۡرٗا لَّهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Obedience and good words. And when the matter [of fighting] was determined, if they had been true to Allah, it would have been better for them",
+        "fr": "une obéissance et une parole convenable. Puis, quand l'affaire est décidée, il serait mieux pour eux certes, de se montrer sincères vis-à-vis d'Allah",
+        "tr": "İnananlar: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri yeminde doğruluk gösterselerdi, onların iyiliğine olurdu",
+        "ur": "(اُن کی زبان پر ہے) اطاعت کا اقرار اور اچھی اچھی باتیں مگر جب قطعی حکم دے دیا گیا اُس وقت وہ اللہ سے اپنے عہد میں سچے نکلتے تو انہی کے لئے اچھا تھا",
+        "id": "(Yang lebih baik bagi mereka adalah) taat (kepada Allah) dan bertutur kata yang baik. Sebab apabila perintah (perang) ditetapkan (mereka tidak menyukainya). Padahal jika mereka benar-benar (beriman) kepada Allah, niscaya yang demikian itu lebih baik bagi mereka"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "47:22",
+      "verse_number": 22,
+      "text_uthmani": "فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ أَرۡحَامَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "So would you perhaps, if you turned away, cause corruption on earth and sever your [ties of] relationship",
+        "fr": "Si vous vous détournez, ne risquez-vous pas de semer la corruption sur terre et de rompre vos liens de parenté",
+        "tr": "Geri dönerseniz yeryüzünde bozgunculuk yapmanız ve akrabalık bağlarını kesmeniz beklenmez mi sizden",
+        "ur": "اب کیا تم لوگوں سے اِس کے سوا کچھ اور توقع کی جا سکتی ہے کہ اگر تم الٹے منہ پھر گئے تو زمین میں پھر فساد برپا کرو گے اور آپس میں ایک دوسرے کے گلے کاٹو گے؟",
+        "id": "Maka apakah sekiranya kamu berkuasa, lalu kamu akan berbuat kerusakan di bumi dan memutuskan hubungan kekeluargaan"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "47:23",
+      "verse_number": 23,
+      "text_uthmani": "أُوْلَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Those [who do so] are the ones that Allah has cursed, so He deafened them and blinded their vision",
+        "fr": "Ce sont ceux-là qu'Allah a maudits, a rendus sourds et a rendu leurs yeux aveugles",
+        "tr": "İşte, Allah'ın lanetlediği, sağır kıldığı ve gözlerini kör ettiği bunlardır",
+        "ur": "یہ لوگ ہیں جن پر اللہ نے لعنت کی اور ان کو اندھا اور بہرا بنا دیا",
+        "id": "Mereka itulah orang-orang yang dikutuk Allah; lalu dibuat tuli (pendengarannya) dan dibutakan penglihatannya"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "47:24",
+      "verse_number": 24,
+      "text_uthmani": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Then do they not reflect upon the Qur'an, or are there locks upon [their] hearts",
+        "fr": "Ne méditent-ils pas sur le Coran? Ou y a-t-il des cadenas sur leurs cœurs",
+        "tr": "Bunlar Kuran'ı düşünmezler mi? Yoksa kalbleri kilitli midir",
+        "ur": "کیا ان لوگوں نے قرآن پر غور نہیں کیا، یا دلوں پر اُن کے قفل چڑھے ہوئے ہیں؟",
+        "id": "Maka tidakkah mereka menghayati Alquran, ataukah hati mereka sudah terkunci"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "47:25",
+      "verse_number": 25,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ ٱرۡتَدُّواْ عَلَىٰٓ أَدۡبَٰرِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَى ٱلشَّيۡطَٰنُ سَوَّلَ لَهُمۡ وَأَمۡلَىٰ لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who reverted back [to disbelief] after guidance had become clear to them - Satan enticed them and prolonged hope for them",
+        "fr": "Ceux qui sont revenus sur leurs pas après que le droit chemin leur a été clairement exposé, le Diable les a séduits et trompés",
+        "tr": "Kendileri için doğru yol belli olduktan sonra ardlarına dönenleri, bu işi yapmaya şeytan sürüklemiş, onlara ümit vermiştir",
+        "ur": "حقیقت یہ ہے کہ جو لوگ ہدایت واضح ہو جانے کے بعد اُس سے پھر گئے اُن کے لیے شیطان نے اِس روش کو سہل بنا دیا ہے اور جھوٹی توقعات کا سلسلہ اُن کے لیے دراز کر رکھا ہے",
+        "id": "Sesungguhnya orang-orang yang berbalik (kepada kekafiran) setelah petunjuk itu jelas bagi mereka, setanlah yang merayu mereka dan memanjangkan angan-angan mereka"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "47:26",
+      "verse_number": 26,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "That is because they said to those who disliked what Allah sent down, \"We will obey you in part of the matter.\" And Allah knows what they conceal",
+        "fr": "C'est parce qu'ils ont dit à ceux qui ont de la répulsion pour la révélation d'Allah: «Nous allons vous obéir dans certaines choses». Allah cependant connaît ce qu'ils cachent",
+        "tr": "Bu, Allah'ın indirdiğini beğenmeyen kimselerin: \"Biz bazı işlerde size itaat edeceğiz\" demelerindendir. Allah onların gizlediklerini bilir",
+        "ur": "اِسی لیے انہوں نے اللہ کے نازل کردہ دین کو ناپسند کرنے والوں سے کہہ دیا کہ بعض معاملات میں ہم تمہاری مانیں گے اللہ اُن کی یہ خفیہ باتیں خوب جانتا ہے",
+        "id": "Yang demikian itu, karena sesungguhnya mereka telah mengatakan kepada orang-orang (Yahudi) yang tidak senang kepada apa yang diturunkan Allah, \"Kami akan mematuhi kamu dalam beberapa urusan,\" tetapi Allah mengetahui rahasia mereka"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "47:27",
+      "verse_number": 27,
+      "text_uthmani": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَـٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Then how [will it be] when the angels take them in death, striking their faces and their backs",
+        "fr": "Qu'adviendra-t-il d'eux quand les Anges les achèveront, frappant leurs faces et leurs dos",
+        "tr": "Melekler, onların yüzlerine ve sırtlarına vurarak canlarını alırken durumları nice olur",
+        "ur": "پھر اس وقت کیا حال ہوگا جب فرشتے ان کی روحیں قبض کریں گے اور اِن کے منہ اور پیٹھوں پر مارتے ہوئے انہیں لے جائیں گے؟",
+        "id": "Maka bagaimana (nasib mereka) apabila malaikat (maut) mencabut nyawa mereka, memukul wajah dan punggung mereka"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "47:28",
+      "verse_number": 28,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُواْ مَآ أَسۡخَطَ ٱللَّهَ وَكَرِهُواْ رِضۡوَٰنَهُۥ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "That is because they followed what angered Allah and disliked [what earns] His pleasure, so He rendered worthless their deeds",
+        "fr": "Cela parce qu'ils ont suivi ce qui courrouce Allah, et qu'ils ont de la répulsion pour [ce qui attire] Son agrément. Il a donc rendu vaines leurs œuvres",
+        "tr": "Bu, Allah'ı gazablandıran şeye uymaları ve O'nun rızasından hoşnut olmamalarından ötürüdür. Allah da onların işlerini boşa çıkarmıştır",
+        "ur": "یہ اسی لیے تو ہوگا کہ انہوں نے اُس طریقے کی پیروی کی جو اللہ کو ناراض کرنے والا ہے اور اُس کی رضا کا راستہ اختیار کرنا پسند نہ کیا اِسی بنا پر اُس نے ان کے سب اعمال ضائع کر دیے",
+        "id": "Yang demikian itu, karena sesungguhnya mereka mengikuti apa yang menimbulkan kemurkaan Allah dan membenci (apa yang menimbulkan) keridaan-Nya; sebab itu Allah menghapus segala amal mereka"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "47:29",
+      "verse_number": 29,
+      "text_uthmani": "أَمۡ حَسِبَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخۡرِجَ ٱللَّهُ أَضۡغَٰنَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Or do those in whose hearts is disease think that Allah would never expose their [feelings of] hatred",
+        "fr": "Ou bien est-ce que ceux qui ont une maladie au cœur escomptent qu'Allah ne saura jamais faire apparaître leur haine",
+        "tr": "Yoksa, kalblerinde hastalık olanlar, Allah'ın onların kinlerini dışarı vurmayacağını mı sandılar",
+        "ur": "کیا وہ لوگ جن کے دلوں میں بیماری ہے یہ سمجھے بیٹھے ہیں کہ اللہ ان کے دلوں کے کھوٹ ظاہر نہیں کرے گا؟",
+        "id": "Atau apakah orang-orang yang dalam hatinya ada penyakit mengira bahwa Allah tidak akan menampakkan kedengkian mereka"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "47:30",
+      "verse_number": 30,
+      "text_uthmani": "وَلَوۡ نَشَآءُ لَأَرَيۡنَٰكَهُمۡ فَلَعَرَفۡتَهُم بِسِيمَٰهُمۡۚ وَلَتَعۡرِفَنَّهُمۡ فِي لَحۡنِ ٱلۡقَوۡلِۚ وَٱللَّهُ يَعۡلَمُ أَعۡمَٰلَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And if We willed, We could show them to you, and you would know them by their mark; but you will surely know them by the tone of [their] speech. And Allah knows your deeds",
+        "fr": "Or, si Nous voulions Nous te les montrerions. Tu les reconnaîtrais certes à leurs traits; et tu les reconnaîtrais très certainement au ton de leur parler. Et Allah connaît bien vos actions",
+        "tr": "Eğer dileseydik, Biz onları sana gösterirdik; sen de onları yüzlerinden tanırdın. And olsun ki sen, onları konuşmalarından da tanırsın; Allah işlediklerinizi bilir",
+        "ur": "ہم چاہیں تو انہیں تم کو آنکھوں سے دکھا دیں اور اُن کے چہروں سے تم ان کو پہچان لو مگر ان کے انداز کلام سے تو تم ان کو جان ہی لو گے اللہ تم سب کے اعمال سے خوب واقف ہے",
+        "id": "Dan sekiranya Kami menghendaki, niscaya Kami perlihatkan mereka kepadamu (Muhammad) sehingga engkau benar-benar dapat mengenal mereka dengan tanda-tandanya. Dan engkau benar-benar akan mengenal mereka dari nada bicaranya, dan Allah mengetahui segala perbuatan kamu"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "47:31",
+      "verse_number": 31,
+      "text_uthmani": "وَلَنَبۡلُوَنَّكُمۡ حَتَّىٰ نَعۡلَمَ ٱلۡمُجَٰهِدِينَ مِنكُمۡ وَٱلصَّـٰبِرِينَ وَنَبۡلُوَاْ أَخۡبَارَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "And We will surely test you until We make evident those who strive among you [for the cause of Allah] and the patient, and We will test your affairs",
+        "fr": "Nous vous éprouverons certes afin de distinguer ceux d'entre vous qui luttent [pour la cause d'Allah] et qui endurent, et afin d'éprouver [faire apparaître] vos nouvelles",
+        "tr": "And olsun ki sizi, içinizden cihada çıkanları ve sabredenleri meydana çıkarana ve haberlerinizi açıklayana kadar deneyeceğiz",
+        "ur": "ہم ضرور تم لوگوں کو آزمائش میں ڈالیں گے تاکہ تمہارے حالات کی جانچ کریں اور دیکھ لیں کہ تم میں مجاہد اور ثابت قدم کون ہیں",
+        "id": "Dan sungguh, Kami benar-benar akan menguji kamu sehingga Kami mengetahui orang-orang yang benar-benar berjihad dan bersabar di antara kamu; dan akan Kami uji perihal kamu"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "47:32",
+      "verse_number": 32,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ وَشَآقُّواْ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَىٰ لَن يَضُرُّواْ ٱللَّهَ شَيۡـٔٗا وَسَيُحۡبِطُ أَعۡمَٰلَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who disbelieved and averted [people] from the path of Allah and opposed the Messenger after guidance had become clear to them - never will they harm Allah at all, and He will render worthless their deeds",
+        "fr": "Ceux qui ont mécru et obstrué le chemin d'Allah et se sont mis dans le clan opposé au Messager après que le droit chemin leur fut clairement exposé, ne sauront nuire à Allah en quoi que ce soit. Il rendra vaines leurs œuvres",
+        "tr": "Şüphesiz, inkar edenler, Allah yolundan alıkoyanlar ve kendilerine doğru yol belli olduktan sonra Peygambere karşı gelenler Allah'a hiçbir zarar veremezler. O, onların işlerini boşa çıkaracaktır",
+        "ur": "جن لوگوں نے کفر کیا اور اللہ کی راہ سے روکا اور رسول سے جھگڑا کیا جبکہ ان پر راہ راست واضح ہو چکی تھی، در حقیقت وہ اللہ کا کوئی نقصان بھی نہیں کر سکتے، بلکہ اللہ ہی ان کا سب کیا کرایا غارت کر دے گا",
+        "id": "Sesungguhnya orang-orang yang kafir dan menghalang-halangi (orang lain) dari jalan Allah serta memusuhi rasul setelah ada petunjuk yang jelas bagi mereka, mereka tidak akan dapat memberi mudarat (bahaya) kepada Allah sedikit pun. Dan kelak Allah akan menghapus segala amal mereka"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "47:33",
+      "verse_number": 33,
+      "text_uthmani": "۞يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "O you who have believed, obey Allah and obey the Messenger and do not invalidate your deeds",
+        "fr": "O vous qui avez cru ! Obéissez à Allah, obéissez au Messager, et ne rendez pas vaines vos œuvres",
+        "tr": "Ey inananlar! Allah'a itaat edin, Peygambere itaat edin; işlerinizi boşa çıkarmayın",
+        "ur": "اے لوگو جو ایمان لائے ہو، تم اللہ کی اطاعت کرو اور رسول کی اطاعت کرو اور اپنے اعمال کو برباد نہ کر لو",
+        "id": "Wahai orang-orang yang beriman! Taatlah kepada Allah dan taatlah kepada Rasul, dan janganlah kamu merusakkan segala amalmu"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "47:34",
+      "verse_number": 34,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ وَهُمۡ كُفَّارٞ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who disbelieved and averted [people] from the path of Allah and then died while they were disbelievers - never will Allah forgive them",
+        "fr": "Ceux qui ont mécru et obstrué le chemin d'Allah puis sont morts tout en étant mécréants, Allah ne leur pardonnera jamais",
+        "tr": "İnkar edip Allah yolundan alıkoyanları, sonra da inkarcı olarak ölenleri Allah şüphesiz ki bağışlamayacaktır",
+        "ur": "کفر کرنے والوں اور راہ خدا سے روکنے والوں اور مرتے دم تک کفر پر جمے رہنے والوں کو تو اللہ ہرگز معاف نہ کرے گا",
+        "id": "Sesungguhnya orang-orang yang kafir dan menghalang-halangi (orang lain) dari jalan Allah, kemudian mereka mati dalam keadaan kafir, maka Allah tidak akan mengampuni mereka"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "47:35",
+      "verse_number": 35,
+      "text_uthmani": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds",
+        "fr": "Ne faiblissez donc pas et n'appelez pas à la paix alors que vous êtes les plus hauts, qu'Allah est avec vous, et qu'Il ne vous frustrera jamais [du mérite] de vos œuvres",
+        "tr": "Ey inananlar! Sizler daha üstün olduğunuz halde düşman karşısında gevşemeyin ki barış istemek zorunda kalmayasınız; Allah sizinle beraberdir; sizin işlerinizi eksiltmeyecektir",
+        "ur": "پس تم بودے نہ بنو اور صلح کی درخواست نہ کرو تم ہی غالب رہنے والے ہو اللہ تمہارے ساتھ ہے اور تمہارے اعمال کو وہ ہرگز ضائع نہ کرے گا",
+        "id": "Maka janganlah kamu lemah dan mengajak damai, karena kamulah yang lebih unggul, dan Allah (pun) bersama kamu, dan Dia tidak akan mengurangi segala amalmu"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "47:36",
+      "verse_number": 36,
+      "text_uthmani": "إِنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبٞ وَلَهۡوٞۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ يُؤۡتِكُمۡ أُجُورَكُمۡ وَلَا يَسۡـَٔلۡكُمۡ أَمۡوَٰلَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "[This] worldly life is only amusement and diversion. And if you believe and fear Allah, He will give you your rewards and not ask you for your properties",
+        "fr": "La vie présente n'est que jeu et amusement; alors que si vous croyez et craignez, [Allah], Il vous accordera vos récompenses et ne vous demandera pas vos biens",
+        "tr": "Doğrusu dünya hayatı oyun ve oyalanmadır. Eğer inanır ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez",
+        "ur": "یہ دنیا کی زندگی تو ایک کھیل اور تماشا ہے اگر تم ایمان رکھو اور تقویٰ کی روش پر چلتے رہو تو اللہ تمہارے اجر تم کو دے گا اور وہ تمہارے مال تم سے نہ مانگے گا",
+        "id": "Sesungguhnya kehidupan dunia itu hanyalah permainan dan senda gurau. Jika kamu beriman serta bertakwa, Allah akan memberikan pahala kepadamu, dan Dia tidak akan meminta hartamu"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "47:37",
+      "verse_number": 37,
+      "text_uthmani": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "If He should ask you for them and press you, you would withhold, and He would expose your unwillingness",
+        "fr": "S'Il vous les demandait importunément, vous deviendriez avares et Il ferait apparaître vos haines",
+        "tr": "Eğer sizden onları isteyip de sizi zorlarsa, cimrilik edecektiniz, O da kinlerinizi ortaya çıkaracaktı",
+        "ur": "اگر کہیں وہ تمہارے مال تم سے مانگ لے اور سب کے سب تم سے طلب کر لے تو تم بخل کرو گے اور وہ تمہارے کھوٹ ابھار لائے گا",
+        "id": "Sekiranya Dia meminta harta kepadamu lalu mendesak kamu (agar memberikan semuanya) niscaya kamu akan kikir, dan Dia akan menampakkan kedengkianmu"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "47:38",
+      "verse_number": 38,
+      "text_uthmani": "هَـٰٓأَنتُمۡ هَـٰٓؤُلَآءِ تُدۡعَوۡنَ لِتُنفِقُواْ فِي سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبۡخَلُۖ وَمَن يَبۡخَلۡ فَإِنَّمَا يَبۡخَلُ عَن نَّفۡسِهِۦۚ وَٱللَّهُ ٱلۡغَنِيُّ وَأَنتُمُ ٱلۡفُقَرَآءُۚ وَإِن تَتَوَلَّوۡاْ يَسۡتَبۡدِلۡ قَوۡمًا غَيۡرَكُمۡ ثُمَّ لَا يَكُونُوٓاْ أَمۡثَٰلَكُم",
+      "chapter_id": 47,
+      "words": [],
+      "translations": {
+        "en": "Here you are - those invited to spend in the cause of Allah - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allah is the Free of need, while you are the needy. And if you turn away, He will replace you with another people; then they will not be the likes of you",
+        "fr": "Vous voilà appelés à faire des dépenses dans le chemin d'Allah. Certains parmi vous se montrent avares. Quiconque cependant est avare, l'est à son détriment. Allah est le Suffisant à Soi-même alors que vous êtes les besogneux. Et si vous vous détournez, Il vous remplacera par un peuple autre que vous, et ils ne seront pas comme vous",
+        "tr": "İşte sizler, Allah yolunda sarfetmeye çağırılan kimselersiniz. Kiminiz cimrilik yapıyor ama, cimrilik yapan bilsin ki, ancak kendine karşı cimrilik etmiş olur. Allah zengindir, siz ise fakirsiniz. Eğer O'ndan yüz çevirirseniz sizi ortadan kaldırır, sizin gibi olmayacak bir milleti yerinize getirir",
+        "ur": "دیکھو، تم لوگوں کو دعوت دی جا رہی ہے کہ اللہ کی راہ میں مال خرچ کرو اِس پر تم میں سے کچھ لوگ ہیں جو بخل کر رہے ہیں، حالانکہ جو بخل کرتا ہے وہ در حقیقت اپنے آپ ہی سے بخل کر رہا ہے اللہ تو غنی ہے، تم ہی اس کے محتاج ہو اگر تم منہ موڑو گے تو اللہ تمہاری جگہ کسی اور قوم کو لے آئے گا اور وہ تم جیسے نہ ہوں گے",
+        "id": "Ingatlah, kamu adalah orang-orang yang diajak untuk menginfakkan (hartamu) di jalan Allah. Lalu di antara kamu ada orang yang kikir, dan barangsiapa kikir maka sesungguhnya dia kikir terhadap dirinya sendiri. Dan Allah lah Yang Mahakaya, dan kamulah yang membutuhkan (karunia-Nya). Dan jika kamu berpaling (dari jalan yang benar) Dia akan menggantikan (kamu) dengan kaum yang lain, dan mereka tidak akan (durhaka) seperti kamu"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 47,
+    "name_arabic": "محمد",
+    "name_english": "Muhammad"
+  }
+}

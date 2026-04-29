@@ -1,0 +1,114 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "107:1",
+      "verse_number": 1,
+      "text_uthmani": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "Have you seen the one who denies the Recompense",
+        "fr": "Vois-tu celui qui traite de mensonge la Rétribution",
+        "tr": "Dini yalan sayanı gördün mü",
+        "ur": "تم نے دیکھا اُس شخص کو جو آخرت کی جزا و سزا کو جھٹلاتا ہے؟",
+        "id": "Tahukah kamu (orang) yang mendustakan agama"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "107:2",
+      "verse_number": 2,
+      "text_uthmani": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "For that is the one who drives away the orphan",
+        "fr": "C'est bien lui qui repousse l'orphelin",
+        "tr": "Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur",
+        "ur": "وہی تو ہے جو یتیم کو دھکے دیتا ہے",
+        "id": "Maka itulah orang yang menghardik anak yatim"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "107:3",
+      "verse_number": 3,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "And does not encourage the feeding of the poor",
+        "fr": "et qui n'encourage point à nourrir le pauvre",
+        "tr": "Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur",
+        "ur": "اور مسکین کو کھانا دینے پر نہیں اکساتا",
+        "id": "dan tidak mengajak memberi makan orang miskin"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "107:4",
+      "verse_number": 4,
+      "text_uthmani": "فَوَيۡلٞ لِّلۡمُصَلِّينَ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "So woe to those who pray",
+        "fr": "Malheur donc, à ceux qui prient",
+        "tr": "Vay o namaz kılanların haline ki",
+        "ur": "پھر تباہی ہے اُن نماز پڑھنے والوں کے لیے",
+        "id": "Maka celakalah orang yang salat"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "107:5",
+      "verse_number": 5,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "[But] who are heedless of their prayer",
+        "fr": "tout en négligeant (et retardant) leur Salât",
+        "tr": "Onlar kıldıkları namazdan gafildirler",
+        "ur": "جو اپنی نماز سے غفلت برتتے ہیں",
+        "id": "(yaitu) orang-orang yang lalai terhadap salatnya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "107:6",
+      "verse_number": 6,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ يُرَآءُونَ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "Those who make show [of their deeds]",
+        "fr": "qui sont pleins d'ostentation",
+        "tr": "Onlar gösteriş yaparlar",
+        "ur": "جو ریا کاری کرتے ہیں",
+        "id": "yang berbuat riya"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "107:7",
+      "verse_number": 7,
+      "text_uthmani": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ",
+      "chapter_id": 107,
+      "words": [],
+      "translations": {
+        "en": "And withhold [simple] assistance",
+        "fr": "et refusent l'ustensile (à celui qui en a besoin)",
+        "tr": "Onlar basit şeyleri dahi vermezler",
+        "ur": "اور معمولی ضرورت کی چیزیں (لوگوں کو) دینے سے گریز کرتے ہیں",
+        "id": "dan enggan (memberikan) bantuan"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 107,
+    "name_arabic": "الماعون",
+    "name_english": "Al-Ma'un"
+  }
+}

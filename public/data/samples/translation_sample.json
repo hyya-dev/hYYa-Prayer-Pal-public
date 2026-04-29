@@ -1,0 +1,20 @@
+{
+  "translation_id": "example-tafsir-en",
+  "language": "en",
+  "publisher": "Example Verified Publisher",
+  "source_url": "https://example.com/verified-source",
+  "content": [
+    {
+      "surah": 1,
+      "ayah": 1,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+    },
+    {
+      "surah": 1,
+      "ayah": 2,
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "translation": "[All] praise is [due] to Allah, Lord of the worlds."
+    }
+  ]
+}

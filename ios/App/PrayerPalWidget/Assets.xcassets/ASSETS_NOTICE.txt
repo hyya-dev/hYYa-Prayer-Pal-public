@@ -1,0 +1,1 @@
+ASSETS NOTICE: The branding assets (icons, splash screens, mascot, etc.) in this directory are the proprietary property of the original author and are 'All Rights Reserved'. To build and distribute this app yourself, you MUST replace these assets with your own original graphics.

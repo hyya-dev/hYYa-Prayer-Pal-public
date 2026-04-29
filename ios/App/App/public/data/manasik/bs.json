@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Prvi korak: Namjera i Ihram",
+        "details": "<ul><li>Namjeravam obaviti Umru, ući u Ihram u Miqat i započeti Talbiyah.</li><li>Pridržavao se zabrana Ihram i izvršio ritualno pročišćenje prije početka rituala.</li></ul>",
+        "evidence": "Quran 2:196 i godina početka rituala iz Miqat.",
+        "referenceLabel": "Ministarstvo Umre i vodič za posjete"
+      },
+      {
+        "title": "Drugi korak: Ulazak Al-Masjid Al-Haram",
+        "details": "<ul><li>Uđite tiho, s molitvom i poniznošću.</li><li>Počnite sa strane koja omogućava sigurno kretanje kroz gužvu, a zatim se uputite prema području Tawaf.</li></ul>",
+        "evidence": "Opće proročke smjernice o bontonu u džamijama i omogućavanju bogosluženja.",
+        "referenceLabel": "Centar za podizanje svijesti ministara"
+      },
+      {
+        "title": "Treći korak: Tawaf (sedam krugova)",
+        "details": "<ul><li>Obavite Tawaf oko Kaabah sedam puta, počevši od linije Black Stone.</li><li>Nastavite se sjećati Boga i izbjegavajte nanošenje štete drugima u pokretu mase.</li><li class=\"pp-ios-only\"> Savjet: Koristite aplikaciju Apple Watch da biste lakše prebrojali svoje Tawaf krugove.</li><li class=\"pp-android-only\"> Savjet: Koristite aplikaciju Wear OS na svom satu kako biste lakše brojali svoje Tawaf krugove.</li></ul>",
+        "evidence": "Quran 22:29 i dokumentovani opisi Poslanikovog obilaženja.",
+        "referenceLabel": "Smjernice za putovanje u Umru u Nosuku"
+      },
+      {
+        "title": "Četvrti korak: Molitva nakon Tawaf",
+        "details": "<ul><li>Nakon završetka Tawaf klanjajte dva rekata, ako je moguće, bez nanošenja štete džematu, a zatim organizovano pijte vodu Zamzam.</li></ul>",
+        "evidence": "Dobro utvrđena praksa u autentičnim hadisima u vezi s namazom nakon Tawaf.",
+        "referenceLabel": "Ministarstvo Umre i vodič za posjete"
+      },
+      {
+        "title": "Peti korak: Saie između Safa i Marwah",
+        "details": "<ul><li>Izvršite Saie sedam krugova između Safa i Marwah, počevši od Safa i završavajući kod Marwah, uz dovu i sjećanje.</li><li class=\"pp-ios-only\"> Savjet: Koristite aplikaciju Apple Watch kako biste lakše prebrojali Saie trčanja.</li><li class=\"pp-android-only\"> Savjet: Koristite aplikaciju Wear OS na svom satu kako biste lakše brojali Saie trke.</li></ul>",
+        "evidence": "Quran 2:158 i vjerodostojne predaje prema naredbi Poslanika.",
+        "referenceLabel": "Smjernice za putovanje u Umru u Nosuku"
+      },
+      {
+        "title": "Šesti korak: Šišanje ili brijanje",
+        "details": "<ul><li>Muškarci briju ili šišaju kosu, a žene podrezuju mali dio.</li><li>I ovim se završava Umra i Ihram.</li></ul>",
+        "evidence": "Quran 48:27 i autentične predaje koje se odnose na brijanje i skraćivanje kose.",
+        "referenceLabel": "Ministarstvo Umre i vodič za posjete"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Prvi korak: Ihram i namjera za hadž",
+        "details": "<ul><li>Uđite u ihram na Miqat, namjerite se na vrstu hadža, a zatim nastavite s Talbiyah.</li><li>Pridržavajte se pravila Ihram sve dok ne stignete do izlaza Ihram.</li></ul>",
+        "evidence": "Quran 2:196 i dogovoreni proročki rituali za početak hadža.",
+        "referenceLabel": "Smjernice Ministarstva za hadž"
+      },
+      {
+        "title": "Drugi korak: Yawm at-Tarwiyah u Mina",
+        "details": "<ul><li>Osmog dana mjeseca Dhul Hijjah, uputite se na Mina, obavite molitve u određeno vrijeme i pripremite se duhovno i logistički za obilježavanje Arafah.</li></ul>",
+        "evidence": "Dokumentovani niz rituala na oproštajnom putovanju.",
+        "referenceLabel": "Hadž putovanje u Nosuk"
+      },
+      {
+        "title": "Treći korak: Stajanje na Arafah",
+        "details": "<ul><li>Provedite deveti dan Dhul Hijjah na Arafah u molitvi, sjećanju na Boga i pokajanju.</li><li>Ovo je suštinski stub hadža.</li></ul>",
+        "evidence": "Hadith: Hadž je Arafah.",
+        "referenceLabel": "Smjernice Ministarstva hadža"
+      },
+      {
+        "title": "Četvrti korak: Muzdalifah i sakupljanje kamenčića",
+        "details": "<ul><li>Nakon zalaska sunca, idite u Muzdalifah, klanjajte magrib i išu, prenoćite tamo i skupljajte kamenčiće za bacanje kamenja na Mina.</li></ul>",
+        "evidence": "Poslanički slijed nakon Arafah u autentičnim predajama.",
+        "referenceLabel": "Hadž putovanje u Nosuk"
+      },
+      {
+        "title": "Peti korak: Rami, žrtva i poezija",
+        "details": "<ul><li>Na dan Bajrama, prilikom bacanja kamena Jamarat al-Aqabah, obavite žrtvu gdje je potrebno, a zatim obrijte ili ošišajte kosu za prvi tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 i slijed autentičnih hadisa.",
+        "referenceLabel": "Smjernice Ministarstva hadža"
+      },
+      {
+        "title": "Šesti korak: Tawaf al-Ifadah (sedam rundi)",
+        "details": "<ul><li>Povratak u Meku radi obavljanja Tawaf al-Ifadah, završetka sedam krugova i održavanja sigurnog i urednog kretanja tokom prometnih perioda.</li><li class=\"pp-ios-only\"> Savjet: Koristite aplikaciju Apple Watch da biste lakše prebrojali svoje Tawaf krugove.</li><li class=\"pp-android-only\"> Savjet: Koristite aplikaciju Wear OS na svom satu kako biste lakše brojali svoje Tawaf krugove.</li></ul>",
+        "evidence": "Quran 22:29 i dokumentovani opisi obaveznog ophodnje oko svijeta.",
+        "referenceLabel": "Hadž putovanje u Nosuk"
+      },
+      {
+        "title": "Korak 7: Obavijestite osobu ko je potreban",
+        "details": "<ul><li>Obavite Saie kada vaša vrsta hadža to zahtijeva, održavajući redoslijed i broj od sedam krugova između Safa i Marwah.</li><li class=\"pp-ios-only\"> Savjet: Koristite aplikaciju Apple Watch kako biste lakše prebrojali Saie trčanja.</li><li class=\"pp-android-only\"> Savjet: Koristite aplikaciju Wear OS na svom satu kako biste lakše brojali Saie trke.</li></ul>",
+        "evidence": "Quran 2:158 i njegova jurisprudencijalna primjena u ritualima hadža.",
+        "referenceLabel": "Smjernice Ministarstva hadža"
+      },
+      {
+        "title": "Korak 8: Ayyam at-Tashriq i Tawaf al-Wada&#39;",
+        "details": "<ul><li>Boravak u Mina tokom Tašrika radi obavljanja rituala bacanja Jamarat, a zatim obavljanje Tawaf al-Wada&#39; prije napuštanja Meke, osim za one koji su izuzeti.</li><li class=\"pp-ios-only\"> Savjet: Koristite aplikaciju Apple Watch da biste lakše prebrojali svoje Tawaf krugove.</li><li class=\"pp-android-only\"> Savjet: Koristite aplikaciju Wear OS na svom satu kako biste lakše brojali svoje Tawaf krugove.</li></ul>",
+        "evidence": "Utvrđeni rituali zasnivaju se na uputama Quran i ispravnoj praksi Poslanikovog Sunnah.",
+        "referenceLabel": "Hadž putovanje u Nosuk"
+      }
+    ]
+  }
+}

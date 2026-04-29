@@ -1,0 +1,129 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "102:1",
+      "verse_number": 1,
+      "text_uthmani": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "Competition in [worldly] increase diverts you",
+        "fr": "La course aux richesses vous distrait",
+        "tr": "Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz",
+        "ur": "تم لوگوں کو زیادہ سے زیادہ اور ایک دوسرے سے بڑھ کر دنیا حاصل کرنے کی دھن نے غفلت میں ڈال رکھا ہے",
+        "id": "Bermegah-megahan telah melalaikan kamu"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "102:2",
+      "verse_number": 2,
+      "text_uthmani": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "Until you visit the graveyards",
+        "fr": "jusqu'à ce que vous visitiez les tombes",
+        "tr": "Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz",
+        "ur": "یہاں تک کہ (اسی فکر میں) تم لب گور تک پہنچ جاتے ہو",
+        "id": "sampai kamu masuk ke dalam kubur"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "102:3",
+      "verse_number": 3,
+      "text_uthmani": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "No! You are going to know",
+        "fr": "Mais non! Vous saurez bientôt",
+        "tr": "Hayır; öyle olmayın; yakında bileceksiniz",
+        "ur": "ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا",
+        "id": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "102:4",
+      "verse_number": 4,
+      "text_uthmani": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "Then no! You are going to know",
+        "fr": "(Encore une fois)! Vous saurez bientôt",
+        "tr": "Hayır; gözünüzü açın; yakında bileceksiniz",
+        "ur": "پھر (سن لو کہ) ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا",
+        "id": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "102:5",
+      "verse_number": 5,
+      "text_uthmani": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "No! If you only knew with knowledge of certainty",
+        "fr": "Sûrement! Si vous saviez de science certaine",
+        "tr": "Dikkat edin, şayet yaptığınızın sonucunu kesin olarak bir bilseniz",
+        "ur": "ہرگز نہیں، اگر تم یقینی علم کی حیثیت سے (اِس روش کے انجام کو) جانتے ہوتے (تو تمہارا یہ طرز عمل نہ ہوتا)",
+        "id": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "102:6",
+      "verse_number": 6,
+      "text_uthmani": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "You will surely see the Hellfire",
+        "fr": "Vous verrez, certes, la Fournaise",
+        "tr": "And olsun ki, cehennemi göreceksiniz",
+        "ur": "تم دوزخ دیکھ کر رہو گے",
+        "id": "niscaya kamu benar-benar akan melihat neraka Jahim"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "102:7",
+      "verse_number": 7,
+      "text_uthmani": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "Then you will surely see it with the eye of certainty",
+        "fr": "Puis, vous la verrez certes, avec l'œil de la certitude",
+        "tr": "And olsun ki, onu gözünüzle kesin olarak göreceksiniz",
+        "ur": "پھر (سن لو کہ) تم بالکل یقین کے ساتھ اُسے دیکھ لو گے",
+        "id": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "102:8",
+      "verse_number": 8,
+      "text_uthmani": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "chapter_id": 102,
+      "words": [],
+      "translations": {
+        "en": "Then you will surely be asked that Day about pleasure",
+        "fr": "Puis, assurément, vous serez interrogés, ce jour-là, sur les délices",
+        "tr": "Sonra o gün, size verilmiş olan her nimetten sorguya çekileceksiniz",
+        "ur": "پھر ضرور اُس روز تم سے اِن نعمتوں کے بارے میں جواب طلبی کی جائے گی",
+        "id": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 102,
+    "name_arabic": "التكاثر",
+    "name_english": "At-Takathur"
+  }
+}

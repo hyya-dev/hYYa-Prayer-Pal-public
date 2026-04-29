@@ -1,0 +1,174 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "101:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱلۡقَارِعَةُ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "The Striking Calamity",
+        "fr": "Le fracas",
+        "tr": "Gürültü koparacak olan",
+        "ur": "عظیم حادثہ",
+        "id": "Hari Kiamat"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "101:2",
+      "verse_number": 2,
+      "text_uthmani": "مَا ٱلۡقَارِعَةُ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "What is the Striking Calamity",
+        "fr": "Qu'est-ce que le fracas",
+        "tr": "Nedir o gürültü koparacak olan",
+        "ur": "کیا ہے وہ عظیم حادثہ؟",
+        "id": "Apakah hari Kiamat itu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "101:3",
+      "verse_number": 3,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is the Striking Calamity",
+        "fr": "Et qui te dira ce qu'est le fracas",
+        "tr": "O gürültü koparacak olanın ne olduğunu sen bilir misin",
+        "ur": "تم کیا جانو کہ وہ عظیم حادثہ کیا ہے؟",
+        "id": "Dan tahukah kamu apakah hari Kiamat itu"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "101:4",
+      "verse_number": 4,
+      "text_uthmani": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "It is the Day when people will be like moths, dispersed",
+        "fr": "C'est le jour où les gens seront comme des papillons éparpillés",
+        "tr": "O gün insanlar, ateş etrafında çırpınıp dökülen pervaneye dönecekler",
+        "ur": "وہ دن جب لوگ بکھرے ہوئے پروانوں کی طرح",
+        "id": "Pada hari itu manusia seperti laron yang beterbangan"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "101:5",
+      "verse_number": 5,
+      "text_uthmani": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "And the mountains will be like wool, fluffed up",
+        "fr": "et les montagnes comme de la laine cardée",
+        "tr": "Dağlar, atılmış renkli yüne benzeyecekler",
+        "ur": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون کی طرح ہوں گے",
+        "id": "dan gunung-gunung seperti bulu yang dihambur-hamburkan"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "101:6",
+      "verse_number": 6,
+      "text_uthmani": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "Then as for one whose scales are heavy [with good deeds]",
+        "fr": "quant à celui dont la balance sera lourde",
+        "tr": "Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır",
+        "ur": "پھر جس کے پلڑے بھاری ہوں گے",
+        "id": "Maka adapun orang yang berat timbangan (kebaikan)nya"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "101:7",
+      "verse_number": 7,
+      "text_uthmani": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "He will be in a pleasant life",
+        "fr": "il sera dans une vie agréable",
+        "tr": "Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır",
+        "ur": "وہ دل پسند عیش میں ہوگا",
+        "id": "maka dia berada dalam kehidupan yang memuaskan (senang)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "101:8",
+      "verse_number": 8,
+      "text_uthmani": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "But as for one whose scales are light",
+        "fr": "et quant à celui dont la balance sera légère",
+        "tr": "Tartıları hafif gelenler ise",
+        "ur": "اور جس کے پلڑے ہلکے ہوں گے",
+        "id": "Dan adapun orang yang ringan timbangan (kebaikan)nya"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "101:9",
+      "verse_number": 9,
+      "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٞ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "His refuge will be an abyss",
+        "fr": "sa mère [destination] est un abîme très profond",
+        "tr": "Onların yeri bir çukurdur",
+        "ur": "اس کی جائے قرار گہری کھائی ہوگی",
+        "id": "maka tempat kembalinya adalah neraka Hāwiyah"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "101:10",
+      "verse_number": 10,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what that is",
+        "fr": "Et qui te dira ce que c'est",
+        "tr": "O çukurun ne olduğunu sen bilir misin",
+        "ur": "اور تمہیں کیا خبر کہ وہ کیا چیز ہے؟",
+        "id": "Dan tahukah kamu apakah neraka Hāwiyah itu"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "101:11",
+      "verse_number": 11,
+      "text_uthmani": "نَارٌ حَامِيَةُۢ",
+      "chapter_id": 101,
+      "words": [],
+      "translations": {
+        "en": "It is a Fire, intensely hot",
+        "fr": "C'est un Feu ardent",
+        "tr": "O, kızgın bir ateştir",
+        "ur": "بھڑکتی ہوئی آگ",
+        "id": "(Yaitu) api yang sangat panas"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 101,
+    "name_arabic": "القارعة",
+    "name_english": "Al-Qari'ah"
+  }
+}

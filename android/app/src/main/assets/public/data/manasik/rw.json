@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Intambwe ya mbere: Intego na Ihram",
+        "details": "<ul><li>Umugambi wo gukora Umra, winjire muri Ihram i Miqat, hanyuma utangire Talbiyah.</li><li>Yakurikije amategeko Ihram, kandi yarangije umuhango wo kwisukura mbere yo gutangira umuhango.</li></ul>",
+        "evidence": "Quran 2:196 n&#39;umwaka wo gutangira imihango kuva kuri Miqat.",
+        "referenceLabel": "Minisiteri ya Umrah n&#39;Ubuyobozi bw&#39;Abasura"
+      },
+      {
+        "title": "Intambwe ya Kabiri: Kwinjira muri Al-Masjid Al-Haram",
+        "details": "<ul><li>Injira bucece, usenga kandi wicisha bugufi.</li><li>Tangirira ku ruhande rufasha abantu kugenda mu mutekano, hanyuma werekeze mu gace ka Tawaf.</li></ul>",
+        "evidence": "Amabwiriza rusange y&#39;ubuhanuzi ku myitwarire myiza mu misigiti no koroshya ugusenga.",
+        "referenceLabel": "Ikigo gishinzwe gukangurira abaminisitiri"
+      },
+      {
+        "title": "Intambwe ya gatatu: Tawaf (imihanda irindwi)",
+        "details": "<ul><li>Kora Tawaf uzenguruka Kaabah inshuro zirindwi, uhereye ku murongo Black Stone.</li><li>Komeza kwibuka Imana kandi wirinde kugirira nabi abandi mu rugendo rw&#39;abantu benshi.</li><li class=\"pp-ios-only\"> Inama: Koresha porogaramu Apple Watch kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li><li class=\"pp-android-only\"> Inama: Koresha porogaramu Wear OS iri ku isaha yawe kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 n&#39;ibisobanuro byanditswe by&#39;uko Intumwa yazengurutse.",
+        "referenceLabel": "Amabwiriza y&#39;urugendo rwa Umrah muri Nosuk"
+      },
+      {
+        "title": "Intambwe ya kane: Isengesho nyuma ya Tawaf",
+        "details": "<ul><li>Dusenge raka ebyiri nyuma yo kurangiza Tawaf niba bishoboka tudateye ikibazo abantu, hanyuma dukomeze kunywa amazi Zamzam mu buryo buteguye.</li></ul>",
+        "evidence": "Umugenzo uzwi cyane muri Hadithi z&#39;ukuri ku bijyanye n&#39;isengesho nyuma ya Tawaf.",
+        "referenceLabel": "Minisiteri ya Umrah n&#39;Ubuyobozi bw&#39;Abasura"
+      },
+      {
+        "title": "Intambwe ya gatanu: Saie hagati ya Safa na Marwah",
+        "details": "<ul><li>Gira Saie mu mizunguruko irindwi hagati ya Safa na Marwah, uhereye kuri Safa ukagera kuri Marwah, usenga kandi wibuka.</li><li class=\"pp-ios-only\"> Inama: Koresha porogaramu Apple Watch kugira ngo igufashe kubara amanota Saie yatsinze.</li><li class=\"pp-android-only\"> Inama: Koresha porogaramu Wear OS iri ku isaha yawe kugira ngo igufashe kubara uko Saie yarushagaho gukora.</li></ul>",
+        "evidence": "Quran 2:158 n&#39;inkuru z&#39;ukuri hakurikijwe gahunda y&#39;intumwa.",
+        "referenceLabel": "Amabwiriza y&#39;urugendo rwa Umrah muri Nosuk"
+      },
+      {
+        "title": "Intambwe ya gatandatu: Kogosha umusatsi cyangwa kogosha",
+        "details": "<ul><li>Abagabo bogosha cyangwa bakagabanya umusatsi wabo, naho abagore bakawugabanyaho igice gito.</li><li>Kandi ibi ni byo bituma Umrah irangira na Ihram irangira.</li></ul>",
+        "evidence": "Quran 48:27 n&#39;inkuru z&#39;ukuri zijyanye no kogosha no kugabanya.",
+        "referenceLabel": "Minisiteri ya Umrah n&#39;Ubuyobozi bw&#39;Abasura"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Intambwe ya mbere: Ihram n&#39;umugambi wa Hijja",
+        "details": "<ul><li>Injira muri ihram muri Miqat, teganya ubwoko bwa Hija yawe, hanyuma ukomeze Talbiyah.</li><li>Komeza gukurikiza amategeko Ihram kugeza ugeze aho Ihram isohoka.</li></ul>",
+        "evidence": "Quran 2:196 n&#39;imihango y&#39;ubuhanuzi yemeranyijweho yo gutangira Hija.",
+        "referenceLabel": "Amabwiriza ya Minisiteri y&#39;Ubuhanzi"
+      },
+      {
+        "title": "Intambwe ya kabiri: Yawm at-Tarwiyah muri Mina",
+        "details": "<ul><li>Ku itariki ya munani ya Dhul Hijjah, ujye i Mina, usenge Imana ku bihe byagenwe, kandi witegure mu buryo bw&#39;umwuka no mu buryo bw&#39;ibikoresho kwizihiza Arafah.</li></ul>",
+        "evidence": "Urukurikirane rwanditse rw&#39;imihango yo gusezera.",
+        "referenceLabel": "Urugendo rwa Hajj i Nosuk"
+      },
+      {
+        "title": "Intambwe ya gatatu: Guhagarara kuri Arafah",
+        "details": "<ul><li>Mumare umunsi wa cyenda wa Dhul Hijjah muri Arafah musenga, mwibuka Imana kandi mwicuza.</li><li>Iyi ni yo nkingi y&#39;ingenzi ya Hija.</li></ul>",
+        "evidence": "Hadith: Hija ni Arafah.",
+        "referenceLabel": "Amabwiriza ya Minisiteri y&#39;Ubuhanzi bwa Hija"
+      },
+      {
+        "title": "Intambwe ya kane: Muzdalifah no gukusanya amabuye",
+        "details": "<ul><li>Nyuma y&#39;izuba rirenze, jya i Muzdalifah, usenge Maghrib na Isha, urareyo, hanyuma utore amabuye yo gutera Mina.</li></ul>",
+        "evidence": "Urukurikirane rw&#39;ubuhanuzi nyuma ya Arafah mu nkuru z&#39;ukuri.",
+        "referenceLabel": "Urugendo rwa Hajj i Nosuk"
+      },
+      {
+        "title": "Intambwe ya Gatanu: Rami, igitambo, n&#39;ubusizi",
+        "details": "<ul><li>Ku munsi wa Eid, iyo urimo gutera ibuye rya Jamarat al-Aqabah, tanga igitambo aho bibaye ngombwa, hanyuma wogoshe cyangwa wogoshe umusatsi wawe kugira ngo uhitemo tahlil ya mbere.</li></ul>",
+        "evidence": "Quran 22:36-37 n&#39;urukurikirane rwa Hadithi z&#39;ukuri.",
+        "referenceLabel": "Amabwiriza ya Minisiteri y&#39;Ubuhanzi bwa Hija"
+      },
+      {
+        "title": "Intambwe ya gatandatu: Tawaf al-Ifadah (ibice birindwi)",
+        "details": "<ul><li>Garuka i Maka ukorere Tawaf al-Ifadah, urangize inzira zirindwi, kandi ukomeze kugenda mu mutekano no mu buryo butekanye mu bihe by&#39;akazi kenshi.</li><li class=\"pp-ios-only\"> Inama: Koresha porogaramu Apple Watch kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li><li class=\"pp-android-only\"> Inama: Koresha porogaramu Wear OS iri ku isaha yawe kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 n&#39;ibisobanuro byanditswe ku byerekeye kuzenguruka kw&#39;itegeko.",
+        "referenceLabel": "Urugendo rwa Hajj i Nosuk"
+      },
+      {
+        "title": "Intambwe ya 7: Bwira umuntu ukenewe",
+        "details": "<ul><li>Kora Saie igihe ubwoko bwa Hija yawe bubigusaba, ariko ugakomeza uruhererekane n&#39;umubare w&#39;ingendo zirindwi hagati ya Safa na Marwah.</li><li class=\"pp-ios-only\"> Inama: Koresha porogaramu Apple Watch kugira ngo igufashe kubara amanota Saie yatsinze.</li><li class=\"pp-android-only\"> Inama: Koresha porogaramu Wear OS iri ku isaha yawe kugira ngo igufashe kubara uko Saie yarushagaho gukora.</li></ul>",
+        "evidence": "Quran 2:158 n&#39;ishyirwa mu bikorwa ryayo mu mategeko mu mihango ya Hija.",
+        "referenceLabel": "Amabwiriza ya Minisiteri y&#39;Ubuhanzi bwa Hija"
+      },
+      {
+        "title": "Intambwe ya 8: Ayyam at-Tashriq na Tawaf al-Wada&#39;",
+        "details": "<ul><li>Guguma i Mina mu gihe cya Tashreeq kugira ngo ukore imihango yo gutera Jamarat, hanyuma ugakora Tawaf al-Wada&#39; mbere yo kuva i Makka, keretse abadafite icyo bakora.</li><li class=\"pp-ios-only\"> Inama: Koresha porogaramu Apple Watch kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li><li class=\"pp-android-only\"> Inama: Koresha porogaramu Wear OS iri ku isaha yawe kugira ngo igufashe kubara imiyoboro yawe Tawaf.</li></ul>",
+        "evidence": "Imihango yashyizweho ishingiye ku buyobozi Quran no ku ishyirwa mu bikorwa ry’ukuri rya Sunnah y’ubuhanuzi.",
+        "referenceLabel": "Urugendo rwa Hajj i Nosuk"
+      }
+    ]
+  }
+}

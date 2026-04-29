@@ -1,0 +1,84 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "113:1",
+      "verse_number": 1,
+      "text_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "chapter_id": 113,
+      "words": [],
+      "translations": {
+        "en": "Say, \"I seek refuge in the Lord of daybreak",
+        "fr": "Dis: «Je cherche protection auprès du Seigneur de l'aube naissante",
+        "tr": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım",
+        "ur": "کہو، میں پناہ مانگتا ہوں صبح کے رب کی",
+        "id": "Katakanlah, \"Aku berlindung kepada Tuhan yang menguasai subuh (fajar)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "113:2",
+      "verse_number": 2,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "chapter_id": 113,
+      "words": [],
+      "translations": {
+        "en": "From the evil of that which He created",
+        "fr": "contre le mal des êtres qu'Il a créés",
+        "tr": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım",
+        "ur": "ہر اُس چیز کے شر سے جو اُس نے پیدا کی ہے",
+        "id": "dari kejahatan (makhluk yang) Dia ciptakan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "113:3",
+      "verse_number": 3,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "chapter_id": 113,
+      "words": [],
+      "translations": {
+        "en": "And from the evil of darkness when it settles",
+        "fr": "contre le mal de l'obscurité quand elle s'approfondit",
+        "tr": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım",
+        "ur": "اور رات کی تاریکی کے شر سے جب کہ وہ چھا جائے",
+        "id": "dan dari kejahatan malam apabila telah gelap gulita"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "113:4",
+      "verse_number": 4,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ",
+      "chapter_id": 113,
+      "words": [],
+      "translations": {
+        "en": "And from the evil of the blowers in knots",
+        "fr": "contre le mal de celles qui soufflent [les sorcières] sur les nœuds",
+        "tr": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım",
+        "ur": "اور گرہوں میں پھونکنے والوں (یا والیوں) کے شر سے",
+        "id": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "113:5",
+      "verse_number": 5,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "chapter_id": 113,
+      "words": [],
+      "translations": {
+        "en": "And from the evil of an envier when he envies",
+        "fr": "et contre le mal de l'envieux quand il envie»",
+        "tr": "De ki: \"Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım",
+        "ur": "اور حاسد کے شر سے جب کہ وہ حسد کرے",
+        "id": "dan dari kejahatan orang yang dengki apabila dia dengki"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 113,
+    "name_arabic": "الفلق",
+    "name_english": "Al-Falaq"
+  }
+}

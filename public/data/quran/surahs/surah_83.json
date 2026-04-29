@@ -1,0 +1,549 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "83:1",
+      "verse_number": 1,
+      "text_uthmani": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Woe to those who give less [than due]",
+        "fr": "Malheur aux fraudeurs",
+        "tr": "İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline",
+        "ur": "تباہی ہے ڈنڈی مارنے والوں کے لیے",
+        "id": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "83:2",
+      "verse_number": 2,
+      "text_uthmani": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Who, when they take a measure from people, take in full",
+        "fr": "qui, lorsqu'ils font mesurer pour eux-mêmes exigent la pleine mesure",
+        "tr": "İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline",
+        "ur": "جن کا حال یہ ہے کہ جب لوگوں سے لیتے ہیں تو پورا پورا لیتے ہیں",
+        "id": "(yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "83:3",
+      "verse_number": 3,
+      "text_uthmani": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "But if they give by measure or by weight to them, they cause loss",
+        "fr": "et qui lorsqu'eux-mêmes mesurent ou pèsent pour les autres, [leur] causent perte",
+        "tr": "İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline",
+        "ur": "اور جب ان کو ناپ کر یا تول کر دیتے ہیں تو انہیں گھاٹا دیتے ہیں",
+        "id": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "83:4",
+      "verse_number": 4,
+      "text_uthmani": "أَلَا يَظُنُّ أُوْلَـٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Do they not think that they will be resurrected",
+        "fr": "Ceux-là ne pensent-ils pas qu'ils seront ressuscités",
+        "tr": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı",
+        "ur": "کیا یہ لوگ نہیں سمجھتے کہ ایک بڑے دن،",
+        "id": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "83:5",
+      "verse_number": 5,
+      "text_uthmani": "لِيَوۡمٍ عَظِيمٖ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "For a tremendous Day",
+        "fr": "en un jour terrible",
+        "tr": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı",
+        "ur": "یہ اٹھا کر لائے جانے والے ہیں؟",
+        "id": "pada suatu hari yang besar"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "83:6",
+      "verse_number": 6,
+      "text_uthmani": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "The Day when mankind will stand before the Lord of the worlds",
+        "fr": "le jour où les gens se tiendront debout devant le Seigneur de l'Univers",
+        "tr": "O gün insanlar Alemlerin Rabbinin huzurunda dururlar",
+        "ur": "اُس دن جبکہ سب لوگ رب العالمین کے سامنے کھڑے ہوں گے",
+        "id": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "83:7",
+      "verse_number": 7,
+      "text_uthmani": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, the record of the wicked is in sijjeen",
+        "fr": "Non...! Mais en vérité le livre des libertins sera dans le Sijjîn",
+        "tr": "Sakının; Allah'ın buyruğundan dışarı çıkanlar, muhakkak \"Siccin\" adlı defterde yazılıdır",
+        "ur": "ہرگز نہیں، یقیناً بد کاروں کا نامہ اعمال قید خانے کے دفتر میں ہے",
+        "id": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjīn"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "83:8",
+      "verse_number": 8,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is sijjeen",
+        "fr": "et qui te dira ce qu'est le Sijjîn",
+        "tr": "Siccin'in ne olduğunu sen nerden bilirsin",
+        "ur": "اور تمہیں کیا معلوم کہ وہ قید خانے کا دفتر کیا ہے؟",
+        "id": "Dan tahukah engkau apakah Sijjīn itu"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "83:9",
+      "verse_number": 9,
+      "text_uthmani": "كِتَٰبٞ مَّرۡقُومٞ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "It is [their destination recorded in] a register inscribed",
+        "fr": "Un livre déjà cacheté (achevé)",
+        "tr": "O, yazılmış bir kitaptır",
+        "ur": "ایک کتاب ہے لکھی ہوئی",
+        "id": "(Yaitu) Kitab yang berisi catatan (amal)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "83:10",
+      "verse_number": 10,
+      "text_uthmani": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Woe, that Day, to the deniers",
+        "fr": "Malheur, ce jour-là, aux négateurs",
+        "tr": "Yalanlayanların o gün vay haline",
+        "ur": "تباہی ہے اُس روز جھٹلانے والوں کے لیے",
+        "id": "Celakalah pada hari itu, bagi orang-orang yang mendustakan"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "83:11",
+      "verse_number": 11,
+      "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Who deny the Day of Recompense",
+        "fr": "qui démentent le jour de la Rétribution",
+        "tr": "Onlar, kıyamet gününü yalanlamış olanlardır",
+        "ur": "جو روز جزا کو جھٹلاتے ہیں",
+        "id": "(yaitu) orang-orang yang mendustakannya (hari pembalasan)"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "83:12",
+      "verse_number": 12,
+      "text_uthmani": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And none deny it except every sinful transgressor",
+        "fr": "Or, ne le dément que tout transgresseur, pécheur",
+        "tr": "Oysa onu mütecaviz günahkardan başka kimse yalanlamaz",
+        "ur": "اور اُسے نہیں جھٹلاتا مگر ہر وہ شخص جو حد سے گزر جانے والا بد عمل ہے",
+        "id": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "83:13",
+      "verse_number": 13,
+      "text_uthmani": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "When Our verses are recited to him, he says, \"Legends of the former peoples",
+        "fr": "qui, lorsque Nos versets lui sont récités, dit: «[Ce sont] des contes d'anciens!»",
+        "tr": "Ona ayetlerimiz okunduğu zaman \"Öncekilerin masalları\" der",
+        "ur": "اُسے جب ہماری آیات سنائی جاتی ہیں تو کہتا ہے یہ تو اگلے وقتوں کی کہانیاں ہیں",
+        "id": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, \"Itu adalah dongeng orang-orang dahulu"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "83:14",
+      "verse_number": 14,
+      "text_uthmani": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "No! Rather, the stain has covered their hearts of that which they were earning",
+        "fr": "Pas du tout, mais ce qu'ils ont accompli couvre leurs cœurs",
+        "tr": "Hayır, hayır; onların kazandıkları kalblerini paslandırıp körletmiştir",
+        "ur": "ہرگز نہیں، بلکہ دراصل اِن لوگوں کے دلوں پر اِن کے برے اعمال کا زنگ چڑھ گیا ہے",
+        "id": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "83:15",
+      "verse_number": 15,
+      "text_uthmani": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, from their Lord, that Day, they will be partitioned",
+        "fr": "Qu'ils prennent garde! En vérité ce jour-là un voile les empêchera de voir leur Seigneur",
+        "tr": "Hayır; doğrusu onlar o gün, Rablerinden yoksun kalacaklardır",
+        "ur": "ہرگز نہیں، بالیقین اُس روز یہ اپنے رب کی دید سے محروم رکھے جائیں گے",
+        "id": "(Sekali-kali tidak!901) Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "83:16",
+      "verse_number": 16,
+      "text_uthmani": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Then indeed, they will [enter and] burn in Hellfire",
+        "fr": "ensuite, ils brûleront certes, dans la Fournaise",
+        "tr": "Sonra onlar, şüphesiz, cehenneme gireceklerdir",
+        "ur": "پھر یہ جہنم میں جا پڑیں گے",
+        "id": "Kemudian, sesungguhnya mereka benar-benar masuk neraka"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "83:17",
+      "verse_number": 17,
+      "text_uthmani": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Then it will be said [to them], \"This is what you used to deny",
+        "fr": "on [leur] dira alors: «Voilà ce que vous traitiez de mensonge!»",
+        "tr": "Sonra da: \"yalanlayıp durduğunuz işte budur\" denecektir",
+        "ur": "پھر اِن سے کہا جائے گا کہ یہ وہی چیز ہے جسے تم جھٹلایا کرتے تھے",
+        "id": "Kemudian, dikatakan (kepada mereka), \"Inilah (azab) yang dahulu kamu dustakan"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "83:18",
+      "verse_number": 18,
+      "text_uthmani": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, the record of the righteous is in 'illiyyun",
+        "fr": "Qu'ils prennent garde! Le livre des bons sera dans l'Illiyûn",
+        "tr": "Ama iyilerin defteri yüksek katlardadır",
+        "ur": "ہرگز نہیں، بے شک نیک آدمیوں کا نامہ اعمال بلند پایہ لوگوں کے دفتر میں ہے",
+        "id": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam 'Illiyyīn"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "83:19",
+      "verse_number": 19,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is 'illiyyun",
+        "fr": "et qui te dira ce qu'est l'Illiyûn",
+        "tr": "O yüksek katların ne olduğunu sen bilir misin",
+        "ur": "اور تمہیں کیا خبر کہ کیا ہے وہ بلند پایہ لوگوں کا دفتر؟",
+        "id": "Dan tahukah engkau apakah 'Illiyyīn itu"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "83:20",
+      "verse_number": 20,
+      "text_uthmani": "كِتَٰبٞ مَّرۡقُومٞ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "It is [their destination recorded in] a register inscribed",
+        "fr": "un livre cacheté",
+        "tr": "O, gözde meleklerin gördüğü, yazılı bir kitapdır",
+        "ur": "ایک لکھی ہوئی کتاب ہے",
+        "id": "(Yaitu) Kitab yang berisi catatan (amal)"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "83:21",
+      "verse_number": 21,
+      "text_uthmani": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Which is witnessed by those brought near [to Allah]",
+        "fr": "Les rapprochés [d'Allah: les Anges] en témoignent",
+        "tr": "O, gözde meleklerin gördüğü, yazılı bir kitapdır",
+        "ur": "جس کی نگہداشت مقرب فرشتے کرتے ہیں",
+        "id": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah)"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "83:22",
+      "verse_number": 22,
+      "text_uthmani": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the righteous will be in pleasure",
+        "fr": "Les bons seront dans [un Jardin] de délice",
+        "tr": "İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler",
+        "ur": "بے شک نیک لوگ بڑے مزے میں ہوں گے",
+        "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "83:23",
+      "verse_number": 23,
+      "text_uthmani": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "On adorned couches, observing",
+        "fr": "sur les divans, ils regardent",
+        "tr": "İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler",
+        "ur": "اونچی مسندوں پر بیٹھے نظارے کر رہے ہوں گے",
+        "id": "mereka (duduk) di atas dipan-dipan melepas pandangan"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "83:24",
+      "verse_number": 24,
+      "text_uthmani": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "You will recognize in their faces the radiance of pleasure",
+        "fr": "Tu reconnaîtras sur leurs visages, l'éclat de la félicité",
+        "tr": "Onları, yüzlerindeki nimet pırıltısından tanırsın",
+        "ur": "ان کے چہروں پر تم خوشحالی کی رونق محسوس کرو گے",
+        "id": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "83:25",
+      "verse_number": 25,
+      "text_uthmani": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "They will be given to drink [pure] wine [which was] sealed",
+        "fr": "On leur sert à boire un nectar pur, cacheté",
+        "tr": "Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi şeyler için yarışanlar, bunun için yarışsınlar",
+        "ur": "ان کو نفیس ترین سر بند شراب پلائی جائے گی جس پر مشک کی مہر لگی ہوگی",
+        "id": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel)"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "83:26",
+      "verse_number": 26,
+      "text_uthmani": "خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "The last of it is musk. So for this let the competitors compete",
+        "fr": "laissant un arrière-goût de musc. Que ceux qui la convoitent entrent en compétition [pour l'acquérir]",
+        "tr": "Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi şeyler için yarışanlar, bunun için yarışsınlar",
+        "ur": "جو لوگ دوسروں پر بازی لے جانا چاہتے ہوں وہ اِس چیز کو حاصل کرنے میں بازی لے جانے کی کوشش کریں",
+        "id": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "83:27",
+      "verse_number": 27,
+      "text_uthmani": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And its mixture is of Tasneem",
+        "fr": "Il est mélangé à la boisson de Tasnîm",
+        "tr": "Onun katkısı gözdelerin içtiği yüce kaynaktandır",
+        "ur": "اُس شراب میں تسنیم کی آمیزش ہوگی",
+        "id": "Dan campurannya dari tasnīm"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "83:28",
+      "verse_number": 28,
+      "text_uthmani": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "A spring from which those near [to Allah] drink",
+        "fr": "source dont les rapprochés boivent",
+        "tr": "Onun katkısı gözdelerin içtiği yüce kaynaktandır",
+        "ur": "یہ ایک چشمہ ہے جس کے پانی کے ساتھ مقرب لوگ شراب پئیں گے",
+        "id": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah)"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "83:29",
+      "verse_number": 29,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who committed crimes used to laugh at those who believed",
+        "fr": "Les criminels riaient de ceux qui croyaient",
+        "tr": "Suçlular, şüphesiz, inanmış olanlara gülerlerdi",
+        "ur": "مجرم لوگ دنیا میں ایمان لانے والوں کا مذاق اڑاتے تھے",
+        "id": "Sesungguhnya orang-orang yang berdosa, adalah mereka yang dahulu menertawakan orang-orang yang beriman"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "83:30",
+      "verse_number": 30,
+      "text_uthmani": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And when they passed by them, they would exchange derisive glances",
+        "fr": "et, passant près d'eux, ils se faisaient des œillades",
+        "tr": "Yanlarından geçtikleri zaman da birbirlerine göz kırparlardı",
+        "ur": "جب اُن کے پاس سے گزرتے تو آنکھیں مار مار کر اُن کی طرف اشارے کرتے تھے",
+        "id": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "83:31",
+      "verse_number": 31,
+      "text_uthmani": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And when they returned to their people, they would return jesting",
+        "fr": "et, retournant dans leurs familles, ils retournaient en plaisantant",
+        "tr": "Taraftarlarına vardıklarında bununla eğlenirlerdi",
+        "ur": "اپنے گھروں کی طرف پلٹتے تو مزے لیتے ہوئے پلٹتے تھے",
+        "id": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "83:32",
+      "verse_number": 32,
+      "text_uthmani": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "And when they saw them, they would say, \"Indeed, those are truly lost",
+        "fr": "et les voyant, ils disaient: «Ce sont vraiment ceux-là les égarés»",
+        "tr": "İnananları gördükleri zaman: \"Doğrusu bunlar sapık olanlardır\" derlerdi",
+        "ur": "اور جب انہیں دیکھتے تو کہتے تھے کہ یہ بہکے ہوئے لوگ ہیں",
+        "id": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, \"Sesungguhnya mereka benar-benar orang-orang sesat"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "83:33",
+      "verse_number": 33,
+      "text_uthmani": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "But they had not been sent as guardians over them",
+        "fr": "Or, ils n'ont pas été envoyés pour être leurs gardiens",
+        "tr": "Oysa kendileri, inananlara gözcü olarak gönderilmemişlerdi",
+        "ur": "حالانکہ وہ اُن پر نگراں بنا کر نہیں بھیجے گئے تھے",
+        "id": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin)"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "83:34",
+      "verse_number": 34,
+      "text_uthmani": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "So Today those who believed are laughing at the disbelievers",
+        "fr": "Aujourd'hui, donc, ce sont ceux qui ont cru qui rient des infidèles",
+        "tr": "Bugün de, inananlar inkarcılara gülerler",
+        "ur": "آج ایمان لانے والے کفار پر ہنس رہے ہیں",
+        "id": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "83:35",
+      "verse_number": 35,
+      "text_uthmani": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "On adorned couches, observing",
+        "fr": "sur les divans, ils regardent",
+        "tr": "Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler",
+        "ur": "مسندوں پر بیٹھے ہوئے ان کا حال دیکھ رہے ہیں",
+        "id": "mereka (duduk) di atas dipan-dipan melepas pandangan"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "83:36",
+      "verse_number": 36,
+      "text_uthmani": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+      "chapter_id": 83,
+      "words": [],
+      "translations": {
+        "en": "Have the disbelievers [not] been rewarded [this Day] for what they used to do",
+        "fr": "Est-ce que les infidèles ont eu la récompense de ce qu'ils faisaient",
+        "tr": "Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler",
+        "ur": "مل گیا نا کافروں کو اُن حرکتوں کا ثواب جو وہ کیا کرتے تھے",
+        "id": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 83,
+    "name_arabic": "المطففين",
+    "name_english": "Al-Mutaffifin"
+  }
+}

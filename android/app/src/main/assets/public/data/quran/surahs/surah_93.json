@@ -1,0 +1,174 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "93:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلضُّحَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "By the morning brightness",
+        "fr": "Par le Jour Montant",
+        "tr": "Kuşluk vaktine and olsun",
+        "ur": "قسم ہے روز روشن کی",
+        "id": "Demi waktu duha (ketika matahari naik sepenggalan)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "93:2",
+      "verse_number": 2,
+      "text_uthmani": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And [by] the night when it covers with darkness",
+        "fr": "Et par la nuit quand elle couvre tout",
+        "tr": "Sükun erdiği zaman geceye and olsun ki",
+        "ur": "اور رات کی جبکہ وہ سکون کے ساتھ طاری ہو جائے",
+        "id": "dan demi malam apabila telah sunyi"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "93:3",
+      "verse_number": 3,
+      "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you]",
+        "fr": "Ton Seigneur ne t'a ni abandonné, ni détesté",
+        "tr": "Rabbin seni ne bıraktı ve ne de sana darıldı",
+        "ur": "(اے نبیؐ) تمہارے رب نے تم کو ہرگز نہیں چھوڑا اور نہ وہ ناراض ہوا",
+        "id": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "93:4",
+      "verse_number": 4,
+      "text_uthmani": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And the Hereafter is better for you than the first [life]",
+        "fr": "La vie dernière t'est, certes, meilleure que la vie présente",
+        "tr": "Doğrusu ahiret senin için dünyadan daha hayırlıdır",
+        "ur": "اور یقیناً تمہارے لیے بعد کا دور پہلے دور سے بہتر ہے",
+        "id": "dan sungguh, yang kemudian itu lebih baik bagimu daripada yang permulaan"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "93:5",
+      "verse_number": 5,
+      "text_uthmani": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And your Lord is going to give you, and you will be satisfied",
+        "fr": "Ton Seigneur t'accordera certes [Ses faveurs], et alors tu seras satisfait",
+        "tr": "Rabbin şüphesiz sana verecek ve sen de hoşnut olacaksın",
+        "ur": "اور عنقریب تمہارا رب تم کو اتنا دے گا کہ تم خوش ہو جاؤ گے",
+        "id": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "93:6",
+      "verse_number": 6,
+      "text_uthmani": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "Did He not find you an orphan and give [you] refuge",
+        "fr": "Ne t'a-t-Il pas trouvé orphelin? Alors Il t'a accueilli",
+        "tr": "Seni öksüz bulup da barındırmadı mı",
+        "ur": "کیا اس نے تم کو یتیم نہیں پایا اور پھر ٹھکانا فراہم کیا؟",
+        "id": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu)"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "93:7",
+      "verse_number": 7,
+      "text_uthmani": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And He found you lost and guided [you]",
+        "fr": "Ne t'a-t-Il pas trouvé égaré? Alors Il t'a guidé",
+        "tr": "Seni şaşırmış bulup, doğru yola eriştirmedi mi",
+        "ur": "اور تمہیں ناواقف راہ پایا اور پھر ہدایت بخشی",
+        "id": "(Dan Dia mendapatimu sebagai seorang yang bingung,912) lalu Dia memberikan petunjuk"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "93:8",
+      "verse_number": 8,
+      "text_uthmani": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And He found you poor and made [you] self-sufficient",
+        "fr": "Ne t'a-t-Il pas trouvé pauvre? Alors Il t'a enrichi",
+        "tr": "Seni fakir bulup zenginleştirmedi mi",
+        "ur": "اور تمہیں نادار پایا اور پھر مالدار کر دیا",
+        "id": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "93:9",
+      "verse_number": 9,
+      "text_uthmani": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "So as for the orphan, do not oppress [him]",
+        "fr": "Quant à l'orphelin, donc, ne le maltraite pas",
+        "tr": "Öyleyse sakın öksüze kötü muamele etme",
+        "ur": "لہٰذا یتیم پر سختی نہ کرو",
+        "id": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "93:10",
+      "verse_number": 10,
+      "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "And as for the petitioner, do not repel [him]",
+        "fr": "Quant au demandeur, ne le repousse pas",
+        "tr": "Ve sakın bir şey isteyeni azarlama",
+        "ur": "اور سائل کو نہ جھڑکو",
+        "id": "Dan terhadap orang yang meminta-minta, janganlah engkau menghardik(nya)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "93:11",
+      "verse_number": 11,
+      "text_uthmani": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+      "chapter_id": 93,
+      "words": [],
+      "translations": {
+        "en": "But as for the favor of your Lord, report [it]",
+        "fr": "Et quant au bienfait de ton Seigneur, proclame-le",
+        "tr": "Yalnızca Rabbinin nimetini anlat",
+        "ur": "اور اپنے رب کی نعمت کا اظہار کرو",
+        "id": "Dan terhadap nikmat Tuhanmu, hendaklah engkau nyatakan (dengan bersyukur)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 93,
+    "name_arabic": "الضحى",
+    "name_english": "Ad-Duhaa"
+  }
+}

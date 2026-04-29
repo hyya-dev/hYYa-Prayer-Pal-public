@@ -1,0 +1,429 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "71:1",
+      "verse_number": 1,
+      "text_uthmani": "إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمٞ",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment",
+        "fr": "Nous avons envoyé Noé vers son peuple: «Avertis ton peuple, avant que leur vienne un châtiment douloureux»",
+        "tr": "Milletine can yakıcı bir azap gelmezden önce onları uyar\" diye Nuh'u milletine gönderdik",
+        "ur": "ہم نے نوحؑ کو اس کی قوم کی طرف بھیجا (اس ہدایت کے ساتھ) کہ اپنی قوم کے لوگوں کو خبردار کر دے قبل اس کے کہ ان پر ایک دردناک عذاب آئے",
+        "id": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya (dengan perintah), \"Berilah kaummu peringatan sebelum datang kepadanya azab yang pedih"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "71:2",
+      "verse_number": 2,
+      "text_uthmani": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "He said, \"O my people, indeed I am to you a clear warner",
+        "fr": "Il [leur] dit: «O mon peuple, je suis vraiment pour vous, un avertisseur clair",
+        "tr": "O da şöyle söyledi: \"Ey Milletim! Şüphesiz ben, size gönderilmiş apaçık bir uyarıcıyım",
+        "ur": "ا س نے کہا \"اے میری قوم کے لوگو، میں تمہارے لیے ایک صاف صاف خبردار کردینے والا (پیغمبر) ہوں",
+        "id": "Dia (Nuh) berkata, \"Wahai kaumku! Sesungguhnya aku ini seorang pemberi peringatan yang menjelaskan kepada kamu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "71:3",
+      "verse_number": 3,
+      "text_uthmani": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "[Saying], 'Worship Allah, fear Him and obey me",
+        "fr": "Adorez Allah, craignez-Le et obéissez-moi",
+        "tr": "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz",
+        "ur": "(تم کو آگاہ کرتا ہوں) کہ اللہ کی بندگی کرو اور اس سے ڈرو اور میری اطاعت کرو",
+        "id": "(yaitu) sembahlah Allah, bertakwalah kepada-Nya dan taatlah kepadaku"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "71:4",
+      "verse_number": 4,
+      "text_uthmani": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Allah will forgive you of your sins and delay you for a specified term. Indeed, the time [set by] Allah, when it comes, will not be delayed, if you only knew",
+        "fr": "pour qu'Il vous pardonne vos péchés et qu'Il vous donne un délai jusqu'à un terme fixé. Mais quand vient le terme fixé par Allah, il ne saurait être différé si vous saviez!»",
+        "tr": "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz",
+        "ur": "اللہ تمہارے گناہوں سے درگزر فرمائے گا اور تمہیں ایک وقت مقرر تک باقی رکھے گا حقیقت یہ ہے کہ اللہ کا مقرر کیا ہوا وقت جب آ جاتا ہے تو پھر ٹالا نہیں جاتا کاش تمہیں اِس کا علم ہو",
+        "id": "niscaya Dia mengampuni sebagian dosa-dosamu dan menangguhkan kamu (memanjangkan umurmu) sampai pada batas waktu yang ditentukan. Sungguh, ketetapan Allah itu apabila telah datang tidak dapat ditunda, seandainya kamu mengetahui"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "71:5",
+      "verse_number": 5,
+      "text_uthmani": "قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلٗا وَنَهَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "He said, \"My Lord, indeed I invited my people [to truth] night and day",
+        "fr": "Il dit: «Seigneur! J'ai appelé mon peuple, nuit et jour",
+        "tr": "Nuh dedi ki: \"Rabbim! Doğrusu ben, milletimi gece gündüz çağırdım",
+        "ur": "اُس نے عرض کیا \"اے میرے رب، میں نے اپنی قوم کے لوگوں کو شب و روز پکارا",
+        "id": "Dia (Nuh) berkata, \"Ya Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "71:6",
+      "verse_number": 6,
+      "text_uthmani": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "But my invitation increased them not except in flight",
+        "fr": "Mais mon appel n'a fait qu'accroître leur fuite",
+        "tr": "Fakat benim çağırmam, sadece benden uzaklıklarını artırdı",
+        "ur": "مگر میری پکار نے اُن کے فرار ہی میں اضافہ کیا",
+        "id": "tetapi seruanku itu tidak menambah (iman) mereka, justru mereka lari (dari kebenaran)"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "71:7",
+      "verse_number": 7,
+      "text_uthmani": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance",
+        "fr": "Et chaque fois que je les ai appelés pour que Tu leur pardonnes, ils ont mis leurs doigts dans leurs oreilles. se sont enveloppés de leurs vêtements, se sont entêtés et se sont montrés extrêmement orgueilleux",
+        "tr": "Doğrusu ben Senin onları bağışlaman için kendilerini her çağırışımda, parmaklarını kulaklarına tıkadılar, elbiselerine büründüler, direndiler, büyüklendikçe büyüklendiler",
+        "ur": "اور جب بھی میں نے اُن کو بلایا تاکہ تو اُنہیں معاف کر دے، انہوں نے کانوں میں انگلیاں ٹھونس لیں اور اپنے کپڑوں سے منہ ڈھانک لیے اور اپنی روش پر اڑ گئے اور بڑا تکبر کیا",
+        "id": "Dan sesungguhnya aku setiap kali menyeru mereka (untuk beriman) agar Engkau mengampuni mereka, mereka memasukkan anak jarinya ke telinganya dan menutupkan bajunya (ke wajahnya) dan mereka tetap (mengingkari) dan sangat menyombongkan diri"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "71:8",
+      "verse_number": 8,
+      "text_uthmani": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Then I invited them publicly",
+        "fr": "Ensuite, je les ai appelés ouvertement",
+        "tr": "Sonra, doğrusu ben onları açıkça çağırdım",
+        "ur": "پھر میں نے ان کو ہانکے پکارے دعوت دی",
+        "id": "Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "71:9",
+      "verse_number": 9,
+      "text_uthmani": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Then I announced to them and [also] confided to them secretly",
+        "fr": "Puis, je leur ai fait des proclamations publiques, et des confidences en secret",
+        "tr": "Sonra onlara açıktan açığa, gizliden gizliye de söyledim",
+        "ur": "پھر میں نے علانیہ بھی ان کو تبلیغ کی اور چپکے چپکے بھی سمجھایا",
+        "id": "Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "71:10",
+      "verse_number": 10,
+      "text_uthmani": "فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver",
+        "fr": "J'ai donc dit: «Implorez le pardon de votre Seigneur, car Il est grand Pardonneur",
+        "tr": "Dedim ki: \"Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size gökten bol bol yağmur indirsin",
+        "ur": "میں نے کہا اپنے رب سے معافی مانگو، بے شک وہ بڑا معاف کرنے والا ہے",
+        "id": "maka aku berkata (kepada mereka), \"Mohonlah ampunan kepada Tuhanmu, Sungguh, Dia Maha Pengampun"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "71:11",
+      "verse_number": 11,
+      "text_uthmani": "يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "He will send [rain from] the sky upon you in [continuing] showers",
+        "fr": "pour qu'Il vous envoie du ciel, des pluies abondantes",
+        "tr": "Dedim ki: \"Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size gökten bol bol yağmur indirsin",
+        "ur": "وہ تم پر آسمان سے خوب بارشیں برسائے گا",
+        "id": "niscaya Dia akan menurunkan hujan yang lebat dari langit kepadamu"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "71:12",
+      "verse_number": 12,
+      "text_uthmani": "وَيُمۡدِدۡكُم بِأَمۡوَٰلٖ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّـٰتٖ وَيَجۡعَل لَّكُمۡ أَنۡهَٰرٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And give you increase in wealth and children and provide for you gardens and provide for you rivers",
+        "fr": "et qu'Il vous accorde beaucoup de biens et d'enfants, et vous donne des jardins et vous donne des rivières",
+        "tr": "Sizi, mallar ve oğullarla desteklesin; sizin için bahçeler var etsin, ırmaklar akıtsın",
+        "ur": "تمہیں مال اور اولاد سے نوازے گا، تمہارے لیے باغ پیدا کرے گا اور تمہارے لیے نہریں جاری کر دے گا",
+        "id": "dan Dia memperbanyak harta dan anak-anakmu, dan mengadakan kebun-kebun untukmu dan mengadakan sungai-sungai untukmu"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "71:13",
+      "verse_number": 13,
+      "text_uthmani": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "What is [the matter] with you that you do not attribute to Allah [due] grandeur",
+        "fr": "Qu'avez-vous à ne pas vénérer Allah comme il se doit",
+        "tr": "Ne oluyorsunuz ki Allah'a büyüklüğü yakıştıramıyorsunuz",
+        "ur": "تمہیں کیا ہو گیا ہے کہ اللہ کے لیے تم کسی وقار کی توقع نہیں رکھتے؟",
+        "id": "Mengapa kamu tidak takut akan kebesaran Allah"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "71:14",
+      "verse_number": 14,
+      "text_uthmani": "وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "While He has created you in stages",
+        "fr": "alors qu'Il vous a créés par phases successives",
+        "tr": "Oysa sizi merhalelerden geçirerek O yaratmıştır",
+        "ur": "حالانکہ اُس نے طرح طرح سے تمہیں بنایا ہے",
+        "id": "Dan sungguh, Dia telah menciptakan kamu dalam beberapa fase (kejadian)"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "71:15",
+      "verse_number": 15,
+      "text_uthmani": "أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Do you not consider how Allah has created seven heavens in layers",
+        "fr": "N'avez-vous pas vu comment Allah a créé sept cieux superposés",
+        "tr": "Allah'ın, göğü yedi kat üzerine nasıl yarattığını görmez misiniz",
+        "ur": "کیا دیکھتے نہیں ہو کہ اللہ نے کس طرح سات آسمان تہ بر تہ بنائے",
+        "id": "Tidakkah kamu memperhatikan bagaimana Allah telah menciptakan tujuh langit berlapis-lapis"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "71:16",
+      "verse_number": 16,
+      "text_uthmani": "وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورٗا وَجَعَلَ ٱلشَّمۡسَ سِرَاجٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And made the moon therein a [reflected] light and made the sun a burning lamp",
+        "fr": "et y a fait de la lune une lumière et du soleil une lampe",
+        "tr": "Aralarında aya aydınlık vermiş ve güneşin ışık saçmasını sağlamıştır",
+        "ur": "اور اُن میں چاند کو نور اور سورج کو چراغ بنایا؟",
+        "id": "Dan di sana Dia menciptakan bulan yang bercahaya dan menjadikan matahari sebagai pelita (yang cemerlang)"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "71:17",
+      "verse_number": 17,
+      "text_uthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And Allah has caused you to grow from the earth a [progressive] growth",
+        "fr": "Et c'est Allah qui, de la terre, vous a fait croître comme des plantes",
+        "tr": "Allah sizi yerden bitirir gibi yetiştirmiştir",
+        "ur": "اور اللہ نے تم کو زمین سے عجیب طرح اگایا",
+        "id": "Dan Allah menumbuhkan kamu dari tanah, tumbuh (berangsur-angsur)"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "71:18",
+      "verse_number": 18,
+      "text_uthmani": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Then He will return you into it and extract you [another] extraction",
+        "fr": "puis Il vous y fera retourner et vous en fera sortir véritablement",
+        "tr": "Sonra sizi oraya döndürür ve yine oradan çıkarır",
+        "ur": "پھر وہ تمہیں اِسی زمین میں واپس لے جائے گا اور اِس سے یکایک تم کو نکال کھڑا کرے گا",
+        "id": "kemudian Dia akan mengembalikan kamu ke dalamnya (tanah) dan mengeluarkan kamu (pada hari Kiamat) dengan pasti"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "71:19",
+      "verse_number": 19,
+      "text_uthmani": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And Allah has made for you the earth an expanse",
+        "fr": "Et c'est Allah qui vous a fait de la terre un tapis",
+        "tr": "Yeryüzünde dolaşabilmeniz, orada yollar ve geniş geçitlerden geçebilmeniz için, onu size yayan O'dur",
+        "ur": "اور اللہ نے زمین کو تمہارے لیے فرش کی طرح بچھا دیا",
+        "id": "Dan Allah menjadikan bumi untukmu sebagai hamparan"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "71:20",
+      "verse_number": 20,
+      "text_uthmani": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "That you may follow therein roads of passage",
+        "fr": "pour que vous vous acheminiez par ses voies spacieuses»",
+        "tr": "Yeryüzünde dolaşabilmeniz, orada yollar ve geniş geçitlerden geçebilmeniz için, onu size yayan O'dur",
+        "ur": "تاکہ تم اس کے اندر کھلے راستوں میں چلو",
+        "id": "agar kamu dapat pergi kian kemari di jalan-jalan yang luas"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "71:21",
+      "verse_number": 21,
+      "text_uthmani": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss",
+        "fr": "Noé dit: «Seigneur, ils m'ont désobéi et ils ont suivi celui dont les biens et les enfants n'ont fait qu'accroître la perte",
+        "tr": "Nuh: \"Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular\" dedi",
+        "ur": "نوحؑ نے کہا، \"میرے رب، اُنہوں نے میری بات رد کر دی اور اُن (رئیسوں) کی پیروی کی جو مال اور اولاد پا کر اور زیادہ نامراد ہو گئے ہیں",
+        "id": "Nuh berkata, \"Ya Tuhanku, sesungguhnya mereka durhaka kepadaku, dan mereka mengikuti orang-orang yang harta dan anak-anaknya hanya menambah kerugian baginya"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "71:22",
+      "verse_number": 22,
+      "text_uthmani": "وَمَكَرُواْ مَكۡرٗا كُبَّارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And they conspired an immense conspiracy",
+        "fr": "Ils ont ourdi un immense stratagème",
+        "tr": "Nuh: \"Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular\" dedi",
+        "ur": "اِن لوگوں نے بڑا بھاری مکر کا جال پھیلا رکھا ہے",
+        "id": "dan mereka melakukan tipu daya yang sangat besar"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "71:23",
+      "verse_number": 23,
+      "text_uthmani": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And said, 'Never leave your gods and never leave Wadd or Suwa' or Yaghuth and Ya'uq and Nasr",
+        "fr": "et ils ont dit: «N'abandonnez jamais vos divinités et n'abandonnez jamais Wadd, Suwâ, Yaghhû, Ya'ûq et Nasr",
+        "tr": "İnsanlara: \"Sakın tanrılarınızı bırakmayın, Ved, Suva, Yağus, Yeuk ve Nesr putlarından asla vazgeçmeyin\" dediler",
+        "ur": "اِنہوں نے کہا ہرگز نہ چھوڑو اپنے معبودوں کو، اور نہ چھوڑو وَدّ اور سُواع کو، اور نہ یَغُوث اور یَعُوق اور نَسر کو",
+        "id": "Dan mereka berkata, \"Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwā', Yagūṡ, Ya'ūq dan Nasr"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "71:24",
+      "verse_number": 24,
+      "text_uthmani": "وَقَدۡ أَضَلُّواْ كَثِيرٗاۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَٰلٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And already they have misled many. And, [my Lord], do not increase the wrongdoers except in error",
+        "fr": "Elles [les idoles] ont déjà égaré plusieurs. Ne fais (Seigneur) croître les injustes qu'en égarement",
+        "tr": "Böylece birçoğunu saptırdılar; Rabbim! Sen bu zalimlerin sadece şaşkınlığını artır",
+        "ur": "انہوں نے بہت لوگوں کو گمراہ کیا ہے، اور تو بھی اِن ظالموں کو گمراہی کے سوا کسی چیز میں ترقی نہ دے",
+        "id": "Dan sungguh, mereka telah menyesatkan orang banyak; dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kesesatan"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "71:25",
+      "verse_number": 25,
+      "text_uthmani": "مِّمَّا خَطِيٓـَٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارٗا فَلَمۡ يَجِدُواْ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allah [any] helpers",
+        "fr": "A cause de leurs fautes, ils ont été noyés, puis on les a fait entrer au Feu, et ils n'ont pas trouvé en dehors d'Allah, de secoureurs»",
+        "tr": "Onlar, günahları yüzünden suda boğuldular; ateşe sokuldular, kendilerine Allah'tan başka yardımcı bulamadılar",
+        "ur": "اپنی خطاؤں کی بنا پر ہی وہ غرق کیے گئے اور آگ میں جھونک دیے گئے، پھر انہوں نے اپنے لیے اللہ سے بچانے والا کوئی مددگار نہ پایا",
+        "id": "Disebabkan kesalahan-kesalahan mereka, mereka ditenggelamkan lalu dimasukkan ke neraka, maka mereka tidak mendapat penolong selain Allah"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "71:26",
+      "verse_number": 26,
+      "text_uthmani": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant",
+        "fr": "Et Noé dit: «Seigneur, ne laisse sur la terre aucun infidèle",
+        "tr": "Nuh dedi ki: \"Rabbim! Yeryüzünde hiçbir inkarcı bırakma",
+        "ur": "اور نوحؑ نے کہا، \"میرے رب، اِن کافروں میں سے کوئی زمین پر بسنے والا نہ چھوڑ",
+        "id": "Dan Nuh berkata, \"Ya Tuhanku, janganlah Engkau biarkan seorang pun di antara orang-orang kafir itu tinggal di atas bumi"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "71:27",
+      "verse_number": 27,
+      "text_uthmani": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever",
+        "fr": "Si Tu les laisses [en vie], ils égareront Tes serviteurs et n'engendreront que des pécheurs infidèles",
+        "tr": "Doğrusu Sen onları bırakırsan kullarını saptırırlar; sadece ahlaksız ve çok inkarcıdan başkasını doğurup yetiştirmezler",
+        "ur": "اگر تو نے اِن کو چھوڑ دیا تو یہ تیرے بندوں کو گمراہ کریں گے اور اِن کی نسل سے جو بھی پیدا ہوگا بدکار اور سخت کافر ہی ہوگا",
+        "id": "Sesungguhnya jika Engkau biarkan mereka tinggal, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka hanya akan melahirkan anak-anak yang jahat dan tidak tahu bersyukur"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "71:28",
+      "verse_number": 28,
+      "text_uthmani": "رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنٗا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارَۢا",
+      "chapter_id": 71,
+      "words": [],
+      "translations": {
+        "en": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction",
+        "fr": "Seigneur! Pardonne-moi, et à mes père et mère et à celui qui entre dans ma demeure croyant, ainsi qu'aux croyants et croyantes; et ne fais croître les injustes qu'en perdition»",
+        "tr": "Rabbim! Beni, anamı, babamı, evime inanmış olarak gireni, inanan erkek ve kadınları bağışla; zalimlerin de yalnız helakını artır",
+        "ur": "میرے رب، مجھے اور میرے والدین کو اور ہر اس شخص کو جو میرے گھر میں مومن کی حیثیت سے داخل ہوا ہے، اور سب مومن مردوں اور عورتوں کو معاف فرما دے، اور ظالموں کے لیے ہلاکت کے سوا کسی چیز میں اضافہ نہ کر",
+        "id": "Ya Tuhanku, ampunilah aku, ibu bapakku, dan siapa pun yang memasuki rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kehancuran"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 71,
+    "name_arabic": "نوح",
+    "name_english": "Nuh"
+  }
+}

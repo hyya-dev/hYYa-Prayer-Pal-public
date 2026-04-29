@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Mataki na farko: Niyya da Ihram",
+        "details": "<ul><li>Ku yi niyyar yin Umra, ku shiga Ihrami a Miqat, sannan ku fara Talbiyah.</li><li>Ya yi biyayya ga haramcin Ihram, kuma ya kammala tsarkakewar kafin fara ibadar.</li></ul>",
+        "evidence": "Quran 2:196 da shekarar fara ibada daga Miqat.",
+        "referenceLabel": "Jagorar Ziyarar Ma&#39;aikatar Umrah da Umara"
+      },
+      {
+        "title": "Mataki na Biyu: Shiga Al-Masjid Al-Haram",
+        "details": "<ul><li>Shiga cikin nutsuwa, da addu&#39;a da tawali&#39;u.</li><li>Fara daga gefen da ke sauƙaƙa zirga-zirga cikin jama&#39;a lafiya, sannan ka nufi yankin Tawaf.</li></ul>",
+        "evidence": "Jagororin annabci gabaɗaya kan ɗabi&#39;u a masallatai da kuma sauƙaƙa ibada.",
+        "referenceLabel": "Cibiyar Wayar da Kan Masu Hidima"
+      },
+      {
+        "title": "Mataki na uku: Tawaf (da&#39;irori bakwai)",
+        "details": "<ul><li>Yi Tawaf a kewayen Kaabah sau bakwai, fara daga layin Black Stone.</li><li>Ci gaba da tunawa da Allah kuma ku guji cutar da wasu a cikin taron jama&#39;a.</li><li class=\"pp-ios-only\"> Shawara: Yi amfani da manhajar Apple Watch don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li><li class=\"pp-android-only\"> Shawara: Yi amfani da manhajar Wear OS da ke kan agogonka don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li></ul>",
+        "evidence": "Quran 22:29 da kuma bayanin da aka rubuta game da dawafin Annabi.",
+        "referenceLabel": "Jagororin Tafiya Umrah a Nosuk"
+      },
+      {
+        "title": "Mataki na Huɗu: Addu&#39;a bayan Tawaf",
+        "details": "<ul><li>A yi sallah raka&#39;a biyu bayan kammala Tawaf idan zai yiwu ba tare da cutar da jama&#39;a ba, sannan a ci gaba da shan ruwan Zamzam cikin tsari.</li></ul>",
+        "evidence": "An kafa ta a cikin ingantattun hadisai game da addu&#39;a bayan Tawaf.",
+        "referenceLabel": "Jagorar Ziyarar Ma&#39;aikatar Umrah da Umara"
+      },
+      {
+        "title": "Mataki na biyar: Saie tsakanin Safa da Marwah",
+        "details": "<ul><li>Yi Saie don zagaye bakwai tsakanin Safa da Marwah, farawa daga Safa kuma ƙare a Marwah, da addu&#39;a da tunawa.</li><li class=\"pp-ios-only\"> Shawara: Yi amfani da manhajar Apple Watch don taimaka maka ka ƙididdige guduwar Saie.</li><li class=\"pp-android-only\"> Shawara: Yi amfani da manhajar Wear OS da ke kan agogonka don taimaka maka ka ƙididdige gudu Saie.</li></ul>",
+        "evidence": "Quran 2:158 da ingantattun ruwayoyi bisa ga umarnin manzon.",
+        "referenceLabel": "Jagororin Tafiya Umrah a Nosuk"
+      },
+      {
+        "title": "Mataki na shida: Aski ko aski",
+        "details": "<ul><li>Maza suna aske ko aske gashin kansu, mata kuma suna aske gashin kansu kaɗan.</li><li>Kuma da wannan ne Umrah ta ƙare kuma Ihram ta ƙare.</li></ul>",
+        "evidence": "Quran 48:27 da ingantattun ruwayoyi da suka shafi aski da rage kiba.",
+        "referenceLabel": "Jagorar Ziyarar Ma&#39;aikatar Umrah da Umara"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Mataki na farko: Ihram da niyyar Hajji",
+        "details": "<ul><li>Shiga ihrami a Miqat, ka yi niyyar yin aikin Hajjinka, sannan ka ci gaba da Talbiyah.</li><li>Ka bi ƙa&#39;idodin Ihram har sai ka isa ƙofar Ihram.</li></ul>",
+        "evidence": "Quran 2:196 da kuma ayyukan annabci da aka amince da su don fara aikin Hajji.",
+        "referenceLabel": "Jagororin Ma&#39;aikatar Aikin Hajji"
+      },
+      {
+        "title": "Mataki na Biyu: Yawm at-Tarwiyah a Mina",
+        "details": "<ul><li>A ranar takwas ga Dhul Hijjah, ku tafi Mina, ku yi addu&#39;o&#39;i a lokutan da aka kayyade, sannan ku shirya domin tunawa Arafah ta hanyar ruhaniya da dabaru.</li></ul>",
+        "evidence": "Jerin al&#39;adu da aka rubuta a cikin tafiyar bankwana.",
+        "referenceLabel": "Tafiyar Hajji zuwa Nosuk"
+      },
+      {
+        "title": "Mataki na uku: Tsayuwa a Arafah",
+        "details": "<ul><li>Ku yi ranar tara ga watan Dhul Hijjah a Arafah kuna addu&#39;a, kuna ambaton Allah, kuma kuna tuba.</li><li>Wannan shine ginshiƙin aikin Hajji mai muhimmanci.</li></ul>",
+        "evidence": "Hadith: Aikin Hajji Arafah ne.",
+        "referenceLabel": "Jagororin Ma&#39;aikatar Aikin Hajji"
+      },
+      {
+        "title": "Mataki na huɗu: Muzdalifah da tattara duwatsu",
+        "details": "<ul><li>Bayan faɗuwar rana, je Muzdalifah, yi sallar Maghrib da Isha, ka kwana a can, sannan ka tattara duwatsu don jifan Mina.</li></ul>",
+        "evidence": "Jerin annabci bayan Arafah a cikin ingantattun ruwayoyi.",
+        "referenceLabel": "Tafiyar Hajji zuwa Nosuk"
+      },
+      {
+        "title": "Mataki na Biyar: Rami, Hadaya, da Waƙa",
+        "details": "<ul><li>A ranar Idi, lokacin jifan dutsen Jamarat al-Aqabah, yi hadaya inda ya cancanta, sannan a aske ko a yanka gashinka don yin tahlil na farko.</li></ul>",
+        "evidence": "Quran 22:36-37 da kuma jerin ingantattun hadisai.",
+        "referenceLabel": "Jagororin Ma&#39;aikatar Aikin Hajji"
+      },
+      {
+        "title": "Mataki na shida: Tawaf al-Ifadah (zagaye bakwai)",
+        "details": "<ul><li>Komawa Makka don yin Tawaf al-Ifadah, kammala da&#39;irori bakwai, da kuma kiyaye lafiya da tsari a lokutan aiki.</li><li class=\"pp-ios-only\"> Shawara: Yi amfani da manhajar Apple Watch don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li><li class=\"pp-android-only\"> Shawara: Yi amfani da manhajar Wear OS da ke kan agogonka don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li></ul>",
+        "evidence": "Quran 22:29 da kuma bayanin da aka rubuta game da dawafi na wajibi.",
+        "referenceLabel": "Tafiyar Hajji zuwa Nosuk"
+      },
+      {
+        "title": "Mataki na 7: Faɗa wa mutumin da ake buƙata",
+        "details": "<ul><li>Yi Saie a lokacin da nau&#39;in aikin Hajjinka ya buƙaci haka, yayin da kake kiyaye jerin da adadin da&#39;irori bakwai tsakanin Safa da Marwah.</li><li class=\"pp-ios-only\"> Shawara: Yi amfani da manhajar Apple Watch don taimaka maka ka ƙididdige guduwar Saie.</li><li class=\"pp-android-only\"> Shawara: Yi amfani da manhajar Wear OS da ke kan agogonka don taimaka maka ka ƙididdige gudu Saie.</li></ul>",
+        "evidence": "Quran 2:158 da kuma aikace-aikacensa na shari&#39;a a cikin ayyukan Hajji.",
+        "referenceLabel": "Jagororin Ma&#39;aikatar Aikin Hajji"
+      },
+      {
+        "title": "Mataki na 8: Ayyam at-Tashriq da Tawaf al-Wada&#39;",
+        "details": "<ul><li>Zama a Mina a lokacin Tashreeq don yin ibadar jifan Jamarat, sannan a kammala Tawaf al-Wada&#39; kafin a bar Makka, sai dai waɗanda aka keɓe.</li><li class=\"pp-ios-only\"> Shawara: Yi amfani da manhajar Apple Watch don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li><li class=\"pp-android-only\"> Shawara: Yi amfani da manhajar Wear OS da ke kan agogonka don taimaka maka ƙididdige da&#39;irar Tawaf ɗinka.</li></ul>",
+        "evidence": "An kafa al&#39;adun ne bisa jagorancin Quran da kuma aiki da Sunnah Annabi mai tsarki daidai.",
+        "referenceLabel": "Tafiyar Hajji zuwa Nosuk"
+      }
+    ]
+  }
+}

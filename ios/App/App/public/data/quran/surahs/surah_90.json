@@ -1,0 +1,309 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "90:1",
+      "verse_number": 1,
+      "text_uthmani": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "I swear by this city, Makkah",
+        "fr": "Non!... Je jure par cette Cité",
+        "tr": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun",
+        "ur": "نہیں، میں قسم کھاتا ہوں اِس شہر کی",
+        "id": "Aku bersumpah dengan negeri ini (Mekkah)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "90:2",
+      "verse_number": 2,
+      "text_uthmani": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And you, [O Muhammad], are free of restriction in this city",
+        "fr": "et toi, tu es un résident dans cette cité",
+        "tr": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun",
+        "ur": "اور حال یہ ہے کہ (اے نبیؐ) اِس شہر میں تم کو حلال کر لیا گیا ہے",
+        "id": "dan engkau (Muhammad), bertempat di negeri (Mekkah) ini"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "90:3",
+      "verse_number": 3,
+      "text_uthmani": "وَوَالِدٖ وَمَا وَلَدَ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And [by] the father and that which was born [of him]",
+        "fr": "Et par le père et ce qu'il engendre",
+        "tr": "Doğurana ve doğurduğuna and olsun ki",
+        "ur": "اور قسم کھاتا ہوں باپ کی اور اس اولاد کی جو اس سے پیدا ہوئی",
+        "id": "dan demi (pertalian) bapak dan anaknya"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "90:4",
+      "verse_number": 4,
+      "text_uthmani": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "We have certainly created man into hardship",
+        "fr": "Nous avons, certes, créé l'homme pour une vie de lutte",
+        "tr": "İnsanoğlunu, zorluklara katlanacak şekilde yarattık",
+        "ur": "درحقیقت ہم نے انسان کو مشقت میں پیدا کیا ہے",
+        "id": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "90:5",
+      "verse_number": 5,
+      "text_uthmani": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Does he think that never will anyone overcome him",
+        "fr": "Pense-t-il que personne ne pourra rien contre lui",
+        "tr": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor",
+        "ur": "کیا اُس نے یہ سمجھ رکھا ہے کہ اُس پر کوئی قابو نہ پا سکے گا؟",
+        "id": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "90:6",
+      "verse_number": 6,
+      "text_uthmani": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "He says, \"I have spent wealth in abundance",
+        "fr": "Il dit: «J'ai gaspillé beaucoup de biens»",
+        "tr": "Yığın yığın mal tüketmişimdir\" diyor",
+        "ur": "کہتا ہے کہ میں نے ڈھیروں مال اڑا دیا",
+        "id": "Dia mengatakan, \"Aku telah menghabiskan harta yang banyak"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "90:7",
+      "verse_number": 7,
+      "text_uthmani": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Does he think that no one has seen him",
+        "fr": "Pense-t-il que nul ne l'a vu",
+        "tr": "O, kimsenin kendisini görmediğini mi zannediyor",
+        "ur": "کیا وہ سمجھتا ہے کہ کسی نے اُس کو نہیں دیکھا؟",
+        "id": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "90:8",
+      "verse_number": 8,
+      "text_uthmani": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Have We not made for him two eyes",
+        "fr": "Ne lui avons Nous pas assigné deux yeux",
+        "tr": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi",
+        "ur": "کیا ہم نے اُسے دو آنکھیں",
+        "id": "Bukankah Kami telah menjadikan untuknya sepasang mata"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "90:9",
+      "verse_number": 9,
+      "text_uthmani": "وَلِسَانٗا وَشَفَتَيۡنِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And a tongue and two lips",
+        "fr": "et une langue et deux lèvres",
+        "tr": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi",
+        "ur": "اور ایک زبان اور دو ہونٹ نہیں دیے؟",
+        "id": "dan lidah dan sepasang bibir"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "90:10",
+      "verse_number": 10,
+      "text_uthmani": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And have shown him the two ways",
+        "fr": "Ne l'avons-Nous pas guidé aux deux voies",
+        "tr": "Biz ona eğri ve doğru iki yolu da göstermedik mi",
+        "ur": "اور دونوں نمایاں راستے اُسے (نہیں) دکھا دیے؟",
+        "id": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikkan dan kejahatan)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "90:11",
+      "verse_number": 11,
+      "text_uthmani": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "But he has not broken through the difficult pass",
+        "fr": "Or, il ne s'engage pas dans la voie difficile",
+        "tr": "Ama o, zor geçidi aşmaya girişemedi",
+        "ur": "مگر اس نے دشوار گزار گھاٹی سے گزرنے کی ہمت نہ کی",
+        "id": "Tetapi dia tidak menempuh jalan yang mendaki dan sukar"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "90:12",
+      "verse_number": 12,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is [breaking through] the difficult pass",
+        "fr": "Et qui te dira ce qu'est la voie difficile",
+        "tr": "O zor geçidin ne olduğunu sen bilir misin",
+        "ur": "اور تم کیا جانو کہ کیا ہے وہ دشوار گزار گھاٹی؟",
+        "id": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "90:13",
+      "verse_number": 13,
+      "text_uthmani": "فَكُّ رَقَبَةٍ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "It is the freeing of a slave",
+        "fr": "C'est délier un joug [affranchir un esclave]",
+        "tr": "O geçit, bir köle ve esir azadetmek",
+        "ur": "کسی گردن کو غلامی سے چھڑانا",
+        "id": "(Yaitu) membebaskan budak (hamba sahaya)"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "90:14",
+      "verse_number": 14,
+      "text_uthmani": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Or feeding on a day of severe hunger",
+        "fr": "ou nourrir, en un jour de famine",
+        "tr": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır",
+        "ur": "یا فاقے کے دن",
+        "id": "atau memberi makan pada hari terjadi kelaparan"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "90:15",
+      "verse_number": 15,
+      "text_uthmani": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "An orphan of near relationship",
+        "fr": "un orphelin proche parent",
+        "tr": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır",
+        "ur": "کسی قریبی یتیم",
+        "id": "(kepada) anak yatim yang ada hubungan kerabat"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "90:16",
+      "verse_number": 16,
+      "text_uthmani": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Or a needy person in misery",
+        "fr": "ou un pauvre dans le dénuement",
+        "tr": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır",
+        "ur": "یا خاک نشین مسکین کو کھانا کھلانا",
+        "id": "atau orang miskin yang sangat fakir"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "90:17",
+      "verse_number": 17,
+      "text_uthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "And then being among those who believed and advised one another to patience and advised one another to compassion",
+        "fr": "Et c'est être, en outre, de ceux qui croient et s'enjoignent mutuellement l'endurance, et s'enjoignent mutuellement la miséricorde",
+        "tr": "Sonra, inanıp birbirlerine sabır tavsiye edenlerden, merhametlilerden olmayı tavsiye edenlerden olmaktır",
+        "ur": "پھر (اس کے ساتھ یہ کہ) آدمی اُن لوگوں میں شامل ہو جو ایمان لائے اور جنہوں نے ایک دوسرے کو صبر اور (خلق خدا پر) رحم کی تلقین کی",
+        "id": "Kemudian dia termasuk orang-orang yang beriman, dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "90:18",
+      "verse_number": 18,
+      "text_uthmani": "أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Those are the companions of the right",
+        "fr": "Ceux-là sont les gens de la droite",
+        "tr": "İşte bunlar amel defterleri sağdan verilenlerdir",
+        "ur": "یہ لوگ ہیں دائیں بازو والے",
+        "id": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "90:19",
+      "verse_number": 19,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "But they who disbelieved in Our signs - those are the companions of the left",
+        "fr": "alors que ceux qui ne croient pas en Nos versets sont les gens de la gauche",
+        "tr": "Ayetlerimizi inkar edenler, işte onlar amel defterleri sollarından verilenlerdir",
+        "ur": "اور جنہوں نے ہماری آیات کو ماننے سے انکار کیا وہ بائیں بازو والے ہیں",
+        "id": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "90:20",
+      "verse_number": 20,
+      "text_uthmani": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+      "chapter_id": 90,
+      "words": [],
+      "translations": {
+        "en": "Over them will be fire closed in",
+        "fr": "Le Feu se refermera sur eux",
+        "tr": "Onlar her yönden ateşle kapatılacaklardır",
+        "ur": "ان پر آگ چھائی ہوئی ہوگی",
+        "id": "Mereka berada dalam neraka yang ditutup rapat"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 90,
+    "name_arabic": "البلد",
+    "name_english": "Al-Balad"
+  }
+}

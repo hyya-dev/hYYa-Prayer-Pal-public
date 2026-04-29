@@ -1,0 +1,789 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "68:1",
+      "verse_number": 1,
+      "text_uthmani": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Nun. By the pen and what they inscribe",
+        "fr": "Nûn. Par la plume et ce qu'ils écrivent",
+        "tr": "Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış bir kimsesin, deli (cinlenmiş) değilsin",
+        "ur": "ن، قسم ہے قلم کی اور اُس چیز کی جسے لکھنے والے لکھ رہے ہیں",
+        "id": "Nūn. Demi pena dan apa yang mereka tuliskan"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "68:2",
+      "verse_number": 2,
+      "text_uthmani": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "You are not, [O Muhammad], by the favor of your Lord, a madman",
+        "fr": "Tu (Muhammad) n'es pas, par la grâce de ton Seigneur, un possédé",
+        "tr": "Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış bir kimsesin, deli (cinlenmiş) değilsin",
+        "ur": "تم اپنے رب کے فضل سے مجنوں نہیں ہو",
+        "id": "dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "68:3",
+      "verse_number": 3,
+      "text_uthmani": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And indeed, for you is a reward uninterrupted",
+        "fr": "Et il y aura pour toi certes, une récompense jamais interrompue",
+        "tr": "Doğrusu sana kesintisiz bir ecir vardır",
+        "ur": "اور یقیناً تمہارے لیے ایسا اجر ہے جس کا سلسلہ کبھی ختم ہونے والا نہیں",
+        "id": "Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "68:4",
+      "verse_number": 4,
+      "text_uthmani": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And indeed, you are of a great moral character",
+        "fr": "Et tu es certes, d'une moralité éminente",
+        "tr": "Şüphesiz sen büyük bir ahlaka sahipsindir",
+        "ur": "اور بیشک تم اخلاق کے بڑے مرتبے پر ہو",
+        "id": "Dan sesungguhnya engkau benar-benar, berbudi pekerti yang luhur"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "68:5",
+      "verse_number": 5,
+      "text_uthmani": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "So you will see and they will see",
+        "fr": "Tu verras et ils verront",
+        "tr": "Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da görecekler",
+        "ur": "عنقریب تم بھی دیکھ لو گے اور وہ بھی دیکھ لیں گے",
+        "id": "Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "68:6",
+      "verse_number": 6,
+      "text_uthmani": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Which of you is the afflicted [by a devil]",
+        "fr": "qui d'entre vous a perdu la raison",
+        "tr": "Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da görecekler",
+        "ur": "کہ تم میں سے کون جنون میں مبتلا ہے",
+        "id": "siapa diantara kamu yang gila"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "68:7",
+      "verse_number": 7,
+      "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided",
+        "fr": "C'est ton Seigneur qui connaît mieux ceux qui s'égarent de Son chemin, et Il connaît mieux ceux qui suivent la bonne voie",
+        "tr": "Doğrusu senin Rabbin, yolundan sapıtanları çok iyi bilir; O, doğru yolda olanları da çok iyi bilir",
+        "ur": "تمہارا رب اُن لوگوں کو بھی خوب جانتا ہے جو اس کی راہ سے بھٹکے ہوئے ہیں، اور وہی ان کو بھی اچھی طرح جانتا ہے جو راہ راست پر ہیں",
+        "id": "Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "68:8",
+      "verse_number": 8,
+      "text_uthmani": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Then do not obey the deniers",
+        "fr": "N'obéis pas à ceux qui crient au mensonge",
+        "tr": "Bundan böyle, yalanlayanlara itaat etme",
+        "ur": "لہٰذا تم اِن جھٹلانے والوں کے دباؤ میں ہرگز نہ آؤ",
+        "id": "Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah)"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "68:9",
+      "verse_number": 9,
+      "text_uthmani": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "They wish that you would soften [in your position], so they would soften [toward you]",
+        "fr": "Ils aimeraient bien que tu transiges avec eux afin qu'ils transigent avec toi",
+        "tr": "(Onlar sana indirilen ayetlerden beğenmediklerini bırakman suretiyle senin) kendilerine yumuşak davranmanı isterler; böyle yapsan, onlar da seni över, yumuşak davranırlar",
+        "ur": "یہ تو چاہتے ہیں کہ کچھ تم مداہنت کرو تو یہ بھی مداہنت کریں",
+        "id": "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "68:10",
+      "verse_number": 10,
+      "text_uthmani": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And do not obey every worthless habitual swearer",
+        "fr": "Et n'obéis à aucun grand jureur, méprisable",
+        "tr": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin",
+        "ur": "ہرگز نہ دبو کسی ایسے شخص سے جو بہت قسمیں کھانے والا بے وقعت آدمی ہے",
+        "id": "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "68:11",
+      "verse_number": 11,
+      "text_uthmani": "هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "[And] scorner, going about with malicious gossip",
+        "fr": "grand diffamateur, grand colporteur de médisance",
+        "tr": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin",
+        "ur": "طعنے دیتا ہے، چغلیاں کھاتا پھرتا ہے",
+        "id": "suka mencela, yang kian ke mari menyebarkan fitnah"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "68:12",
+      "verse_number": 12,
+      "text_uthmani": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "A preventer of good, transgressing and sinful",
+        "fr": "grand empêcheur du bien, transgresseur, grand pécheur",
+        "tr": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin",
+        "ur": "بھلائی سے روکتا ہے، ظلم و زیادتی میں حد سے گزر جانے والا ہے، سخت بد اعمال ہے، جفا کار ہے",
+        "id": "yang merintangi segala yang baik, yang melampaui batas dan banyak dosa"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "68:13",
+      "verse_number": 13,
+      "text_uthmani": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Cruel, moreover, and an illegitimate pretender",
+        "fr": "au cœur dur, et en plus de cela bâtard",
+        "tr": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin",
+        "ur": "اور اَن سب عیوب کے ساتھ بد اصل ہے",
+        "id": "yang bertabiat kasar, selain itu juga terkenal kejahatannya"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "68:14",
+      "verse_number": 14,
+      "text_uthmani": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Because he is a possessor of wealth and children",
+        "fr": "Même s'il est doté de richesses et (de nombreux) enfants",
+        "tr": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin",
+        "ur": "اِس بنا پر کہ وہ بہت مال و اولاد رکھتا ہے",
+        "id": "karena dia kaya dan banyak anak"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "68:15",
+      "verse_number": 15,
+      "text_uthmani": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "When Our verses are recited to him, he says, \"Legends of the former peoples",
+        "fr": "Quand Nos versets lui sont récités, il dit: «Des contes d'anciens»",
+        "tr": "Ayetlerimiz ona okunduğu zaman: \"Öncekilerin masalları\" der",
+        "ur": "جب ہماری آیات اُس کو سنائی جاتی ہیں تو کہتا ہے یہ تو اگلے وقتوں کے افسانے ہیں",
+        "id": "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, \"(Ini adalah) dongeng-dongeng orang dahulu"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "68:16",
+      "verse_number": 16,
+      "text_uthmani": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "We will brand him upon the snout",
+        "fr": "Nous le marquerons sur le museau [nez]",
+        "tr": "Onun havada olan burnunu yakında yere sürteceğiz",
+        "ur": "عنقریب ہم اس کی سونڈ پر داغ لگائیں گے",
+        "id": "Kelak dia akan Kami beri tanda pada belalai(nya)"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "68:17",
+      "verse_number": 17,
+      "text_uthmani": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+        "fr": "Nous les avons éprouvés comme Nous avons éprouvé les propriétaires du verger qui avaient juré d'en faire la récolte au matin",
+        "tr": "Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın yemin etmişlerdi",
+        "ur": "ہم نے اِن (اہل مکہ) کو اُسی طرح آزمائش میں ڈالا ہے جس طرح ایک باغ کے مالکوں کو آزمائش میں ڈالا تھا، جب اُنہوں نے قسم کھائی کہ صبح سویرے ضرور اپنے باغ کے پھل توڑیں گے",
+        "id": "Sungguh, Kami telah menguji mereka (orang musyrik Mekkah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "68:18",
+      "verse_number": 18,
+      "text_uthmani": "وَلَا يَسۡتَثۡنُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Without making exception",
+        "fr": "sans dire: «Si Allah le veut»",
+        "tr": "Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın yemin etmişlerdi",
+        "ur": "اور وہ کوئی استثناء نہیں کر رہے تھے",
+        "id": "tetapi mereka tidak mengecualikan (dengan mengucapkan, \"Insya Allah)"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "68:19",
+      "verse_number": 19,
+      "text_uthmani": "فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "So there came upon the garden an affliction from your Lord while they were asleep",
+        "fr": "Une calamité de la part de ton Seigneur tomba dessus pendant qu'ils dormaient",
+        "tr": "Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi sarıvermişti de bahçe kapkara kesilmişti",
+        "ur": "رات کو وہ سوئے پڑے تھے کہ تمہارے رب کی طرف سے ایک بلا اس باغ پر پھر گئی",
+        "id": "Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "68:20",
+      "verse_number": 20,
+      "text_uthmani": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And it became as though reaped",
+        "fr": "et le matin, ce fut comme si tout avait été rasé",
+        "tr": "Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi sarıvermişti de bahçe kapkara kesilmişti",
+        "ur": "اور اُس کا حال ایسا ہو گیا جیسے کٹی ہوئی فصل ہو",
+        "id": "Maka jadilah kebun itu hitam seperti malam yang gelap gulita"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "68:21",
+      "verse_number": 21,
+      "text_uthmani": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And they called one another at morning",
+        "fr": "Le [lendemain] matin, ils s'appelèrent les uns les autres",
+        "tr": "Sabah erken: \"Ürünlerinizi devşirecekseniz erken çıkın\" diye birbirlerine seslendiler",
+        "ur": "صبح اُن لوگوں نے ایک دوسرے کو پکارا",
+        "id": "lalu pada pagi hari mereka saling memanggil"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "68:22",
+      "verse_number": 22,
+      "text_uthmani": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "[Saying], \"Go early to your crop if you would cut the fruit",
+        "fr": "«Partez tôt à votre champ si vous voulez le récolter»",
+        "tr": "Sabah erken: \"Ürünlerinizi devşirecekseniz erken çıkın\" diye birbirlerine seslendiler",
+        "ur": "کہ اگر پھل توڑنے ہیں تو سویرے سویرے اپنی کھیتی کی طرف نکل چلو",
+        "id": "Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "68:23",
+      "verse_number": 23,
+      "text_uthmani": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "So they set out, while lowering their voices",
+        "fr": "Ils allèrent donc, tout en parlant entre eux à voix basse",
+        "tr": "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın\" diye gizli gizli konuşarak yürüyorlardı",
+        "ur": "چنانچہ وہ چل پڑے اور آپس میں چپکے چپکے کہتے جاتے تھے",
+        "id": "Maka mereka pun berangkat sambil berbisik-bisik"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "68:24",
+      "verse_number": 24,
+      "text_uthmani": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "[Saying], \"There will surely not enter it today upon you [any] poor person",
+        "fr": "«Ne laissez aucun pauvre y entrer aujourd'hui»",
+        "tr": "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın\" diye gizli gizli konuşarak yürüyorlardı",
+        "ur": "کہ آج کوئی مسکین تمہارے پاس باغ میں نہ آنے پائے",
+        "id": "Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "68:25",
+      "verse_number": 25,
+      "text_uthmani": "وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قَٰدِرِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And they went early in determination, [assuming themselves] able",
+        "fr": "Ils partirent de bonne heure décidés à user d'avarice [envers les pauvres], convaincus que cela était en leur pouvoir",
+        "tr": "Yoksullara yardım etmeye güçleri yeterken böyle konuşarak erkenden gittiler",
+        "ur": "وہ کچھ نہ دینے کا فیصلہ کیے ہوئے صبح سویرے جلدی جلدی اِس طرح وہاں گئے جیسے کہ وہ (پھل توڑنے پر) قادر ہیں",
+        "id": "Dan berangkatlah mereka di pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya)"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "68:26",
+      "verse_number": 26,
+      "text_uthmani": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "But when they saw it, they said, \"Indeed, we are lost",
+        "fr": "Puis, quand ils le virent [le jardin], ils dirent: «vraiment, nous avons perdu notre chemin",
+        "tr": "Bahçeyi gördüklerinde: \"Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık\" dediler",
+        "ur": "مگر جب باغ کو دیکھا تو کہنے لگے \"ہم راستہ بھول گئے ہیں",
+        "id": "Maka ketika mereka melihat kebun itu, mereka berkata, \"Sungguh, kita ini benar-benar orang-orang yang sesat"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "68:27",
+      "verse_number": 27,
+      "text_uthmani": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Rather, we have been deprived",
+        "fr": "Ou plutôt nous sommes frustrés»",
+        "tr": "Bahçeyi gördüklerinde: \"Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık\" dediler",
+        "ur": "نہیں، بلکہ ہم محروم رہ گئے",
+        "id": "bahkan kita tak memperoleh apa pun"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "68:28",
+      "verse_number": 28,
+      "text_uthmani": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allah]",
+        "fr": "Le plus juste d'entre eux dit: «Ne vous avais-je pas dit: Si seulement vous avez rendu gloire à Allah!»",
+        "tr": "Ortancaları: \"Ben size Allah'ı anmanız gerekmez mi, dememiş miydim?\" dedi",
+        "ur": "اُن میں جو سب سے بہتر آدمی تھا اُس نے کہا \"میں نے تم سے کہا نہ تھا کہ تم تسبیح کیوں نہیں کرتے؟",
+        "id": "Berkatalah seorang yang paling bijak di antara mereka, \"Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu)"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "68:29",
+      "verse_number": 29,
+      "text_uthmani": "قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers",
+        "fr": "Ils dirent: «Gloire à notre Seigneur! Oui, nous avons été des injustes»",
+        "tr": "Rabbimizi tenzih ederiz; doğrusu biz yazık etmiştik\" dediler",
+        "ur": "و ہ پکار اٹھے پاک ہے ہمارا رب، واقعی ہم گناہ گار تھے",
+        "id": "Mereka mengucapkan, \"Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "68:30",
+      "verse_number": 30,
+      "text_uthmani": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Then they approached one another, blaming each other",
+        "fr": "Puis ils s'adressèrent les uns aux autres, se faisant des reproches",
+        "tr": "Birbirlerini yermeye başladılar",
+        "ur": "پھر اُن میں سے ہر ایک دوسرے کو ملامت کرنے لگا",
+        "id": "Lalu mereka saling berhadapan dan saling menyalahkan"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "68:31",
+      "verse_number": 31,
+      "text_uthmani": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "They said, \"O woe to us; indeed we were transgressors",
+        "fr": "Ils dirent: «Malheur à nous! Nous avons été des rebelles",
+        "tr": "Sonra şöyle dediler: \"Yazıklar olsun bize; doğrusu azgınlık edenlerdendik",
+        "ur": "آخر کو انہوں نے کہا \"افسوس ہمارے حال پر، بے شک ہم سرکش ہو گئے تھے",
+        "id": "Mereka berkata, \"Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "68:32",
+      "verse_number": 32,
+      "text_uthmani": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous",
+        "fr": "Nous souhaitons que notre Seigneur nous le remplace par quelque chose de meilleur. Nous désirons nous rapprocher de notre Seigneur»",
+        "tr": "Belki Rabbimiz bize bundan daha iyisini verir; doğrusu artık, Rabbimizden dilemekteyiz",
+        "ur": "بعید نہیں کہ ہمارا رب ہمیں بدلے میں اِس سے بہتر باغ عطا فرمائے، ہم اپنے رب کی طرف رجوع کرتے ہیں",
+        "id": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "68:33",
+      "verse_number": 33,
+      "text_uthmani": "كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew",
+        "fr": "Tel fut le châtiment; et le châtiment de l'au-delà est plus grand encore, si seulement ils savaient",
+        "tr": "İşte azap böyledir; ama ahiret azabı daha büyüktür; keşke bilseler",
+        "ur": "ایسا ہوتا ہے عذاب اور آخرت کا عذاب اِس سے بھی بڑا ہے، کاش یہ لوگ اِس کو جانتے",
+        "id": "Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar sekiranya mereka mengetahui"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "68:34",
+      "verse_number": 34,
+      "text_uthmani": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّـٰتِ ٱلنَّعِيمِ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Indeed, for the righteous with their Lord are the Gardens of Pleasure",
+        "fr": "Les pieux auront auprès de leur Seigneur les Jardins du délice",
+        "tr": "Allah'a karşı gelmekten sakınanlara, Rableri katında nimet cennetleri vardır",
+        "ur": "یقیناً خدا ترس لوگوں کے لیے اُن کے رب کے ہاں نعمت بھری جنتیں ہیں",
+        "id": "Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "68:35",
+      "verse_number": 35,
+      "text_uthmani": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Then will We treat the Muslims like the criminals",
+        "fr": "Traiterons-Nous les soumis [à Allah] à la manière des criminels",
+        "tr": "Kendilerini Allah'a vermiş olanları hiç suçlular gibi tutar mıyız",
+        "ur": "کیا ہم فرماں برداروں کا حال مجرموں کا سا کر دیں؟",
+        "id": "Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "68:36",
+      "verse_number": 36,
+      "text_uthmani": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "What is [the matter] with you? How do you judge",
+        "fr": "Qu'avez-vous? Comment jugez-vous",
+        "tr": "Ne oluyorsunuz? Ne biçim hükmediyorsunuz",
+        "ur": "تم لوگوں کو کیا ہو گیا ہے، تم کیسے حکم لگاتے ہو؟",
+        "id": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "68:37",
+      "verse_number": 37,
+      "text_uthmani": "أَمۡ لَكُمۡ كِتَٰبٞ فِيهِ تَدۡرُسُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Or do you have a scripture in which you learn",
+        "fr": "Ou bien avez-vous un Livre dans lequel vous apprenez",
+        "tr": "Yoksa okuduğunuz bir kitabınız mı var",
+        "ur": "کیا تمہارے پاس کوئی کتاب ہے جس میں تم یہ پڑھتے ہو",
+        "id": "Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "68:38",
+      "verse_number": 38,
+      "text_uthmani": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "That indeed for you is whatever you choose",
+        "fr": "qu'en vérité vous obtiendrez tout ce que vous désirez",
+        "tr": "Seçtikleriniz herhalde orada olacaktır",
+        "ur": "کہ تمہارے لیے ضرور وہاں وہی کچھ ہے جو تم اپنے لیے پسند کرتے ہو؟",
+        "id": "sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "68:39",
+      "verse_number": 39,
+      "text_uthmani": "أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge",
+        "fr": "Ou bien est-ce que vous avez obtenu de Nous des serments valables jusqu'au Jour de la Résurrection, Nous engageant à vous donner ce que vous décidez",
+        "tr": "Yoksa aleyhimizde, kıyamet gününe kadar süregidecek ahidleriniz mi var ki, kendinize hükmettikleriniz sizin olacaktır",
+        "ur": "یا پھر کیا تمہارے لیے روز قیامت تک ہم پر کچھ عہد و پیمان ثابت ہیں کہ تمہیں وہی کچھ ملے گا جس کا تم حکم لگاؤ؟",
+        "id": "Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "68:40",
+      "verse_number": 40,
+      "text_uthmani": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Ask them which of them, for that [claim], is responsible",
+        "fr": "Demande-leur qui d'entre eux en est garant",
+        "tr": "Sor onlara: \"Bunu kim üzerine alır",
+        "ur": "اِن سے پوچھو تم میں سے کون اِس کا ضامن ہے؟",
+        "id": "Tanyakanlah kepada mereka, \"Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "68:41",
+      "verse_number": 41,
+      "text_uthmani": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Or do they have partners? Then let them bring their partners, if they should be truthful",
+        "fr": "Ou encore, est-ce qu'ils ont des associés? Eh bien, qu'ils fassent venir leurs associés s'ils sont véridiques",
+        "tr": "Yoksa onların ortakları mı vardır? Doğru sözlü iseler ortaklarını getirsinler",
+        "ur": "یا پھر اِن کے ٹھیرائے ہوئے کچھ شریک ہیں (جنہوں نے اِس کا ذمہ لیا ہو)؟ یہ بات ہے تو لائیں اپنے شریکوں کو اگر یہ سچے ہیں",
+        "id": "Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "68:42",
+      "verse_number": 42,
+      "text_uthmani": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "The Day the shin will be uncovered and they are invited to prostration but the disbelievers will not be able",
+        "fr": "Le jour où ils affronteront les horreurs [du Jugement] et où ils seront appelés à la Prosternation mais ils ne le pourront pas",
+        "tr": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; secdeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman secdeye çağırılmışlardı",
+        "ur": "جس روز سخت وقت آ پڑے گا اور لوگوں کو سجدہ کرنے کے لیے بلایا جائے گا تو یہ لوگ سجدہ نہ کر سکیں گے",
+        "id": "(Ingatlah) pada hari ketika betis disingkapkan851) dan mereka diseru untuk bersujud; maka mereka tidak mampu"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "68:43",
+      "verse_number": 43,
+      "text_uthmani": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound",
+        "fr": "Leurs regards seront abaissés, et l'avilissement les couvrira. Or, ils étaient appelés à la Prosternation au temps où ils étaient sains et saufs",
+        "tr": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; secdeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman secdeye çağırılmışlardı",
+        "ur": "اِن کی نگاہیں نیچی ہوں گی، ذلت اِن پر چھا رہی ہوگی یہ جب صحیح و سالم تھے اُس وقت اِنہیں سجدے کے لیے بلایا جاتا تھا (اور یہ انکار کرتے تھے)",
+        "id": "pandangan mereka tertunduk ke bawah, diliputi kehinaan. Dan sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud waktu mereka sehat (tetapi mereka tidak melakukan)"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "68:44",
+      "verse_number": 44,
+      "text_uthmani": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "So leave Me, [O Muhammad], with [the matter of] whoever denies the Qur'an. We will progressively lead them [to punishment] from where they do not know",
+        "fr": "Laisse-Moi donc avec quiconque traite de mensonge ce discours; Nous allons les mener graduellement par où ils ne savent pas",
+        "tr": "Kuran'ı yalanlayanları Bana bırak; Biz onları bilmedikleri yerden yavaş yavaş azaba yaklaştıracağız",
+        "ur": "پس اے نبیؐ، تم اِس کلام کے جھٹلانے والوں کا معاملہ مجھ پر چھوڑ دو ہم ایسے طریقہ سے اِن کو بتدریج تباہی کی طرف لے جائیں گے کہ اِن کو خبر بھی نہ ہوگی",
+        "id": "Maka serahkanlah kepada-Ku (urusannya) dan orang-orang yang mendustakan perkataan ini (Alquran). Kelak akan Kami hukum mereka berangsur-angsur dari arah yang tidak mereka ketahui"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "68:45",
+      "verse_number": 45,
+      "text_uthmani": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And I will give them time. Indeed, My plan is firm",
+        "fr": "Et Je leur accorde un délai, car Mon stratagème est sûr",
+        "tr": "Onlara mehil veriyorum; doğrusu Benim tuzağım sağlamdır",
+        "ur": "میں اِن کی رسی دراز کر رہا ہوں، میری چال بڑی زبردست ہے",
+        "id": "dan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "68:46",
+      "verse_number": 46,
+      "text_uthmani": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Or do you ask of them a payment, so they are by debt burdened down",
+        "fr": "Ou bien est-ce que tu leur demandes un salaire, les accablant ainsi d'une lourde dette",
+        "tr": "Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Elbette hayır",
+        "ur": "کیا تم اِن سے کوئی اجر طلب کر رہے ہو کہ یہ اس چٹی کے بوجھ تلے دبے جا رہے ہوں؟",
+        "id": "Ataukah engkau (Muhammad) meminta imbalan kepada mereka, sehingga mereka dibebani dengan hutang"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "68:47",
+      "verse_number": 47,
+      "text_uthmani": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Or have they [knowledge of] the unseen, so they write [it] down",
+        "fr": "Ou savent-ils l'Inconnaissable et c'est de là qu'ils écrivent [leurs mensonges]",
+        "tr": "Yoksa, gaybın bilgisi kendilerinin katında da onlar mı yazıyorlar",
+        "ur": "کیا اِن کے پاس غیب کا علم ہے جسے یہ لکھ رہے ہوں؟",
+        "id": "Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "68:48",
+      "verse_number": 48,
+      "text_uthmani": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish when he called out while he was distressed",
+        "fr": "Endure avec patience la sentence de ton Seigneur, et ne sois pas comme l'homme au Poisson [Jonas] qui appela (Allah) dans sa grande angoisse",
+        "tr": "Sen Rabbinin hükmüne kadar sabret; balık sahibi (Yunus) gibi olma, o, pek üzgün olarak Rabbine seslenmişti",
+        "ur": "پس اپنے رب کا فیصلہ صادر ہونے تک صبر کرو اور مچھلی والے (یونس علیہ اسلام) کی طرح نہ ہو جاؤ، جب اُس نے پکارا تھا اور وہ غم سے بھرا ہوا تھا",
+        "id": "Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (Yunus) orang yang berada dalam (perut) ikan ketika dia berdoa dengan hati sedih"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "68:49",
+      "verse_number": 49,
+      "text_uthmani": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "If not that a favor from his Lord overtook him, he would have been thrown onto the naked shore while he was censured",
+        "fr": "Si un bienfait de son Seigneur ne l'avait pas atteint, il aurait été rejeté honni sur une terre déserte",
+        "tr": "Rabbinin katından ona bir nimet ulaşmasaydı, kınanmış olarak sahile atılacaktı",
+        "ur": "اگر اس کے رب کی مہربانی اُس کے شامل حال نہ ہو جاتی تو وہ مذموم ہو کر چٹیل میدان میں پھینک دیا جاتا",
+        "id": "Sekiranya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "68:50",
+      "verse_number": 50,
+      "text_uthmani": "فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And his Lord chose him and made him of the righteous",
+        "fr": "Puis son Seigneur l'élut et le désigna au nombre des gens de bien",
+        "tr": "Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde nerdeyse seni gözleriyle yıkıp devireceklerdi. \"O delidir\" diyorlardı",
+        "ur": "آخرکار اُس کے رب نے اسے برگزیدہ فرما لیا اور اِسے صالح بندوں میں شامل کر دیا",
+        "id": "Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "68:51",
+      "verse_number": 51,
+      "text_uthmani": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say, \"Indeed, he is mad",
+        "fr": "Peu s'en faut que ceux qui mécroient ne te transpercent par leurs regards, quand ils entendent le Coran, ils disent: «Il est certes fou!»",
+        "tr": "Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde nerdeyse seni gözleriyle yıkıp devireceklerdi. \"O delidir\" diyorlardı",
+        "ur": "جب یہ کافر لوگ کلام نصیحت (قرآن) سنتے ہیں تو تمہیں ایسی نظروں سے دیکھتے ہیں کہ گویا تمہارے قدم اکھاڑ دیں گے، اور کہتے ہیں یہ ضرور دیوانہ ہے",
+        "id": "Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Alquran dan mereka berkata, \"Dia (Muhammad) itu benar-benar orang gila"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "68:52",
+      "verse_number": 52,
+      "text_uthmani": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+      "chapter_id": 68,
+      "words": [],
+      "translations": {
+        "en": "But it is not except a reminder to the worlds",
+        "fr": "Et ce n'est qu'un Rappel, adressé aux mondes",
+        "tr": "Oysa Kuran, alemler için bir öğütten başka bir şey değildir",
+        "ur": "حالانکہ یہ تو سارے جہان والوں کے لیے ایک نصیحت ہے",
+        "id": "Padahal Alquran itu tidak lain adalah peringatan bagi seluruh alam"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 68,
+    "name_arabic": "القلم",
+    "name_english": "Al-Qalam"
+  }
+}

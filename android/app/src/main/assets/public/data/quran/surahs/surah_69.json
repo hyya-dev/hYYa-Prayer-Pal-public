@@ -1,0 +1,789 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "69:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱلۡحَآقَّةُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "The Inevitable Reality",
+        "fr": "L'inévitable [l'Heure qui montre la vérité]",
+        "tr": "Gerçekleşecek olan",
+        "ur": "ہونی شدنی",
+        "id": "Hari kiamat"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "69:2",
+      "verse_number": 2,
+      "text_uthmani": "مَا ٱلۡحَآقَّةُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "What is the Inevitable Reality",
+        "fr": "Qu'est-ce que l'inévitable",
+        "tr": "Nedir o gerçekleşecek olan gün",
+        "ur": "کیا ہے وہ ہونی شدنی؟",
+        "id": "apakah hari Kiamat itu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "69:3",
+      "verse_number": 3,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is the Inevitable Reality",
+        "fr": "Et qui te dira ce que c'est que l'inévitable",
+        "tr": "Gerçekleşecek olanın ne olduğunu sana ne bildirir",
+        "ur": "اور تم کیا جانو کہ وہ کیا ہے ہونی شدنی؟",
+        "id": "Dan tahukah kamu apakah hari Kiamat itu"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "69:4",
+      "verse_number": 4,
+      "text_uthmani": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Thamud and 'Aad denied the Striking Calamity",
+        "fr": "Les Thamûd et les 'Aad avaient traité de mensonge le cataclysme",
+        "tr": "Semud ve Ad milletleri tepelerine inecek bu gerçeği yalanladılar",
+        "ur": "ثمود اور عاد نے اُس اچانک ٹوٹ پڑنے والی آفت کو جھٹلایا",
+        "id": "Kaum Samud, dan 'Ād telah mendustakan hari Kiamat"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "69:5",
+      "verse_number": 5,
+      "text_uthmani": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So as for Thamud, they were destroyed by the overpowering [blast]",
+        "fr": "Quant aux Thamûd, ils furent détruits par le [bruit] excessivement fort",
+        "tr": "Bu yüzden Semud milleti zorlu bir sarsıntı ile yok edildi",
+        "ur": "تو ثمود ایک سخت حادثہ میں ہلاک کیے گئے",
+        "id": "Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "69:6",
+      "verse_number": 6,
+      "text_uthmani": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And as for 'Aad, they were destroyed by a screaming, violent wind",
+        "fr": "Et quant aux 'Aad, ils furent détruits par un vent mugissant et furieux",
+        "tr": "Ad milleti de bu yüzden önünde durulmaz, dondurucu bir rüzgarla yok edildi",
+        "ur": "اور عاد ایک بڑی شدید طوفانی آندھی سے تباہ کر دیے گئے",
+        "id": "sedangkan kaum 'Ād, mereka telah dibinasakan dengan angin topan yang sangat dingin"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "69:7",
+      "verse_number": 7,
+      "text_uthmani": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Which Allah imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees",
+        "fr": "qu'[Allah] déchaîna contre eux pendant sept nuits et huit jours consécutifs; tu voyais alors les gens renversés par terre comme des souches de palmiers évidées",
+        "tr": "Allah onların kökünü kesmek üzere, üzerlerine o rüzgarı yedi gece sekiz gün, estirdi. Halkın, kökünden çıkarılmış hurma kütükleri gibi yere yıkıldıklarını görürsün",
+        "ur": "اللہ تعالیٰ نے اُس کو مسلسل سات رات اور آٹھ دن اُن پر مسلط رکھا (تم وہاں ہوتے تو) دیکھتے کہ وہ وہاں اِس طرح پچھڑے پڑے ہیں جیسے وہ کھجور کے بوسیدہ تنے ہوں",
+        "id": "Allah menimpakan angin itu kepada mereka selama tujuh malam delapan hari terus-menerus; maka kamu melihat kaum 'Ād pada waktu itu mati bergelimpangan seperti batang-batang pohon kurma yang telah kosong (lapuk)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "69:8",
+      "verse_number": 8,
+      "text_uthmani": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then do you see of them any remains",
+        "fr": "En vois-tu le moindre vestige",
+        "tr": "Onlardan arda kalmış bir şey görür müsün",
+        "ur": "اب کیا اُن میں سے کوئی تمہیں باقی بچا نظر آتا ہے؟",
+        "id": "Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "69:9",
+      "verse_number": 9,
+      "text_uthmani": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And there came Pharaoh and those before him and the overturned cities with sin",
+        "fr": "Pharaon et ceux qui vécurent avant lui ainsi que les Villes renversées, commirent des fautes",
+        "tr": "Firavun, ondan öncekiler ve alt üst olmuş kasabalarda oturanlar da suç işlemişlerdi",
+        "ur": "اور اِسی خطائے عظیم کا ارتکاب فرعون اور اُس سے پہلے کے لوگوں نے اور تل پٹ ہو جانے والی بستیوں نے کیا",
+        "id": "Kemudian datang Fir'aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkir balikkan karena kesalahan yang besar"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "69:10",
+      "verse_number": 10,
+      "text_uthmani": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And they disobeyed the messenger of their Lord, so He seized them with a seizure exceeding [in severity]",
+        "fr": "Ils désobéirent au Messager de leur Seigneur. Celui-ci donc, les saisit d'une façon irrésistible",
+        "tr": "Rabbinin peygamberine baş kaldırmışlardı. Bunun üzerine Rableri onları şiddeti arttıkça artan bir şekilde yakaladı",
+        "ur": "ان سب نے اپنے رب کے رسول کی بات نہ مانی تو اُس نے اُن کو بڑی سختی کے ساتھ پکڑا",
+        "id": "Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan yang sangat keras"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "69:11",
+      "verse_number": 11,
+      "text_uthmani": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Indeed, when the water overflowed, We carried your ancestors in the sailing ship",
+        "fr": "C'est Nous qui, quand l'eau déborda, vous avons chargés sur l'Arche",
+        "tr": "Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye süzülen gemide, sizi Biz taşımışızdır",
+        "ur": "جب پانی کا طوفان حد سے گزر گیا تو ہم نے تم کو کشتی میں سوار کر دیا تھا",
+        "id": "Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu859) ke dalam kapal"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "69:12",
+      "verse_number": 12,
+      "text_uthmani": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وَٰعِيَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "That We might make it for you a reminder and [that] a conscious ear would be conscious of it",
+        "fr": "afin d'en faire pour vous un rappel que toute oreille fidèle conserve",
+        "tr": "Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye süzülen gemide, sizi Biz taşımışızdır",
+        "ur": "تاکہ اِس واقعہ کو تمہارے لیے ایک سبق آموز یادگار بنا دیں اور یاد رکھنے والے کان اس کی یاد محفوظ رکھیں",
+        "id": "agar Kami jadikan (peristiwa itu) sebagai peringatan bagi kamu dan agar diperhatikan oleh telinga yang mau mendengar"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "69:13",
+      "verse_number": 13,
+      "text_uthmani": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then when the Horn is blown with one blast",
+        "fr": "Puis, quand d'un seul souffle, on soufflera dans la Trompe",
+        "tr": "Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar",
+        "ur": "پھر جب ایک دفعہ صور میں پھونک مار دی جائے گی",
+        "id": "Maka apabila sangkakala ditiup sekali tiup"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "69:14",
+      "verse_number": 14,
+      "text_uthmani": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وَٰحِدَةٗ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And the earth and the mountains are lifted and leveled with one blow",
+        "fr": "et que la terre et les montagnes seront soulevées puis tassées d'un seul coup",
+        "tr": "Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar",
+        "ur": "اور زمین اور پہاڑوں کو اٹھا کر ایک ہی چوٹ میں ریزہ ریزہ کر دیا جائے گا",
+        "id": "dan diangkatlah bumi dan gunung-gunung, lalu dibenturkan keduanya sekali benturan"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "69:15",
+      "verse_number": 15,
+      "text_uthmani": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then on that Day, the Resurrection will occur",
+        "fr": "ce jour-là alors, l'Evénement se produira",
+        "tr": "Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar",
+        "ur": "اُس روز وہ ہونے والا واقعہ پیش آ جائے گا",
+        "id": "Maka pada hari itu terjadilah hari Kiamat"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "69:16",
+      "verse_number": 16,
+      "text_uthmani": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And the heaven will split [open], for that Day it is infirm",
+        "fr": "et le ciel se fendra et sera fragile, ce jour-là",
+        "tr": "Gök yarılır; o gün düzeni bozulur",
+        "ur": "اُس دن آسمان پھٹے گا اور اس کی بندش ڈھیلی پڑ جائے گی",
+        "id": "dan terbelahlah langit, karena pada hari itu langit menjadi rapuh"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "69:17",
+      "verse_number": 17,
+      "text_uthmani": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight [of them]",
+        "fr": "Et sur ses côtés [se tiendront] les Anges, tandis que huit, ce jour-là, porteront au-dessus d'eux le Trône de ton Seigneur",
+        "tr": "Melekler onun çevresindedirler; o gün Rabbinin arşını onlardan başka sekiz tanesi yüklenir",
+        "ur": "فرشتے اس کے اطراف و جوانب میں ہوں گے اور آٹھ فرشتے اُس روز تیرے رب کا عرش اپنے اوپر اٹھائے ہوئے ہوں گے",
+        "id": "Dan para malaikat berada di berbagai penjuru langit. Pada hari itu delapan malaikat menjunjung Arasy (singgasana) Tuhanmu di atas (kepala) mereka"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "69:18",
+      "verse_number": 18,
+      "text_uthmani": "يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "That Day, you will be exhibited [for judgement]; not hidden among you is anything concealed",
+        "fr": "Ce jour-là vous serez exposés; et rien de vous ne sera caché",
+        "tr": "O gün siz huzura alınırsınız, hiçbir şeyiniz gizli kalmaz",
+        "ur": "وہ دن ہوگا جب تم لوگ پیش کیے جاؤ گے، تمہارا کوئی راز بھی چھپا نہ رہ جائے گا",
+        "id": "Pada hari itu kamu dihadapkan (kepada Tuhanmu), tidak ada sesuatu pun dari kamu yang tersembunyi (bagi Allah)"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "69:19",
+      "verse_number": 19,
+      "text_uthmani": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So as for he who is given his record in his right hand, he will say, \"Here, read my record",
+        "fr": "Quant à celui à qui on aura remis le Livre en sa main droite, il dira: «Tenez! lisez mon livre",
+        "tr": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der",
+        "ur": "اُس وقت جس کا نامہ اعمال اُس کے سیدھے ہاتھ میں دیا جائے گا وہ کہے گا \"لو دیکھو، پڑھو میرا نامہ اعمال",
+        "id": "(Adapun orang yang kitabnya861) diberikan di tangan kanannya, maka dia berkata, \"Ambillah, bacalah kitabku (ini)"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "69:20",
+      "verse_number": 20,
+      "text_uthmani": "إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Indeed, I was certain that I would be meeting my account",
+        "fr": "J'étais sûr d'y trouver mon compte»",
+        "tr": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der",
+        "ur": "میں سمجھتا تھا کہ مجھے ضرور اپنا حساب ملنے والا ہے",
+        "id": "Sesungguhnya aku yakin, bahwa (suatu saat) aku akan menerima perhitungan terhadap diriku"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "69:21",
+      "verse_number": 21,
+      "text_uthmani": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So he will be in a pleasant life",
+        "fr": "Il jouira d'une vie agréable",
+        "tr": "Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir",
+        "ur": "پس وہ دل پسند عیش میں ہوگا",
+        "id": "Maka orang itu berada dalam kehidupan yang diridai"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "69:22",
+      "verse_number": 22,
+      "text_uthmani": "فِي جَنَّةٍ عَالِيَةٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "In an elevated garden",
+        "fr": "dans un Jardin haut placé",
+        "tr": "Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir",
+        "ur": "عالی مقام جنت میں",
+        "id": "dalam surga yang tinggi"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "69:23",
+      "verse_number": 23,
+      "text_uthmani": "قُطُوفُهَا دَانِيَةٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Its [fruit] to be picked hanging near",
+        "fr": "dont les fruits sont à portée de la main",
+        "tr": "Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir",
+        "ur": "جس کے پھلوں کے گچھے جھکے پڑ رہے ہوں گے",
+        "id": "buah-buahannya dekat"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "69:24",
+      "verse_number": 24,
+      "text_uthmani": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "[They will be told], \"Eat and drink in satisfaction for what you put forth in the days past",
+        "fr": "«Mangez et buvez agréablement pour ce que vous avez avancé dans les jours passés»",
+        "tr": "Onlara şöyle denir: \"Geçmiş günlerde, peşinen işlediklerinize karşılık afiyetle yiyiniz içiniz",
+        "ur": "(ایسے لوگوں سے کہا جائے گا) مزے سے کھاؤ اور پیو اپنے اُن اعمال کے بدلے جو تم نے گزرے ہوئے دنوں میں کیے ہیں",
+        "id": "(kepada mereka dikatakan), \"Makan dan minumlah dengan nikmat karena amal yang telah kamu kerjakan pada hari-hari yang telah lalu"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "69:25",
+      "verse_number": 25,
+      "text_uthmani": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُوتَ كِتَٰبِيَهۡ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "But as for he who is given his record in his left hand, he will say, \"Oh, I wish I had not been given my record",
+        "fr": "Quant à celui à qui on aura remis le Livre en sa main gauche, il dira: «Hélas pour moi! J'aurai souhaité qu'on ne m'ait pas remis mon livre",
+        "tr": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der",
+        "ur": "اور جس کا نامہ اعمال اُس کے بائیں ہاتھ میں دیا جائے گا وہ کہے گا \"کاش میرا اعمال نامہ مجھے نہ دیا گیا ہوتا",
+        "id": "Dan adapun orang yang kitabnya diberikan di tangan kirinya, maka dia berkata, \"Alangkah baiknya jika kitabku (ini) tidak diberikan kepadaku"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "69:26",
+      "verse_number": 26,
+      "text_uthmani": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And had not known what is my account",
+        "fr": "et ne pas avoir connu mon compte",
+        "tr": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der",
+        "ur": "اور میں نہ جانتا کہ میرا حساب کیا ہے",
+        "id": "Sehingga aku tidak mengetahui bagaimana perhitunganku"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "69:27",
+      "verse_number": 27,
+      "text_uthmani": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "I wish my death had been the decisive one",
+        "fr": "Hélas, comme j'aurai souhaité que [ma première mort] fût la définitive",
+        "tr": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der",
+        "ur": "کاش میری وہی موت (جو دنیا میں آئی تھی) فیصلہ کن ہوتی",
+        "id": "Wahai, kiranya (kematian) itulah yang menyudahi segala sesuatu"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "69:28",
+      "verse_number": 28,
+      "text_uthmani": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "My wealth has not availed me",
+        "fr": "Ma fortune ne m'a servi à rien",
+        "tr": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der",
+        "ur": "آج میرا مال میرے کچھ کام نہ آیا",
+        "id": "Hartaku sama sekali tidak berguna bagiku"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "69:29",
+      "verse_number": 29,
+      "text_uthmani": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Gone from me is my authority",
+        "fr": "Mon autorité est anéantie et m'a quitté!»",
+        "tr": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der",
+        "ur": "میرا سارا اقتدار ختم ہو گیا",
+        "id": "Kekuasaanku telah hilang dariku"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "69:30",
+      "verse_number": 30,
+      "text_uthmani": "خُذُوهُ فَغُلُّوهُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "[Allah will say], \"Seize him and shackle him",
+        "fr": "«Saisissez-le! Puis, mettez-lui un carcan",
+        "tr": "İlgililere şöyle buyurulur: \"O'nu alın, bağlayın",
+        "ur": "(حکم ہو گا) پکڑو اِسے اور اِس کی گردن میں طوق ڈال دو",
+        "id": "(Allah berfirman), \"Tangkaplah dia lalu belenggulah tangannya ke lehernya"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "69:31",
+      "verse_number": 31,
+      "text_uthmani": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then into Hellfire drive him",
+        "fr": "ensuite, brûlez-le dans la Fournaise",
+        "tr": "Sonra cehenneme yaslayın",
+        "ur": "پھر اِسے جہنم میں جھونک دو",
+        "id": "Kemudian masukkanlah dia ke dalam api neraka yang menyala-nyala"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "69:32",
+      "verse_number": 32,
+      "text_uthmani": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then into a chain whose length is seventy cubits insert him",
+        "fr": "puis, liez-le avec une chaîne de soixante-dix coudées",
+        "tr": "Sonra onu boyu yetmiş arşın olan zincire vurun",
+        "ur": "پھر اِس کو ستر ہاتھ لمبی زنجیر میں جکڑ دو",
+        "id": "Kemudian belitlah dia dengan rantai yang panjangnya tujuh puluh hasta"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "69:33",
+      "verse_number": 33,
+      "text_uthmani": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Indeed, he did not used to believe in Allah, the Most Great",
+        "fr": "car il ne croyait pas en Allah, le Très Grand",
+        "tr": "Çünkü, o, yüce Allah'a inanmazdı",
+        "ur": "یہ نہ اللہ بزرگ و برتر پر ایمان لاتا تھا",
+        "id": "Sesungguhnya dialah orang yang tidak beriman kepada Allah Yang Mahabesar"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "69:34",
+      "verse_number": 34,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Nor did he encourage the feeding of the poor",
+        "fr": "et n'incitait pas à nourrir le pauvre",
+        "tr": "Yoksulun yiyeceği ile ilgilenmezdi",
+        "ur": "اور نہ مسکین کو کھانا کھلانے کی ترغیب دیتا تھا",
+        "id": "Dan juga dia tidak mendorong (orang lain) untuk memberi makan orang miskin"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "69:35",
+      "verse_number": 35,
+      "text_uthmani": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So there is not for him here this Day any devoted friend",
+        "fr": "Il n'a pour lui ici, aujourd'hui, point d'ami chaleureux [pour le protéger]",
+        "tr": "Bu sebeple burada bugün onun bir acıyanı yoktur",
+        "ur": "لہٰذا آج نہ یہاں اِس کا کوئی یار غم خوار ہے",
+        "id": "Maka pada hari ini di sini tidak ada seorang teman pun baginya"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "69:36",
+      "verse_number": 36,
+      "text_uthmani": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Nor any food except from the discharge of wounds",
+        "fr": "ni d'autre nourriture que du pus",
+        "tr": "Günahkarların yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur",
+        "ur": "اور نہ زخموں کے دھوون کے سوا اِس کے لیے کوئی کھانا",
+        "id": "Dan tidak ada makanan (baginya) kecuali dari darah dan nanah"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "69:37",
+      "verse_number": 37,
+      "text_uthmani": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "None will eat it except the sinners",
+        "fr": "que seuls les fautifs mangeront»",
+        "tr": "Günahkarların yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur",
+        "ur": "جسے خطا کاروں کے سوا کوئی نہیں کھاتا",
+        "id": "Tidak ada yang memakannya kecuali orang-orang yang berdosa"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "69:38",
+      "verse_number": 38,
+      "text_uthmani": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So I swear by what you see",
+        "fr": "Mais non... Je jure par ce que vous voyez",
+        "tr": "Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli bir elçinin getirdiği sözdür",
+        "ur": "پس نہیں، میں قسم کھاتا ہوں اُن چیزوں کی بھی جو تم دیکھتے ہو",
+        "id": "Maka Aku bersumpah demi apa yang kamu lihat"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "69:39",
+      "verse_number": 39,
+      "text_uthmani": "وَمَا لَا تُبۡصِرُونَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And what you do not see",
+        "fr": "ainsi que par ce que vous ne voyez pas",
+        "tr": "Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli bir elçinin getirdiği sözdür",
+        "ur": "اور اُن کی بھی جنہیں تم نہیں دیکھتے",
+        "id": "dan demi apa yang tidak kamu lihat"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "69:40",
+      "verse_number": 40,
+      "text_uthmani": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "[That] indeed, the Qur'an is the word of a noble Messenger",
+        "fr": "que ceci [le Coran] est la parole d'un noble Messager",
+        "tr": "Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli bir elçinin getirdiği sözdür",
+        "ur": "یہ ایک رسول کریم کا قول ہے",
+        "id": "Sesungguhnya ia (Alquran) benar-benar wahyu (yang diturunkan kepada) Rasul yang mulia"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "69:41",
+      "verse_number": 41,
+      "text_uthmani": "وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And it is not the word of a poet; little do you believe",
+        "fr": "et que ce n'est pas la parole d'un poète; mais vous ne croyez que très peu",
+        "tr": "O, şair sözü değildir; ne az inanıyorsunuz",
+        "ur": "کسی شاعر کا قول نہیں ہے، تم لوگ کم ہی ایمان لاتے ہو",
+        "id": "dan ia (Alquran) bukanlah perkataan seorang penyair. Sedikit sekali kamu yang beriman kepadanya"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "69:42",
+      "verse_number": 42,
+      "text_uthmani": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Nor the word of a soothsayer; little do you remember",
+        "fr": "ni la parole d'un devin, mais vous vous rappelez bien peu",
+        "tr": "Kahin sözü de değildir; ne az düşünüyorsunuz",
+        "ur": "اور نہ یہ کسی کاہن کا قول ہے، تم لوگ کم ہی غور کرتے ہو",
+        "id": "Dan bukan pula perkataan tukang tenung. Sedikit sekali kamu yang mengambil pelajaran darinya"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "69:43",
+      "verse_number": 43,
+      "text_uthmani": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "[It is] a revelation from the Lord of the worlds",
+        "fr": "C'est une révélation du Seigneur de l'Univers",
+        "tr": "Kuran, Alemlerin Rabbinden indirilmedir",
+        "ur": "یہ رب العالمین کی طرف سے نازل ہوا ہے",
+        "id": "Ia (Alquran) adalah wahyu yang diturunkan dari Tuhan seluruh alam"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "69:44",
+      "verse_number": 44,
+      "text_uthmani": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And if Muhammad had made up about Us some [false] sayings",
+        "fr": "Et s'il avait forgé quelques paroles qu'ils Nous avait attribuées",
+        "tr": "Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle yakalardık, sonra onun şah damarını koparırdık",
+        "ur": "اور اگر اس (نبی) نے خود گھڑ کر کوئی بات ہماری طرف منسوب کی ہوتی",
+        "id": "Dan sekiranya dia (Muhammad) mengada-adakan sebagian perkataan atas (nama) Kami"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "69:45",
+      "verse_number": 45,
+      "text_uthmani": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "We would have seized him by the right hand",
+        "fr": "Nous l'aurions saisi de la main droite",
+        "tr": "Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle yakalardık, sonra onun şah damarını koparırdık",
+        "ur": "تو ہم اِس کا دایاں ہاتھ پکڑ لیتے",
+        "id": "pasti Kami pegang dia pada tangan kanannya"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "69:46",
+      "verse_number": 46,
+      "text_uthmani": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "Then We would have cut from him the aorta",
+        "fr": "ensuite, Nous lui aurions tranché l'aorte",
+        "tr": "Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle yakalardık, sonra onun şah damarını koparırdık",
+        "ur": "اور اِس کی رگ گردن کاٹ ڈالتے",
+        "id": "Kemudian Kami potong pembuluh jantungnya"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "69:47",
+      "verse_number": 47,
+      "text_uthmani": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And there is no one of you who could prevent [Us] from him",
+        "fr": "Et nul d'entre vous n'aurait pu lui servir de rempart",
+        "tr": "Hiçbiriniz de onu koruyamazdınız",
+        "ur": "پھر تم میں سے کوئی (ہمیں) اس کام سے روکنے والا نہ ہوتا",
+        "id": "Maka tidak seorang pun dari kamu yang dapat menghalangi (Kami untuk menghukumnya)"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "69:48",
+      "verse_number": 48,
+      "text_uthmani": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And indeed, the Qur'an is a reminder for the righteous",
+        "fr": "C'est en vérité un rappel pour les pieux",
+        "tr": "Doğrusu Kuran Allah'a karşı gelmekten sakınanlara bir öğüttür",
+        "ur": "درحقیقت یہ پرہیزگار لوگوں کے لیے ایک نصیحت ہے",
+        "id": "Dan sungguh, Alquran itu pelajaran bagi orang-orang yang bertakwa"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "69:49",
+      "verse_number": 49,
+      "text_uthmani": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And indeed, We know that among you are deniers",
+        "fr": "Et Nous savons qu'il y a parmi vous qui le traitent de menteur",
+        "tr": "İçinizde yalanlayanlar bulunduğunu şüphesiz bilmekteyiz",
+        "ur": "اور ہم جانتے ہیں کہ تم میں سے کچھ لوگ جھٹلانے والے ہیں",
+        "id": "Dan sungguh, Kami mengetahui bahwa di antara kamu ada orang yang mendustakan"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "69:50",
+      "verse_number": 50,
+      "text_uthmani": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And indeed, it will be [a cause of] regret upon the disbelievers",
+        "fr": "mais en vérité, ce sera un sujet de regret pour les mécréants",
+        "tr": "Doğrusu Kuran, inkarcılar için bir üzüntüdür",
+        "ur": "ایسے کافروں کے لیے یقیناً یہ موجب حسرت ہے",
+        "id": "Dan sungguh, Alquran itu akan menimbulkan penyesalan bagi orang-orang kafir (di akhirat)"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "69:51",
+      "verse_number": 51,
+      "text_uthmani": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "And indeed, it is the truth of certainty",
+        "fr": "c'est là la véritable certitude",
+        "tr": "O, şüphesiz kesin gerçektir",
+        "ur": "اور یہ بالکل یقینی حق ہے",
+        "id": "Dan sungguh, Alquran itu kebenaran yang meyakinkan"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "69:52",
+      "verse_number": 52,
+      "text_uthmani": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "chapter_id": 69,
+      "words": [],
+      "translations": {
+        "en": "So exalt the name of your Lord, the Most Great",
+        "fr": "Glorifie donc le nom de ton Seigneur, le Très Grand",
+        "tr": "Öyleyse çok büyük olan Rabbinin adını tesbih et",
+        "ur": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو",
+        "id": "Maka bertasbihlah dengan (menyebut) nama Tuhanmu Yang Mahaagung"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 69,
+    "name_arabic": "الحاقة",
+    "name_english": "Al-Haqqah"
+  }
+}

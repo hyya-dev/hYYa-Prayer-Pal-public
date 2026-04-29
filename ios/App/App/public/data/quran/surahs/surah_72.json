@@ -1,0 +1,429 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "72:1",
+      "verse_number": 1,
+      "text_uthmani": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Say, [O Muhammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur'an",
+        "fr": "Dis: «Il m'a été révélé qu'un groupe de djinns prêtèrent l'oreille, puis dirent: «Nous avons certes entendu une Lecture [le Coran] merveilleuse",
+        "tr": "De ki: \"Cinlerden bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir;\" \"Doğrusu biz, doğru yola götüren, hayrete düşüren bir Kuran dinledik de ona inandık; biz, Rabbimize hiçbir şeyi ortak koşmayacağız",
+        "ur": "اے نبیؐ، کہو، میری طرف وحی بھیجی گئی ہے کہ جنوں کے ایک گروہ نے غور سے سنا پھر (جا کر اپنی قوم کے لوگوں سے) کہا: \"ہم نے ایک بڑا ہی عجیب قرآن سنا ہے",
+        "id": "Katakanlah (Muhammad), \"Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),\" lalu mereka berkata, \"Kami telah mendengarkan bacaan yang menakjubkan (Alquran)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "72:2",
+      "verse_number": 2,
+      "text_uthmani": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone",
+        "fr": "qui guide vers la droiture. Nous y avons cru, et nous n'associerons jamais personne à notre Seigneur",
+        "tr": "De ki: \"Cinlerden bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir;\" \"Doğrusu biz, doğru yola götüren, hayrete düşüren bir Kuran dinledik de ona inandık; biz, Rabbimize hiçbir şeyi ortak koşmayacağız",
+        "ur": "جو راہ راست کی طرف رہنمائی کرتا ہے اِس لیے ہم اُس پر ایمان لے آئے ہیں اور اب ہم ہرگز اپنے رب کے ساتھ کسی کو شریک نہیں کریں گے",
+        "id": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "72:3",
+      "verse_number": 3,
+      "text_uthmani": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةٗ وَلَا وَلَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And [it teaches] that exalted is the nobleness of our Lord; He has not taken a wife or a son",
+        "fr": "En vérité notre Seigneur - que Sa grandeur soit exaltée - ne S'est donné ni compagne, ni enfant",
+        "tr": "Doğrusu Rabbimizin yüceliği her yücelikten üstündür. O, zevce ve çocuk edinmemiştir",
+        "ur": "اور یہ کہ \"ہمارے رب کی شان بہت اعلیٰ و ارفع ہے، اُس نے کسی کو بیوی یا بیٹا نہیں بنایا ہے",
+        "id": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "72:4",
+      "verse_number": 4,
+      "text_uthmani": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And that our foolish one has been saying about Allah an excessive transgression",
+        "fr": "Notre insensé [Iblis] disait des extravagances contre Allah",
+        "tr": "Doğrusu aramızdaki beyinsiz, Allah'a karşı yalanlar uyduruyordu",
+        "ur": "اور یہ کہ \"ہمارے نادان لوگ اللہ کے بارے میں بہت خلاف حق باتیں کہتے رہے ہیں",
+        "id": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "72:5",
+      "verse_number": 5,
+      "text_uthmani": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And we had thought that mankind and the jinn would never speak about Allah a lie",
+        "fr": "Et nous pensions que ni les humains ni les djinns ne sauraient jamais proférer de mensonge contre Allah",
+        "tr": "Doğrusu insanların ve cinlerin Allah'a karşı yalan uydurabileceklerini sanmazdık",
+        "ur": "اور یہ کہ \"ہم نے سمجھا تھا کہ انسان اور جن کبھی خدا کے بارے میں جھوٹ نہیں بول سکتے",
+        "id": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "72:6",
+      "verse_number": 6,
+      "text_uthmani": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden",
+        "fr": "Or, il y avait parmi les humains, des mâles qui cherchaient protection auprès des mâles parmi les djinns mais cela ne fit qu'accroître leur détresse",
+        "tr": "Gerçekten, bir takım insanlar, cinlerin bir takımına sığınırlardı da onların azgınlıklarını artırırlardı",
+        "ur": "اور یہ کہ \"انسانوں میں سے کچھ لوگ جنوں میں سے کچھ لوگوں کی پناہ مانگا کرتے تھے، اِس طرح اُنہوں نے جنوں کا غرور اور زیادہ بڑھا دیا",
+        "id": "(dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan873) kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "72:7",
+      "verse_number": 7,
+      "text_uthmani": "وَأَنَّهُمۡ ظَنُّواْ كَمَا ظَنَنتُمۡ أَن لَّن يَبۡعَثَ ٱللَّهُ أَحَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And they had thought, as you thought, that Allah would never send anyone [as a messenger]",
+        "fr": "Et ils avaient pensé comme vous avez pensé qu'Allah ne ressusciterait jamais personne",
+        "tr": "Doğrusu, onlar da sizin, Allah'ın kimseyi yeniden diriltmeyeceğinizi sandığınız gibi sanıda bulunmuşlardı",
+        "ur": "اور یہ کہ \"انسانوں نے بھی وہی گمان کیا جیسا تمہارا گمان تھا کہ اللہ کسی کو رسول بنا کر نہ بھیجے گا",
+        "id": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekkah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "72:8",
+      "verse_number": 8,
+      "text_uthmani": "وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسٗا شَدِيدٗا وَشُهُبٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames",
+        "fr": "Nous avions frôlé le ciel et nous l'avions trouvé plein d'une forte garde et de bolides",
+        "tr": "Doğrusu biz göğü yokladık; onu sert bekçiler ve kayan ateşlerle (ışınlarla) doldurulmuş bulduk",
+        "ur": "اور یہ کہ \"ہم نے آسمان کو ٹٹولا تو دیکھا کہ وہ پہرے داروں سے پٹا پڑا ہے اور شہابوں کی بارش ہو رہی ہے",
+        "id": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "72:9",
+      "verse_number": 9,
+      "text_uthmani": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him",
+        "fr": "Nous y prenions place pour écouter. Mais quiconque prête l'oreille maintenant, trouve contre lui un bolide aux aguets",
+        "tr": "Doğrusu biz, göğün dinleyebileceğimiz bir yerinde otururduk; ama şimdi kim dinleyecek olsa, kendisini gözleyen bir ateş (ışın) buluyor",
+        "ur": "اور یہ کہ \"پہلے ہم سن گن لینے کے لیے آسمان میں بیٹھنے کی جگہ پا لیتے تھے، مگر اب جو چوری چھپے سننے کی کوشش کرتا ہے وہ اپنے لیے گھات میں ایک شہاب ثاقب لگا ہوا پاتا ہے",
+        "id": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang874) siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "72:10",
+      "verse_number": 10,
+      "text_uthmani": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And we do not know [therefore] whether evil is intended for those on earth or whether their Lord intends for them a right course",
+        "fr": "Nous ne savons pas si on veut du mal aux habitants de la terre ou si leur Seigneur veut les mettre sur le droit chemin",
+        "tr": "Yeryüzünde olanlara kötülük mü murad edildi, yahut Rableri onlara bir iyilik mi dilemiştir, doğrusu biz bilemeyiz",
+        "ur": "اور یہ کہ \"ہماری سمجھ میں نہ آتا تھا کہ آیا زمین والوں کے ساتھ کوئی برا معاملہ کرنے کا ارادہ کیا گیا ہے یا اُن کا رب اُنہیں راہ راست دکھانا چاہتا ہے",
+        "id": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "72:11",
+      "verse_number": 11,
+      "text_uthmani": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways",
+        "fr": "Il y a parmi nous des vertueux et [d'autres] qui le sont moins: nous étions divisés en différentes sectes",
+        "tr": "Doğrusu aramızda iyiler de vardır, bundan aşağı bulunanlar da vardır. Biz, türlü türlü yolda olan topluluklardık",
+        "ur": "اور یہ کہ \"ہم میں سے کچھ لوگ صالح ہیں اور کچھ اس سے فروتر ہیں، ہم مختلف طریقوں میں بٹے ہوئے ہیں",
+        "id": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "72:12",
+      "verse_number": 12,
+      "text_uthmani": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِي ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And we have become certain that we will never cause failure to Allah upon earth, nor can we escape Him by flight",
+        "fr": "Nous pensions bien que nous ne saurions jamais réduire Allah à l'impuissance sur la terre et que nous ne saurions jamais le réduire à l'impuissance en nous enfuyant",
+        "tr": "Yeryüzünde kalsak da Allah'ı aciz bırakamayacağımız, başka yere kaçsak da, O'nu aciz kılamayacağımız gerçeğini şüphesiz anladık",
+        "ur": "اور یہ کہ \"ہم سمجھتے تھے کہ نہ زمین میں ہم اللہ کو عاجز کر سکتے ہیں اور نہ بھاگ کر اُسے ہرا سکتے ہیں",
+        "id": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "72:13",
+      "verse_number": 13,
+      "text_uthmani": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And when we heard the guidance, we believed in it. And whoever believes in his Lord will not fear deprivation or burden",
+        "fr": "Et lorsque nous avons entendu le guide [le Coran], nous y avons cru, et quiconque croit en son Seigneur ne craint alors ni diminution de récompense ni oppression",
+        "tr": "Şüphesiz, doğruluk rehberi olan Kuran'ı dinlediğimizde ona inandık; kim Rabbine inanırsa, o, ecrinin eksiltileceğinden ve kendisine haksızlık edileceğinden korkmaz",
+        "ur": "اور یہ کہ \"ہم نے جب ہدایت کی تعلیم سنی تو ہم اس پر ایمان لے آئے اب جو کوئی بھی اپنے رب پر ایمان لے آئے گا اسے کسی حق تلفی یا ظلم کا خوف نہ ہوگا",
+        "id": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Alquran), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "72:14",
+      "verse_number": 14,
+      "text_uthmani": "وَأَنَّا مِنَّا ٱلۡمُسۡلِمُونَ وَمِنَّا ٱلۡقَٰسِطُونَۖ فَمَنۡ أَسۡلَمَ فَأُوْلَـٰٓئِكَ تَحَرَّوۡاْ رَشَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And among us are Muslims [in submission to Allah], and among us are the unjust. And whoever has become Muslim - those have sought out the right course",
+        "fr": "Il y a parmi nous les Musulmans, et il y en a les injustes [qui ont dévié]. Et ceux qui se sont convertis à l'Islam sont ceux qui ont cherché la droiture",
+        "tr": "İçimizde, kendini Allah'a vermiş olanlar da, yazık edenler de vardır. Kendini Allah'a veren kimseler, işte onlar, doğru yolu arayanlar, ona layık olanlardır",
+        "ur": "اور یہ کہ \"ہم میں سے کچھ مسلم (اللہ کے اطاعت گزار) ہیں اور کچھ حق سے منحرف تو جنہوں نے اسلام (اطاعت کا راستہ) اختیار کر لیا انہوں نے نجات کی راہ ڈھونڈ لی",
+        "id": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "72:15",
+      "verse_number": 15,
+      "text_uthmani": "وَأَمَّا ٱلۡقَٰسِطُونَ فَكَانُواْ لِجَهَنَّمَ حَطَبٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "But as for the unjust, they will be, for Hell, firewood",
+        "fr": "Et quant aux injustes, ils formeront le combustible de l'Enfer",
+        "tr": "Kendilerine yazık edenlere gelince; onlar, cehennemin odunları oldular",
+        "ur": "اور جو حق سے منحرف ہیں وہ جہنم کا ایندھن بننے والے ہیں",
+        "id": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "72:16",
+      "verse_number": 16,
+      "text_uthmani": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And [Allah revealed] that if they had remained straight on the way, We would have given them abundant provision",
+        "fr": "Et s'ils se maintenaient dans la bonne direction, Nous les aurions abreuvés, certes d'une eau abondante",
+        "tr": "Ama doğru yola girmiş olsalardı, onları bu hususta denememiz için onlara bol su içirirdik; kim Rabbini anmaktan yüz çevirirse, Rabbi onu gittikçe artan bir azaba uğratır",
+        "ur": "اور (اے نبیؐ، کہو، مجھ پر یہ وحی بھی کی گئی ہے کہ) لوگ اگر راہ راست پر ثابت قدمی سے چلتے تو ہم اُنہیں خوب سیراب کرتے",
+        "id": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "72:17",
+      "verse_number": 17,
+      "text_uthmani": "لِّنَفۡتِنَهُمۡ فِيهِۚ وَمَن يُعۡرِضۡ عَن ذِكۡرِ رَبِّهِۦ يَسۡلُكۡهُ عَذَابٗا صَعَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "So We might test them therein. And whoever turns away from the remembrance of his Lord He will put into arduous punishment",
+        "fr": "afin de les y éprouver. Et quiconque se détourne du rappel de son Seigneur, Il l'achemine vers un châtiment sans cesse croissant",
+        "tr": "Ama doğru yola girmiş olsalardı, onları bu hususta denememiz için onlara bol su içirirdik; kim Rabbini anmaktan yüz çevirirse, Rabbi onu gittikçe artan bir azaba uğratır",
+        "ur": "تاکہ اس نعمت سے ان کی آزمائش کریں اور جو اپنے رب کے ذکر سے منہ موڑے گا اس کا رب اسے سخت عذاب میں مبتلا کر دے گا",
+        "id": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "72:18",
+      "verse_number": 18,
+      "text_uthmani": "وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And [He revealed] that the masjids are for Allah, so do not invoke with Allah anyone",
+        "fr": "Les mosquées sont consacrées à Allah: n'invoquez donc personne avec Allah",
+        "tr": "Mescidler şüphesiz Allah'ındır, öyleyse oralarda Allah'a yalvarırken başkasını katmayın",
+        "ur": "اور یہ کہ مسجدیں اللہ کے لئے ہیں، لہٰذا اُن میں اللہ کے ساتھ کسی اور کو نہ پکارو",
+        "id": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "72:19",
+      "verse_number": 19,
+      "text_uthmani": "وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ عَلَيۡهِ لِبَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "And that when the Servant of Allah stood up supplicating Him, they almost became about him a compacted mass",
+        "fr": "Et quand le serviteur d'Allah s'est mis debout pour L'invoquer, ils faillirent se ruer en masse sur lui",
+        "tr": "Allah'ın kulu Muhammed, O'na yalvarmak, namaz kılmak için kalkınca, nerdeyse, çevresinde keçeleşirler, birbirlerine girerlerdi",
+        "ur": "اور یہ کہ جب اللہ کا بندہ اُس کو پکارنے کے لئے کھڑا ہوا تو لوگ اُس پر ٹوٹ پڑنے کے لئے تیار ہو گئے",
+        "id": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "72:20",
+      "verse_number": 20,
+      "text_uthmani": "قُلۡ إِنَّمَآ أَدۡعُواْ رَبِّي وَلَآ أُشۡرِكُ بِهِۦٓ أَحَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Say, [O Muhammad], \"I only invoke my Lord and do not associate with Him anyone",
+        "fr": "Dis: «Je n'invoque que mon Seigneur et ne Lui associe personne»",
+        "tr": "De ki: \"Ben sadece Rabbime yalvarırım ve O'na kimseyi ortak koşmam",
+        "ur": "اے نبیؐ، کہو کہ \"میں تو اپنے رب کو پکارتا ہوں اور اس کے ساتھ کسی کو شریک نہیں کرتا",
+        "id": "Katakanlah (Muhammad), \"Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "72:21",
+      "verse_number": 21,
+      "text_uthmani": "قُلۡ إِنِّي لَآ أَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا رَشَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Indeed, I do not possess for you [the power of] harm or right direction",
+        "fr": "Dis: «Je ne possède aucun moyen pour vous faire du mal, ni pour vous mettre sur le chemin droit»",
+        "tr": "De ki: \"Ben size zarar vermeye de iyilik yapmaya da kadir değilim",
+        "ur": "کہو، \"میں تم لوگوں کے لئے نہ کسی نقصان کا اختیار رکھتا ہوں نہ کسی بھلائی کا",
+        "id": "Katakanlah (Muhammad), \"Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "72:22",
+      "verse_number": 22,
+      "text_uthmani": "قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Indeed, there will never protect me from Allah anyone [if I should disobey], nor will I find in other than Him a refuge",
+        "fr": "Dis: «Vraiment, personne ne saura me protéger contre Allah; et jamais je ne trouverai de refuge en dehors de Lui",
+        "tr": "De ki: \"Beni kimse Allah'a karşı savunamaz ve ben O'ndan başka bir sığınak bulamam",
+        "ur": "کہو، \"مجھے اللہ کی گرفت سے کوئی نہیں بچا سکتا اور نہ میں اُس کے دامن کے سوا کوئی جائے پناہ پا سکتا ہوں",
+        "id": "Katakanlah (Muhammad), \"Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "72:23",
+      "verse_number": 23,
+      "text_uthmani": "إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "But [I have for you] only notification from Allah, and His messages.\" And whoever disobeys Allah and His Messenger - then indeed, for him is the fire of Hell; they will abide therein forever",
+        "fr": "[Je ne puis que transmettre] une communication et des messages [émanant] d'Allah. Et quiconque désobéit à Allah et à Son Messager aura le feu de l'Enfer pour y demeurer éternellement",
+        "tr": "Benim yaptığım yalnız, Allah katından olanı, O'nun gönderdiklerini tebliğdir. Allah'a ve Peygamberine kim karşı gelirse ona, içinde sonsuz ve temelli kalınacak cehennem ateşi vardır",
+        "ur": "میرا کام اس کے سوا کچھ نہیں ہے کہ اللہ کی بات اور اس کے پیغامات پہنچا دوں اب جو بھی اللہ اور اس کے رسول کی بات نہ مانے گا اس کے لیے جہنم کی آگ ہے اور ایسے لوگ اس میں ہمیشہ رہیں گے",
+        "id": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "72:24",
+      "verse_number": 24,
+      "text_uthmani": "حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرٗا وَأَقَلُّ عَدَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "[The disbelievers continue] until, when they see that which they are promised, then they will know who is weaker in helpers and less in number",
+        "fr": "Puis, quand ils verront ce dont on les menaçait, ils sauront lesquels ont les secours les plus faibles et [lesquels] sont les moins nombreux",
+        "tr": "Sonunda, kendilerine söz verileni gördükleri zaman, kimin yardımcısının daha güçsüz ve sayısının daha az olduğunu bileceklerdir",
+        "ur": "(یہ لوگ اپنی اِس روش سے باز نہ آئیں گے) یہاں تک کہ جب اُس چیز کو دیکھ لیں گے جس کا اِن سے وعدہ کیا جا رہا ہے تو انہیں معلوم ہو جائے گا کہ کس کے مددگار کمزور ہیں اور کس کا جتھا تعداد میں کم ہے",
+        "id": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "72:25",
+      "verse_number": 25,
+      "text_uthmani": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Say, \"I do not know if what you are promised is near or if my Lord will grant for it a [long] period",
+        "fr": "Dis: «Je ne sais pas si ce dont vous êtes menacés est proche, ou bien, si mon Seigneur va lui assigner un délai",
+        "tr": "De ki: Size söz verilen yakın mıdır, yoksa Rabbim onu uzun süreli mi kılmıştır ben bilmem",
+        "ur": "کہو، \"میں نہیں جانتا کہ جس چیز کا وعدہ تم سے کیا جا رہا ہے وہ قریب ہے یا میرا رب اس کے لیے کوئی لمبی مدت مقرر فرماتا ہے",
+        "id": "Katakanlah (Muhammad), \"Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "72:26",
+      "verse_number": 26,
+      "text_uthmani": "عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "[He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone",
+        "fr": "[C'est Lui] qui connaît le mystère. Il ne dévoile Son mystère à personne",
+        "tr": "Görülmeyeni bilen Allah, görülmeyene kimseyi muttali kılmaz",
+        "ur": "وہ عالم الغیب ہے، اپنے غیب پر کسی کو مطلع نہیں کرتا",
+        "id": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "72:27",
+      "verse_number": 27,
+      "text_uthmani": "إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدٗا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "Except whom He has approved of messengers, and indeed, He sends before each messenger and behind him observers",
+        "fr": "sauf à celui qu'Il agrée comme Messager et qu'Il fait précéder et suivre de gardiens vigilants",
+        "tr": "Ancak peygamberlerden, bildirmek istediği bunun dışındadır. Rablerinin bildirilerini tebliğ etmelerini ortaya koymak için her peygamberin önünden ve ardından gözcüler salar; onların yaptıklarını ilmiyle kuşatır ve herşeyi bir bir sayar",
+        "ur": "سوائے اُس رسول کے جسے اُس نے (غیب کا کوئی علم دینے کے لیے) پسند کر لیا ہو، تو اُس کے آگے اور پیچھے وہ محافظ لگا دیتا ہے",
+        "id": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "72:28",
+      "verse_number": 28,
+      "text_uthmani": "لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا",
+      "chapter_id": 72,
+      "words": [],
+      "translations": {
+        "en": "That he may know that they have conveyed the messages of their Lord; and He has encompassed whatever is with them and has enumerated all things in number",
+        "fr": "afin qu'Il sache s'ils ont bien transmis les messages de leur Seigneur. Il cerne (de Son savoir) ce qui est avec eux, et dénombre exactement toute chose",
+        "tr": "Ancak peygamberlerden, bildirmek istediği bunun dışındadır. Rablerinin bildirilerini tebliğ etmelerini ortaya koymak için her peygamberin önünden ve ardından gözcüler salar; onların yaptıklarını ilmiyle kuşatır ve herşeyi bir bir sayar",
+        "ur": "تاکہ وہ جان لے کہ انہوں نے اپنے رب کے پیغامات پہنچا دیے، اور وہ اُن کے پورے ماحول کا احاطہ کیے ہوئے ہے اور ایک ایک چیز کو اس نے گن رکھا ہے",
+        "id": "Agar Dia mengetahui, bahwa rasul-rasul itu sungguh, telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 72,
+    "name_arabic": "الجن",
+    "name_english": "Al-Jinn"
+  }
+}

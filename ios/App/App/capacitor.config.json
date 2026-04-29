@@ -1,0 +1,26 @@
+{
+	"appId": "com.hyya.prayerpal.open",
+	"appName": "hYYa Prayer Pal (Source)",
+	"webDir": "dist",
+	"plugins": {
+		"LocalNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			],
+			"sound": "rebound",
+			"smallIcon": "ic_stat_prayer_notification",
+			"iconColor": "#F59E0B"
+		}
+	},
+	"packageClassList": [
+		"InAppReviewPlugin",
+		"CAPBrowserPlugin",
+		"FilesystemPlugin",
+		"GeolocationPlugin",
+		"HapticsPlugin",
+		"LocalNotificationsPlugin",
+		"PreferencesPlugin"
+	]
+}

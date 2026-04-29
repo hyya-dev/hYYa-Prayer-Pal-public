@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' capacitor://* http://localhost:* https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com; img-src 'self' data: blob: https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com; media-src 'self' capacitor://* http://localhost:* data: blob: https://download.quranicaudio.com https://verses.quran.com; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; connect-src 'self' capacitor://* http://localhost:* https://api.aladhan.com https://api.quran.com https://api3.islamhouse.com https://download.quranicaudio.com https://verses.quran.com;">
+    <title>hYYa Prayer Pal</title>
+
+    <!-- Analytics removed - native app only -->
+    <meta
+      name="description"
+      content="Your cute companion for spiritual moments, prayer reminders, and a blessed life."
+    />
+    <meta name="author" content="hYYa Prayer Pal" />
+    <meta name="theme-color" content="#1a1a2e" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="apple-mobile-web-app-title" content="hYYa Prayer Pal" />
+
+    <!-- Social meta tags removed - native app only -->
+
+    <!-- App Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Arabic fonts: Cairo for premium UI readability + Amiri Quran fallback -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet" />
+
+    <style>
+      /* Safe area support */
+      .pt-safe {
+        padding-top: var(--safe-area-inset-top, env(safe-area-inset-top, 0px));
+      }
+      .pb-safe {
+        padding-bottom: var(
+          --safe-area-inset-bottom,
+          env(safe-area-inset-bottom, 0px)
+        );
+      }
+      .safe-area-pb {
+        padding-bottom: max(
+          1.5rem,
+          var(--safe-area-inset-bottom, env(safe-area-inset-bottom, 0px))
+        );
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-Bui7Z3Qa.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-DC--i9oH.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-misc-BOFaJmlI.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-i18n-BvlPjYPE.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-am-C6xffyjK.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ar-BTsQcDv8.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-as-DFo9an1D.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-az-DrQJQUlt.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ber-BiUL1FAw.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-bg-B2MTtqOF.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-bm-DVz2FeYU.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-bn-CAGnu1GU.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-bs-BJh9aMxc.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-de-DfCHVfQM.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-dv-W7YXl9p_.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-en-J1fNnP8b.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-es-3sCOS5yJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-fa-BmZ6GXKv.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-fr-C0CjjQxA.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-gu-Cr3dOmPj.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ha-CXAheLcz.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-he-DCgKupIw.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-hi-DTzrjR2k.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-id-CW_Hv5Ra.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-it-BlZoPV1e.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ja-C1zTmoUl.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-kk-D3dJDsF2.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-km-BQ84SPRL.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ko-FWZeV_w_.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ku-yg9VhqtO.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ml-BbV7PYun.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-mr-DN5ezQ1p.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-mrw-BsjUiHVb.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ms-CSnMTfwb.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ne-Cqi93kVF.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-nl-DDRjyWMS.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-om-BV83ffzL.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-pl-4e_Lo-ra.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-prs-DDKdgIGA.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ps-D817w8Fe.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-pt-kSvQp1iq.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ro-BPJZVq-V.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ru-BxELbxb6.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-rw-Cw-mKeAf.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-sd-DMoyr8ut.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-si-BlFJeiwG.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-so-BIUs572c.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-sq-gDgT06U3.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-sv-1FJpZz_b.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-sw-CfoC60oZ.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ta-8hAu8dKI.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-te-Bz1dwg41.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-tg-CuQI8enE.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-th-eP574nm4.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-tl-CFm19qUF.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-tr-CPW_KZt_.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ug-DUQ0Umj-.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-uk-DVDwE78m.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-ur-CUfZArgB.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-uz-B9PByXe0.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-vi-8Mkfinlj.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-yau-DL8vMIhc.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-yo-C0_ULJEg.js">
+    <link rel="modulepreload" crossorigin href="/assets/locale-zh-tvayNuCy.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-ui-DJ0CeuV6.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-router-DU8XnlJa.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-ByGlyVI8.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

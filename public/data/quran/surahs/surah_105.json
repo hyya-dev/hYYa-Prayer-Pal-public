@@ -1,0 +1,84 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "105:1",
+      "verse_number": 1,
+      "text_uthmani": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+      "chapter_id": 105,
+      "words": [],
+      "translations": {
+        "en": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant",
+        "fr": "N'as-tu pas vu comment ton Seigneur a agi envers les gens de l'Eléphant",
+        "tr": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi",
+        "ur": "تم نے دیکھا نہیں کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
+        "id": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "105:2",
+      "verse_number": 2,
+      "text_uthmani": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+      "chapter_id": 105,
+      "words": [],
+      "translations": {
+        "en": "Did He not make their plan into misguidance",
+        "fr": "N'a-t-Il pas rendu leur ruse complètement vaine",
+        "tr": "Onların düzenlerini boşa çıkarmadı mı",
+        "ur": "کیا اُس نے اُن کی تدبیر کو اکارت نہیں کر دیا؟",
+        "id": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "105:3",
+      "verse_number": 3,
+      "text_uthmani": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+      "chapter_id": 105,
+      "words": [],
+      "translations": {
+        "en": "And He sent against them birds in flocks",
+        "fr": "et envoyé sur eux des oiseaux par volées",
+        "tr": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi",
+        "ur": "اور اُن پر پرندوں کے جھنڈ کے جھنڈ بھیج دیے",
+        "id": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "105:4",
+      "verse_number": 4,
+      "text_uthmani": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+      "chapter_id": 105,
+      "words": [],
+      "translations": {
+        "en": "Striking them with stones of hard clay",
+        "fr": "qui leur lançaient des pierres d'argile",
+        "tr": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi",
+        "ur": "جو اُن پر پکی ہوئی مٹی کے پتھر پھینک رہے تھے",
+        "id": "yang melempari mereka dengan batu dari tanah liat yang dibakar"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "105:5",
+      "verse_number": 5,
+      "text_uthmani": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+      "chapter_id": 105,
+      "words": [],
+      "translations": {
+        "en": "And He made them like eaten straw",
+        "fr": "Et Il les a rendus semblables à une paille mâchée",
+        "tr": "Sonunda onları, yenilmiş ekin gibi yaptı",
+        "ur": "پھر اُن کا یہ حال کر دیا جیسے جانوروں کا کھایا ہوا بھوسا",
+        "id": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 105,
+    "name_arabic": "الفيل",
+    "name_english": "Al-Fil"
+  }
+}

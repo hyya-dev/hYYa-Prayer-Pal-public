@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Hatua ya Kwanza: Nia na Ihram",
+        "details": "<ul><li>Nia ya kufanya Umra, ingia katika Ihram kwenye Miqat, na uanze Talbiyah.</li><li>Alifuata makatazo Ihram, na akakamilisha utakaso wa ibada kabla ya kuanza ibada.</li></ul>",
+        "evidence": "Quran 2:196 na mwaka wa kuanza ibada kutoka Miqat.",
+        "referenceLabel": "Wizara ya Umrah na Mwongozo wa Ziara"
+      },
+      {
+        "title": "Hatua ya Pili: Kuingia Al-Masjid Al-Haram",
+        "details": "<ul><li>Ingia kimya kimya, kwa maombi na unyenyekevu.</li><li>Anza kutoka upande unaorahisisha harakati salama kupitia umati, kisha elekea eneo la Tawaf.</li></ul>",
+        "evidence": "Miongozo ya jumla ya kinabii kuhusu adabu katika misikiti na kurahisisha ibada.",
+        "referenceLabel": "Kituo cha Uhamasishaji cha Mawaziri"
+      },
+      {
+        "title": "Hatua ya tatu: Tawaf (safu saba)",
+        "details": "<ul><li>Fanya Tawaf kuzunguka Kaabah mara saba, kuanzia mstari wa Black Stone.</li><li>Endelea kumkumbuka Mungu na epuka kuwadhuru wengine katika harakati za umati.</li><li class=\"pp-ios-only\"> Ushauri: Tumia programu ya Apple Watch ili kukusaidia kuhesabu saketi zako Tawaf.</li><li class=\"pp-android-only\"> Ushauri: Tumia programu Wear OS kwenye saa yako ili kukusaidia kuhesabu saketi zako Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 na maelezo yaliyoandikwa kuhusu kuzunguka kwa Mtume.",
+        "referenceLabel": "Miongozo ya safari ya Umrah huko Nosuk"
+      },
+      {
+        "title": "Hatua ya Nne: Sala baada ya Tawaf",
+        "details": "<ul><li>Sali rakaa mbili baada ya kukamilisha Tawaf ikiwezekana bila kuwadhuru jamaa, kisha endelea kwa utaratibu mzuri kunywa maji Zamzam.</li></ul>",
+        "evidence": "Mazoea yaliyothibitishwa vizuri katika hadithi sahihi kuhusu sala baada ya Tawaf.",
+        "referenceLabel": "Wizara ya Umrah na Mwongozo wa Ziara"
+      },
+      {
+        "title": "Hatua ya tano: Saie kati ya Safa na Marwah",
+        "details": "<ul><li>Fanya Saie kwa mizunguko saba kati ya Safa na Marwah, kuanzia Safa na kuishia Marwah, kwa dua na ukumbusho.</li><li class=\"pp-ios-only\"> Ushauri: Tumia programu ya Apple Watch ili kukusaidia kuhesabu mbio Saie.</li><li class=\"pp-android-only\"> Ushauri: Tumia programu Wear OS kwenye saa yako ili kukusaidia kuhesabu mbio Saie.</li></ul>",
+        "evidence": "Quran 2:158 na masimulizi sahihi kulingana na utaratibu wa mjumbe.",
+        "referenceLabel": "Miongozo ya safari ya Umrah huko Nosuk"
+      },
+      {
+        "title": "Hatua ya sita: Kukata nywele au kunyoa",
+        "details": "<ul><li>Wanaume hunyoa au kukata nywele zao, na wanawake hukata sehemu ndogo ya nywele hizo.</li><li>Na kwa hili, Umrah huisha na Ihram huisha.</li></ul>",
+        "evidence": "Quran 48:27 na masimulizi sahihi yanayohusiana na kunyoa na kufupisha.",
+        "referenceLabel": "Wizara ya Umrah na Mwongozo wa Ziara"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Hatua ya Kwanza: Ihram na Nia ya Hijja",
+        "details": "<ul><li>Ingia kwenye ihram huko Miqat, panga aina yako ya Hijja, kisha endelea na Talbiyah.</li><li>Fuata sheria Ihram hadi ufikie njia za kutokea Ihram.</li></ul>",
+        "evidence": "Quran 2:196 na desturi za kinabii zilizokubaliwa kwa ajili ya kuanza kwa Hija.",
+        "referenceLabel": "Miongozo ya Wizara ya Hijja"
+      },
+      {
+        "title": "Hatua ya Pili: Yawm at-Tarwiyah huko Mina",
+        "details": "<ul><li>Siku ya nane ya Dhul Hijjah, elekea Mina, fanya sala kwa nyakati zake zilizowekwa, na jiandae kiroho na kimantiki kwa ajili ya ukumbusho Arafah.</li></ul>",
+        "evidence": "Mfuatano wa mila zilizoandikwa katika safari ya kuaga.",
+        "referenceLabel": "Safari ya Hijja kwenda Nosuk"
+      },
+      {
+        "title": "Hatua ya Tatu: Kusimama Arafah",
+        "details": "<ul><li>Tumia siku ya tisa ya Dhul Hijjah huko Arafah ukiomba, ukimkumbuka Mungu, na kutubu.</li><li>Hii ndiyo nguzo muhimu ya Hijja.</li></ul>",
+        "evidence": "Hadith: Hija ni Arafah.",
+        "referenceLabel": "Miongozo ya Wizara ya Hijja"
+      },
+      {
+        "title": "Hatua ya nne: Muzdalifah na kukusanya kokoto",
+        "details": "<ul><li>Baada ya jua kutua, nenda Muzdalifah, sali Maghrib na Isha, lala huko, na kusanya kokoto kwa ajili ya kurusha mawe Mina.</li></ul>",
+        "evidence": "Mfuatano wa unabii baada ya Arafah katika masimulizi sahihi.",
+        "referenceLabel": "Safari ya Hijja kwenda Nosuk"
+      },
+      {
+        "title": "Hatua ya Tano: Rami, Sadaka, na Ushairi",
+        "details": "<ul><li>Siku ya Eid, unaporusha jiwe la Jamarat al-Aqabah, toa kafara inapobidi, kisha nyoa au kata nywele zako kwa ajili ya tahlil ya kwanza.</li></ul>",
+        "evidence": "Quran 22:36-37 na mfuatano wa hadithi sahihi.",
+        "referenceLabel": "Miongozo ya Wizara ya Hijja"
+      },
+      {
+        "title": "Hatua ya sita: Tawaf al-Ifadah (raundi saba)",
+        "details": "<ul><li>Rudi Makka kufanya Tawaf al-Ifadah, kamilisha mizunguko saba, na uendelee na harakati salama na zenye mpangilio wakati wa shughuli nyingi.</li><li class=\"pp-ios-only\"> Ushauri: Tumia programu ya Apple Watch ili kukusaidia kuhesabu saketi zako Tawaf.</li><li class=\"pp-android-only\"> Ushauri: Tumia programu Wear OS kwenye saa yako ili kukusaidia kuhesabu saketi zako Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 na maelezo yaliyoandikwa ya mzunguko wa lazima.",
+        "referenceLabel": "Safari ya Hijja kwenda Nosuk"
+      },
+      {
+        "title": "Hatua ya 7: Mwambie mtu anayehitajika",
+        "details": "<ul><li>Fanya Saie wakati aina yako ya Hijja inahitaji, huku ukidumisha mfuatano na idadi ya mizunguko saba kati ya Safa na Marwah.</li><li class=\"pp-ios-only\"> Ushauri: Tumia programu ya Apple Watch ili kukusaidia kuhesabu mbio Saie.</li><li class=\"pp-android-only\"> Ushauri: Tumia programu Wear OS kwenye saa yako ili kukusaidia kuhesabu mbio Saie.</li></ul>",
+        "evidence": "Quran 2:158 na matumizi yake ya kisheria katika ibada za Hijja.",
+        "referenceLabel": "Miongozo ya Wizara ya Hijja"
+      },
+      {
+        "title": "Hatua ya 8: Ayyam at-Tashriq na Tawaf al-Wada&#39;",
+        "details": "<ul><li>Kukaa Mina wakati wa Tashreeq ili kufanya ibada za kutupa Jamarat, kisha kukamilisha Tawaf al-Wada&#39; kabla ya kuondoka Makka, isipokuwa wale ambao wameachiliwa.</li><li class=\"pp-ios-only\"> Ushauri: Tumia programu ya Apple Watch ili kukusaidia kuhesabu saketi zako Tawaf.</li><li class=\"pp-android-only\"> Ushauri: Tumia programu Wear OS kwenye saa yako ili kukusaidia kuhesabu saketi zako Tawaf.</li></ul>",
+        "evidence": "Tambiko zilizoanzishwa zimejengwa juu ya mwongozo Quran na utekelezaji sahihi wa Sunnah za Kinabii.",
+        "referenceLabel": "Safari ya Hijja kwenda Nosuk"
+      }
+    ]
+  }
+}

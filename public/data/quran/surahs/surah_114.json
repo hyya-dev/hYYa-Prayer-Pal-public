@@ -1,0 +1,99 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "114:1",
+      "verse_number": 1,
+      "text_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "Say, \"I seek refuge in the Lord of mankind",
+        "fr": "Dis: «Je cherche protection auprès du Seigneur des hommes",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "کہو، میں پناہ مانگتا ہوں انسانوں کے رب",
+        "id": "Katakanlah, \"Aku berlindung kepada Tuhannya manusia"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "114:2",
+      "verse_number": 2,
+      "text_uthmani": "مَلِكِ ٱلنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "The Sovereign of mankind",
+        "fr": "Le Souverain des hommes",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "انسانوں کے بادشاہ",
+        "id": "Raja manusia"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "114:3",
+      "verse_number": 3,
+      "text_uthmani": "إِلَٰهِ ٱلنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "The God of mankind",
+        "fr": "Dieu des hommes",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "انسانوں کے حقیقی معبود کی",
+        "id": "sembahan manusia"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "114:4",
+      "verse_number": 4,
+      "text_uthmani": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "From the evil of the retreating whisperer",
+        "fr": "contre le mal du mauvais conseiller, furtif",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے",
+        "id": "dari kejahatan (bisikan) setan yang bersembunyi"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "114:5",
+      "verse_number": 5,
+      "text_uthmani": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "Who whispers [evil] into the breasts of mankind",
+        "fr": "qui souffle le mal dans les poitrines des hommes",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+        "id": "yang membisikkan (kejahatan) ke dalam dada manusia"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "114:6",
+      "verse_number": 6,
+      "text_uthmani": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+      "chapter_id": 114,
+      "words": [],
+      "translations": {
+        "en": "From among the jinn and mankind",
+        "fr": "qu'il (le conseiller) soit un djinn, ou un être humain»",
+        "tr": "De ki: \"İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım",
+        "ur": "خواہ وہ جنوں میں سے ہو یا انسانوں میں سے",
+        "id": "dari (golongan) jin dan manusia"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 114,
+    "name_arabic": "الناس",
+    "name_english": "An-Nas"
+  }
+}

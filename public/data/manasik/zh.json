@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "第一步：意念與Ihram",
+        "details": "<ul><li>打算進行副朝，在Miqat進入受戒，並開始Talbiyah。</li><li>他遵守了Ihram禁忌，並在開始儀式前完成了潔淨禮。</li></ul>",
+        "evidence": "Quran 2:196 和從Miqat開始舉行儀式的年份。",
+        "referenceLabel": "副朝部和旅遊指南"
+      },
+      {
+        "title": "第二步：進入Al-Masjid Al-Haram",
+        "details": "<ul><li>靜靜地進入，帶著祈禱和謙卑。</li><li>從便於安全穿過人群的一側開始，然後前往Tawaf區域。</li></ul>",
+        "evidence": "關於清真寺禮儀和禮拜便利的一般先知指導原則。",
+        "referenceLabel": "部長級意識中心"
+      },
+      {
+        "title": "第三步： Tawaf （七圈）",
+        "details": "<ul><li>從Black Stone線開始，繞著Kaabah七次Tawaf。</li><li>在人群中，要時時謹記上帝，避免傷害他人。</li><li class=\"pp-ios-only\">提示：使用Apple Watch應用程式來幫助你計算Tawaf房的次數。</li><li class=\"pp-android-only\">提示：使用手錶上的Wear OS應用程式來幫助你計算Tawaf天房的次數。</li></ul>",
+        "evidence": "Quran 22:29 和先知環遊天房的記載。",
+        "referenceLabel": "諾蘇克朝覲指南"
+      },
+      {
+        "title": "第四步： Tawaf後的祈禱",
+        "details": "<ul><li>完成Tawaf後，如果可能，在不傷害會眾的情況下，禮兩拜，然後有條不紊地去喝Zamzam泉水。</li></ul>",
+        "evidence": "在可靠的聖訓中，關於Tawaf後祈禱的慣例已得到充分證實。",
+        "referenceLabel": "副朝部和旅遊指南"
+      },
+      {
+        "title": "第五步： Safa和Marwah之間的Saie",
+        "details": "<ul><li>從Safa Safa Marwah Marwah，繞行七圈，途中Saie禱詞和記念詞。</li><li class=\"pp-ios-only\">提示：使用Apple Watch應用程式來幫助你計算Saie跑動次數。</li><li class=\"pp-android-only\">提示：使用手錶上的Wear OS應用程式來幫助你統計Saie跑步次數。</li></ul>",
+        "evidence": "Quran 2:158 以及根據使者命令的可靠傳述。",
+        "referenceLabel": "諾蘇克朝覲指南"
+      },
+      {
+        "title": "第六步：理髮或刮鬍子",
+        "details": "<ul><li>男士剃光或剪頭髮，女士修剪一小部分頭髮。</li><li>至此，副朝結束， Ihram也解除。</li></ul>",
+        "evidence": "Quran 48:27 和有關剃鬚和剪髮的可靠聖訓。",
+        "referenceLabel": "副朝部和旅遊指南"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "第一步： Ihram和朝覲意向",
+        "details": "<ul><li>在Miqat進入戒律狀態，表示你的朝覲類型，然後進行Talbiyah。</li><li>遵守Ihram直到離開Ihram。</li></ul>",
+        "evidence": "Quran 2:196 和公認的先知朝覲開始儀式。",
+        "referenceLabel": "朝覲部指南"
+      },
+      {
+        "title": "第二步： Mina的Yawm at-Tarwiyah",
+        "details": "<ul><li>在Dhul Hijjah八日，前往Mina，在規定的時間進行祈禱，並在精神和後勤方面為Arafah紀念活動做好準備。</li></ul>",
+        "evidence": "告別旅程中一系列有據可查的儀式。",
+        "referenceLabel": "前往諾蘇克的朝覲之旅"
+      },
+      {
+        "title": "第三步：站在Arafah",
+        "details": "<ul><li>在伊Dhul Hijjah九日，前往Arafah祈禱、記念真主、懺悔。</li><li>這是朝覲最重要的支柱。</li></ul>",
+        "evidence": "Hadith ：朝覲是Arafah。",
+        "referenceLabel": "朝覲部指南"
+      },
+      {
+        "title": "第四步： Muzdalifah和採集鵝卵石",
+        "details": "<ul><li>日落後，前往Muzdalifah，做昏禮和宵禮，在那裡過夜，並收集鵝卵石，準備向Mina扔石頭。</li></ul>",
+        "evidence": "Arafah之後，先知們在可靠傳述中的事蹟。",
+        "referenceLabel": "前往諾蘇克的朝覲之旅"
+      },
+      {
+        "title": "第五步：拉米、犧牲與詩歌",
+        "details": "<ul><li>在開齋節當天，投擲Jamarat al-Aqabah石時，在必要時進行宰牲，然後剃頭或剪髮以進行第一次塔赫利勒儀式。</li></ul>",
+        "evidence": "Quran 22:36-37 和可靠的聖訓順序。",
+        "referenceLabel": "朝覲部指南"
+      },
+      {
+        "title": "第六步： Tawaf al-Ifadah （七輪）",
+        "details": "<ul><li>返回麥加進行環遊天房Tawaf al-Ifadah，完成七圈，並在繁忙時段保持安全有序的行動。</li><li class=\"pp-ios-only\">提示：使用Apple Watch應用程式來幫助你計算Tawaf房的次數。</li><li class=\"pp-android-only\">提示：使用手錶上的Wear OS應用程式來幫助你計算Tawaf天房的次數。</li></ul>",
+        "evidence": "Quran 22:29 和強制性環遊天房的記載。",
+        "referenceLabel": "前往諾蘇克的朝覲之旅"
+      },
+      {
+        "title": "步驟 7：告訴需要幫助的人",
+        "details": "<ul><li>如果您的朝覲類型需要，請執行Saie，同時保持Safa和Marwah之間七圈的順序和數量。</li><li class=\"pp-ios-only\">提示：使用Apple Watch應用程式來幫助你計算Saie跑動次數。</li><li class=\"pp-android-only\">提示：使用手錶上的Wear OS應用程式來幫助你統計Saie跑步次數。</li></ul>",
+        "evidence": "Quran 2:158及其在朝覲儀式中的法理應用。",
+        "referenceLabel": "朝覲部指南"
+      },
+      {
+        "title": "步驟 8： Ayyam at-Tashriq和Tawaf al-Wada&#39;",
+        "details": "<ul><li>除了少數例外情況外，其他人在塔什里克節期間留在Mina，進行投擲Jamarat的儀式，然後在離開麥加之前完成Tawaf al-Wada&#39;。</li><li class=\"pp-ios-only\">提示：使用Apple Watch應用程式來幫助你計算Tawaf房的次數。</li><li class=\"pp-android-only\">提示：使用手錶上的Wear OS應用程式來幫助你計算Tawaf天房的次數。</li></ul>",
+        "evidence": "既定的儀式是根據Quran指導和先知Sunnah的正確實踐制定的。",
+        "referenceLabel": "前往諾蘇克的朝覲之旅"
+      }
+    ]
+  }
+}

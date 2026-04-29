@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Small Prayer Widget - Card Y 9%; Name/Time 30%/70%; gap 9dp; Temp further down/right; white text; shadow suited to white -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:padding="0dp"
+    android:clipChildren="false">
+
+    <!-- Background image (mascot) -->
+    <ImageView
+        android:id="@+id/widget_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/widget_background_small"
+        android:contentDescription="@null" />
+
+    <!-- Next Prayer row: Card Y 9%; Name 30%, Time 70% (Y ~15%); gap 9dp -->
+    <LinearLayout
+        android:id="@+id/prayer_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+            android:layoutDirection="ltr"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="14dp"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp"
+        android:gravity="center_vertical">
+
+        <!-- Next prayer name - card fixed; font scales 10–16sp to fit name length -->
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:layout_marginRight="9dp"
+            android:clipChildren="false">
+
+            <TextView
+                android:id="@+id/next_prayer_name_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="2dp"
+                android:gravity="left"
+                android:text="SHUROOQ"
+                android:textColor="#8A0D1F3D"
+                android:textSize="22sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeMaxTextSize="22sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/next_prayer_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="SHUROOQ"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeMaxTextSize="22sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1" />
+
+        </FrameLayout>
+
+        <!-- Next prayer time - card fixed; font scales 10–20sp to fit 12h/24h; soft brown shadow -->
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:clipChildren="false">
+
+            <TextView
+                android:id="@+id/next_prayer_time_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="2dp"
+                android:gravity="right"
+                android:text="6:15 PM"
+                android:textColor="#8A0D1F3D"
+                android:textSize="22sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeMaxTextSize="22sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/next_prayer_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="6:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeMaxTextSize="22sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:maxLines="1" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <!-- Temperature - pushed left (24dp from right) so C aligns under time; soft brown shadow; font scales 10–20sp -->
+    <FrameLayout
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|bottom"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="14dp"
+        android:clipChildren="false"
+        android:visibility="gone"
+        android:id="@+id/temperature_container">
+
+        <TextView
+            android:id="@+id/temperature_text_shadow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="2dp"
+            android:text="32°C"
+            android:textColor="#8A0D1F3D"
+            android:textSize="22sp"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="10sp"
+            android:autoSizeMaxTextSize="22sp"
+            android:autoSizeStepGranularity="1sp"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/temperature_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="32°C"
+            android:textColor="#FFFFFF"
+            android:textSize="22sp"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="10sp"
+            android:autoSizeMaxTextSize="22sp"
+            android:autoSizeStepGranularity="1sp"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:maxLines="1" />
+
+    </FrameLayout>
+
+    <!-- Empty state overlay (hidden by default) -->
+    <LinearLayout
+        android:id="@+id/empty_state"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome!"
+            android:textColor="#B9852D"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingVertical="8dp"
+            android:paddingHorizontal="16dp"
+            android:shadowColor="#F01A0F00"
+            android:shadowDx="3.2"
+            android:shadowDy="3.2"
+            android:shadowRadius="4.4"
+            android:elevation="4dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Open App to Sync"
+            android:textColor="#B9852D"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingVertical="6dp"
+            android:paddingHorizontal="11dp"
+            android:shadowColor="#F01A0F00"
+            android:shadowDx="3.2"
+            android:shadowDy="3.2"
+            android:shadowRadius="4.4"
+            android:elevation="4dp" />
+
+    </LinearLayout>
+
+</FrameLayout>

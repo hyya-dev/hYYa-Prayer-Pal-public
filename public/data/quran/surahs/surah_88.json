@@ -1,0 +1,399 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "88:1",
+      "verse_number": 1,
+      "text_uthmani": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Has there reached you the report of the Overwhelming [event]",
+        "fr": "T'est-il parvenu le récit de l'enveloppante",
+        "tr": "Her şeyi kaplayacak kıyametin haberi sana gelmedi mi",
+        "ur": "کیا تمہیں اُس چھا جانے والی آفت کی خبر پہنچی ہے؟",
+        "id": "Sudahkah sampai kepadamu berita tentang (hari Kiamat)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "88:2",
+      "verse_number": 2,
+      "text_uthmani": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "[Some] faces, that Day, will be humbled",
+        "fr": "Ce jour-là, il y aura des visages humiliés",
+        "tr": "O gün bir takım yüzler zillete bürünmüştür",
+        "ur": "کچھ چہرے اُس روز خوف زدہ ہونگے",
+        "id": "Pada hari itu banyak wajah yang tertunduk hina"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "88:3",
+      "verse_number": 3,
+      "text_uthmani": "عَامِلَةٞ نَّاصِبَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Working [hard] and exhausted",
+        "fr": "préoccupés, harassés",
+        "tr": "Zor işler altında bitkin düşmüştür",
+        "ur": "سخت مشقت کر رہے ہونگے",
+        "id": "(karena) bekerja keras lagi kepayahan"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "88:4",
+      "verse_number": 4,
+      "text_uthmani": "تَصۡلَىٰ نَارًا حَامِيَةٗ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "They will [enter to] burn in an intensely hot Fire",
+        "fr": "Ils brûleront dans un Feu ardent",
+        "tr": "Yakıcı ateşe yaslanırlar",
+        "ur": "تھکے جاتے ہونگے، شدید آگ میں جھلس رہے ہونگے",
+        "id": "mereka memasuki api yang sangat panas (neraka)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "88:5",
+      "verse_number": 5,
+      "text_uthmani": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "They will be given drink from a boiling spring",
+        "fr": "et seront abreuvés d'une source bouillante",
+        "tr": "Kızgın bir kaynaktan içirilirler",
+        "ur": "کھولتے ہوئے چشمے کا پانی انہیں پینے کو دیا جائے گا",
+        "id": "diberi minum dari sumber mata air yang sangat panas"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "88:6",
+      "verse_number": 6,
+      "text_uthmani": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "For them there will be no food except from a poisonous, thorny plant",
+        "fr": "Il n'y aura pour eux d'autre nourriture que des plantes épineuses [darî]",
+        "tr": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur",
+        "ur": "خار دار سوکھی گھاس کے سوا کوئی کھانا اُن کے لیے نہ ہوگا",
+        "id": "Tidak ada makanan bagi mereka selain dari pohon yang berduri"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "88:7",
+      "verse_number": 7,
+      "text_uthmani": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Which neither nourishes nor avails against hunger",
+        "fr": "qui n'engraisse, ni n'apaise la faim",
+        "tr": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur",
+        "ur": "جو نہ موٹا کرے نہ بھوک مٹائے",
+        "id": "yang tidak menggemukkan dan tidak menghilangkan lapar"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "88:8",
+      "verse_number": 8,
+      "text_uthmani": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "[Other] faces, that Day, will show pleasure",
+        "fr": "Ce jour-là, il y aura des visages épanouis",
+        "tr": "İnanmış olanların yüzleri, o gün, pırıl pırıldır",
+        "ur": "کچھ چہرے اُس روز با رونق ہوں گے",
+        "id": "Pada hari itu banyak (pula) wajah yang berseri-seri"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "88:9",
+      "verse_number": 9,
+      "text_uthmani": "لِّسَعۡيِهَا رَاضِيَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "With their effort [they are] satisfied",
+        "fr": "contents de leurs efforts",
+        "tr": "Yaptıklarından hoşnuddurlar",
+        "ur": "اپنی کار گزاری پر خوش ہونگے",
+        "id": "merasa senang karena usahanya (sendiri)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "88:10",
+      "verse_number": 10,
+      "text_uthmani": "فِي جَنَّةٍ عَالِيَةٖ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "In an elevated garden",
+        "fr": "dans un haut Jardin",
+        "tr": "Yüksek bir cennettedirler",
+        "ur": "عالی مقام جنت میں ہوں گے",
+        "id": "(mereka) dalam surga yang tinggi"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "88:11",
+      "verse_number": 11,
+      "text_uthmani": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Wherein they will hear no unsuitable speech",
+        "fr": "où ils n'entendent aucune futilité",
+        "tr": "Orada boş söz işitmezler",
+        "ur": "کوئی بیہودہ بات وہاں نہ سنیں گے",
+        "id": "di sana (kamu) tidak mendengar perkataan yang tidak berguna"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "88:12",
+      "verse_number": 12,
+      "text_uthmani": "فِيهَا عَيۡنٞ جَارِيَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Within it is a flowing spring",
+        "fr": "Là, il y aura une source coulante",
+        "tr": "Orada akan kaynak vardır",
+        "ur": "اُس میں چشمے رواں ہونگے",
+        "id": "Di sana ada mata air yang mengalir"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "88:13",
+      "verse_number": 13,
+      "text_uthmani": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Within it are couches raised high",
+        "fr": "Là, des divans élevés",
+        "tr": "Orada, yükseltilmiş tahtlar vardır",
+        "ur": "اُس کے اندر اونچی مسندیں ہوں گی",
+        "id": "Di sana ada dipan-dipan yang ditinggikan"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "88:14",
+      "verse_number": 14,
+      "text_uthmani": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And cups put in place",
+        "fr": "et des coupes posées",
+        "tr": "Yerleştirilmiş kaseler",
+        "ur": "ساغر رکھے ہوئے ہوں گے",
+        "id": "dan gelas-gelas yang tersedia (di dekatnya)"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "88:15",
+      "verse_number": 15,
+      "text_uthmani": "وَنَمَارِقُ مَصۡفُوفَةٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And cushions lined up",
+        "fr": "et des coussins rangés",
+        "tr": "Sıra sıra yastıklar",
+        "ur": "گاؤ تکیوں کی قطاریں لگی ہوں گی",
+        "id": "dan bantal-bantal sandaran yang tersusun"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "88:16",
+      "verse_number": 16,
+      "text_uthmani": "وَزَرَابِيُّ مَبۡثُوثَةٌ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And carpets spread around",
+        "fr": "et des tapis étalés",
+        "tr": "Serilmiş, yumuşak tüylü halılar vardır",
+        "ur": "اور نفیس فرش بچھے ہوئے ہوں گے",
+        "id": "dan permadani-permadani yang terhampar"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "88:17",
+      "verse_number": 17,
+      "text_uthmani": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Then do they not look at the camels - how they are created",
+        "fr": "Ne considèrent-ils donc pas les chameaux, comment ils ont été créés",
+        "tr": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı",
+        "ur": "(یہ لوگ نہیں مانتے) تو کیا یہ اونٹوں کو نہیں دیکھتے کہ کیسے بنائے گئے؟",
+        "id": "Maka tidakkah mereka memperhatikan unta, bagaimana diciptakan"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "88:18",
+      "verse_number": 18,
+      "text_uthmani": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And at the sky - how it is raised",
+        "fr": "et le ciel comment il est élevé",
+        "tr": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı",
+        "ur": "آسمان کو نہیں دیکھتے کہ کیسے اٹھایا گیا؟",
+        "id": "Dan langit, bagaimana ditinggikan"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "88:19",
+      "verse_number": 19,
+      "text_uthmani": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And at the mountains - how they are erected",
+        "fr": "et les montagnes comment elles sont dressées",
+        "tr": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı",
+        "ur": "پہاڑوں کو نہیں دیکھتے کہ کیسے جمائے گئے؟",
+        "id": "Dan gunung-gunung bagaimana ditegakkan"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "88:20",
+      "verse_number": 20,
+      "text_uthmani": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "And at the earth - how it is spread out",
+        "fr": "et la terre comment elle est nivelée",
+        "tr": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı",
+        "ur": "اور زمین کو نہیں دیکھتے کہ کیسے بچھائی گئی؟",
+        "id": "Dan bumi bagaimana dihamparkan"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "88:21",
+      "verse_number": 21,
+      "text_uthmani": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "So remind, [O Muhammad]; you are only a reminder",
+        "fr": "Eh bien, rappelle! Tu n'es qu'un rappeleur",
+        "tr": "Sen öğüt ver! Esasen sen sadece bir öğütçüsün",
+        "ur": "اچھا تو (اے نبیؐ) نصیحت کیے جاؤ، تم بس نصیحت ہی کرنے والے ہو",
+        "id": "Maka berilah peringatan, karena sesungguhnya engkau (Muhammad) hanyalah pemberi peringatan"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "88:22",
+      "verse_number": 22,
+      "text_uthmani": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "You are not over them a controller",
+        "fr": "et tu n'es pas un dominateur sur eux",
+        "tr": "Sen, onlara zor kullanacak değilsin",
+        "ur": "کچھ ان پر جبر کرنے والے نہیں ہو",
+        "id": "Engkau bukanlah orang yang berkuasa atas mereka"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "88:23",
+      "verse_number": 23,
+      "text_uthmani": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "However, he who turns away and disbelieves",
+        "fr": "Sauf celui qui tourne le dos et ne croit pas",
+        "tr": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır",
+        "ur": "البتہ جو شخص منہ موڑے گا اور انکار کرے گا",
+        "id": "kecuali (jika ada) orang yang berpaling dan kafir"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "88:24",
+      "verse_number": 24,
+      "text_uthmani": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Then Allah will punish him with the greatest punishment",
+        "fr": "alors Allah le châtiera du plus grand châtiment",
+        "tr": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır",
+        "ur": "تو اللہ اس کو بھاری سزا دے گا",
+        "id": "maka Allah akan mengazabnya dengan azab yang besar"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "88:25",
+      "verse_number": 25,
+      "text_uthmani": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Indeed, to Us is their return",
+        "fr": "Vers Nous est leur retour",
+        "tr": "Doğrusu onların dönüşü Bize'dir",
+        "ur": "اِن لوگوں کو پلٹنا ہماری طرف ہی ہے",
+        "id": "Sungguh, kepada Kami lah mereka kembali"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "88:26",
+      "verse_number": 26,
+      "text_uthmani": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+      "chapter_id": 88,
+      "words": [],
+      "translations": {
+        "en": "Then indeed, upon Us is their account",
+        "fr": "Ensuite, c'est à Nous de leur demander compte",
+        "tr": "Şüphesiz sonra hesaplarını görmek de Bize düşmektedir",
+        "ur": "پھر اِن کا حساب لینا ہمارے ہی ذمہ ہے",
+        "id": "kemudian sesungguhnya (kewajiban) Kami lah membuat perhitungan atas mereka"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 88,
+    "name_arabic": "الغاشية",
+    "name_english": "Al-Ghashiyah"
+  }
+}

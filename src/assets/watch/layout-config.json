@@ -1,0 +1,41 @@
+{
+  "baseDesign": {
+    "model": "Apple Watch SE 40mm",
+    "width": 324,
+    "height": 394,
+    "note": "Base design - scales UP to larger watches"
+  },
+  "watchSizes": {
+    "SE 40mm": { "width": 324, "height": 394, "scale": 1.0 },
+    "SE 44mm": { "width": 368, "height": 448, "scale": 1.136 },
+    "Series 11 42mm": { "width": 374, "height": 446, "scale": 1.132 },
+    "Series 11 46mm": { "width": 416, "height": 496, "scale": 1.259 },
+    "Ultra 3 49mm": { "width": 422, "height": 514, "scale": 1.305 }
+  },
+  "prayerScreen": {
+    "temperature": {
+      "top": 132,
+      "right": 190,
+      "width": 110,
+      "height": 34,
+      "fontSize": 24
+    },
+    "prayerTimes": {
+      "top": 178,
+      "gap": 2,
+      "fontSize": 16
+    }
+  },
+  "counterScreen": {
+    "counter": {
+      "top": 137,
+      "fontSize": 63
+    },
+    "buttons": {
+      "top": 257,
+      "plusMinusSize": 74,
+      "resetSize": 50,
+      "gap": 30
+    }
+  }
+}

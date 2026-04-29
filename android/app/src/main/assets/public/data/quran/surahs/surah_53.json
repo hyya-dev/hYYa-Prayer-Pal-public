@@ -1,0 +1,939 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "53:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "By the star when it descends",
+        "fr": "Par l'étoile à son déclin",
+        "tr": "Batmakta olan yıldıza and olsun ki",
+        "ur": "قسم ہے تارے کی جبکہ وہ غروب ہوا",
+        "id": "Demi bintang ketika terbenam"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "53:2",
+      "verse_number": 2,
+      "text_uthmani": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Your companion [Muhammad] has not strayed, nor has he erred",
+        "fr": "Votre compagnon ne s'est pas égaré et n'a pas été induit en erreur",
+        "tr": "Arkadaşınız (Muhammed) sapmamış ve azmamıştır",
+        "ur": "تمہارا رفیق نہ بھٹکا ہے نہ بہکا ہے",
+        "id": "kawanmu (Muhammad) tidak sesat dan tidak (pula) keliru"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "53:3",
+      "verse_number": 3,
+      "text_uthmani": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Nor does he speak from [his own] inclination",
+        "fr": "et il ne prononce rien sous l'effet de la passion",
+        "tr": "O, kendiliğinden konuşmamaktadır",
+        "ur": "وہ اپنی خواہش نفس سے نہیں بولتا",
+        "id": "dan tidaklah yang diucapkannya itu (Alquran) menurut keinginannya"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "53:4",
+      "verse_number": 4,
+      "text_uthmani": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "It is not but a revelation revealed",
+        "fr": "ce n'est rien d'autre qu'une révélation inspirée",
+        "tr": "Onun konuşması ancak, bildirilen bir vahy iledir",
+        "ur": "یہ تو ایک وحی ہے جو اُس پر نازل کی جاتی ہے",
+        "id": "Tidak lain (Alquran itu) adalah wahyu yang diwahyukan (kepadanya)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "53:5",
+      "verse_number": 5,
+      "text_uthmani": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Taught to him by one intense in strength",
+        "fr": "Que lui a enseigné [l'Ange Gabriel] à la force prodigieuse",
+        "tr": "Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş",
+        "ur": "اُسے زبردست قوت والے نے تعلیم دی ہے",
+        "id": "yang diajarkan kepadanya oleh (Jibril) yang sangat kuat"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "53:6",
+      "verse_number": 6,
+      "text_uthmani": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "One of soundness. And he rose to [his] true form",
+        "fr": "doué de sagacité; c'est alors qu'il se montra sous sa forme réelle [angélique]",
+        "tr": "Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş",
+        "ur": "جو بڑا صاحب حکمت ہے",
+        "id": "yang mempunyai keteguhan; maka (Jibril itu) menampakkan diri dengan rupa yang asli (rupa yang bagus dan perkasa)"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "53:7",
+      "verse_number": 7,
+      "text_uthmani": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "While he was in the higher [part of the] horizon",
+        "fr": "alors qu'il se trouvait à l'horizon supérieur",
+        "tr": "Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş",
+        "ur": "وہ سامنے آ کھڑا ہوا جبکہ وہ بالائی افق پر تھا",
+        "id": "Sedang dia berada di ufuk yang tinggi"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "53:8",
+      "verse_number": 8,
+      "text_uthmani": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Then he approached and descended",
+        "fr": "Puis il se rapprocha et descendit encore plus bas",
+        "tr": "Sonra yaklaşmış ve inmiştir",
+        "ur": "پھر قریب آیا اور اوپر معلق ہو گیا",
+        "id": "Kemudian dia mendekat (pada Muhammad), lalu bertambah dekat"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "53:9",
+      "verse_number": 9,
+      "text_uthmani": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And was at a distance of two bow lengths or nearer",
+        "fr": "et fut à deux portées d'arc, ou plus près encore",
+        "tr": "Araları iki yay aralığı kadar veya daha da yakın oldu",
+        "ur": "یہاں تک کہ دو کمانوں کے برابر یا اس سے کچھ کم فاصلہ رہ گیا",
+        "id": "sehingga jaraknya (sekitar) dua busur panah atau lebih dekat (lagi)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "53:10",
+      "verse_number": 10,
+      "text_uthmani": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And he revealed to His Servant what he revealed",
+        "fr": "Il révéla à Son serviteur ce qu'Il révéla",
+        "tr": "Allah o anda kuluna vahyedeceğini etti",
+        "ur": "تب اُس نے اللہ کے بندے کو وحی پہنچائی جو وحی بھی اُسے پہنچانی تھی",
+        "id": "Lalu disampaikannya wahyu kepada hamba-Nya (Muhammad) apa yang telah diwahyukan Allah"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "53:11",
+      "verse_number": 11,
+      "text_uthmani": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "The heart did not lie [about] what it saw",
+        "fr": "Le cœur n'a pas menti en ce qu'il a vu",
+        "tr": "Gözünün gördüğünü gönlü yalanlamadı",
+        "ur": "نظر نے جو کچھ دیکھا، دل نے اُس میں جھوٹ نہ ملایا",
+        "id": "Hatinya tidak mendustakan apa yang telah dilihatnya"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "53:12",
+      "verse_number": 12,
+      "text_uthmani": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "So will you dispute with him over what he saw",
+        "fr": "Lui contestez-vous donc ce qu'il voit",
+        "tr": "Ey inkarcılar! Onun gördüğü şey hakkında kendisi ile tartışır mısınız",
+        "ur": "اب کیا تم اُس چیز پر اُس سے جھگڑتے ہو جسے وہ آنکھوں سے دیکھتا ہے؟",
+        "id": "Maka apakah kamu (musyrikin Mekkah) hendak membantahnya tentang apa yang dilihatnya itu"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "53:13",
+      "verse_number": 13,
+      "text_uthmani": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And he certainly saw him in another descent",
+        "fr": "Il l'a pourtant vu, lors d'une autre descente",
+        "tr": "And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüştür",
+        "ur": "اور ایک مرتبہ پھر اُس نے",
+        "id": "Dan sungguh, dia (Muhammad) telah melihatnya (dalam rupanya yang asli) pada waktu yang lain"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "53:14",
+      "verse_number": 14,
+      "text_uthmani": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "At the Lote Tree of the Utmost Boundary",
+        "fr": "près de la Sidrat-ul-Muntahâ",
+        "tr": "And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüştür",
+        "ur": "سدرۃالمنتہیٰ کے پاس اُس کو دیکھا",
+        "id": "(yaitu) di Sidratilmuntahā"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "53:15",
+      "verse_number": 15,
+      "text_uthmani": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Near it is the Garden of Refuge",
+        "fr": "près d'elle se trouve le jardin de Ma'w",
+        "tr": "Orada Me'va cenneti vardır",
+        "ur": "جہاں پاس ہی جنت الماویٰ ہے",
+        "id": "di dekatnya ada surga tempat tinggal"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "53:16",
+      "verse_number": 16,
+      "text_uthmani": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "When there covered the Lote Tree that which covered [it]",
+        "fr": "au moment où le lotus était couvert de ce qui le couvrait",
+        "tr": "Sidre'yi bürüyen bürüyordu",
+        "ur": "اُس وقت سدرہ پر چھا رہا تھا جو کچھ کہ چھا رہا تھا",
+        "id": "(Muhammad melihat Jibril) ketika Sidratilmuntahā diliputi oleh sesuatu yang meliputinya"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "53:17",
+      "verse_number": 17,
+      "text_uthmani": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "The sight [of the Prophet] did not swerve, nor did it transgress [its limit]",
+        "fr": "la vue n'a nullement dévié ni outrepassé la mesure",
+        "tr": "Gözü oradan ne kaydı ve ne de onu aştı",
+        "ur": "نگاہ نہ چوندھیائی نہ حد سے متجاوز ہوئی",
+        "id": "penglihatannya (Muhammad) tidak menyimpang dari yang dilihatnya itu dan tidak (pula) melampauinya"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "53:18",
+      "verse_number": 18,
+      "text_uthmani": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "He certainly saw of the greatest signs of his Lord",
+        "fr": "Il a bien vu certaines des grandes merveilles de son Seigneur",
+        "tr": "And olsun ki Rabbinin varlığının büyük delillerini gördü",
+        "ur": "اور اس نے اپنے رب کی بڑی بڑی نشانیاں دیکھیں",
+        "id": "Sungguh, dia telah melihat sebagian tanda-tanda (kebesaran) Tuhannya yang paling besar"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "53:19",
+      "verse_number": 19,
+      "text_uthmani": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "So have you considered al-Lat and al-'Uzza",
+        "fr": "Que vous en semble [des divinités], Lât et Uuzzâ",
+        "tr": "Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz",
+        "ur": "اب ذرا بتاؤ، تم نے کبھی اِس لات، اور اِس عزیٰ",
+        "id": "Maka apakah patut kamu (orang-orang musyrik) menganggap (berhala) Al-Lāta dan Al-'Uzzā"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "53:20",
+      "verse_number": 20,
+      "text_uthmani": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And Manat, the third - the other one",
+        "fr": "ainsi que Manât, cette troisième autre",
+        "tr": "Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz",
+        "ur": "اور تیسری ایک اور دیوی منات کی حقیقت پر کچھ غور بھی کیا؟",
+        "id": "dan Manāt, yang ketiga yang paling kemudian (sebagai anak perempuan Allah)"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "53:21",
+      "verse_number": 21,
+      "text_uthmani": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Is the male for you and for Him the female",
+        "fr": "Sera-ce à vous le garçon et à Lui la fille",
+        "tr": "Demek erkekler sizin, dişiler Allah'ın mı",
+        "ur": "کیا بیٹے تمہارے لیے ہیں اور بیٹیاں خدا کے لیے؟",
+        "id": "Apakah (pantas) untuk kamu yang laki-laki dan untuk-Nya yang perempuan"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "53:22",
+      "verse_number": 22,
+      "text_uthmani": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "That, then, is an unjust division",
+        "fr": "Que voilà donc un partage injuste",
+        "tr": "Öyleyse bu haksız bir paylaşma",
+        "ur": "یہ تو بڑی دھاندلی کی تقسیم ہوئی",
+        "id": "Yang demikian itu tentulah suatu pembagian yang timpang"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "53:23",
+      "verse_number": 23,
+      "text_uthmani": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "They are not but [mere] names you have named them - you and your forefathers - for which Allah has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance",
+        "fr": "Ce ne sont que des noms que vous avez inventés, vous et vos ancêtres. Allah n'a fait descendre aucune preuve à leur sujet. Ils ne suivent que la conjecture et les passions de [leurs] âmes, alors que la guidée leur est venue de leur Seigneur",
+        "tr": "Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir. Onlar sadece sanıya ve canlarının istediğine uymaktadırlar. Oysa onlara Rablerinden and olsun ki doğruluk rehberi gelmiştir",
+        "ur": "دراصل یہ کچھ نہیں ہیں مگر بس چند نام جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں اللہ نے اِن کے لیے کوئی سند نازل نہیں کی حقیقت یہ ہے کہ لوگ محض وہم و گمان کی پیروی کر رہے ہیں اور خواہشات نفس کے مرید بنے ہوئے ہیں حالانکہ اُن کے رب کی طرف سے اُن کے پاس ہدایت آ چکی ہے",
+        "id": "Itu tidak lain hanyalah nama-nama yang kamu dan nenek moyangmu mengada-adakannya; Allah tidak menurunkan suatu keterangan apa pun untuk (menyembah)nya. Mereka hanya mengikuti dugaan, dan apa yang diingini oleh keinginannya. Padahal sungguh, telah datang petunjuk dari Tuhan mereka"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "53:24",
+      "verse_number": 24,
+      "text_uthmani": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Or is there for man whatever he wishes",
+        "fr": "Ou bien l'homme aura-t-il tout ce qu'il désire",
+        "tr": "Yoksa, her umduğu şey insanın mıdır",
+        "ur": "کیا انسان جو کچھ چاہے اس کے لیے وحی حق ہے",
+        "id": "Atau apakah manusia akan mendapat segala yang dicita-citakannya"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "53:25",
+      "verse_number": 25,
+      "text_uthmani": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Rather, to Allah belongs the Hereafter and the first [life]",
+        "fr": "A Allah appartiennent la vie future et la vie d'ici-bas",
+        "tr": "Hayatın ilki de sonu da Allah'ındır",
+        "ur": "دنیا اور آخرت کا مالک تو اللہ ہی ہے",
+        "id": "(Tidak!) Maka milik Allah lah kehidupan akhirat dan kehidupan dunia"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "53:26",
+      "verse_number": 26,
+      "text_uthmani": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And how many angels there are in the heavens whose intercession will not avail at all except [only] after Allah has permitted [it] to whom He wills and approves",
+        "fr": "Et que d'Anges dans les cieux dont l'intercession ne sert à rien, sinon qu'après qu'Allah l'aura permis, en faveur de qui Il veut et qu'Il agrée",
+        "tr": "Allah, dilediğine ve hoşnut olduğuna izin vermedikçe, göklerde bulunan nice meleklerin şefaati bir şeye yaramaz",
+        "ur": "آسمانوں میں کتنے ہی فرشتے موجود ہیں، اُن کی شفاعت کچھ بھی کام نہیں آ سکتی جب تک کہ اللہ کسی ایسے شخص کے حق میں اُس کی اجازت نہ دے جس کے لیے وہ کوئی عرضداشت سننا چاہے اور اس کو پسند کرے",
+        "id": "Dan betapa banyak malaikat di langit, syafaat (pertolongan) mereka sedikit pun tidak berguna kecuali apabila Allah telah mengizinkan (dan hanya) bagi siapa yang Dia kehendaki dan Dia ridai"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "53:27",
+      "verse_number": 27,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who do not believe in the Hereafter name the angels female names",
+        "fr": "Ceux qui ne croient pas en l'au-delà donnent aux Anges des noms de femmes",
+        "tr": "Doğrusu ahirete inanmayanlar, meleklere \"dişi\" adını takarlar",
+        "ur": "مگر جو لوگ آخرت کو نہیں مانتے وہ فرشتوں کو دیویوں کے ناموں سے موسوم کرتے ہیں",
+        "id": "Sesungguhnya orang-orang yang tidak beriman kepada kehidupan akhirat, sungguh mereka menamakan para malaikat dengan nama perempuan"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "53:28",
+      "verse_number": 28,
+      "text_uthmani": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all",
+        "fr": "alors qu'ils n'en ont aucune science: ils ne suivent que la conjecture, alors que la conjecture ne sert à rien contre la vérité",
+        "tr": "Oysa onların bu hususta bir bilgileri yoktur, sadece sanıya uyarlar. Sanı ise şüphesiz gerçeği ifade etmez",
+        "ur": "حالانکہ اس معاملہ کا کوئی علم انہیں حاصل نہیں ہے، وہ محض گمان کی پیروی کر رہے ہیں، اور گمان حق کی جگہ کچھ بھی کام نہیں دے سکتا",
+        "id": "Dan mereka tidak mempunyai ilmu tentang itu. Mereka tidak lain hanyalah mengikuti dugaan, dan sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "53:29",
+      "verse_number": 29,
+      "text_uthmani": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "So turn away from whoever turns his back on Our message and desires not except the worldly life",
+        "fr": "Ecarte-toi donc, de celui qui tourne le dos à Notre rappel et qui ne désire que la vie présente",
+        "tr": "Bizi anmaktan yüz çevirenlere ve dünya hayatından başka bir şey istemeyenlere aldırma",
+        "ur": "پس اے نبیؐ، جو شخص ہمارے ذکر سے منہ پھیرتا ہے، اور دنیا کی زندگی کے سوا جسے کچھ مطلوب نہیں ہے، اُسے اس کے حال پر چھوڑ دو",
+        "id": "Maka tinggalkanlah (Muhammad) orang yang berpaling dari peringatan Kami, dan dia hanya mengingini kehidupan dunia"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "53:30",
+      "verse_number": 30,
+      "text_uthmani": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided",
+        "fr": "Voilà toute la portée de leur savoir. Certes ton Seigneur connaît parfaitement celui qui s'égare de Son chemin et Il connaît parfaitement qui est bien guidé",
+        "tr": "Bu onların ulaştıkları bilginin seviyesini gösterir. Doğrusu Rabbin yolundan sapmış olanı pek iyi bilir, doğru yolda olanı da çok iyi bilir",
+        "ur": "اِن لوگوں کا مبلغ علم بس یہی کچھ ہے، یہ بات تیرا رب ہی زیادہ جانتا ہے کہ اُس کے راستے سے کون بھٹک گیا ہے اور کون سیدھے راستے پر ہے",
+        "id": "Itulah kadar ilmu mereka. Sungguh, Tuhanmu, Dia lebih mengetahui siapa yang tersesat dari jalan-Nya dan Dia pula yang lebih mengetahui siapa yang mendapat petunjuk"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "53:31",
+      "verse_number": 31,
+      "text_uthmani": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And to Allah belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward]",
+        "fr": "A Allah appartient ce qui est dans les cieux et sur la terre afin qu'Il rétribue ceux qui font le mal selon ce qu'ils œuvrent, et récompense ceux qui font le bien par la meilleure [récompense]",
+        "tr": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük günahlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir",
+        "ur": "اور زمین اور آسمانوں کی ہر چیز کا مالک اللہ ہی ہے تاکہ اللہ برائی کرنے والوں کو ان کے عمل کا بدلہ دے اور اُن لوگوں کو اچھی جزا سے نوازے جنہوں نے نیک رویہ اختیار کیا ہے",
+        "id": "Dan milik Allah lah apa yang ada di langit dan apa yang ada di bumi. (Dengan demikian) Dia akan memberi balasan kepada orang-orang yang berbuat jahat sesuai dengan apa yang telah mereka kerjakan dan Dia akan memberi balasan kepada orang-orang yang berbuat baik dengan pahala yang lebih baik (surga)"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "53:32",
+      "verse_number": 32,
+      "text_uthmani": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him",
+        "fr": "ceux qui évitent les plus grands péchés ainsi que les turpitudes et [qui ne commettent] que des fautes légères. Certes, le pardon de Ton Seigneur est immense. C'est Lui qui vous connaît le mieux quand Il vous a produits de terre, et aussi quand vous étiez des embryons dans les ventres de vos mères. Ne vantez pas vous-mêmes votre pureté; c'est Lui qui connaît mieux ceux qui [Le] craignent",
+        "tr": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük günahlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir",
+        "ur": "جو بڑے بڑے گناہوں اور کھلے کھلے قبیح افعال سے پرہیز کرتے ہیں، الا یہ کہ کچھ قصور اُن سے سرزد ہو جائے بلاشبہ تیرے رب کا دامن مغفرت بہت وسیع ہے وہ تمھیں اُس وقت سے خوب جانتا ہے جب اُس نے زمین سے تمہیں پیدا کیا اور جب تم اپنی ماؤں کے پیٹوں میں ابھی جنین ہی تھے پس اپنے نفس کی پاکی کے دعوے نہ کرو، وہی بہتر جانتا ہے کہ واقعی متقی کون ہے",
+        "id": "(Yaitu) mereka yang menjauhi dosa-dosa besar dan perbuatan keji, kecuali kesalahan-kesalahan kecil. Sungguh, Tuhanmu Mahaluas ampunan-Nya. Dia mengetahui tentang kamu, sejak Dia menjadikan kamu dari tanah lalu ketika kamu masih janin dalam perut ibumu. Maka janganlah kamu menganggap dirimu suci. Dia mengetahui tentang orang yang bertakwa"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "53:33",
+      "verse_number": 33,
+      "text_uthmani": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Have you seen the one who turned away",
+        "fr": "Vois-tu celui qui s'est détourné",
+        "tr": "Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü",
+        "ur": "پھر اے نبیؐ، تم نے اُس شخص کو بھی دیکھا جو راہ خدا سے پھر گیا",
+        "id": "Maka tidakkah engkau melihat orang yang berpaling (dari Alquran)"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "53:34",
+      "verse_number": 34,
+      "text_uthmani": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And gave a little and [then] refrained",
+        "fr": "donné peu et a [finalement] cessé de donner",
+        "tr": "Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü",
+        "ur": "اور تھوڑا سا دے کر رک گیا",
+        "id": "dan dia memberikan sedikit (dari apa yang dijanjikan) lalu menahan sisanya"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "53:35",
+      "verse_number": 35,
+      "text_uthmani": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Does he have knowledge of the unseen, so he sees",
+        "fr": "Détient-il la science de l'Inconnaissable en sorte qu'il voit",
+        "tr": "Görülmeyenin ilmi yanında da o mu görüyor",
+        "ur": "کیا اس کے پاس غیب کا علم ہے کہ وہ حقیقت کو دیکھ رہا ہے؟",
+        "id": "Apakah dia mempunyai ilmu tentang yang gaib sehingga dia dapat melihat(nya)"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "53:36",
+      "verse_number": 36,
+      "text_uthmani": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Or has he not been informed of what was in the scriptures of Moses",
+        "fr": "Ne lui a-t-on pas annoncé ce qu'il y avait dans les feuilles de Moïse",
+        "tr": "Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki",
+        "ur": "کیا اُسے اُن باتوں کی کوئی خبر نہیں پہنچی جو موسیٰؑ کے صحیفوں",
+        "id": "Ataukah belum diberitakan (kepadanya) apa yang ada dalam lembaran-lembaran (Kitab Suci yang diturunkan kepada) Musa"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "53:37",
+      "verse_number": 37,
+      "text_uthmani": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And [of] Abraham, who fulfilled [his obligations]",
+        "fr": "et celles d'Abraham qui a tenu parfaitement [sa promesse de transmettre]",
+        "tr": "Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki",
+        "ur": "اور اُس ابراہیمؑ کے صحیفوں میں بیان ہوئی ہیں جس نے وفا کا حق ادا کر دیا؟",
+        "id": "Dan (lembaran-lembaran) Ibrahim yang selalu menyempurnakan janji"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "53:38",
+      "verse_number": 38,
+      "text_uthmani": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "That no bearer of burdens will bear the burden of another",
+        "fr": "qu'aucune [âme] ne portera le fardeau (le péché) d'autrui",
+        "tr": "Hiç bir günahkar başkasının günah yükünü yüklenmez",
+        "ur": "یہ کہ کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا",
+        "id": "(yaitu) bahwa seseorang yang berdosa tidak akan memikul dosa orang lain"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "53:39",
+      "verse_number": 39,
+      "text_uthmani": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that there is not for man except that [good] for which he strives",
+        "fr": "et qu'en vérité, l'homme n'obtient que [le fruit] de ses efforts",
+        "tr": "İnsan ancak çalıştığına erişir",
+        "ur": "اور یہ کہ انسان کے لیے کچھ نہیں ہے مگر وہ جس کی اُس نے سعی کی ہے",
+        "id": "dan bahwa manusia hanya memperoleh apa yang telah diusahakannya"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "53:40",
+      "verse_number": 40,
+      "text_uthmani": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that his effort is going to be seen",
+        "fr": "et que son effort, en vérité, lui sera présenté (le jour du Jugement)",
+        "tr": "Onun çalışması şüphesiz görülecektir",
+        "ur": "اور یہ کہ اس کی سعی عنقریب دیکھی جائے گی",
+        "id": "dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya)"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "53:41",
+      "verse_number": 41,
+      "text_uthmani": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Then he will be recompensed for it with the fullest recompense",
+        "fr": "Ensuite il en sera récompensé pleinement",
+        "tr": "Sonra ona karşılığı eksiksiz verilecektir",
+        "ur": "اور اس کی پوری جزا اسے دی جائے گی",
+        "id": "kemudian akan diberi balasan kepadanya dengan balasan yang paling sempurna"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "53:42",
+      "verse_number": 42,
+      "text_uthmani": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that to your Lord is the finality",
+        "fr": "et que tout aboutit, en vérité, vers ton Seigneur",
+        "tr": "Doğrusu son varış Rabbinedir",
+        "ur": "اور یہ کہ آخر کار پہنچنا تیرے رب ہی کے پاس ہے",
+        "id": "dan sesungguhnya kepada Tuhanmulah kesudahannya (segala sesuatu)"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "53:43",
+      "verse_number": 43,
+      "text_uthmani": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that it is He who makes [one] laugh and weep",
+        "fr": "et que c'est Lui qui a fait rire et qui a fait pleurer",
+        "tr": "Doğrusu, güldüren de ağlatan da O'dur",
+        "ur": "اور یہ کہ اُسی نے ہنسایا اور اُسی نے رلایا",
+        "id": "dan sesungguhnya Dialah yang menjadikan orang tertawa dan menangis"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "53:44",
+      "verse_number": 44,
+      "text_uthmani": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that it is He who causes death and gives life",
+        "fr": "et que c'est Lui qui a fait mourir et qui a ramené à la vie",
+        "tr": "Doğrusu dirilten de öldüren de O'dur",
+        "ur": "اور یہ کہ اُسی نے موت دی اور اُسی نے زندگی بخشی",
+        "id": "dan sesungguhnya Dialah yang mematikan dan menghidupkan"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "53:45",
+      "verse_number": 45,
+      "text_uthmani": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that He creates the two mates - the male and female",
+        "fr": "et que c'est Lui qui a crée les deux éléments de couple, le mâle et la femelle",
+        "tr": "Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur",
+        "ur": "اور یہ کہ اُسی نے نر اور مادہ کا جوڑا پیدا کیا",
+        "id": "dan sesungguhnya Dialah yang menciptakan pasangan laki-laki dan perempuan"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "53:46",
+      "verse_number": 46,
+      "text_uthmani": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "From a sperm-drop when it is emitted",
+        "fr": "d'une goutte de sperme quand elle est éjaculée",
+        "tr": "Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur",
+        "ur": "ایک بوند سے جب وہ ٹپکائی جاتی ہے",
+        "id": "dari mani, apabila dipancarkan"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "53:47",
+      "verse_number": 47,
+      "text_uthmani": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that [incumbent] upon Him is the next creation",
+        "fr": "et que la seconde création Lui incombe",
+        "tr": "Doğrusu ölümden sonra tekrar dirilten de O'dur",
+        "ur": "اور یہ کہ دوسری زندگی بخشنا بھی اُسی کے ذمہ ہے",
+        "id": "dan sesungguhnya Dialah yang menetapkan penciptaan yang lain (kebangkitan setelah mati)"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "53:48",
+      "verse_number": 48,
+      "text_uthmani": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that it is He who enriches and suffices",
+        "fr": "et c'est Lui qui a enrichi et qui a fait acquérir",
+        "tr": "Doğrusu zengin eden de varlıklı kılan da O'dur",
+        "ur": "اور یہ کہ اُسی نے غنی کیا اور جائداد بخشی",
+        "id": "dan sesungguhnya Dialah yang memberikan kekayaan dan kecukupan"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "53:49",
+      "verse_number": 49,
+      "text_uthmani": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that it is He who is the Lord of Sirius",
+        "fr": "Et c'est Lui qui est le Seigneur de Sirius",
+        "tr": "Doğrusu Şira yıldızının Rabbi O'dur",
+        "ur": "اور یہ کہ وہی شعریٰ کا رب ہے",
+        "id": "dan sesungguhnya Dialah Tuhan (yang memiliki) bintang Syi'rā"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "53:50",
+      "verse_number": 50,
+      "text_uthmani": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And that He destroyed the first [people of] 'Aad",
+        "fr": "et c'est Lui qui a fait périr les anciens 'Aad",
+        "tr": "İlk Ad milletini, Semud milletini yok edip geri bırakmayan O'dur",
+        "ur": "اور یہ کہ اُسی نے عاد اولیٰ کو ہلاک کیا",
+        "id": "dan sesungguhnya Dialah yang telah membinasakan kaum 'Ād dahulu kala"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "53:51",
+      "verse_number": 51,
+      "text_uthmani": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And Thamud - and He did not spare [them]",
+        "fr": "ainsi que les Thamûd, et Il fit que rien n'en subsistât",
+        "tr": "İlk Ad milletini, Semud milletini yok edip geri bırakmayan O'dur",
+        "ur": "اور ثمود کو ایسا مٹایا کہ ان میں سے کسی کو باقی نہ چھوڑا",
+        "id": "dan kaum Samud, tidak seorang pun yang ditinggalkan-Nya (hidup)"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "53:52",
+      "verse_number": 52,
+      "text_uthmani": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing",
+        "fr": "ainsi que le peuple de Noé antérieurement, car ils étaient encore plus injustes et plus violents",
+        "tr": "Daha önce de Nuh milletini yok eden O'dur; çünkü onlar çok zalim ve pek taşkın kimselerdi",
+        "ur": "اور اُن سے پہلے قوم نوحؑ کو تباہ کیا کیونکہ وہ تھے ہی سخت ظالم و سرکش لوگ",
+        "id": "dan (juga) kaum Nuh sebelum itu. Sungguh, mereka adalah orang-orang yang paling zalim dan paling durhaka"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "53:53",
+      "verse_number": 53,
+      "text_uthmani": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And the overturned towns He hurled down",
+        "fr": "de même qu'Il anéantit les villes renversées",
+        "tr": "Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur",
+        "ur": "اور اوندھی گرنے والی بستیوں کو اٹھا پھینکا",
+        "id": "Dan prahara angin telah meruntuhkan (negeri kaum Luṭ)"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "53:54",
+      "verse_number": 54,
+      "text_uthmani": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And covered them by that which He covered",
+        "fr": "Et les recouvrit de ce dont Il les recouvrit",
+        "tr": "Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur",
+        "ur": "پھر چھا دیا اُن پر وہ کچھ جو (تم جانتے ہی ہو کہ) کیا چھا دیا",
+        "id": "lalu menimbuni negeri itu (sebagai azab) dengan (puing-puing) yang menimpanya"
+      }
+    },
+    {
+      "id": 55,
+      "verse_key": "53:55",
+      "verse_number": 55,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Then which of the favors of your Lord do you doubt",
+        "fr": "Lequel donc des bienfaits de ton Seigneur mets-tu en doute",
+        "tr": "Ey kişi! Rabbinin hangi nimetinden şüpheye düşersin",
+        "ur": "پس اے مخاطب، اپنے رب کی کن کن نعمتوں میں تو شک کرے گا؟",
+        "id": "Maka terhadap nikmat Tuhanmu yang manakah yang masih kamu ragukan"
+      }
+    },
+    {
+      "id": 56,
+      "verse_key": "53:56",
+      "verse_number": 56,
+      "text_uthmani": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "This [Prophet] is a warner like the former warners",
+        "fr": "Voici un avertisseur analogue aux avertisseurs anciens",
+        "tr": "İşte ilk uyaranlar gibi bu da bir uyarandır",
+        "ur": "یہ ایک تنبیہ ہے پہلے آئی ہوئی تنبیہات میں سے",
+        "id": "Ini (Muhammad) salah seorang pemberi peringatan di antara para pemberi peringatan yang telah terdahulu"
+      }
+    },
+    {
+      "id": 57,
+      "verse_key": "53:57",
+      "verse_number": 57,
+      "text_uthmani": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "The Approaching Day has approached",
+        "fr": "l'Imminente (L'heure du Jugement) s'approche",
+        "tr": "Kıyamet yaklaştıkça yaklaşmıştır",
+        "ur": "آنے والی گھڑی قریب آ لگی ہے",
+        "id": "Yang dekat (hari Kiamat) telah makin mendekat"
+      }
+    },
+    {
+      "id": 58,
+      "verse_key": "53:58",
+      "verse_number": 58,
+      "text_uthmani": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Of it, [from those] besides Allah, there is no remover",
+        "fr": "Rien d'autre en dehors d'Allah ne peut la dévoiler",
+        "tr": "Onu Allah'tan başka ortaya koyacak yoktur",
+        "ur": "اللہ کے سوا کوئی اُس کو ہٹا نے والا نہیں",
+        "id": "Tidak ada yang akan dapat mengungkapkan (terjadinya hari itu) selain Allah"
+      }
+    },
+    {
+      "id": 59,
+      "verse_key": "53:59",
+      "verse_number": 59,
+      "text_uthmani": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "Then at this statement do you wonder",
+        "fr": "Quoi! vous étonnez-vous de ce discours (le Coran)",
+        "tr": "Bu söze mi şaşıyorsunuz",
+        "ur": "اب کیا یہی وہ باتیں ہیں جن پر تم اظہار تعجب کرتے ہو؟",
+        "id": "Maka apakah kamu merasa heran terhadap pemberitaan ini"
+      }
+    },
+    {
+      "id": 60,
+      "verse_key": "53:60",
+      "verse_number": 60,
+      "text_uthmani": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "And you laugh and do not weep",
+        "fr": "Et vous [en] riez et n'[en] pleurez point",
+        "tr": "Gülüyorsunuz... Ağlamıyorsunuz",
+        "ur": "ہنستے ہو اور روتے نہیں ہو؟",
+        "id": "dan kamu tertawakan dan tidak menangis"
+      }
+    },
+    {
+      "id": 61,
+      "verse_key": "53:61",
+      "verse_number": 61,
+      "text_uthmani": "وَأَنتُمۡ سَٰمِدُونَ",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "While you are proudly sporting",
+        "fr": "absorbés [que vous êtes] par votre distraction",
+        "tr": "Habersiz oyalanmaktasınız",
+        "ur": "اور گا بجا کر انہیں ٹالتے ہو؟",
+        "id": "sedang kamu lengah (darinya)"
+      }
+    },
+    {
+      "id": 62,
+      "verse_key": "53:62",
+      "verse_number": 62,
+      "text_uthmani": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+      "chapter_id": 53,
+      "words": [],
+      "translations": {
+        "en": "So prostrate to Allah and worship [Him]",
+        "fr": "Prosternez-vous donc à Allah et adorez-Le",
+        "tr": "Artık secdeye varın, Allah'a kulluk edin",
+        "ur": "جھک جاؤ اللہ کے آگے اور بندگی بجا لاؤ",
+        "id": "Maka bersujudlah kepada Allah dan sembahlah (Dia)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 53,
+    "name_arabic": "النجم",
+    "name_english": "An-Najm"
+  }
+}

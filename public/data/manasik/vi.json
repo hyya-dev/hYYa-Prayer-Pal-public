@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Bước đầu tiên: Ý định và Ihram",
+        "details": "<ul><li>Dự định biểu diễn Umrah, tiến vào Ihram tại Miqat và bắt đầu Talbiyah.</li><li>Ông tuân thủ các điều cấm kỵ Ihram và hoàn thành nghi thức thanh tẩy trước khi bắt đầu nghi lễ.</li></ul>",
+        "evidence": "Quran 2:196 và năm bắt đầu các nghi lễ từ Miqat.",
+        "referenceLabel": "Bộ Hướng dẫn hành hương Umrah và tham quan"
+      },
+      {
+        "title": "Bước thứ hai: Vào bên trong Thánh đường Al-Masjid Al-Haram",
+        "details": "<ul><li>Hãy bước vào một cách lặng lẽ, với lòng thành kính và khiêm nhường.</li><li>Hãy bắt đầu từ phía có lối đi an toàn xuyên qua đám đông, sau đó tiến về khu vực Tawaf.</li></ul>",
+        "evidence": "Những chỉ dẫn chung của nhà tiên tri về nghi thức trong nhà thờ Hồi giáo và việc tạo điều kiện thuận lợi cho việc thờ cúng.",
+        "referenceLabel": "Trung tâm nâng cao nhận thức của Bộ"
+      },
+      {
+        "title": "Bước ba: Tawaf (bảy vòng)",
+        "details": "<ul><li>Thực hiện Tawaf bảy lần quanh Kaabah, bắt đầu từ vạch Black Stone.</li><li>Hãy luôn nhớ đến Chúa và tránh làm hại người khác trong những lúc di chuyển giữa đám đông.</li><li class=\"pp-ios-only\"> Mẹo: Sử dụng ứng dụng Apple Watch để giúp bạn đếm số vòng Tawaf.</li><li class=\"pp-android-only\"> Mẹo: Sử dụng ứng dụng Wear OS trên đồng hồ của bạn để giúp bạn đếm số vòng Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 và những mô tả được ghi chép lại về việc Nhà tiên tri đi vòng quanh đền thờ.",
+        "referenceLabel": "Hướng dẫn hành hương Umrah ở Nosuk"
+      },
+      {
+        "title": "Bước bốn: Cầu nguyện sau Tawaf",
+        "details": "<ul><li>Nếu có thể, hãy cầu nguyện hai rak&#39;ah sau khi hoàn thành Tawaf mà không gây ảnh hưởng đến cộng đồng, sau đó tiến hành uống nước Zamzam một cách có trật tự.</li></ul>",
+        "evidence": "Một thông lệ đã được thiết lập vững chắc trong các hadith xác thực liên quan đến việc cầu nguyện sau khi thực hiện Tawaf.",
+        "referenceLabel": "Bộ Hướng dẫn hành hương Umrah và tham quan"
+      },
+      {
+        "title": "Bước năm: Saie giữa Safa và Marwah",
+        "details": "<ul><li>Thực hiện Saie bảy vòng giữa Safa và Marwah, bắt đầu từ Safa và kết thúc tại Marwah, kèm theo lời cầu nguyện và tưởng nhớ.</li><li class=\"pp-ios-only\"> Mẹo: Sử dụng ứng dụng Apple Watch để giúp bạn đếm số lần chạy Saie.</li><li class=\"pp-android-only\"> Mẹo: Sử dụng ứng dụng Wear OS trên đồng hồ của bạn để giúp bạn đếm số lần chạy Saie.</li></ul>",
+        "evidence": "Quran 2:158 và các lời thuật lại xác thực theo lệnh của sứ giả.",
+        "referenceLabel": "Hướng dẫn hành hương Umrah ở Nosuk"
+      },
+      {
+        "title": "Bước sáu: Cắt tóc hoặc cạo râu",
+        "details": "<ul><li>Đàn ông cạo hoặc cắt tóc, còn phụ nữ chỉ tỉa một phần nhỏ tóc.</li><li>Và với điều này, lễ Umrah kết thúc và Ihram cũng kết thúc.</li></ul>",
+        "evidence": "Quran 48:27 và các lời kể xác thực liên quan đến việc cạo râu và cắt tóc.",
+        "referenceLabel": "Bộ Hướng dẫn hành hương Umrah và tham quan"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Bước đầu tiên: Ihram và ý định đi Hajj.",
+        "details": "<ul><li>Mặc ihram tại Miqat, xác định loại hình Hajj của bạn, sau đó tiến hành Talbiyah.</li><li>Hãy tuân thủ các quy tắc Ihram cho đến khi bạn ra khỏi khu vực Ihram.</li></ul>",
+        "evidence": "Quran 2:196 và các nghi lễ tiên tri đã được thống nhất để bắt đầu cuộc hành hương Hajj.",
+        "referenceLabel": "Hướng dẫn của Bộ Hajj"
+      },
+      {
+        "title": "Bước hai: Yawm at-Tarwiyah ở Mina",
+        "details": "<ul><li>Vào ngày mùng 8 tháng Dhul Hijjah, hãy đến Mina, thực hiện các nghi lễ cầu nguyện vào thời gian quy định và chuẩn bị về mặt tinh thần cũng như vật chất cho lễ kỷ niệm Arafah.</li></ul>",
+        "evidence": "Một chuỗi các nghi lễ được ghi chép lại trong chuyến hành trình chia tay.",
+        "referenceLabel": "Chuyến hành hương Hajj đến Nosuk"
+      },
+      {
+        "title": "Bước ba: Đứng tại Arafah",
+        "details": "<ul><li>Hãy dành ngày thứ chín của Dhul Hijjah ở Arafah để cầu nguyện, tưởng nhớ Thượng đế và sám hối.</li><li>Đây là trụ cột thiết yếu của lễ Hajj.</li></ul>",
+        "evidence": "Hadith: Hajj là Arafah.",
+        "referenceLabel": "Hướng dẫn của Bộ Hajj"
+      },
+      {
+        "title": "Bước bốn: Muzdalifah và việc thu thập sỏi đá",
+        "details": "<ul><li>Sau khi mặt trời lặn, hãy đến Muzdalifah, cầu nguyện Maghrib và Isha, ngủ qua đêm ở đó và nhặt sỏi để ném đá vào Mina.</li></ul>",
+        "evidence": "Trình tự tiên tri sau Arafah trong các truyền thuyết xác thực.",
+        "referenceLabel": "Chuyến hành hương Hajj đến Nosuk"
+      },
+      {
+        "title": "Bước năm: Rami, sự hy sinh và thơ ca",
+        "details": "<ul><li>Vào ngày lễ Eid, khi ném đá Jamarat al-Aqabah, hãy thực hiện nghi lễ hiến tế nếu cần thiết, sau đó cạo hoặc cắt tóc cho lần tahlil đầu tiên.</li></ul>",
+        "evidence": "Quran 22:36-37 và chuỗi các hadith xác thực.",
+        "referenceLabel": "Hướng dẫn của Bộ Hajj"
+      },
+      {
+        "title": "Bước sáu: Tawaf al-Ifadah (bảy vòng)",
+        "details": "<ul><li>Trở về Mecca để thực hiện Tawaf al-Ifadah, hoàn thành bảy vòng và duy trì sự di chuyển an toàn và trật tự trong giờ cao điểm.</li><li class=\"pp-ios-only\"> Mẹo: Sử dụng ứng dụng Apple Watch để giúp bạn đếm số vòng Tawaf.</li><li class=\"pp-android-only\"> Mẹo: Sử dụng ứng dụng Wear OS trên đồng hồ của bạn để giúp bạn đếm số vòng Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 và các mô tả được ghi chép về việc đi vòng quanh đền thờ là bắt buộc.",
+        "referenceLabel": "Chuyến hành hương Hajj đến Nosuk"
+      },
+      {
+        "title": "Bước 7: Thông báo cho người cần liên hệ",
+        "details": "<ul><li>Hãy thực hiện Saie khi loại hình Hajj của bạn yêu cầu, đồng thời duy trì trình tự và số vòng bảy vòng giữa Safa và Marwah.</li><li class=\"pp-ios-only\"> Mẹo: Sử dụng ứng dụng Apple Watch để giúp bạn đếm số lần chạy Saie.</li><li class=\"pp-android-only\"> Mẹo: Sử dụng ứng dụng Wear OS trên đồng hồ của bạn để giúp bạn đếm số lần chạy Saie.</li></ul>",
+        "evidence": "Quran 2:158 và việc áp dụng luật học của nó trong các nghi lễ Hajj.",
+        "referenceLabel": "Hướng dẫn của Bộ Hajj"
+      },
+      {
+        "title": "Bước 8: Ayyam at-Tashriq và Tawaf al-Wada&#39;",
+        "details": "<ul><li>Việc lưu trú tại Mina trong suốt thời gian Tashreeq để thực hiện nghi lễ ném Jamarat, sau đó hoàn thành Tawaf al-Wada&#39; trước khi rời Makkah, trừ những người được miễn trừ.</li><li class=\"pp-ios-only\"> Mẹo: Sử dụng ứng dụng Apple Watch để giúp bạn đếm số vòng Tawaf.</li><li class=\"pp-android-only\"> Mẹo: Sử dụng ứng dụng Wear OS trên đồng hồ của bạn để giúp bạn đếm số vòng Tawaf.</li></ul>",
+        "evidence": "Các nghi lễ đã được thiết lập dựa trên sự hướng dẫn Quran và việc thực hành đúng đắn Sunnah của Nhà tiên tri.",
+        "referenceLabel": "Chuyến hành hương Hajj đến Nosuk"
+      }
+    ]
+  }
+}

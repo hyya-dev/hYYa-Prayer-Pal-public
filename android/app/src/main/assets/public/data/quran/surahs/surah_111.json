@@ -1,0 +1,84 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "111:1",
+      "verse_number": 1,
+      "text_uthmani": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+      "chapter_id": 111,
+      "words": [],
+      "translations": {
+        "en": "May the hands of Abu Lahab be ruined, and ruined is he",
+        "fr": "Que périssent les deux mains d'Abû-Lahab et que lui-même périsse",
+        "tr": "Ebu Leheb'in elleri kurusun; kurudu da",
+        "ur": "ٹوٹ گئے ابولہب کے ہاتھ اور نامراد ہو گیا وہ",
+        "id": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "111:2",
+      "verse_number": 2,
+      "text_uthmani": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+      "chapter_id": 111,
+      "words": [],
+      "translations": {
+        "en": "His wealth will not avail him or that which he gained",
+        "fr": "Sa fortune ne lui sert à rien, ni ce qu'il a acquis",
+        "tr": "Malı ve kazandığı kendisine fayda vermedi",
+        "ur": "اُس کا مال اور جو کچھ اس نے کمایا وہ اُس کے کسی کام نہ آیا",
+        "id": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "111:3",
+      "verse_number": 3,
+      "text_uthmani": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ",
+      "chapter_id": 111,
+      "words": [],
+      "translations": {
+        "en": "He will [enter to] burn in a Fire of [blazing] flame",
+        "fr": "Il sera brûlé dans un Feu plein de flammes",
+        "tr": "Alevli ateşe yaslanacaktır",
+        "ur": "ضرور وہ شعلہ زن آگ میں ڈالا جائے گا",
+        "id": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "111:4",
+      "verse_number": 4,
+      "text_uthmani": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+      "chapter_id": 111,
+      "words": [],
+      "translations": {
+        "en": "And his wife [as well] - the carrier of firewood",
+        "fr": "de même sa femme, la porteuse de bois",
+        "tr": "Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır",
+        "ur": "اور (اُس کے ساتھ) اُس کی جورو بھی، لگائی بجھائی کرنے والی",
+        "id": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "111:5",
+      "verse_number": 5,
+      "text_uthmani": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+      "chapter_id": 111,
+      "words": [],
+      "translations": {
+        "en": "Around her neck is a rope of [twisted] fiber",
+        "fr": "à son cou, une corde de fibres",
+        "tr": "Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır",
+        "ur": "اُس کی گردن میں مونجھ کی رسی ہوگی",
+        "id": "Di lehernya ada tali dari sabut yang dipintal"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 111,
+    "name_arabic": "المسد",
+    "name_english": "Al-Masad"
+  }
+}

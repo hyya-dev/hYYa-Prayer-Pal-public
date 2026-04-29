@@ -1,0 +1,84 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "97:1",
+      "verse_number": 1,
+      "text_uthmani": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+      "chapter_id": 97,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We sent the Qur'an down during the Night of Decree",
+        "fr": "Nous l'avons certes, fait descendre (le Coran) pendant la nuit d'Al-Qadr",
+        "tr": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir",
+        "ur": "ہم نے اِس (قرآن) کو شب قدر میں نازل کیا ہے",
+        "id": "Sesungguhnya Kami telah menurunkannya (Alquran) pada malam qadar"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "97:2",
+      "verse_number": 2,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+      "chapter_id": 97,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is the Night of Decree",
+        "fr": "Et qui te dira ce qu'est la nuit d'Al-Qadr",
+        "tr": "Kadir gecesinin ne olduğunu sen bilir misin",
+        "ur": "اور تم کیا جانو کہ شب قدر کیا ہے؟",
+        "id": "Dan tahukah kamu apakah malam kemuliaan itu"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "97:3",
+      "verse_number": 3,
+      "text_uthmani": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+      "chapter_id": 97,
+      "words": [],
+      "translations": {
+        "en": "The Night of Decree is better than a thousand months",
+        "fr": "La nuit d'Al-Qadr est meilleure que mille mois",
+        "tr": "Kadir gecesi bin aydan hayırlıdır",
+        "ur": "شب قدر ہزار مہینوں سے زیادہ بہتر ہے",
+        "id": "Malam kemuliaan itu lebih baik daripada seribu bulan"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "97:4",
+      "verse_number": 4,
+      "text_uthmani": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+      "chapter_id": 97,
+      "words": [],
+      "translations": {
+        "en": "The angels and the Spirit descend therein by permission of their Lord for every matter",
+        "fr": "Durant celle-ci descendent les Anges ainsi que l'Esprit, par permission de leur Seigneur pour tout ordre",
+        "tr": "Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler",
+        "ur": "فرشتے اور روح اُس میں اپنے رب کے اذن سے ہر حکم لے کر اترتے ہیں",
+        "id": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "97:5",
+      "verse_number": 5,
+      "text_uthmani": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+      "chapter_id": 97,
+      "words": [],
+      "translations": {
+        "en": "Peace it is until the emergence of dawn",
+        "fr": "Elle est paix et salut jusqu'à l'apparition de l'aube",
+        "tr": "O gece, tan yerinin ağarmasına kadar bir esenliktir",
+        "ur": "وہ رات سراسر سلامتی ہے طلوع فجر تک",
+        "id": "Sejahteralah (malam itu) sampai terbit fajar"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 97,
+    "name_arabic": "القدر",
+    "name_english": "Al-Qadr"
+  }
+}

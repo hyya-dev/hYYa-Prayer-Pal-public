@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">hYYa Prayer Pal (Source)</string>
+    <string name="title_activity_main">hYYa Prayer Pal (Source)</string>
+    <string name="package_name">com.hyya.prayerpal.open</string>
+    <string name="custom_url_scheme">com.hyya.prayerpal.open</string>
+
+    <!-- Widget strings -->
+    <string name="widget_small_description">View your prayer times at a glance</string>
+    <string name="widget_medium_description">View your prayer times at a glance</string>
+    <string name="widget_small_name">hYYa Prayer Pal (Source)</string>
+    <string name="widget_medium_name">hYYa Prayer Pal (Source)</string>
+
+    <!-- Notification channel strings -->
+    <string name="channel_discreet_name_short">Discreet</string>
+    <string name="channel_takbir_name">Prayer Time Notifications (Takbir)</string>
+    <string name="channel_silent_name">Prayer Time Notifications</string>
+    <string name="channel_discreet_desc">Standard notification sound</string>
+    <string name="channel_takbir_desc">Adhan Takbir (prayer times only)</string>
+    <string name="channel_silent_desc">Silent prayer time notifications</string>
+
+    <!-- Notification banner strings -->
+    <string name="notification_prayer_soon_title">%1$s Prayer Soon</string>
+    <string name="notification_prayer_soon_body">%1$s prayer is in %2$d minutes</string>
+    <string name="notification_prayer_time_title">%1$s Prayer Time</string>
+    <string name="notification_prayer_time_body">It\'s time for %1$s prayer</string>
+
+    <!-- Quran reader native playback (foreground service) -->
+    <string name="channel_quran_reader_media_name">Quran recitation</string>
+    <string name="channel_quran_reader_media_desc">Playback controls while Holy Quran audio is playing</string>
+    <string name="quran_reader_notification_title">Holy Quran</string>
+    <string name="quran_reader_notification_stop">Stop</string>
+</resources>

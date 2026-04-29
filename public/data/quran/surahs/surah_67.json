@@ -1,0 +1,459 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "67:1",
+      "verse_number": 1,
+      "text_uthmani": "تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Blessed is He in whose hand is dominion, and He is over all things competent",
+        "fr": "Béni soit celui dans la main de qui est la royauté, et Il est Omnipotent",
+        "tr": "Hükümranlık elinde olan Allah yücedir ve O herşeye Kadir'dir",
+        "ur": "نہایت بزرگ و برتر ہے وہ جس کے ہاتھ میں کائنات کی سلطنت ہے، اور وہ ہر چیز پر قدرت رکھتا ہے",
+        "id": "Mahasuci Allah yang menguasai (segala) kerajaan, Dan Dia Mahakuasa atas segala sesuatu"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "67:2",
+      "verse_number": 2,
+      "text_uthmani": "ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving",
+        "fr": "Celui qui a créé la mort et la vie afin de vous éprouver (et de savoir) qui de vous est le meilleur en œuvre, et c'est Lui le Puissant, le Pardonneur",
+        "tr": "Hanginizin daha iyi iş işlediğini belirtmek için, ölümü ve dirimi (hayatı) yaratan O'dur. O, güçlüdür, bağışlayandır",
+        "ur": "جس نے موت اور زندگی کو ایجاد کیا تاکہ تم لوگوں کو آزما کر دیکھے تم میں سے کون بہتر عمل کرنے والا ہے، اور وہ زبردست بھی ہے اور درگزر فرمانے والا بھی",
+        "id": "Yang menciptakan mati dan hidup, untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dan Dia Mahaperkasa, Maha Pengampun"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "67:3",
+      "verse_number": 3,
+      "text_uthmani": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗاۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتٖۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٖ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks",
+        "fr": "Celui qui a créé sept cieux superposés sans que tu voies de disproportion en la création du Tout Miséricordieux. Ramène [sur elle] le regard. Y vois-tu une brèche quelconque",
+        "tr": "Gökleri yedi kat üzerine yaratan O'dur. Rahman'ın bu yaratmasında bir düzensizlik bulamazsın. Gözünü bir çevir bak, bir çatlak görebilir misin",
+        "ur": "جس نے تہ بر تہ سات آسمان بنائے تم رحمان کی تخلیق میں کسی قسم کی بے ربطی نہ پاؤ گے پھر پلٹ کر دیکھو، کہیں تمہیں کوئی خلل نظر آتا ہے؟",
+        "id": "Yang menciptakan tujuh langit berlapis-lapis. Tidak akan kamu lihat sesuatu yang tidak seimbang pada ciptaan Tuhan Yang Maha Pengasih. Maka lihatlah sekali lagi, adakah kamu lihat sesuatu yang cacat"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "67:4",
+      "verse_number": 4,
+      "text_uthmani": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued",
+        "fr": "Puis, retourne ton regard à deux fois: le regard te reviendra humilié et frustré",
+        "tr": "Bir aksaklık bulmak için gözünü tekrar tekrar çevir bak; ama göz umduğunu bulamayıp bitkin ve yorgun düşer",
+        "ur": "بار بار نگاہ دوڑاؤ تمہاری نگاہ تھک کر نامراد پلٹ آئے گی",
+        "id": "Kemudian ulangi pandangan(mu) sekali lagi (dan) sekali lagi, niscaya pandanganmu akan kembali kepadamu tanpa menemukan cacat dan ia (pandanganmu) dalam keadaan letih"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "67:5",
+      "verse_number": 5,
+      "text_uthmani": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze",
+        "fr": "Nous avons effectivement embelli le ciel le plus proche avec des lampes [des étoiles] dont Nous avons fait des projectiles pour lapider les diables et Nous leur avons préparé le châtiment de la Fournaise",
+        "tr": "And olsun ki, yakın göğü kandillerle donattık, onları şeytanlar için taşlamalar yaptık ve şeytanlara çılgın alev azabını hazırladık",
+        "ur": "ہم نے تمہارے قریب کے آسمان کو عظیم الشان چراغوں سے آراستہ کیا ہے اور اُنہیں شیاطین کو مار بھگانے کا ذریعہ بنا دیا ہے اِن شیطانوں کے لیے بھڑکتی ہوئی آگ ہم نے مہیا کر رکھی ہے",
+        "id": "Dan sungguh, telah Kami hiasi langit yang dekat, dengan bintang-bintang dan Kami jadikannya (bintang-bintang itu) sebagai alat-alat pelempar setan, dan Kami sediakan bagi mereka azab neraka yang menyala-nyala"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "67:6",
+      "verse_number": 6,
+      "text_uthmani": "وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination",
+        "fr": "Ceux qui ont mécru à leur Seigneur auront le châtiment de l'Enfer. Et quelle mauvaise destination",
+        "tr": "Rablerini inkar eden kimseler için cehennem azabı vardır. Ne kötü bir dönüştür",
+        "ur": "جن لوگوں نے اپنے رب سے کفر کیا ان کے لیے جہنم کا عذاب ہے اور وہ بہت ہی برا ٹھکانا ہے",
+        "id": "Dan orang-orang yang ingkar kepada Tuhannya, akan mendapat azab Jahanam. Dan itulah seburuk-buruk tempat kembali"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "67:7",
+      "verse_number": 7,
+      "text_uthmani": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up",
+        "fr": "Quand ils y seront jetés, ils lui entendront un gémissement, tandis qu'il bouillonne",
+        "tr": "Oraya atıldıkları zaman, onun kaynarken çıkardığı uğultuyu işitirler",
+        "ur": "جب وہ اُس میں پھینکے جائیں گے تو اسکے دھاڑنے کی ہولناک آواز سنیں گے اور وہ جوش کھا رہی ہوگی",
+        "id": "Apabila mereka dilemparkan ke dalamnya mereka mendengar suara neraka yang mengerikan, sedang neraka itu membara"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "67:8",
+      "verse_number": 8,
+      "text_uthmani": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner",
+        "fr": "Peu s'en faut que, de rage, il n'éclate. Toutes les fois qu'un groupe y est jeté, ses gardiens leur demandent: «Quoi! ne vous est-il pas venu d'avertisseur?»",
+        "tr": "Nerede ise öfkesinden paralanacak! İçine her bir topluluğun atılmasında, bekçileri onlara: \"Size bir uyarıcı gelmemiş miydi?\" diye sorarlar",
+        "ur": "شدت غضب سے پھٹی جاتی ہو گی ہر بار جب کوئی انبوہ اس میں ڈالا جائے گا، اُس کے کارندے اُن لوگوں سے پوچھیں گے \"کیا تمہارے پاس کوئی خبردار کرنے والا نہیں آیا تھا؟",
+        "id": "hampir meledak karena marah. Setiap kali ada sekumpulan (orang-orang kafir) dilemparkan ke dalamnya, penjaga-penjaga (neraka itu) bertanya kepada mereka, \"Apakah belum pernah ada orang yang datang memberi peringatan kepadamu (di dunia)"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "67:9",
+      "verse_number": 9,
+      "text_uthmani": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error",
+        "fr": "Ils dirent: «Mais si! un avertisseur nous était venu certes, mais nous avons crié au mensonge et avons dit: Allah n'a rien fait descendre: vous n'êtes que dans un grand égarement»",
+        "tr": "Onlar: \"Evet; doğrusu bize bir uyarıcı geldi, fakat biz yalanladık ve Allah hiçbir şey indirmemiştir, siz büyük bir sapıklık içindesiniz demiştik\" derler",
+        "ur": "وہ جواب دیں گے \"ہاں، خبردار کرنے والا ہمارے پاس آیا تھا، مگر ہم نے اسے جھٹلا دیا اور کہا اللہ نے کچھ بھی نازل نہیں کیا ہے، تم بڑی گمراہی میں پڑے ہوئے ہو",
+        "id": "Mereka menjawab, \"Benar, sungguh, seorang pemberi peringatan telah datang kepada kami, tetapi kami mendustakan(nya) dan kami katakan, \"Allah tidak menurunkan sesuatu apa pun, kamu sebenarnya di dalam kesesatan yang besar"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "67:10",
+      "verse_number": 10,
+      "text_uthmani": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze",
+        "fr": "Et ils dirent: «Si nous avions écouté ou raisonné, nous ne serions pas parmi les gens de la Fournaise»",
+        "tr": "Eğer kulak vermiş veya akletmiş olsaydık, çılgın alevli cehennemlikler içinde olmazdık\" derler",
+        "ur": "اور وہ کہیں گے \"کاش ہم سنتے یا سمجھتے تو آج اِس بھڑکتی ہوئی آگ کے سزا واروں میں نہ شامل ہوتے",
+        "id": "Dan mereka berkata, \"Sekiranya (dahulu) kami mendengarkan atau memikirkan (peringatan itu) tentulah kami tidak termasuk penghuni neraka yang menyala-nyala"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "67:11",
+      "verse_number": 11,
+      "text_uthmani": "فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقٗا لِّأَصۡحَٰبِ ٱلسَّعِيرِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And they will admit their sin, so [it is] alienation for the companions of the Blaze",
+        "fr": "Ils ont reconnu leur péché. Que les gens de la Fournaise soient anéantis à jamais",
+        "tr": "Böylece, günahlarını itiraf ederler. Çılgın alevli cehennemlikler yok olsunlar",
+        "ur": "اس طرح وہ اپنے قصور کا خود اعتراف کر لیں گے، لعنت ہے ان دوزخیوں پر",
+        "id": "Maka mereka mengakui dosanya. Tetapi jauhlah (dari rahmat Allah) bagi penghuni neraka yang menyala-nyala itu"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "67:12",
+      "verse_number": 12,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Indeed, those who fear their Lord unseen will have forgiveness and great reward",
+        "fr": "Ceux qui redoutent leur Seigneur bien qu'ils ne L'aient jamais vu auront un pardon et une grande récompense",
+        "tr": "Doğrusu, görünmediği halde Rablerinden korkanlara, onlara, bağışlanma ve büyük ecir vardır",
+        "ur": "جو لوگ بے دیکھے اپنے رب سے ڈرتے ہیں، یقیناً اُن کے لیے مغفرت ہے اور بڑا اجر",
+        "id": "Sesungguhnya orang-orang yang takut kepada Tuhannya yang tidak terlihat oleh mereka, mereka memperoleh ampunan dan pahala yang besar"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "67:13",
+      "verse_number": 13,
+      "text_uthmani": "وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts",
+        "fr": "Que vous cachiez votre parole ou la divulguiez Il connaît bien le contenu des poitrines",
+        "tr": "Sizler, sözlerinizi gizleseniz de açıklasanız da birdir; O, kalblerde olanı bilir",
+        "ur": "تم خواہ چپکے سے بات کرو یا اونچی آواز سے (اللہ کے لیے یکساں ہے)، وہ تو دلوں کا حال تک جانتا ہے",
+        "id": "Dan rahasiakanlah perkataanmu atau nyatakanlah. Sungguh, Dia Maha Mengetahui segala isi hati"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "67:14",
+      "verse_number": 14,
+      "text_uthmani": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Does He who created not know, while He is the Subtle, the Acquainted",
+        "fr": "Ne connaît-Il pas ce qu'Il a créé alors que c'est Lui le Compatissant, le Parfaitement Connaisseur",
+        "tr": "Yaratan bilmez olur mu? O, Latif'tir, haberdardır",
+        "ur": "کیا وہی نہ جانے گا جس نے پیدا کیا ہے؟ حالانکہ وہ باریک بیں اور باخبر ہے",
+        "id": "Apakah (pantas) Allah yang menciptakan itu tidak mengetahui? Dan Dia Mahahalus, Maha Mengetahui"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "67:15",
+      "verse_number": 15,
+      "text_uthmani": "هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولٗا فَٱمۡشُواْ فِي مَنَاكِبِهَا وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection",
+        "fr": "C'est Lui qui vous a soumis la terre: parcourez donc ses grandes étendues. Mangez de ce qu'Il vous fournit. Vers Lui est la Résurrection",
+        "tr": "Yeryüzünü, size boyun eğdiren O'dur; öyleyse yerin sırtlarında dolaşın, Allah'ın verdiği rızıktan yiyin; sonunda dönüş O'nadır",
+        "ur": "وہی تو ہے جس نے تمہارے لیے زمین کو تابع کر رکھا ہے، چلو اُس کی چھاتی پر اور کھاؤ خدا کا رزق، اُسی کے حضور تمہیں دوبارہ زندہ ہو کر جانا ہے",
+        "id": "Dialah yang menjadikan bumi untuk kamu yang mudah dijelajahi, maka jelajahilah di segala penjurunya dan makanlah sebagian dari rezeki-Nya. Dan hanya kepada-Nyalah kamu (kembali setelah) dibangkitkan"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "67:16",
+      "verse_number": 16,
+      "text_uthmani": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway",
+        "fr": "Etes-vous à l'abri que Celui qui est au ciel vous enfouisse en la terre? Et voici qu'elle tremble",
+        "tr": "Gökte olanın sizi yerin dibine geçirmesinden güvende misiniz? O zaman, yer, sarsıldıkça sarsılır",
+        "ur": "کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تمہیں زمین میں دھنسا دے اور یکایک یہ زمین جھکولے کھانے لگے؟",
+        "id": "Sudah merasa amankah kamu, bahwa Dia yang di langit tidak akan membuat kamu ditelan bumi ketika tiba-tiba ia terguncang"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "67:17",
+      "verse_number": 17,
+      "text_uthmani": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning",
+        "fr": "Ou êtes-vous à l'abri que Celui qui est au ciel envoie contre vous un ouragan de pierres? Vous saurez ainsi quel fut Mon avertissement",
+        "tr": "Gökte olanın başınıza taş yağdırmasından güvende misiniz? Benim uyarmamın nasıl olduğunu yakında bileceksiniz",
+        "ur": "کیا تم اِس سے بے خوف ہو کہ وہ جو آسمان میں ہے تم پر پتھراؤ کرنے والی ہوا بھیج دے؟ پھر تمہیں معلوم ہو جائے گا کہ میری تنبیہ کیسی ہوتی ہے",
+        "id": "atau sudah merasa amankah kamu, bahwa Dia yang di langit tidak akan mengirimkan badai yang berbatu kepadamu? Namun kelak kamu akan mengetahui bagaimana (akibat mendustakan) peringatan-Ku"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "67:18",
+      "verse_number": 18,
+      "text_uthmani": "وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And already had those before them denied, and how [terrible] was My reproach",
+        "fr": "En effet, ceux d'avant eux avaient crié au mensonge. Quelle fut alors Ma réprobation",
+        "tr": "And olsun ki, bunlardan öncekiler de yalanlamışlardı. Beni inkar etmek nasılmış",
+        "ur": "اِن سے پہلے گزرے ہوئے لوگ جھٹلا چکے ہیں پھر دیکھ لو کہ میری گرفت کیسی سخت تھی",
+        "id": "Dan sungguh, orang-orang yang sebelum mereka pun telah mendustakan (rasul-rasul-Nya). Maka betapa hebatnya kemurkaan-Ku"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "67:19",
+      "verse_number": 19,
+      "text_uthmani": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَـٰٓفَّـٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing",
+        "fr": "N'ont-ils pas vu les oiseaux au-dessus d'eux, déployant et repliant leurs ailes tour à tour? Seul le Tout Miséricordieux les soutient. Car Il est sur toute chose, Clairvoyant",
+        "tr": "Üzerlerinde kanat çırpan dizi dizi kuşları görmezler mi? Onları havada Rahman olan Allah'tan başkası tutmuyor; doğrusu, O, herşeyi görendir",
+        "ur": "کیا یہ لو گ اپنے اوپر اڑنے والے پرندوں کو پر پھیلائے اور سکیڑتے نہیں دیکھتے؟ رحمان کے سوا کوئی نہیں جو انہیں تھامے ہوئے ہو وہی ہر چیز کا نگہبان ہے",
+        "id": "Tidakkah mereka memperhatikan burung-burung yang mengembangkan dan mengatupkan sayapnya di atas mereka? Tidak ada yang menahannya (di udara) selain Yang Maha Pengasih. Sungguh, Dia Maha Melihat segala sesuatu"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "67:20",
+      "verse_number": 20,
+      "text_uthmani": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion",
+        "fr": "Quel est celui qui constituerait pour vous une armée [capable] de vous secourir, en dehors du Tout Miséricordieux? En vérité les mécréants sont dans l'illusion complète",
+        "tr": "Yahut, Rahman olan Allah'ın dışında size yardımda bulunabilecek taraftarlarınız kimdir? İnkarcılar sadece aldanmaktadırlar",
+        "ur": "بتاؤ، آخر وہ کونسا لشکر تمہارے پاس ہے جو رحمان کے مقابلے میں تمہاری مدد کر سکتا ہے؟ حقیقت یہ ہے کہ منکرین دھوکے میں پڑے ہوئے ہیں",
+        "id": "Atau siapakah yang akan menjadi bala tentara bagimu yang dapat membelamu selain (Allah) Yang Maha Pengasih? Orang-orang kafir itu hanyalah dalam (keadaan) tertipu"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "67:21",
+      "verse_number": 21,
+      "text_uthmani": "أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ فِي عُتُوّٖ وَنُفُورٍ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion",
+        "fr": "Ou quel est celui qui vous donnera votre subsistance s'Il s'arrête de fournir Son attribution? Mais ils persistent dans leur insolence et dans leur répulsion",
+        "tr": "Allah size verdiği rızkı kesiverirse, size rızık verecek başka kim vardır? Hayır; onlar, azgınlık ve nefrette direnmektedirler",
+        "ur": "یا پھر بتاؤ، کون ہے جو تمہیں رزق دے سکتا ہے اگر رحمان اپنا رزق روک لے؟ دراصل یہ لوگ سر کشی اور حق سے گریز پر اڑے ہوئے ہیں",
+        "id": "Atau siapakah yang dapat memberimu rezeki jika Dia menahan rezeki-Nya? Bahkan mereka terus-menerus dalam kesombongan dan menjauhkan diri (dari kebenaran)"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "67:22",
+      "verse_number": 22,
+      "text_uthmani": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path",
+        "fr": "Qui est donc mieux guidé? Celui qui marche face contre terre ou celui qui marche redressé sur un chemin droit",
+        "tr": "Yüzükoyun sürünen mi, yoksa doğru yolda düpedüz yürüyen mi daha doğru yoldadır",
+        "ur": "بھلا سوچو، جو شخص منہ اوندھائے چل رہا ہو وہ زیادہ صحیح راہ پانے والا ہے یا وہ جو سر اٹھائے سیدھا ایک ہموار سڑک پر چل رہا ہو؟",
+        "id": "Apakah orang yang merangkak dengan wajah tertelungkup yang lebih terpimpin (dalam kebenaran) ataukah orang yang berjalan tegap di atas jalan yang lurus"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "67:23",
+      "verse_number": 23,
+      "text_uthmani": "قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful",
+        "fr": "Dis: «C'est Lui qui vous a créés et vous a donné l'ouïe, les yeux et les cœurs». Mais vous êtes rarement reconnaissants",
+        "tr": "De ki: \"Sizi yaratan sizin için kulaklar, gözler ve kalbler var eden O'dur. Ne az şükrediyorsunuz",
+        "ur": "اِن سے کہو اللہ ہی ہے جس نے تمہیں پیدا کیا، تم کو سننے اور دیکھنے کی طاقتیں دیں اور سوچنے سمجھنے والے دل دیے، مگر تم کم ہی شکر ادا کرتے ہو",
+        "id": "Katakanlah, \"Dialah yang menciptakan kamu dan menjadikan pendengaran, penglihatan dan hati nurani bagi kamu. (Tetapi) sedikit sekali kamu bersyukur"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "67:24",
+      "verse_number": 24,
+      "text_uthmani": "قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered",
+        "fr": "Dis: «C'est Lui qui vous a répandus sur la terre, et c'est vers Lui que vous serez rassemblés»",
+        "tr": "Sizi yerde yaratıp yayan O'dur ve O'nun huzurunda toplanacaksınız",
+        "ur": "اِن سے کہو، اللہ ہی ہے جس نے تمہیں زمین میں پھیلایا اور اسی کی طرف تم سمیٹے جاؤ گے",
+        "id": "Katakanlah, \"Dialah yang menjadikan kamu berkembang biak di muka bumi, dan hanya kepada-Nya kamu akan dikumpulkan"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "67:25",
+      "verse_number": 25,
+      "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "And they say, \"When is this promise, if you should be truthful",
+        "fr": "Et ils disent: «A quand cette promesse si vous êtes véridiques?»",
+        "tr": "Doğru sözlü iseniz bildirin bu azap sözü ne zamandır?\" derler",
+        "ur": "یہ کہتے ہیں \"اگر تم سچے ہو تو بتاؤ یہ وعدہ کب پورا ہوگا؟",
+        "id": "Dan mereka berkata, \"Kapan (datangnya) ancaman itu jika kamu orang yang benar"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "67:26",
+      "verse_number": 26,
+      "text_uthmani": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, \"The knowledge is only with Allah, and I am only a clear warner",
+        "fr": "Dis: «Allah seul [en] a la connaissance. Et moi je ne suis qu'un avertisseur clair»",
+        "tr": "De ki: \"Onu bilmek ancak Allah'a mahsustur. Ben sadece apaçık bir uyarıcıyım",
+        "ur": "کہو، \"اِس کا علم تو اللہ کے پاس ہے، میں تو بس صاف صاف خبردار کر دینے والا ہوں",
+        "id": "Katakanlah (Muhammad), \"Sesungguhnya ilmu (tentang hari Kiamat itu) hanya ada pada Allah. Dan aku hanyalah seorang pemberi peringatan yang menjelaskan"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "67:27",
+      "verse_number": 27,
+      "text_uthmani": "فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call",
+        "fr": "Puis, quand ils verront (le châtiment) de près, les visages de ceux qui ont mécru seront affligés. Et il leur sera dit: «Voilà ce que vous réclamiez»",
+        "tr": "Azabı yaklaşırken gördükleri zaman, inkar edenlerin yüzleri çirkinleşip kararır; onlara: \"Sizin arayıp durduğunuz işte budur\" denir",
+        "ur": "پھر جب یہ اُس چیز کو قریب دیکھ لیں گے تو اُن سب لوگوں کے چہرے بگڑ جائیں گے جنہوں نے انکار کیا ہے، اور اُس وقت ان سے کہا جائے گا کہ یہی ہے وہ چیز جس کے لیے تم تقاضے کر رہے تھے",
+        "id": "Maka ketika mereka melihat azab (pada hari Kiamat) sudah dekat, wajah orang-orang kafir itu menjadi muram. Dan dikatakan (kepada mereka), \"Inilah (azab) yang dahulu kamu memintanya"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "67:28",
+      "verse_number": 28,
+      "text_uthmani": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment",
+        "fr": "Dis: «Que vous en semble? Qu'Allah me fasse périr ainsi que ceux qui sont avec moi ou qu'Il nous fasse miséricorde, qui protégera alors les mécréants d'un châtiment douloureux?»",
+        "tr": "De ki: \"Allah, beni ve benimle beraber bulunanları isterse yok eder veya isterse merhamet eder; söyleyin, bu takdirde inkarcıları, can yakıcı azabdan kim alıkoyabilir",
+        "ur": "اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ اللہ خواہ مجھے اور میرے ساتھیوں کو ہلاک کر دے یا ہم پر رحم کرے، کافروں کو دردناک عذاب سے کون بچا لے گا؟",
+        "id": "Katakanlah (Muhammad), \"Tahukah kamu jika Allah mematikan aku dan orang-orang yang bersamaku atau memberi rahmat kepada kami, (maka kami akan masuk surga), lalu siapa yang dapat melindungi orang-orang kafir dari azab yang pedih"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "67:29",
+      "verse_number": 29,
+      "text_uthmani": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error",
+        "fr": "Dis: «C'est Lui, le Tout Miséricordieux. Nous croyons en Lui et c'est en Lui que nous plaçons notre confiance. Vous saurez bientôt qui est dans un égarement évident»",
+        "tr": "De ki: \"Bizim inandığımız ve kendisine güvendiğimiz, Rahman olan Allah'tır. Kimin apaçık bir sapıklıkta olduğunu yakında bileceksiniz",
+        "ur": "اِن سے کہو، وہ بڑا رحیم ہے، اسی پر ہم ایمان لائے ہیں، اور اُسی پر ہمارا بھروسا ہے، عنقریب تمہیں معلوم ہو جائے گا کہ صریح گمراہی میں پڑا ہوا کون ہے",
+        "id": "Katakanlah, \"Dialah Yang Maha Pengasih, kami beriman kepada-Nya dan kepada-Nya kami bertawakal. Maka kelak kamu akan tahu siapa yang berada dalam kesesatan yang nyata"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "67:30",
+      "verse_number": 30,
+      "text_uthmani": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
+      "chapter_id": 67,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water",
+        "fr": "Dis: «Que vous en semble? Si votre eau était absorbée au plus profond de la terre, qui donc vous apporterait de l'eau de source?»",
+        "tr": "De ki: \"Suyunuz yere batarsa, söyleyin, size kim temiz bir su kaynağı getirebilir",
+        "ur": "اِن سے کہو، کبھی تم نے یہ بھی سوچا کہ اگر تمہارے کنوؤں کا پانی زمین میں اتر جائے تو کون ہے جو اِس پانی کی بہتی ہوئی سوتیں تمہیں نکال کر لا دے گا؟",
+        "id": "Katakanlah (Muhammad), \"Terangkanlah kepadaku jika sumber air kamu menjadi kering; maka siapa yang akan memberimu air yang mengalir"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 67,
+    "name_arabic": "الملك",
+    "name_english": "Al-Mulk"
+  }
+}

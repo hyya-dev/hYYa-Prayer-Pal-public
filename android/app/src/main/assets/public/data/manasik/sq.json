@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Hapi i parë: Qëllimi dhe Ihram",
+        "details": "<ul><li>Synoni të kryeni Umren, hyni në Ihram në Miqat dhe filloni Talbiyah.</li><li>Ai iu përmbahej ndalesave Ihram dhe e përfundonte pastrimin ritual përpara se të fillonte ritualin.</li></ul>",
+        "evidence": "Quran 2:196 dhe viti i fillimit të ritualeve nga Miqat.",
+        "referenceLabel": "Ministria e Umres dhe Udhëzuesi i Vizitave"
+      },
+      {
+        "title": "Hapi i dytë: Hyrja Al-Masjid Al-Haram",
+        "details": "<ul><li>Hyni në heshtje, me lutje dhe përulësi.</li><li>Filloni nga ana që lehtëson lëvizjen e sigurt nëpër turma, pastaj shkoni drejt zonës Tawaf.</li></ul>",
+        "evidence": "Udhëzime të përgjithshme profetike mbi etiketën në xhami dhe lehtësimin e adhurimit.",
+        "referenceLabel": "Qendra e Ndërgjegjësimit Ministror"
+      },
+      {
+        "title": "Hapi i tretë: Tawaf (shtatë qarqe)",
+        "details": "<ul><li>Kryeni Tawaf rreth Kaabah shtatë herë, duke filluar nga vija e Black Stone.</li><li>Vazhdo ta kujtosh Zotin dhe shmang dëmtimin e të tjerëve në lëvizjen e turmave.</li><li class=\"pp-ios-only\"> Këshillë: Përdorni aplikacionin Apple Watch për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li><li class=\"pp-android-only\"> Këshillë: Përdorni aplikacionin Wear OS në orën tuaj për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 dhe përshkrimet e dokumentuara të ecjes rreth e qark të Profetit.",
+        "referenceLabel": "Udhëzime për udhëtimin e Umres në Nosuk"
+      },
+      {
+        "title": "Hapi i katërt: Lutja pas Tawaf",
+        "details": "<ul><li>Nëse është e mundur, falni dy rekate pasi të keni përfunduar Tawaf pa dëmtuar xhematin, pastaj vazhdoni në mënyrë të organizuar për të pirë ujë Zamzam.</li></ul>",
+        "evidence": "Një praktikë e mirënjohur në hadithet autentike në lidhje me namazin pas Tawaf.",
+        "referenceLabel": "Ministria e Umres dhe Udhëzuesi i Vizitave"
+      },
+      {
+        "title": "Hapi i pestë: Saie midis Safa dhe Marwah",
+        "details": "<ul><li>Kryej Saie për shtatë xhiro midis Safa dhe Marwah, duke filluar nga Safa dhe duke përfunduar në Marwah, me lutje dhe përkujtim.</li><li class=\"pp-ios-only\"> Këshillë: Përdorni aplikacionin Apple Watch për t&#39;ju ndihmuar të numëroni vrapimet Saie.</li><li class=\"pp-android-only\"> Këshillë: Përdorni aplikacionin Wear OS në orën tuaj për t&#39;ju ndihmuar të numëroni vrapimet Saie.</li></ul>",
+        "evidence": "Quran 2:158 dhe transmetimet autentike sipas urdhrit të të dërguarit.",
+        "referenceLabel": "Udhëzime për udhëtimin e Umres në Nosuk"
+      },
+      {
+        "title": "Hapi i gjashtë: Prerja e flokëve ose rruajtja",
+        "details": "<ul><li>Burrat i rruajnë ose i presin flokët, dhe gratë i shkurtojnë një pjesë të vogël të tyre.</li><li>Dhe me këtë, mbaron Umreja dhe mbaron Ihram.</li></ul>",
+        "evidence": "Quran 48:27 dhe transmetimet autentike që lidhen me rruajtjen dhe shkurtimin e flokëve.",
+        "referenceLabel": "Ministria e Umres dhe Udhëzuesi i Vizitave"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Hapi i parë: Ihram dhe nijeti për Haxh",
+        "details": "<ul><li>Hyr në ihram në Miqat, planifiko llojin tënd të haxhit dhe pastaj vazhdo me Talbiyah.</li><li>Zbatoni rregullat Ihram derisa të arrini në daljet Ihram.</li></ul>",
+        "evidence": "Quran 2:196 dhe ritualet profetike të dakordësuara për fillimin e Haxhit.",
+        "referenceLabel": "Udhëzimet e Ministrisë së Haxhit"
+      },
+      {
+        "title": "Hapi i dytë: Yawm at-Tarwiyah në Mina",
+        "details": "<ul><li>Ditën e tetë të Dhul Hijjah, shkoni në Mina, falni namazet në kohën e caktuar dhe përgatituni shpirtërisht dhe logjistikisht për përkujtimin Arafah.</li></ul>",
+        "evidence": "Një sekuencë e dokumentuar ritualesh në udhëtimin e lamtumirës.",
+        "referenceLabel": "Udhëtim për në Haxh në Nosuk"
+      },
+      {
+        "title": "Hapi i tretë: Qëndrimi në Arafah",
+        "details": "<ul><li>Kalojeni ditën e nëntë të Dhul Hijjah në Arafah duke u lutur, duke përkujtuar Zotin dhe duke u penduar.</li><li>Kjo është shtylla thelbësore e Haxhit.</li></ul>",
+        "evidence": "Hadith: Haxhi është Arafah.",
+        "referenceLabel": "Udhëzimet e Ministrisë së Haxhit"
+      },
+      {
+        "title": "Hapi i katërt: Muzdalifah dhe mbledhja e guralecëve",
+        "details": "<ul><li>Pas perëndimit të diellit, shko në Muzdalifah, fal namazin e akshamit dhe të jacisë, kaloje natën atje dhe mblidh guralecë për të hedhur gurë në Mina.</li></ul>",
+        "evidence": "Sekuenca profetike pas Arafah në rrëfime autentike.",
+        "referenceLabel": "Udhëtim për në Haxh në Nosuk"
+      },
+      {
+        "title": "Hapi i pestë: Rami, sakrifica dhe poezia",
+        "details": "<ul><li>Ditën e Bajramit, kur të hidhni gurin Jamarat al-Aqabah, kryeni kurbanin aty ku është e nevojshme, pastaj rruani ose prisni flokët për tahlilin e parë.</li></ul>",
+        "evidence": "Quran 22:36-37 dhe sekuenca e haditheve autentike.",
+        "referenceLabel": "Udhëzimet e Ministrisë së Haxhit"
+      },
+      {
+        "title": "Hapi i gjashtë: Tawaf al-Ifadah (shtatë raunde)",
+        "details": "<ul><li>Kthehu në Mekë për të kryer Tawaf al-Ifadah, për të përfunduar shtatë xhiro dhe për të ruajtur lëvizjen e sigurt dhe të rregullt gjatë kohërave të ngarkuara.</li><li class=\"pp-ios-only\"> Këshillë: Përdorni aplikacionin Apple Watch për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li><li class=\"pp-android-only\"> Këshillë: Përdorni aplikacionin Wear OS në orën tuaj për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 dhe përshkrimet e dokumentuara të qarkullimit të detyrueshëm rreth e qark.",
+        "referenceLabel": "Udhëtim për në Haxh në Nosuk"
+      },
+      {
+        "title": "Hapi 7: Tregoji personit se kush është i nevojshëm",
+        "details": "<ul><li>Kryej Saie kur lloji i haxhit që bën e kërkon, duke ruajtur rendin dhe numrin e shtatë xhirove midis Safa dhe Marwah.</li><li class=\"pp-ios-only\"> Këshillë: Përdorni aplikacionin Apple Watch për t&#39;ju ndihmuar të numëroni vrapimet Saie.</li><li class=\"pp-android-only\"> Këshillë: Përdorni aplikacionin Wear OS në orën tuaj për t&#39;ju ndihmuar të numëroni vrapimet Saie.</li></ul>",
+        "evidence": "Quran 2:158 dhe zbatimi i tij jurisprudencial në ritualet e Haxhit.",
+        "referenceLabel": "Udhëzimet e Ministrisë së Haxhit"
+      },
+      {
+        "title": "Hapi 8: Ayyam at-Tashriq dhe Tawaf al-Wada&#39;",
+        "details": "<ul><li>Qëndrimi në Mina gjatë Teshrikut për të kryer ritualet e hedhjes Jamarat, pastaj përfundimi i Tawaf al-Wada&#39; para largimit nga Meka, përveç atyre që janë të përjashtuar.</li><li class=\"pp-ios-only\"> Këshillë: Përdorni aplikacionin Apple Watch për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li><li class=\"pp-android-only\"> Këshillë: Përdorni aplikacionin Wear OS në orën tuaj për t&#39;ju ndihmuar të numëroni qarqet tuaja Tawaf.</li></ul>",
+        "evidence": "Ritualet e përcaktuara bazohen në udhëzimin Quran dhe në praktikën e saktë të Sunnah Profetik.",
+        "referenceLabel": "Udhëtim për në Haxh në Nosuk"
+      }
+    ]
+  }
+}

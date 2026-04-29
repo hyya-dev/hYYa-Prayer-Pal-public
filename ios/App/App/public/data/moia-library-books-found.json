@@ -1,0 +1,82 @@
+{
+  "timestamp": "2026-01-13T03:17:00.000Z",
+  "searchUrl": "https://ebook.moia.gov.sa/Lib/Books?SName={searchTerm}&LanguageID=&AuthorID=&PublisherID=",
+  "books": {
+    "fortressOfTheMuslim": {
+      "title": "حصن المسلم من أذكار الكتاب والسنة",
+      "author": "د.سعيد بن وهف القحطاني",
+      "versions": [
+        {
+          "id": 77,
+          "language": "العربية",
+          "languageCode": "ar",
+          "url": "https://ebook.moia.gov.sa/lib/book/77",
+          "downloadUrl": "https://ebook.moia.gov.sa/lib/Download/77?SID=1001"
+        },
+        {
+          "id": 149,
+          "language": "INDONESIA (إندونيسي)",
+          "languageCode": "id",
+          "url": "https://ebook.moia.gov.sa/lib/book/149",
+          "downloadUrl": "https://ebook.moia.gov.sa/lib/Download/149?SID=1001"
+        },
+        {
+          "id": 580,
+          "language": "الماليزية bahasa Malaysia",
+          "languageCode": "ms",
+          "url": "https://ebook.moia.gov.sa/lib/book/580",
+          "downloadUrl": "https://ebook.moia.gov.sa/lib/Download/580?SID=1001"
+        }
+      ],
+      "note": "Comprehensive Azkar book by Dr. Sa'id bin Wahf al-Qahtani. Only app-supported languages included: ar, id, ms"
+    },
+    "tuhfatAlAkhbar": {
+      "title": "تحفة الأخيار ببيان جملة نافعة مما ورد في الكتاب والسنة من الأدعية والأذكار",
+      "author": "الشيخ عبدالعزيز بن باز",
+      "versions": [
+        {
+          "id": 12,
+          "language": "العربية",
+          "languageCode": "ar",
+          "url": "https://ebook.moia.gov.sa/lib/book/12",
+          "downloadUrl": "https://ebook.moia.gov.sa/lib/Download/12?SID=1001"
+        }
+      ],
+      "note": "Azkar and supplications book by Sheikh Abdul Aziz bin Baz. Currently only available in Arabic."
+    }
+  },
+  "searches": {
+    "azkar": {
+      "term": "أذكار",
+      "success": true,
+      "booksFound": 2,
+      "note": "Found multiple Azkar books including Fortress of the Muslim and Tuhfat al-Akhbar"
+    },
+    "fortress": {
+      "term": "حصن المسلم",
+      "success": true,
+      "booksFound": 12,
+      "note": "Found Fortress of the Muslim in 12 languages, filtered to app-supported languages (ar, id, ms)"
+    },
+    "sahihBukhari": {
+      "term": "صحيح البخاري",
+      "success": false,
+      "booksFound": 0,
+      "note": "Not available in MOIA Library"
+    },
+    "ahadith": {
+      "term": "أحاديث",
+      "success": false,
+      "booksFound": 0,
+      "note": "No Ahadith collections found in MOIA Library"
+    }
+  },
+  "status": "complete",
+  "summary": {
+    "azkarBooksFound": 2,
+    "ahadithCollectionsFound": 0,
+    "totalBooksIntegrated": 2,
+    "languagesSupported": ["ar", "id", "ms"],
+    "note": "All searches completed. Ahadith collections not available in MOIA Library."
+  }
+}

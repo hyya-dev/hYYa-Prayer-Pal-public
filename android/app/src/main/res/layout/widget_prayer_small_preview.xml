@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Small Prayer Widget PREVIEW - Static placeholder shown in widget picker -->
+<!-- Updated to match live widget: white text, new positioning -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:padding="0dp">
+
+    <!-- Background image (mascot) -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/widget_background_small"
+        android:contentDescription="@null" />
+
+    <!-- Static Preview: Next Prayer - x:50% y:22% -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+            android:layoutDirection="ltr"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="34dp"
+        android:gravity="center">
+
+        <!-- Sample prayer name - White text -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DHUHR"
+            android:textColor="#A27323"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-medium"
+            android:shadowColor="#3A2207"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="1"
+            android:layout_marginRight="4dp" />
+
+        <!-- Sample prayer time - White text -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11:53 AM"
+            android:textColor="#A27323"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:shadowColor="#3A2207"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="1" />
+
+    </LinearLayout>
+
+    <!-- Static Preview: Temperature - x:67% y:62% -->
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="19dp"
+        android:gravity="right"
+        android:text="8°C"
+        android:textColor="#A27323"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:shadowColor="#3A2207"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1" />
+
+</FrameLayout>

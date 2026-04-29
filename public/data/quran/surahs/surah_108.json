@@ -1,0 +1,54 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "108:1",
+      "verse_number": 1,
+      "text_uthmani": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "chapter_id": 108,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We have granted you, [O Muhammad], al-Kawthar",
+        "fr": "Nous t'avons certes, accordé l'Abondance",
+        "tr": "Doğrusu sana pek çok nimet vermişizdir",
+        "ur": "(اے نبیؐ) ہم نے تمہیں کوثر عطا کر دیا",
+        "id": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "108:2",
+      "verse_number": 2,
+      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "chapter_id": 108,
+      "words": [],
+      "translations": {
+        "en": "So pray to your Lord and sacrifice [to Him alone]",
+        "fr": "Accomplis la Salât pour ton Seigneur et sacrifie",
+        "tr": "Öyleyse Rabbin için namaz kıl, kurban kes",
+        "ur": "پس تم اپنے رب ہی کے لیے نماز پڑھو اور قربانی کرو",
+        "id": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "108:3",
+      "verse_number": 3,
+      "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "chapter_id": 108,
+      "words": [],
+      "translations": {
+        "en": "Indeed, your enemy is the one cut off",
+        "fr": "Celui qui te hait sera certes, sans postérité",
+        "tr": "Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir",
+        "ur": "تمہارا دشمن ہی جڑ کٹا ہے",
+        "id": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 108,
+    "name_arabic": "الكوثر",
+    "name_english": "Al-Kawthar"
+  }
+}

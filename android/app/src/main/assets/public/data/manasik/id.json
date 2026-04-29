@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Langkah pertama: Niat dan Ihram",
+        "details": "<ul><li>Niat umrah, masuk Ihram di Miqat, dan memulai Talbiyah.</li><li>Dia mematuhi larangan Ihram, dan menyelesaikan penyucian ritual sebelum memulai ritual tersebut.</li></ul>",
+        "evidence": "Quran 2:196 dan tahun dimulainya ritual dari Miqat.",
+        "referenceLabel": "Kementerian Umrah dan Panduan Kunjungan"
+      },
+      {
+        "title": "Langkah Kedua: Memasuki Al-Masjid Al-Haram",
+        "details": "<ul><li>Masuklah dengan tenang, disertai doa dan kerendahan hati.</li><li>Mulailah dari sisi yang memudahkan pergerakan aman di tengah keramaian, lalu menuju ke area Tawaf.</li></ul>",
+        "evidence": "Pedoman umum kenabian tentang etika di masjid dan mempermudah ibadah.",
+        "referenceLabel": "Pusat Kesadaran Menteri"
+      },
+      {
+        "title": "Langkah ketiga: Tawaf (tujuh putaran)",
+        "details": "<ul><li>Lakukan Tawaf mengelilingi Kaabah tujuh kali, dimulai dari barisan Black Stone.</li><li>Ingatlah selalu akan Tuhan dan hindari membahayakan orang lain di tengah keramaian.</li><li class=\"pp-ios-only\"> Tips: Gunakan aplikasi Apple Watch untuk membantu Anda menghitung rakaat Tawaf Anda.</li><li class=\"pp-android-only\"> Tips: Gunakan aplikasi Wear OS di jam tangan Anda untuk membantu Anda menghitung putaran Tawaf Anda.</li></ul>",
+        "evidence": "Quran 22:29 dan catatan-catatan yang terdokumentasi mengenai tawaf Nabi.",
+        "referenceLabel": "Panduan perjalanan Umrah di Nosuk"
+      },
+      {
+        "title": "Langkah Keempat: Doa setelah Tawaf",
+        "details": "<ul><li>Setelah menyelesaikan Tawaf jika memungkinkan, salatlah dua rakaat tanpa mengganggu jamaah, kemudian lanjutkan dengan tertib untuk minum air Zamzam.</li></ul>",
+        "evidence": "Suatu praktik yang sudah mapan dalam hadits-hadits sahih mengenai salat setelah Tawaf.",
+        "referenceLabel": "Kementerian Umrah dan Panduan Kunjungan"
+      },
+      {
+        "title": "Langkah kelima: Saie di antara Safa dan Marwah",
+        "details": "<ul><li>Lakukan Saie sebanyak tujuh putaran antara Safa dan Marwah, dimulai dari Safa dan berakhir di Marwah, disertai dengan doa dan zikir.</li><li class=\"pp-ios-only\"> Tip: Gunakan aplikasi Apple Watch untuk membantu Anda menghitung lari Saie.</li><li class=\"pp-android-only\"> Tip: Gunakan aplikasi Wear OS di jam tangan Anda untuk membantu Anda menghitung lari Saie.</li></ul>",
+        "evidence": "Quran 2:158 dan riwayat-riwayat sahih sesuai dengan perintah Rasulullah.",
+        "referenceLabel": "Panduan perjalanan Umrah di Nosuk"
+      },
+      {
+        "title": "Langkah keenam: Potong rambut atau cukur",
+        "details": "<ul><li>Pria mencukur atau memotong rambut mereka, dan wanita memangkas sebagian kecil rambut mereka.</li><li>Dengan demikian, ibadah Umrah berakhir dan Ihram pun berakhir.</li></ul>",
+        "evidence": "Quran 48:27 dan riwayat-riwayat sahih yang berkaitan dengan mencukur dan memendekkan rambut.",
+        "referenceLabel": "Kementerian Umrah dan Panduan Kunjungan"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Langkah pertama: Ihram dan niat untuk Haji",
+        "details": "<ul><li>Masuklah dalam keadaan ihram di Miqat, niatkan jenis haji yang Anda inginkan, kemudian lanjutkan dengan Talbiyah.</li><li>Patuhilah aturan Ihram hingga Anda mencapai pintu keluar Ihram.</li></ul>",
+        "evidence": "Quran 2:196 dan ritual-ritual kenabian yang disepakati untuk memulai ibadah haji.",
+        "referenceLabel": "Pedoman Kementerian Haji"
+      },
+      {
+        "title": "Langkah Kedua: Yawm at-Tarwiyah di Mina",
+        "details": "<ul><li>Pada tanggal 8 Dhul Hijjah, pergilah ke Mina, laksanakan salat pada waktu yang telah ditentukan, dan persiapkan diri secara spiritual dan logistik untuk memperingati Arafah.</li></ul>",
+        "evidence": "Urutan ritual yang terdokumentasi dalam perjalanan perpisahan.",
+        "referenceLabel": "Perjalanan haji ke Nosuk"
+      },
+      {
+        "title": "Langkah ketiga: Berdiri di Arafah",
+        "details": "<ul><li>Habiskan hari kesembilan bulan Dhul Hijjah di Arafah dengan berdoa, mengingat Allah, dan bertaubat.</li><li>Inilah rukun utama ibadah haji.</li></ul>",
+        "evidence": "Hadith: Haji adalah Arafah.",
+        "referenceLabel": "Pedoman Kementerian Haji"
+      },
+      {
+        "title": "Langkah keempat: Muzdalifah dan mengumpulkan kerikil",
+        "details": "<ul><li>Setelah matahari terbenam, pergilah ke Muzdalifah, salat Maghrib dan Isya, bermalam di sana, dan kumpulkan kerikil untuk dilempar ke Mina.</li></ul>",
+        "evidence": "Urutan peristiwa kenabian setelah Arafah dalam riwayat-riwayat sahih.",
+        "referenceLabel": "Perjalanan haji ke Nosuk"
+      },
+      {
+        "title": "Langkah Kelima: Rami, Pengorbanan, dan Puisi",
+        "details": "<ul><li>Pada hari raya Idul Fitri, saat melempar batu Jamarat al-Aqabah, lakukan penyembelihan hewan kurban jika diperlukan, kemudian cukur atau potong rambut untuk tahlil pertama.</li></ul>",
+        "evidence": "Quran 22:36-37 dan urutan hadits-hadits sahih.",
+        "referenceLabel": "Pedoman Kementerian Haji"
+      },
+      {
+        "title": "Langkah keenam: Tawaf al-Ifadah (tujuh putaran)",
+        "details": "<ul><li>Kembali ke Mekah untuk melaksanakan Tawaf al-Ifadah, menyelesaikan tujuh putaran, dan menjaga pergerakan yang aman dan tertib selama waktu sibuk.</li><li class=\"pp-ios-only\"> Tips: Gunakan aplikasi Apple Watch untuk membantu Anda menghitung rakaat Tawaf Anda.</li><li class=\"pp-android-only\"> Tips: Gunakan aplikasi Wear OS di jam tangan Anda untuk membantu Anda menghitung putaran Tawaf Anda.</li></ul>",
+        "evidence": "Quran 22:29 dan uraian-uraian yang tercatat mengenai tawaf wajib.",
+        "referenceLabel": "Perjalanan haji ke Nosuk"
+      },
+      {
+        "title": "Langkah 7: Beri tahu orang yang dibutuhkan",
+        "details": "<ul><li>Lakukan Saie ketika jenis Haji Anda mengharuskannya, sambil tetap menjaga urutan dan jumlah tujuh putaran antara Safa dan Marwah.</li><li class=\"pp-ios-only\"> Tip: Gunakan aplikasi Apple Watch untuk membantu Anda menghitung lari Saie.</li><li class=\"pp-android-only\"> Tip: Gunakan aplikasi Wear OS di jam tangan Anda untuk membantu Anda menghitung lari Saie.</li></ul>",
+        "evidence": "Quran 2:158 dan penerapannya dalam hukum Islam pada ritual ibadah haji.",
+        "referenceLabel": "Pedoman Kementerian Haji"
+      },
+      {
+        "title": "Langkah 8: Ayyam at-Tashriq dan Tawaf al-Wada&#39;",
+        "details": "<ul><li>Tinggal di Mina selama Tashreeq untuk melaksanakan ritual melempar Jamarat, kemudian menyelesaikan Tawaf al-Wada&#39; sebelum meninggalkan Makkah, kecuali bagi mereka yang dikecualikan.</li><li class=\"pp-ios-only\"> Tips: Gunakan aplikasi Apple Watch untuk membantu Anda menghitung rakaat Tawaf Anda.</li><li class=\"pp-android-only\"> Tips: Gunakan aplikasi Wear OS di jam tangan Anda untuk membantu Anda menghitung putaran Tawaf Anda.</li></ul>",
+        "evidence": "Ritual-ritual yang telah ditetapkan didasarkan pada petunjuk Quran dan praktik Sunnah Nabi yang benar.",
+        "referenceLabel": "Perjalanan haji ke Nosuk"
+      }
+    ]
+  }
+}

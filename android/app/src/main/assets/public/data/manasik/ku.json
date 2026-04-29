@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Gava yekem: Niyet û Ihram",
+        "details": "<ul><li>Niyeta umrê bike, li Miqat bikeve îhramê û dest bi Talbiyah bike.</li><li>Wî pabendî qedexeyên Ihram bû û berî destpêkirina rêûresmê, merasîma paqijkirinê temam kir.</li></ul>",
+        "evidence": "Quran 2:196 û sala destpêkirina rêûresman ji Miqat.",
+        "referenceLabel": "Wezareta Umreyê û Rêbernameya Serdanê"
+      },
+      {
+        "title": "Gava Duyem: Ketina Al-Masjid Al-Haram",
+        "details": "<ul><li>Bi bêdengî, bi dua û dilnizmî bikevin hundir.</li><li>Ji aliyê ku tevgera ewle di nav elaletê de hêsan dike dest pê bike, dû re ber bi devera Tawaf ve biçe.</li></ul>",
+        "evidence": "Rêbernameyên giştî yên pêxemberî li ser exlaqê li mizgeftan û hêsankirina îbadetê.",
+        "referenceLabel": "Navenda Hişyariya Wezîran"
+      },
+      {
+        "title": "Gava sêyem: Tawaf (heft dewreyan)",
+        "details": "<ul><li>Tawaf li dora Kaabah heft caran bike, ji xeta Black Stone dest pê bike.</li><li>Xweda bi bîr bînin û di dema tevgera elaletê de zirarê nedin yên din.</li><li class=\"pp-ios-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Apple Watch bikar bînin.</li><li class=\"pp-android-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Wear OS ya li ser saeta xwe bikar bînin.</li></ul>",
+        "evidence": "Quran 22:29 û danasînên belgekirî yên li ser dorvegera Pêxember.",
+        "referenceLabel": "Rêbernameyên sefera Umreyê li Nosuk"
+      },
+      {
+        "title": "Gava Çaremîn: Nimêj piştî Tawaf",
+        "details": "<ul><li>Heke gengaz be, piştî temamkirina Tawaf du reket nimêj bike bêyî ku zirarê bidî cemaetê, paşê bi awayekî rêkûpêk ber bi vexwarina ava Zamzam ve biçe.</li></ul>",
+        "evidence": "Awayekî baş-bicîhbûyî di hedîsên rastîn de derbarê nimêja piştî Tawaf de.",
+        "referenceLabel": "Wezareta Umreyê û Rêbernameya Serdanê"
+      },
+      {
+        "title": "Gava pêncemîn: Saie di navbera Safa û Marwah",
+        "details": "<ul><li>Saie di navbera Safa û Marwah de, ji Safa dest pê bike û li Marwah bi dawî bibe, heft dor bi dor, bi duayê û zikirê bike.</li><li class=\"pp-ios-only\"> Serişte: Ji bo jimartina bazdanên Saie sepana Apple Watch bikar bîne.</li><li class=\"pp-android-only\"> Serişte: Ji bo jimartina bazdanên Saie sepana Wear OS ya li ser saeta xwe bi kar bîne.</li></ul>",
+        "evidence": "Quran 2:158 û riwayetên rastîn li gorî fermana pêxember.",
+        "referenceLabel": "Rêbernameyên sefera Umreyê li Nosuk"
+      },
+      {
+        "title": "Gava şeşemîn: Porê sor an jî tirşkirin",
+        "details": "<ul><li>Mêr porê xwe ditewînin an jî dibirrin, û jin jî beşek piçûk ji porê xwe qut dikin.</li><li>Û bi vê yekê, Umre diqede û Ihram jî diqede.</li></ul>",
+        "evidence": "Quran 48:27 û riwayetên rastîn ên têkildarî tirşkirin û kurtkirinê.",
+        "referenceLabel": "Wezareta Umreyê û Rêbernameya Serdanê"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Gava yekem: Ihram û niyeta hecê",
+        "details": "<ul><li>Li Miqat têkevin îhramê, niyeta xwe ya hecê çêbikin, paşê biçin Talbiyah.</li><li>Heta ku hûn bigihîjin deriyên Ihram li gor rêgezên Ihram tevbigerin.</li></ul>",
+        "evidence": "Quran 2:196 û rêûresmên pêxemberî yên lihevkirî ji bo destpêkirina Hecê.",
+        "referenceLabel": "Rêbernameyên Wezareta Hecê"
+      },
+      {
+        "title": "Gav Duyem: Yawm at-Tarwiyah li Mina",
+        "details": "<ul><li>Di heştê Dhul Hijjah de, berê xwe bidin Mina, nimêjê di demên diyarkirî de bikin, û ji hêla manewî û lojîstîkî ve ji bo bîranîna Arafah amade bikin.</li></ul>",
+        "evidence": "Rêzebiriyeke belgekirî ya rêûresman di rêwîtiya xatirxwestinê de.",
+        "referenceLabel": "Sefera hecê bo Nosuk"
+      },
+      {
+        "title": "Gava sêyem: Li Arafah rawestin",
+        "details": "<ul><li>Roja nehemîn a Dhul Hijjah li Arafah bi nimêj, bîranîna Xwedê û tobekirinê derbas bikin.</li><li>Ev stûna bingehîn a Hecê ye.</li></ul>",
+        "evidence": "Hadith: Hec Arafah ye.",
+        "referenceLabel": "Rêbernameyên Wezareta Hecê"
+      },
+      {
+        "title": "Gava çaremîn: Muzdalifah û berhevkirina keviran",
+        "details": "<ul><li>Piştî rojavabûnê, biçe Muzdalifah, nimêjên mexrib û îşayê bike, şevê li wir derbas bike û ji bo avêtina keviran ber bi Mina ve keviran berhev bike.</li></ul>",
+        "evidence": "Rêzepeymana piştî Arafah di riwayetên rast de.",
+        "referenceLabel": "Sefera hecê bo Nosuk"
+      },
+      {
+        "title": "Gava Pêncemîn: Ramî, Qurban û Helbest",
+        "details": "<ul><li>Roja cejnê, dema ku kevirê Jamarat al-Aqabah tê avêtin, li cihê ku pêwîst be qurbanê bikin, paşê ji bo tehlîla yekem porê xwe bitewînin an jî bibirrin.</li></ul>",
+        "evidence": "Quran 22:36-37 û rêza hedîsên rastîn.",
+        "referenceLabel": "Rêbernameyên Wezareta Hecê"
+      },
+      {
+        "title": "Gav şeş: Tawaf al-Ifadah (heft dewran)",
+        "details": "<ul><li>Ji bo kirina Tawaf al-Ifadah, temamkirina heft geryanan, û di demên qerebalix de tevgera ewle û rêkûpêk biparêzin, vegerin Mekkeyê.</li><li class=\"pp-ios-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Apple Watch bikar bînin.</li><li class=\"pp-android-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Wear OS ya li ser saeta xwe bikar bînin.</li></ul>",
+        "evidence": "Quran 22:29 û danasînên belgekirî yên li ser ferzkirina defîleyê.",
+        "referenceLabel": "Sefera hecê bo Nosuk"
+      },
+      {
+        "title": "Pêngava 7: Ji kesê/a ku pêwîst e re bêjin",
+        "details": "<ul><li>Dema ku cureya heca te hewce bike, Saie bike, di heman demê de rêz û hejmara heft gerên di navbera Safa û Marwah de biparêze.</li><li class=\"pp-ios-only\"> Serişte: Ji bo jimartina bazdanên Saie sepana Apple Watch bikar bîne.</li><li class=\"pp-android-only\"> Serişte: Ji bo jimartina bazdanên Saie sepana Wear OS ya li ser saeta xwe bi kar bîne.</li></ul>",
+        "evidence": "Quran 2:158 û sepandina wê ya qanûnî di rêûresmên Hecê de.",
+        "referenceLabel": "Rêbernameyên Wezareta Hecê"
+      },
+      {
+        "title": "Gav 8: Ayyam at-Tashriq û Tawaf al-Wada&#39;",
+        "details": "<ul><li>Mayîna li Mina di dema Teşrîqê de ji bo pêkanîna rêûresmên avêtina Jamarat, dûv re temamkirina Tawaf al-Wada&#39; berî derketina ji Mekkeyê, ji bilî yên ku îstîsna ne.</li><li class=\"pp-ios-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Apple Watch bikar bînin.</li><li class=\"pp-android-only\"> Serişte: Ji bo jimartina devereyên Tawaf, sepana Wear OS ya li ser saeta xwe bikar bînin.</li></ul>",
+        "evidence": "Rîtuelên damezrandî li ser bingeha rêberiya Quran û pratîkkirina rast a Sunnah Pêxemberî ne.",
+        "referenceLabel": "Sefera hecê bo Nosuk"
+      }
+    ]
+  }
+}

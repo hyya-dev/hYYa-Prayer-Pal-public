@@ -1,0 +1,609 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "78:1",
+      "verse_number": 1,
+      "text_uthmani": "عَمَّ يَتَسَآءَلُونَ",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "About what are they asking one another",
+        "fr": "Sur quoi s'interrogent-ils mutuellement",
+        "tr": "Neyi soruşturuyorlar",
+        "ur": "یہ لوگ کس چیز کے بارے میں پوچھ گچھ کر رہے ہیں؟",
+        "id": "Tentang apakah mereka saling bertanya-tanya"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "78:2",
+      "verse_number": 2,
+      "text_uthmani": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "About the great news",
+        "fr": "Sur la grande nouvelle",
+        "tr": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi",
+        "ur": "کیا اُس بڑی خبر کے بارے میں",
+        "id": "Tentang berita yang besar (hari berbangkit)"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "78:3",
+      "verse_number": 3,
+      "text_uthmani": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "That over which they are in disagreement",
+        "fr": "à propos de laquelle ils divergent",
+        "tr": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi",
+        "ur": "جس کے متعلق یہ مختلف چہ میگوئیاں کرنے میں لگے ہوئے ہیں؟",
+        "id": "yang dalam hal itu mereka berselisih"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "78:4",
+      "verse_number": 4,
+      "text_uthmani": "كَلَّا سَيَعۡلَمُونَ",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "No! They are going to know",
+        "fr": "Eh bien non! Ils sauront bientôt",
+        "tr": "Hayır; şüphesiz görüp bileceklerdir",
+        "ur": "ہرگز نہیں، عنقریب اِنہیں معلوم ہو جائیگا",
+        "id": "(Tidak!892) Kelak mereka akan mengetahui"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "78:5",
+      "verse_number": 5,
+      "text_uthmani": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Then, no! They are going to know",
+        "fr": "Encore une fois, non! Ils sauront bientôt",
+        "tr": "Yine hayır; elbette görüp bileceklerdir",
+        "ur": "ہاں، ہرگز نہیں، عنقریب اِنہیں معلوم ہو جائے گا",
+        "id": "sekali lagi tidak! Kelak mereka akan mengetahui"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "78:6",
+      "verse_number": 6,
+      "text_uthmani": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Have We not made the earth a resting place",
+        "fr": "N'avons-Nous pas fait de la terre une couche",
+        "tr": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı",
+        "ur": "کیا یہ واقعہ نہیں ہے کہ ہم نے زمین کو فرش بنایا",
+        "id": "Bukankah Kami telah menjadikan bumi sebagai hamparan"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "78:7",
+      "verse_number": 7,
+      "text_uthmani": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And the mountains as stakes",
+        "fr": "et (placé) les montagnes comme des piquets",
+        "tr": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı",
+        "ur": "اور پہاڑوں کو میخوں کی طرح گاڑ دیا",
+        "id": "dan gunung-gunung sebagai pasak"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "78:8",
+      "verse_number": 8,
+      "text_uthmani": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And We created you in pairs",
+        "fr": "Nous vous avons créés en couples",
+        "tr": "Sizi çift çift yarattık",
+        "ur": "اور تمہیں (مَردوں اور عورتوں کے) جوڑوں کی شکل میں پیدا کیا",
+        "id": "Dan Kami menciptakan kamu berpasang-pasangan"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "78:9",
+      "verse_number": 9,
+      "text_uthmani": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And made your sleep [a means for] rest",
+        "fr": "et désigné votre sommeil pour votre repos",
+        "tr": "Uykunuzu dinlenme vakti kıldık",
+        "ur": "اور تمہاری نیند کو باعث سکون بنایا",
+        "id": "dan Kami menjadikan tidurmu untuk istirahat"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "78:10",
+      "verse_number": 10,
+      "text_uthmani": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And made the night as clothing",
+        "fr": "et fait de la nuit un vêtement",
+        "tr": "Geceyi bir örtü yaptık",
+        "ur": "اور رات کو پردہ پوش",
+        "id": "dan Kami menjadikan malam sebagai pakaian"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "78:11",
+      "verse_number": 11,
+      "text_uthmani": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And made the day for livelihood",
+        "fr": "et assigné le jour pour les affaires de la vie",
+        "tr": "Gündüzü geçimi sağlama vakti kıldık",
+        "ur": "اور دن کو معاش کا وقت بنایا",
+        "id": "dan Kami menjadikan siang untuk mencari penghidupan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "78:12",
+      "verse_number": 12,
+      "text_uthmani": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And constructed above you seven strong [heavens]",
+        "fr": "et construit au-dessus de vous sept (cieux) renforcés",
+        "tr": "Üstünüze yedi kat sağlam gök bina ettik",
+        "ur": "اور تمہارے اوپر سات مضبوط آسمان قائم کیے",
+        "id": "dan Kami membangun di atas kamu tujuh (lapis langit) yang kokoh"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "78:13",
+      "verse_number": 13,
+      "text_uthmani": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And made [therein] a burning lamp",
+        "fr": "et [y] avons placé une lampe (le soleil) très ardente",
+        "tr": "Parlak ışık veren güneşi varettik",
+        "ur": "اور ایک نہایت روشن اور گرم چراغ پیدا کیا",
+        "id": "dan Kami menjadikan pelita yang terang-benderang (matahari)"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "78:14",
+      "verse_number": 14,
+      "text_uthmani": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And sent down, from the rain clouds, pouring water",
+        "fr": "et fait descendre des nuées une eau abondante",
+        "tr": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık",
+        "ur": "اور بادلوں سے لگاتار بارش برسائی",
+        "id": "dan Kami turunkan dari awan, air hujan yang tercurah dengan lebatnya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "78:15",
+      "verse_number": 15,
+      "text_uthmani": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "That We may bring forth thereby grain and vegetation",
+        "fr": "pour faire pousser par elle grains et plantes",
+        "tr": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık",
+        "ur": "تاکہ اس کے ذریعہ سے غلہ اور سبزی",
+        "id": "untuk Kami tumbuhkan dengan air itu biji-bijian dan tanam-tanaman"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "78:16",
+      "verse_number": 16,
+      "text_uthmani": "وَجَنَّـٰتٍ أَلۡفَافًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And gardens of entwined growth",
+        "fr": "et jardins luxuriants",
+        "tr": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık",
+        "ur": "اور گھنے باغ اگائیں؟",
+        "id": "dan kebun-kebun yang rindang"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "78:17",
+      "verse_number": 17,
+      "text_uthmani": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the Day of Judgement is an appointed time",
+        "fr": "Le Jour de la Décision [du Jugement] a son terme fixé",
+        "tr": "Doğrusu, hüküm gününün vakti elbette tesbit edilmiştir",
+        "ur": "بے شک فیصلے کا دن ایک مقرر وقت ہے",
+        "id": "Sungguh, hari keputusan adalah suatu waktu yang telah ditetapkan"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "78:18",
+      "verse_number": 18,
+      "text_uthmani": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "The Day the Horn is blown and you will come forth in multitudes",
+        "fr": "Le jour où l'on soufflera dans la Trompe, vous viendrez par troupes",
+        "tr": "Sura üfürüldüğü gün hepiniz bölük bölük gelirsiniz",
+        "ur": "جس روز صور میں پھونک مار دی جائے گی، تم فوج در فوج نکل آؤ گے",
+        "id": "(yaitu) pada hari (ketika) sangkakala ditiup, lalu kamu datang berbondong-bondong"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "78:19",
+      "verse_number": 19,
+      "text_uthmani": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And the heaven is opened and will become gateways",
+        "fr": "et le ciel sera ouvert et [présentera] des portes",
+        "tr": "Gökler kapı kapı açılacaktır",
+        "ur": "اور آسمان کھول دیا جائے گا حتیٰ کہ وہ دروازے ہی دروازے بن کر رہ جائے گا",
+        "id": "dan langit pun dibukalah, maka terdapatlah beberapa pintu"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "78:20",
+      "verse_number": 20,
+      "text_uthmani": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And the mountains are removed and will be [but] a mirage",
+        "fr": "et les montagnes seront mises en marche et deviendront un mirage",
+        "tr": "Dağlar yürütülüp serap olacaktır",
+        "ur": "اور پہاڑ چلائے جائیں گے یہاں تک کہ وہ سراب ہو جائیں گے",
+        "id": "dan gunung-gunungpun dijalankan sehingga menjadi fatamorgana"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "78:21",
+      "verse_number": 21,
+      "text_uthmani": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Indeed, Hell has been lying in wait",
+        "fr": "L'Enfer demeure aux aguets",
+        "tr": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır",
+        "ur": "درحقیقت جہنم ایک گھات ہے",
+        "id": "Sungguh, (neraka) Jahanam itu (sebagai) tempat mengintai (bagi penjaga yang mengawasi isi neraka)"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "78:22",
+      "verse_number": 22,
+      "text_uthmani": "لِّلطَّـٰغِينَ مَـَٔابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "For the transgressors, a place of return",
+        "fr": "refuge pour les transgresseurs",
+        "tr": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır",
+        "ur": "سرکشوں کا ٹھکانا",
+        "id": "menjadi tempat kembali bagi orang-orang yang melampaui batas"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "78:23",
+      "verse_number": 23,
+      "text_uthmani": "لَّـٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "In which they will remain for ages [unending]",
+        "fr": "Ils y demeureront pendant des siècles successifs",
+        "tr": "Orada çağlar boyunca (nice devirler) kalacaklardır",
+        "ur": "جس میں وہ مدتوں پڑے رہیں گے",
+        "id": "Mereka tinggal di sana dalam masa yang lama"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "78:24",
+      "verse_number": 24,
+      "text_uthmani": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "They will not taste therein [any] coolness or drink",
+        "fr": "Ils n'y goûteront ni fraîcheur ni breuvage",
+        "tr": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin",
+        "ur": "اُس کے اندر کسی ٹھنڈک اور پینے کے قابل کسی چیز کا مزہ وہ نہ چکھیں گے",
+        "id": "mereka tidak merasakan kesejukan di dalamnya dan tidak (pula mendapat) minuman"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "78:25",
+      "verse_number": 25,
+      "text_uthmani": "إِلَّا حَمِيمٗا وَغَسَّاقٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Except scalding water and [foul] purulence",
+        "fr": "Hormis une eau bouillante et un pus",
+        "tr": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin",
+        "ur": "کچھ ملے گا تو بس گرم پانی اور زخموں کا دھوون",
+        "id": "selain air yang mendidih dan nanah"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "78:26",
+      "verse_number": 26,
+      "text_uthmani": "جَزَآءٗ وِفَاقًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "An appropriate recompense",
+        "fr": "comme rétribution équitable",
+        "tr": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin",
+        "ur": "(اُن کے کرتوتوں) کا بھرپور بدلہ",
+        "id": "sebagai pembalasan yang setimpal"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "78:27",
+      "verse_number": 27,
+      "text_uthmani": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Indeed, they were not expecting an account",
+        "fr": "Car ils ne s'attendaient pas à rendre compte",
+        "tr": "Çünkü onlar, hesaba çekileceklerini sanmazlardı",
+        "ur": "وہ کسی حساب کی توقع نہ رکھتے تھے",
+        "id": "Sesungguhnya dahulu mereka tidak pernah mengharapkan perhitungan"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "78:28",
+      "verse_number": 28,
+      "text_uthmani": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And denied Our verses with [emphatic] denial",
+        "fr": "et traitaient de mensonges, continuellement, Nos versets",
+        "tr": "Ayetlerimizi hep yalan sayıp dururlardı",
+        "ur": "اور ہماری آیات کو انہوں نے بالکل جھٹلا دیا تھا",
+        "id": "dan mereka benar-benar mendustakan ayat-ayat Kami"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "78:29",
+      "verse_number": 29,
+      "text_uthmani": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "But all things We have enumerated in writing",
+        "fr": "alors que Nous avons dénombré toutes choses en écrit",
+        "tr": "Biz de herşeyi yazıp saymışızdır",
+        "ur": "اور حال یہ تھا کہ ہم نے ہر چیز گن گن کر لکھ رکھی تھی",
+        "id": "Dan segala sesuatu telah Kami catat dalam suatu Kitab (buku catatan amalan manusia)"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "78:30",
+      "verse_number": 30,
+      "text_uthmani": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "So taste [the penalty], and never will We increase you except in torment",
+        "fr": "Goûtez-donc. Nous n'augmenterons pour vous que le châtiment",
+        "tr": "Şöyle deriz: \"Artık tadınız, bundan böyle size azabdan başka bir şey artırmayız",
+        "ur": "اب چکھو مزہ، ہم تمہارے لیے عذاب کے سوا کسی چیز میں ہرگز اضافہ نہ کریں گے",
+        "id": "Maka karena itu rasakanlah! Maka tidak ada yang akan Kami tambahkan kepadamu selain azab"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "78:31",
+      "verse_number": 31,
+      "text_uthmani": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Indeed, for the righteous is attainment",
+        "fr": "Pour les pieux ce sera une réussite",
+        "tr": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır",
+        "ur": "یقیناً متقیوں کے لیے کامرانی کا ایک مقام ہے",
+        "id": "Sungguh, orang-orang yang bertakwa mendapat kemenangan"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "78:32",
+      "verse_number": 32,
+      "text_uthmani": "حَدَآئِقَ وَأَعۡنَٰبٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Gardens and grapevines",
+        "fr": "jardins et vignes",
+        "tr": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır",
+        "ur": "باغ اور انگور",
+        "id": "(yaitu) kebun-kebun dan buah anggur"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "78:33",
+      "verse_number": 33,
+      "text_uthmani": "وَكَوَاعِبَ أَتۡرَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And full-breasted [companions] of equal age",
+        "fr": "et des (belles) aux seins arrondis, d'une égale jeunesse",
+        "tr": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır",
+        "ur": "اور نوخیر ہم سن لڑکیاں",
+        "id": "dan gadis-gadis belia yang sebaya"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "78:34",
+      "verse_number": 34,
+      "text_uthmani": "وَكَأۡسٗا دِهَاقٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "And a full cup",
+        "fr": "et coupes débordantes",
+        "tr": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır",
+        "ur": "اور چھلکتے ہوئے جام",
+        "id": "dan gelas-gelas yang penuh (berisi minuman)"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "78:35",
+      "verse_number": 35,
+      "text_uthmani": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّـٰبٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "No ill speech will they hear therein or any falsehood",
+        "fr": "Ils n'y entendront ni futilités ni mensonges",
+        "tr": "Orada boş ve yalan söz işitmezler",
+        "ur": "وہاں کوئی لغو اور جھوٹی بات وہ نہ سنیں گے",
+        "id": "Di sana mereka tidak mendengar percakapan yang sia-sia maupun (perkataan dusta)"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "78:36",
+      "verse_number": 36,
+      "text_uthmani": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "[As] reward from your Lord, [a generous] gift [made due by] account",
+        "fr": "A titre de récompense de ton Seigneur et à titre de don abondant",
+        "tr": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir",
+        "ur": "جزا اور کافی انعام تمہارے رب کی طرف سے",
+        "id": "Sebagai balasan dan pemberian yang cukup banyak dari Tuhanmu"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "78:37",
+      "verse_number": 37,
+      "text_uthmani": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "[From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech",
+        "fr": "du Seigneur des cieux et de la terre et de ce qui existe entre eux, le Tout Miséricordieux; ils n'osent nullement Lui adresser la parole",
+        "tr": "O, göklerin, yerin ve ikisi arasında olanların Rabbidir. O, önünde kimsenin konuşmayacağı Rahman olan Allah'tır",
+        "ur": "اُس نہایت مہربان خدا کی طرف سے جو زمین اور آسمانوں کا اور ان کے درمیان کی ہر چیز کا مالک ہے جس کے سامنے کسی کو بولنے کا یارا نہیں",
+        "id": "Tuhan (yang memelihara) langit dan bumi serta apa yang ada di antara keduanya; Yang Maha Pengasih, mereka tidak mampu berbicara dengan Dia"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "78:38",
+      "verse_number": 38,
+      "text_uthmani": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَـٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct",
+        "fr": "Le jour où l'Esprit et les Anges se dresseront en rangs, nul ne saura parler, sauf celui à qui le Tout Miséricordieux aura accordé la permission, et qui dira la vérité",
+        "tr": "Cebrail ve meleklerin dizi dizi durdukları gün, Rahman olan Allah'ın izni olmadan kimse konuşamayacaktır. Konuştuğu zaman da doğruyu söyleyecektir",
+        "ur": "جس روز روح اور ملائکہ صف بستہ کھڑے ہونگے، کوئی نہ بولے گا سوائے اُس کے جسے رحمٰن اجازت دے اور جو ٹھیک بات کہے",
+        "id": "(Pada hari, ketika rūḥ894) dan para malaikat berdiri bersaf-saf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pengasih dan dia hanya mengatakan yang benar"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "78:39",
+      "verse_number": 39,
+      "text_uthmani": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "That is the True Day; so he who wills may take to his Lord a [way of] return",
+        "fr": "Ce jour-là est inéluctable. Que celui qui veut prenne donc refuge auprès de son Seigneur",
+        "tr": "İşte gerçek gün budur. Dileyen kimse, Rabbine götürecek bir yol benimser",
+        "ur": "وہ دن برحق ہے، اب جس کا جی چاہے اپنے رب کی طرف پلٹنے کا راستہ اختیار کر لے",
+        "id": "Itulah hari yang pasti terjadi. Maka barangsiapa menghendaki, niscaya dia menempuh jalan kembali kepada Tuhannya"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "78:40",
+      "verse_number": 40,
+      "text_uthmani": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا",
+      "chapter_id": 78,
+      "words": [],
+      "translations": {
+        "en": "Indeed, We have warned you of a near punishment on the Day when a man will observe what his hands have put forth and the disbeliever will say, \"Oh, I wish that I were dust",
+        "fr": "Nous vous avons avertis d'un châtiment bien proche, le jour où l'homme verra ce que ses deux mains ont préparé; et l'infidèle dira: «Hélas pour moi! Comme j'aurais aimé n'être que poussière»",
+        "tr": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve inkarcı da: \"Keşke toprak olaydım\" der",
+        "ur": "ہم نے تم لوگوں کو اُس عذاب سے ڈرا دیا ہے جو قریب آ لگا ہے جس روز آدمی وہ سب کچھ دیکھ لے گا جو اس کے ہاتھوں نے آگے بھیجا ہے، اور کافر پکار اٹھے گا کہ کاش میں خاک ہوتا",
+        "id": "Sesungguhnya Kami telah memperingatkan kepadamu (orang kafir) azab yang dekat, pada hari manusia melihat apa yang telah diperbuat oleh kedua tangannya; dan orang kafir berkata, \"Alangkah baiknya seandainya dahulu aku jadi tanah"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 78,
+    "name_arabic": "النبإ",
+    "name_english": "An-Naba"
+  }
+}

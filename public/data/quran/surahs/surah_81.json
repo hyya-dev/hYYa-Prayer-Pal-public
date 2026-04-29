@@ -1,0 +1,444 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "81:1",
+      "verse_number": 1,
+      "text_uthmani": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "When the sun is wrapped up [in darkness]",
+        "fr": "Quand le soleil sera obscurci",
+        "tr": "Güneş dürülüp ışığı kalmadığı zaman",
+        "ur": "جب سورج لپیٹ دیا جائے گا",
+        "id": "Apabila matahari digulung"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "81:2",
+      "verse_number": 2,
+      "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the stars fall, dispersing",
+        "fr": "et que les étoiles deviendront ternes",
+        "tr": "Yıldızlar düşüp, söndüğü zaman",
+        "ur": "اور جب تارے بکھر جائیں گے",
+        "id": "dan apabila bintang-bintang berjatuhan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "81:3",
+      "verse_number": 3,
+      "text_uthmani": "وَإِذَا ٱلۡجِبَالُ سُيِّرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the mountains are removed",
+        "fr": "et les montagnes mises en marche",
+        "tr": "Doğurması yaklaşmış develer başıboş bırakıldığı zaman",
+        "ur": "اور جب پہاڑ چلائے جائیں گے",
+        "id": "dan apabila gunung-gunung dihancurkan"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "81:4",
+      "verse_number": 4,
+      "text_uthmani": "وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when full-term she-camels are neglected",
+        "fr": "et les chamelles à terme, négligées",
+        "tr": "Doğurması yaklaşmış develer başıboş bırakıldığı zaman",
+        "ur": "اور جب دس مہینے کی حاملہ اونٹنیاں اپنے حال پر چھوڑ دی جائیں گی",
+        "id": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "81:5",
+      "verse_number": 5,
+      "text_uthmani": "وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the wild beasts are gathered",
+        "fr": "et les bêtes farouches, rassemblées",
+        "tr": "Yabani hayvanlar bir araya toplatıldığı zaman",
+        "ur": "اور جب جنگلی جانور سمیٹ کر اکٹھے کر دیے جائیں گے",
+        "id": "dan apabila binatang-binatang liar dikumpulkan"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "81:6",
+      "verse_number": 6,
+      "text_uthmani": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the seas are filled with flame",
+        "fr": "et les mers allumées",
+        "tr": "Denizler kaynaştırıldığı zaman",
+        "ur": "اور جب سمندر بھڑکا دیے جائیں گے",
+        "id": "dan apabila lautan dipanaskan"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "81:7",
+      "verse_number": 7,
+      "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the souls are paired",
+        "fr": "et les âmes accouplées",
+        "tr": "Canlar bedenlerle birleştirildiği zaman",
+        "ur": "اور جب جانیں (جسموں سے) جوڑ دی جائیں گی",
+        "id": "dan apabila roh-roh dipertemukan (dengan tubuh)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "81:8",
+      "verse_number": 8,
+      "text_uthmani": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the girl [who was] buried alive is asked",
+        "fr": "et qu'on demandera à la fillette enterrée vivante",
+        "tr": "Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman",
+        "ur": "اور جب زندہ گاڑی ہوئی لڑکی سے پوچھا جائے گا",
+        "id": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "81:9",
+      "verse_number": 9,
+      "text_uthmani": "بِأَيِّ ذَنۢبٖ قُتِلَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "For what sin she was killed",
+        "fr": "pour quel péché elle a été tuée",
+        "tr": "Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman",
+        "ur": "کہ وہ کس قصور میں ماری گئی؟",
+        "id": "karena dosa apa dia dibunuh"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "81:10",
+      "verse_number": 10,
+      "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the pages are made public",
+        "fr": "Et quand les feuilles seront déployées",
+        "tr": "Amel defterleri açıldığı zaman",
+        "ur": "اور جب اعمال نامے کھولے جائیں گے",
+        "id": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "81:11",
+      "verse_number": 11,
+      "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when the sky is stripped away",
+        "fr": "et le ciel écorché",
+        "tr": "Gök yerinden oynatıldığı zaman",
+        "ur": "اور جب آسمان کا پردہ ہٹا دیا جائے گا",
+        "id": "dan apabila langit dilenyapkan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "81:12",
+      "verse_number": 12,
+      "text_uthmani": "وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when Hellfire is set ablaze",
+        "fr": "et la fournaise attisée",
+        "tr": "Cehennem alevlendirildiği zaman",
+        "ur": "اور جب جہنم دہکائی جائے گی",
+        "id": "dan apabila neraka Jahim dinyalakan"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "81:13",
+      "verse_number": 13,
+      "text_uthmani": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And when Paradise is brought near",
+        "fr": "et le Paradis rapproché",
+        "tr": "Cennet yaklaştırıldığı zaman",
+        "ur": "اور جب جنت قریب لے آئی جائے گی",
+        "id": "dan apabila surga didekatkan"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "81:14",
+      "verse_number": 14,
+      "text_uthmani": "عَلِمَتۡ نَفۡسٞ مَّآ أَحۡضَرَتۡ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "A soul will [then] know what it has brought [with it]",
+        "fr": "chaque âme saura ce qu'elle a présenté",
+        "tr": "İnsanoğlu önceden ne hazırladığını görecektir",
+        "ur": "اُس وقت ہر شخص کو معلوم ہو جائے گا کہ وہ کیا لے کر آیا ہے",
+        "id": "setiap jiwa akan mengetahui apa yang telah dikerjakannya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "81:15",
+      "verse_number": 15,
+      "text_uthmani": "فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "So I swear by the retreating stars",
+        "fr": "Non!... Je jure par les planètes qui gravitent",
+        "tr": "Gündüz sinip geceleri gözüken gezegenlere and olsun",
+        "ur": "پس نہیں، میں قسم کھاتا ہوں",
+        "id": "Aku bersumpah demi bintang-bintang"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "81:16",
+      "verse_number": 16,
+      "text_uthmani": "ٱلۡجَوَارِ ٱلۡكُنَّسِ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "Those that run [their courses] and disappear",
+        "fr": "qui courent et disparaissent",
+        "tr": "Gündüz sinip geceleri gözüken gezegenlere and olsun",
+        "ur": "پلٹنے اور چھپ جانے والے تاروں کی",
+        "id": "yang beredar dan terbenam"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "81:17",
+      "verse_number": 17,
+      "text_uthmani": "وَٱلَّيۡلِ إِذَا عَسۡعَسَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And by the night as it closes in",
+        "fr": "par la nuit quand elle survient",
+        "tr": "Kararmaya başlayan geceye and olsun",
+        "ur": "اور رات کی جبکہ وہ رخصت ہوئی",
+        "id": "demi malam apabila telah larut"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "81:18",
+      "verse_number": 18,
+      "text_uthmani": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And by the dawn when it breathes",
+        "fr": "et par l'aube quand elle exhale son souffle",
+        "tr": "Ağarmaya başlayan sabaha and olsun ki",
+        "ur": "اور صبح کی جبکہ اس نے سانس لیا",
+        "id": "dan demi subuh apabila telah menyinsing"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "81:19",
+      "verse_number": 19,
+      "text_uthmani": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "[That] indeed, the Qur'an is a word [conveyed by] a noble messenger",
+        "fr": "Ceci [le Coran] est la parole d'un noble Messager",
+        "tr": "Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür",
+        "ur": "یہ فی الواقع ایک بزرگ پیغام بر کا قول ہے",
+        "id": "sesungguhnya (Alquran) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "81:20",
+      "verse_number": 20,
+      "text_uthmani": "ذِي قُوَّةٍ عِندَ ذِي ٱلۡعَرۡشِ مَكِينٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "[Who is] possessed of power and with the Owner of the Throne, secure [in position]",
+        "fr": "doué d'une grande force, et ayant un rang élevé auprès du Maître du Trône",
+        "tr": "Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür",
+        "ur": "جو بڑی توانائی رکھتا ہے، عرش والے کے ہاں بلند مرتبہ ہے",
+        "id": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki Arasy"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "81:21",
+      "verse_number": 21,
+      "text_uthmani": "مُّطَاعٖ ثَمَّ أَمِينٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "Obeyed there [in the heavens] and trustworthy",
+        "fr": "obéi, là-haut, et digne de confiance",
+        "tr": "Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür",
+        "ur": "وہاں اُس کا حکم مانا جاتا ہے، وہ با اعتماد ہے",
+        "id": "yang di sana (di alam malaikat) ditaati dan dipercaya"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "81:22",
+      "verse_number": 22,
+      "text_uthmani": "وَمَا صَاحِبُكُم بِمَجۡنُونٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And your companion is not [at all] mad",
+        "fr": "Votre compagnon (Muhammad) n'est nullement fou",
+        "tr": "Arkadaşınız (Muhammed) asla deli değildir",
+        "ur": "اور (اے اہل مکہ) تمہارا رفیق مجنون نہیں ہے",
+        "id": "Dan temanmu (Muhammad) itu bukanlah orang gila"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "81:23",
+      "verse_number": 23,
+      "text_uthmani": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And he has already seen Gabriel in the clear horizon",
+        "fr": "il l'a effectivement vu (Gabriel), au clair horizon",
+        "tr": "And olsun ki, o, Cebrail'i apaçık ufukta görmüştür",
+        "ur": "اُس نے اُس پیغام بر کو روشن افق پر دیکھا ہے",
+        "id": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "81:24",
+      "verse_number": 24,
+      "text_uthmani": "وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And Muhammad is not a withholder of [knowledge of] the unseen",
+        "fr": "et il ne garde pas avarement pour lui-même ce qui lui a été révélé",
+        "tr": "Peygamber, görülmeyenler hakkında söylediklerinden ötürü töhmet altında tutulamaz",
+        "ur": "اور وہ غیب (کے اِس علم کو لوگوں تک پہنچانے) کے معاملے میں بخیل نہیں ہے",
+        "id": "Dan Dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "81:25",
+      "verse_number": 25,
+      "text_uthmani": "وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنٖ رَّجِيمٖ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And the Qur'an is not the word of a devil, expelled [from the heavens]",
+        "fr": "Et ceci [le Coran] n'est point la parole d'un diable banni",
+        "tr": "Bu Kuran, kovulmuş şeytanın sözü olamaz",
+        "ur": "اور یہ کسی شیطان مردود کا قول نہیں ہے",
+        "id": "Dan (Alquran) itu bukanlah perkataan setan yang terkutuk"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "81:26",
+      "verse_number": 26,
+      "text_uthmani": "فَأَيۡنَ تَذۡهَبُونَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "So where are you going",
+        "fr": "Où allez-vous donc",
+        "tr": "Nereye gidiyorsunuz",
+        "ur": "پھر تم لوگ کدھر چلے جا رہے ہو؟",
+        "id": "maka ke manakah kamu akan pergi"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "81:27",
+      "verse_number": 27,
+      "text_uthmani": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "It is not except a reminder to the worlds",
+        "fr": "Ceci n'est qu'un rappel pour l'univers",
+        "tr": "Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür",
+        "ur": "یہ تو سارے جہان والوں کے لیے ایک نصیحت ہے",
+        "id": "(Alquran) itu tidak lain adalah peringatan bagi seluruh alam"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "81:28",
+      "verse_number": 28,
+      "text_uthmani": "لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "For whoever wills among you to take a right course",
+        "fr": "pour celui d'entre vous qui veut suivre le chemin droit",
+        "tr": "Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür",
+        "ur": "تم میں سے ہر اُس شخص کے لیے جو راہ راست پر چلنا چاہتا ہو",
+        "id": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "81:29",
+      "verse_number": 29,
+      "text_uthmani": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ",
+      "chapter_id": 81,
+      "words": [],
+      "translations": {
+        "en": "And you do not will except that Allah wills - Lord of the worlds",
+        "fr": "Mais vous ne pouvez vouloir, que si Allah veut, [Lui], le Seigneur de l'Univers",
+        "tr": "Alemlerin Rabbi olan Allah dilemedikçe sizler bir şey dileyemezsiniz",
+        "ur": "اور تمہارے چاہنے سے کچھ نہیں ہوتا جب تک اللہ رب العالمین نہ چاہے",
+        "id": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 81,
+    "name_arabic": "التكوير",
+    "name_english": "At-Takwir"
+  }
+}

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Medium Prayer Widget - Widget Editor v1.2 -->
+<!-- Two-halves layout: Left half (next prayer), Right half (prayer list with 20dp margins, 100dp bottom) -->
+<!-- Temperature centered horizontally at bottom -->
+<!-- No borders/backgrounds on text - just text on background image -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:background="@drawable/widget_background_medium"
+    android:clipChildren="false">
+
+    <!-- Two invisible halves: left for next prayer, right for list -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/left_half"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <!-- Next Prayer - horizontal row, name left / time right -->
+            <LinearLayout
+                android:id="@+id/next_prayer_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layoutDirection="ltr"
+                android:layout_gravity="top|center_horizontal"
+                android:layout_marginTop="28dp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:gravity="center_vertical"
+                android:clipChildren="false">
+
+            <!-- Prayer name - left-aligned, takes available space -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:layout_marginRight="9dp"
+                android:clipChildren="false">
+
+                <TextView
+                    android:id="@+id/next_prayer_name_shadow"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:gravity="left"
+                    android:text="SHUROOQ"
+                    android:textColor="#8A0D1F3D"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1" />
+
+                <TextView
+                    android:id="@+id/next_prayer_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="SHUROOQ"
+                    android:textColor="#FFFFFF"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1" />
+
+            </FrameLayout>
+
+            <!-- Prayer time - right-aligned -->
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="6"
+                android:clipChildren="false">
+
+                <TextView
+                    android:id="@+id/next_prayer_time_shadow"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:gravity="right"
+                    android:text="6:15 PM"
+                    android:textColor="#8A0D1F3D"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif-black"
+                    android:maxLines="1"
+                    android:ellipsize="end" />
+
+                <TextView
+                    android:id="@+id/next_prayer_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:text="6:15 PM"
+                    android:textColor="#FFFFFF"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif-black"
+                    android:maxLines="1"
+                    android:ellipsize="end" />
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/right_half"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <!-- Right side: Prayer List -->
+            <LinearLayout
+                android:id="@+id/prayer_list_card"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="14dp"
+                android:layout_marginTop="34dp"
+                android:layout_marginRight="14dp"
+                android:layout_marginBottom="56dp"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:weightSum="6">
+
+        <!-- Fajr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2.2dp">
+            <TextView
+                android:id="@+id/prayer_name_1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="FAJR"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="5:05 AM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+        <!-- Shurooq -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2.2dp">
+            <TextView
+                android:id="@+id/prayer_name_2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="SHUROOQ"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="6:25 AM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+        <!-- Dhuhr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2.2dp">
+            <TextView
+                android:id="@+id/prayer_name_3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="DHUHR"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="12:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+        <!-- Asr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2.2dp">
+            <TextView
+                android:id="@+id/prayer_name_4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="ASR"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="3:30 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+        <!-- Maghrib -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="2.2dp">
+            <TextView
+                android:id="@+id/prayer_name_5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="MAGHRIB"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="5:45 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+        <!-- Isha -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:id="@+id/prayer_name_6"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="ISHA"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.4"
+                android:shadowDy="2.4"
+                android:shadowRadius="3.2" />
+            <TextView
+                android:id="@+id/prayer_time_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="7:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="16sp"
+                android:autoSizeMaxTextSize="34sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#F00D1F3D"
+                android:shadowDx="2.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="3.2" />
+        </LinearLayout>
+
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/temperature_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|bottom"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="14dp"
+                android:clipChildren="false"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/temperature_text_shadow"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="2dp"
+                    android:text="32°C"
+                    android:textColor="#8A0D1F3D"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:maxLines="1" />
+
+                <TextView
+                    android:id="@+id/temperature_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="32°C"
+                    android:textColor="#FFFFFF"
+                    android:textSize="22sp"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="10sp"
+                    android:autoSizeMaxTextSize="22sp"
+                    android:autoSizeStepGranularity="1sp"
+                    android:textStyle="bold"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:maxLines="1" />
+
+            </FrameLayout>
+
+            <!-- Empty state overlay (hidden by default) -->
+            <LinearLayout
+                android:id="@+id/empty_state"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome!"
+            android:textColor="#4D3319"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:shadowColor="#F01A0F00"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Open App to Sync"
+            android:textColor="#4D3319"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:paddingLeft="11dp"
+            android:paddingRight="11dp"
+            android:shadowColor="#F01A0F00"
+            android:shadowDx="2.0"
+            android:shadowDy="2.0"
+            android:shadowRadius="2.6" />
+
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+</FrameLayout>

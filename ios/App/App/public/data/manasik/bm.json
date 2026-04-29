@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Fɛn fɔlɔ min bɛ kɛ: Laɲini ni Ihram",
+        "details": "<ul><li>Aw k’a laɲini ka Umrah kɛ, ka don Ihram kɔnɔ Miqat, ka Talbiyah daminɛ.</li><li>A tugura Ihram dankariliw kɔ, ka laadala saniya dafa ka sɔrɔ ka laadalakow daminɛ.</li></ul>",
+        "evidence": "Quran 2:196 ani laadalakow daminɛ san ka bɔ Miqat.",
+        "referenceLabel": "Umrah minisiriso ni taama gafe"
+      },
+      {
+        "title": "Fɛn filanan: Ka don Al-Masjid Al-Haram kɔnɔ",
+        "details": "<ul><li>Aw ka don ni dususuma ye, ni delili ni majigilenya ye.</li><li>Aw bɛ daminɛ kɛrɛ fɛ min bɛ taama nɔgɔya jama cɛma, o kɔ aw bɛ aw ɲɛsin Tawaf yɔrɔ ma.</li></ul>",
+        "evidence": "Kirayakumaw ka laadilikanw camanba minnu bɛ kɛ jogoɲumanya kan misiriw kɔnɔ ani bato nɔgɔyali.",
+        "referenceLabel": "Minisiriw ka lafaamuyali yɔrɔ"
+      },
+      {
+        "title": "Taabolo sabanan: Tawaf (circuit wolonwula).",
+        "details": "<ul><li>Aw bɛ Tawaf kɛ Kaabah lamini na siɲɛ wolonwula, k’a daminɛ Black Stone layini na.</li><li>To k’i hakili to Ala la ani i kana kojugu kɛ mɔgɔ wɛrɛw la jama lamaga-lamagali la.</li><li class=\"pp-ios-only\"> Ladilikan: Baara kɛ ni Apple Watch porogaramu ye walasa k’i dɛmɛ k’i ka Tawaf kafoda jate.</li><li class=\"pp-android-only\"> Ladilikan: Baara kɛ ni Wear OS app ye i ka watɛsi kan walasa k’i dɛmɛ k’i ka Tawaf kafoda jate.</li></ul>",
+        "evidence": "Quran 22:29 ani kira ka lamini ɲɛfɔli sɛbɛnnenw.",
+        "referenceLabel": "Umrah taama siratigɛ la Nosuk"
+      },
+      {
+        "title": "Taabolo naaninan: Delili kɛli Tawaf kɔfɛ",
+        "details": "<ul><li>Aw bɛ raka fila kɛ Tawaf bannen kɔfɛ ni a bɛ se ka kɛ k’a sɔrɔ aw ma kojugu kɛ jɛkulu la, o kɔfɛ aw bɛ taa ɲɛ cogo labɛnnen na ka Zamzam ji min.</li></ul>",
+        "evidence": "wale min sigilen don kosɛbɛ hadisi lakikaw kɔnɔ ka ɲɛsin seli ma Tawaf kɔfɛ.",
+        "referenceLabel": "Umrah minisiriso ni taama gafe"
+      },
+      {
+        "title": "Taabolo duurunan: Saie Safa ni Marwah cɛ",
+        "details": "<ul><li>Saie kɛ kafo wolonwula kɛ Safa ni Marwah cɛ, k’a daminɛ Safa la ka laban Marwah, ni delili ni hakilijigin ye.</li><li class=\"pp-ios-only\"> Ladilikan: Baara kɛ ni Apple Watch app ye walasa k’i dɛmɛ ka Saie boliw jate.</li><li class=\"pp-android-only\"> Ladilikan: Baara kɛ ni Wear OS app ye i ka watɛsi kan walasa k’i dɛmɛ ka Saie boliw jate.</li></ul>",
+        "evidence": "Quran 2:158 ani lakali lakikaw ka kɛɲɛ ni ciden ka yamaruya ye.",
+        "referenceLabel": "Umrah taama siratigɛ la Nosuk"
+      },
+      {
+        "title": "Taabolo wɔɔrɔnan: Aw bɛ kunsigi tigɛ walima ka a kunsigi tigɛ",
+        "details": "<ul><li>Cɛw bɛ u kunsigi tigɛ walima k’u tigɛ, musow bɛ a yɔrɔ fitinin dɔ tigɛ.</li><li>Wa ni nin ye, Umrah bɛ ban, Ihram bɛ ban.</li></ul>",
+        "evidence": "Quran 48:27 ani lakali lakikaw minnu ɲɛsinnen bɛ kunsigi tigɛcogo ni surunyali ma.",
+        "referenceLabel": "Umrah minisiriso ni taama gafe"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Fɛn fɔlɔ: Ihram ani Haji ŋaniya",
+        "details": "<ul><li>Aw bɛ don ihram kɔnɔ Miqat, aw ka Haji suguya laɲini, o kɔfɛ aw bɛ taa Talbiyah fɛ.</li><li>aw Ihram sariyaw labato fo ka se Ihram bɔyɔrɔw ma.</li></ul>",
+        "evidence": "Quran 2:196 ani kiraya laadalakow minnu bɛnna ɲɔgɔn kan Haji daminɛni kama.",
+        "referenceLabel": "Minisiri min ɲɛsinnen bɛ Haji ma, o ka laadilikanw"
+      },
+      {
+        "title": "Fɛn filanan: Yawm at-Tarwiyah min bɛ Mina",
+        "details": "<ul><li>Dhul Hijjah tile 8nan na, aw bɛ taa Mina, ka deliliw kɛ u waati latigɛlenw na, ka aw labɛn hakili ni labɛn siratigɛ la Arafah hakilijigin kama.</li></ul>",
+        "evidence": "Laadalakow tugu-tugulen sɛbɛnnen dɔ farali taama kɔnɔ.",
+        "referenceLabel": "Haji taama ka taa Nosuk"
+      },
+      {
+        "title": "Taabolo sabanan: Ka jɔ Arafah la",
+        "details": "<ul><li>Aw ye Dhul Hijjah tile kɔnɔntɔnnan kɛ Arafah la ka delili kɛ, ka Ala hakili jigin, ka nimisa.</li><li>Nin ye Hiji jɔyɔrɔba ye.</li></ul>",
+        "evidence": "Hadith: Haji ye Arafah.",
+        "referenceLabel": "Minisiri min ɲɛsinnen bɛ Haji ma, o ka laadilikanw"
+      },
+      {
+        "title": "Taabolo naaninan: Muzdalifah ni kabakurunw dalajɛli",
+        "details": "<ul><li>Tilebin kɔfɛ, taa Muzdalifah, ka Maghrib ni Isha delili kɛ, ka su kɛ yen, ka kabakurunw lajɛ kabakurunw cili kama Mina.</li></ul>",
+        "evidence": "Kirayakumaw sigiyɔrɔma Arafah kɔfɛ lakali lakikaw kɔnɔ.",
+        "referenceLabel": "Haji taama ka taa Nosuk"
+      },
+      {
+        "title": "Taabolo duurunan: Rami, Saraka ani Poyi",
+        "details": "<ul><li>Seli don na, ni aw bɛ Jamarat al-Aqabah kabakurun fili, aw bɛ saraka kɛ yɔrɔ min na a mago bɛ a la, o kɔ aw bɛ aw kunsigi tigɛ walima k’aw tigɛ tahlil fɔlɔ kama.</li></ul>",
+        "evidence": "Quran 22:36-37 ani hadisi lakikaw sigiyɔrɔmali.",
+        "referenceLabel": "Minisiri min ɲɛsinnen bɛ Haji ma, o ka laadilikanw"
+      },
+      {
+        "title": "Taabolo wɔɔrɔnan: Tawaf al-Ifadah (taama wolonwula).",
+        "details": "<ul><li>Segin Makka ka Tawaf al-Ifadah kɛ, ka kafoda wolonwula dafa, ani ka taama lafiyalen ni labɛncogo la, baara caya waatiw la.</li><li class=\"pp-ios-only\"> Ladilikan: Baara kɛ ni Apple Watch porogaramu ye walasa k’i dɛmɛ k’i ka Tawaf kafoda jate.</li><li class=\"pp-android-only\"> Ladilikan: Baara kɛ ni Wear OS porogaramu ye i ka watɛsi kan walasa k’i dɛmɛ ka i ka Tawaf kafoda jate.</li></ul>",
+        "evidence": "Quran 22:29 ani laminiko wajibiyalen ɲɛfɔli sɛbɛnnenw.",
+        "referenceLabel": "Haji taama ka taa Nosuk"
+      },
+      {
+        "title": "Taabolo 7nan: Aw bɛ a fɔ mɔgɔ ye min mago bɛ a la",
+        "details": "<ul><li>Saie kɛ ni i ka Haji suguya b’a wajibiya, ka sɔrɔ ka tugu-tugu ɲɔgɔn kɔ ani kafo wolonwula hakɛ mara Safa ni Marwah cɛ.</li><li class=\"pp-ios-only\"> Ladilikan: Baara kɛ ni Apple Watch app ye walasa k’i dɛmɛ ka Saie boliw jate.</li><li class=\"pp-android-only\"> Ladilikan: Baara kɛ ni Wear OS app ye i ka watɛsi kan walasa k’i dɛmɛ ka Saie boliw jate.</li></ul>",
+        "evidence": "Quran 2:158 ani a sariya siratigɛ la, Hiji laadalakow la.",
+        "referenceLabel": "Minisiri min ɲɛsinnen bɛ Haji ma, o ka laadilikanw"
+      },
+      {
+        "title": "Taabolo 8nan: Ayyam at-Tashriq ni Tawaf al-Wada&#39;",
+        "details": "<ul><li>Ka to Mina Tashreeq waati la walasa ka Jamarat filili laadalakow kɛ, o kɔfɛ ka Tawaf al-Wada&#39; dafa ka sɔrɔ ka bɔ Makkah, fo minnu bɔra o la.</li><li class=\"pp-ios-only\"> Ladilikan: Baara kɛ ni Apple Watch porogaramu ye walasa k’i dɛmɛ k’i ka Tawaf kafoda jate.</li><li class=\"pp-android-only\"> Ladilikan: Baara kɛ ni Wear OS app ye i ka watɛsi kan walasa k’i dɛmɛ k’i ka Tawaf kafoda jate.</li></ul>",
+        "evidence": "laadalakow sigilenw sinsinnen bɛ Quran ɲɛminɛni kan ani kiraya Sunnah waleyali ɲuman kan.",
+        "referenceLabel": "Haji taama ka taa Nosuk"
+      }
+    ]
+  }
+}

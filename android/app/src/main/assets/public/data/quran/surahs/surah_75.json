@@ -1,0 +1,609 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "75:1",
+      "verse_number": 1,
+      "text_uthmani": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "I swear by the Day of Resurrection",
+        "fr": "Non!... Je jure par le Jour de la Résurrection",
+        "tr": "Kıyamet gününe yemin ederim",
+        "ur": "نہیں، میں قسم کھاتا ہوں قیامت کے دن کی",
+        "id": "Aku bersumpah dengan hari Kiamat"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "75:2",
+      "verse_number": 2,
+      "text_uthmani": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And I swear by the reproaching soul [to the certainty of resurrection]",
+        "fr": "Mais non!, Je jure par l'âme qui ne cesse de se blâmer",
+        "tr": "Ve nedamet çeken nefse yemin ederim",
+        "ur": "اور نہیں، میں قسم کھاتا ہوں ملامت کرنے والے نفس کی",
+        "id": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri)"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "75:3",
+      "verse_number": 3,
+      "text_uthmani": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Does man think that We will not assemble his bones",
+        "fr": "L'homme, pense-t-il que Nous ne réunirons jamais ses os",
+        "tr": "İnsan, kemiklerini bir araya toplayamayız mı sanıyor",
+        "ur": "کیا انسان یہ سمجھ رہا ہے کہ ہم اُس کی ہڈیوں کو جمع نہ کر سکیں گے؟",
+        "id": "Apakah manusia mengira, bahwa Kami tidak akan mengumpulkan (kembali) tulang belulangnya"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "75:4",
+      "verse_number": 4,
+      "text_uthmani": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Yes. [We are] Able [even] to proportion his fingertips",
+        "fr": "Mais si! Nous sommes Capable de remettre à leur place les extrémités de ses doigts",
+        "tr": "Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz",
+        "ur": "ہم تو اس کی انگلیوں کی پور پور تک ٹھیک بنا دینے پر قادر ہیں",
+        "id": "(Bahkan) Kami mampu menyusun (kembali) jari jemarinya dengan sempurna"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "75:5",
+      "verse_number": 5,
+      "text_uthmani": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "But man desires to continue in sin",
+        "fr": "L'homme voudrait plutôt continuer à vivre en libertin",
+        "tr": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der",
+        "ur": "مگر انسان چاہتا یہ ہے کہ آگے بھی بد اعمالیاں کرتا رہے",
+        "id": "Tetapi manusia hendak membuat maksiat terus menerus"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "75:6",
+      "verse_number": 6,
+      "text_uthmani": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "He asks, \"When is the Day of Resurrection",
+        "fr": "Il interroge: «A quand, le Jour de la Résurrection?»",
+        "tr": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der",
+        "ur": "پوچھتا ہے \"آخر کب آنا ہے وہ قیامت کا دن؟",
+        "id": "Dia bertanya, \"Kapankah hari Kiamat itu"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "75:7",
+      "verse_number": 7,
+      "text_uthmani": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "So when vision is dazzled",
+        "fr": "Lorsque la vue sera éblouie",
+        "tr": "Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: \"kaçacak yer nerede?\" der",
+        "ur": "پھر جب دیدے پتھرا جائیں گے",
+        "id": "Maka apabila mata terbelalak (ketakutan)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "75:8",
+      "verse_number": 8,
+      "text_uthmani": "وَخَسَفَ ٱلۡقَمَرُ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And the moon darkens",
+        "fr": "et que la lune s'éclipsera",
+        "tr": "Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: \"kaçacak yer nerede?\" der",
+        "ur": "اور چاند بے نور ہو جائیگا",
+        "id": "dan bulan pun telah hilang cahayanya"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "75:9",
+      "verse_number": 9,
+      "text_uthmani": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And the sun and the moon are joined",
+        "fr": "et que le soleil et la lune seront réunis",
+        "tr": "Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: \"kaçacak yer nerede?\" der",
+        "ur": "اور چاند سورج ملا کر ایک کر دیے جائیں گے",
+        "id": "lalu matahari dan bulan dikumpulkan"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "75:10",
+      "verse_number": 10,
+      "text_uthmani": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Man will say on that Day, \"Where is the [place of] escape",
+        "fr": "l'homme, ce jour-là, dira: «Où fuir?»",
+        "tr": "Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: \"kaçacak yer nerede?\" der",
+        "ur": "اُس وقت یہی انسان کہے گا \"کہاں بھاگ کر جاؤں؟",
+        "id": "pada hari itu manusia berkata, \"Ke mana tempat pelarian"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "75:11",
+      "verse_number": 11,
+      "text_uthmani": "كَلَّا لَا وَزَرَ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "No! There is no refuge",
+        "fr": "Non! Point de refuge",
+        "tr": "Hayır; hayır; bir sığınak yoktur",
+        "ur": "ہرگز نہیں، وہاں کوئی جائے پناہ نہ ہوگی",
+        "id": "Tidak! Tidak ada tempat berlindung"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "75:12",
+      "verse_number": 12,
+      "text_uthmani": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "To your Lord, that Day, is the [place of] permanence",
+        "fr": "Vers ton Seigneur sera, ce jour-là, le retour",
+        "tr": "O gün, sen, Rabbinin huzuruna varıp durursun",
+        "ur": "اُس روز تیرے رب ہی کے سامنے جا کر ٹھیرنا ہوگا",
+        "id": "Hanya kepada Tuhanmu tempat kembali pada hari itu"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "75:13",
+      "verse_number": 13,
+      "text_uthmani": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Man will be informed that Day of what he sent ahead and kept back",
+        "fr": "L'homme sera informé ce jour-là de ce qu'il aura avancé et de ce qu'il aura remis à plus tard",
+        "tr": "O gün, insanoğluna önde ve sonda yaptığı ne varsa bildirilir",
+        "ur": "اُس روز انسان کو اس کا سب اگلا پچھلا کیا کرایا بتا دیا جائے گا",
+        "id": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "75:14",
+      "verse_number": 14,
+      "text_uthmani": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Rather, man, against himself, will be a witness",
+        "fr": "Mais l'homme sera un témoin perspicace contre lui-même",
+        "tr": "Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir",
+        "ur": "بلکہ انسان خود ہی اپنے آپ کو خوب جانتا ہے",
+        "id": "Bahkan manusia menjadi saksi atas dirinya sendiri"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "75:15",
+      "verse_number": 15,
+      "text_uthmani": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Even if he presents his excuses",
+        "fr": "quand même il présenterait ses excuses",
+        "tr": "Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir",
+        "ur": "چاہے وہ کتنی ہی معذرتیں پیش کرے",
+        "id": "dan meskipun dia mengemukakan alasan-alasannya"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "75:16",
+      "verse_number": 16,
+      "text_uthmani": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an",
+        "fr": "Ne remue pas ta langue pour hâter sa récitation",
+        "tr": "Cebrail sana Kuran okurken, unutmamak için acele edip onunla beraber söyleme, yalnız dinle",
+        "ur": "اے نبیؐ، اِس وحی کو جلدی جلدی یاد کرنے کے لیے اپنی زبان کو حرکت نہ دو",
+        "id": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Alquran) karena hendak cepat-cepat (menguasai)nya"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "75:17",
+      "verse_number": 17,
+      "text_uthmani": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation",
+        "fr": "Son rassemblement (dans ton cœur et sa fixation dans ta mémoire) Nous incombent, ainsi que la façon de le réciter",
+        "tr": "Doğrusu o vahyolunanı kalbine yerleştirmek ve onu sana okutturmak Bize düşer",
+        "ur": "اِس کو یاد کرا دینا اور پڑھوا دینا ہمارے ذمہ ہے",
+        "id": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "75:18",
+      "verse_number": 18,
+      "text_uthmani": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "So when We have recited it [through Gabriel], then follow its recitation",
+        "fr": "Quand donc Nous le récitons, suis sa récitation",
+        "tr": "Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle",
+        "ur": "لہٰذا جب ہم اِسے پڑھ رہے ہوں اُس وقت تم اِس کی قرات کو غور سے سنتے رہو",
+        "id": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "75:19",
+      "verse_number": 19,
+      "text_uthmani": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Then upon Us is its clarification [to you]",
+        "fr": "A Nous, ensuite incombera son explication",
+        "tr": "Sonra onu sana açıklamak Bize düşer",
+        "ur": "پھر اس کا مطلب سمجھا دینا بھی ہمارے ذمہ ہے",
+        "id": "Kemudian sesungguhnya Kami yang akan menjelaskannya"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "75:20",
+      "verse_number": 20,
+      "text_uthmani": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "No! But you love the immediate",
+        "fr": "Mais vous aimez plutôt [la vie] éphémère",
+        "tr": "Hayır, hayır! Sizler, çabuk elde edeceğiniz dünya nimetlerini seversiniz",
+        "ur": "ہرگز نہیں، اصل بات یہ ہے کہ تم لوگ جلدی حاصل ہونے والی چیز (یعنی دنیا) سے محبت رکھتے ہو",
+        "id": "Tidak! Bahkan Kamu mencintai kehidupan dunia"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "75:21",
+      "verse_number": 21,
+      "text_uthmani": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And leave the Hereafter",
+        "fr": "et vous délaissez l'au-delà",
+        "tr": "Ahireti bırakırsınız",
+        "ur": "اور آخرت کو چھوڑ دیتے ہو",
+        "id": "dan mengabaikan (kehidupan) akhirat"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "75:22",
+      "verse_number": 22,
+      "text_uthmani": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "[Some] faces, that Day, will be radiant",
+        "fr": "Ce jour-là, il y aura des visages resplendissants",
+        "tr": "O gün bir takım yüzler Rablerine bakıp parlayacaktır",
+        "ur": "اُس روز کچھ چہرے تر و تازہ ہونگے",
+        "id": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "75:23",
+      "verse_number": 23,
+      "text_uthmani": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Looking at their Lord",
+        "fr": "qui regarderont leur Seigneur",
+        "tr": "O gün bir takım yüzler Rablerine bakıp parlayacaktır",
+        "ur": "اپنے رب کی طرف دیکھ رہے ہونگے",
+        "id": "Memandang Tuhannya"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "75:24",
+      "verse_number": 24,
+      "text_uthmani": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And [some] faces, that Day, will be contorted",
+        "fr": "et il y aura ce jour-là, des visages assombris",
+        "tr": "O gün bir takım yüzler de asıktır",
+        "ur": "اور کچھ چہرے اداس ہوں گے",
+        "id": "Dan wajah-wajah (orang kafir) pada hari itu muram"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "75:25",
+      "verse_number": 25,
+      "text_uthmani": "تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةٞ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Expecting that there will be done to them [something] backbreaking",
+        "fr": "qui s'attendent à subir une catastrophe",
+        "tr": "Kendisinin belkemiğinin kırılacağını sanır",
+        "ur": "اور سمجھ رہے ہوں گے کہ اُن کے ساتھ کمر توڑ برتاؤ ہونے والا ہے",
+        "id": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "75:26",
+      "verse_number": 26,
+      "text_uthmani": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "No! When the soul has reached the collar bones",
+        "fr": "Mais non! Quand [l'âme] en arrive aux clavicules",
+        "tr": "Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: \"Çare bulan yok mudur?\" denir",
+        "ur": "ہرگز نہیں، جب جان حلق تک پہنچ جائے گی",
+        "id": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "75:27",
+      "verse_number": 27,
+      "text_uthmani": "وَقِيلَ مَنۡۜ رَاقٖ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And it is said, \"Who will cure [him]",
+        "fr": "et qu'on dit: «Qui est exorciseur?»",
+        "tr": "Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: \"Çare bulan yok mudur?\" denir",
+        "ur": "اور کہا جائے گا کہ ہے کوئی جھاڑ پھونک کرنے والا",
+        "id": "dan dikatakan (kepadanya), \"Siapa yang dapat menyembuhkan"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "75:28",
+      "verse_number": 28,
+      "text_uthmani": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And the dying one is certain that it is the [time of] separation",
+        "fr": "et qu'il [l'agonisant] est convaincu que c'est la séparation (la mort)",
+        "tr": "Artık ayrılık vaktinin geldiğini sanır",
+        "ur": "اور آدمی سمجھ لے گا کہ یہ دنیا سے جدائی کا وقت ہے",
+        "id": "dan dia yakin bahwa itulah waktu perpisahan (dengan dunia)"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "75:29",
+      "verse_number": 29,
+      "text_uthmani": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And the leg is wound about the leg",
+        "fr": "et que la jambe s'enlace à la jambe",
+        "tr": "Bacaklar birbirine dolaşır",
+        "ur": "اور پنڈلی سے پنڈلی جڑ جائے گی",
+        "id": "dan bertaut betis (kiri) dengan betis (kanan)"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "75:30",
+      "verse_number": 30,
+      "text_uthmani": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "To your Lord, that Day, will be the procession",
+        "fr": "c'est vers ton Seigneur, ce jour-là que tu seras conduit",
+        "tr": "O gün sevk Rabbin huzurunadır",
+        "ur": "وہ دن ہوگا تیرے رب کی طرف روانگی کا",
+        "id": "kepada Tuhanmu lah pada hari itu kamu dihalau"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "75:31",
+      "verse_number": 31,
+      "text_uthmani": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And the disbeliever had not believed, nor had he prayed",
+        "fr": "Mais il n'a ni cru, ni fait la Salât",
+        "tr": "O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti",
+        "ur": "مگر اُس نے نہ سچ مانا، اور نہ نماز پڑھی",
+        "id": "Karena dia (dahulu) tidak mau membenarkan (Alquran dan Rasul) dan tidak mau melaksanakan salat"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "75:32",
+      "verse_number": 32,
+      "text_uthmani": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "But [instead], he denied and turned away",
+        "fr": "par contre, il a démenti et tourné le dos",
+        "tr": "O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti",
+        "ur": "بلکہ جھٹلایا اور پلٹ گیا",
+        "id": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran)"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "75:33",
+      "verse_number": 33,
+      "text_uthmani": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And then he went to his people, swaggering [in pride]",
+        "fr": "puis il s'en est allé vers sa famille, marchant avec orgueil",
+        "tr": "O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti",
+        "ur": "پھر اکڑتا ہوا اپنے گھر والوں کی طرف چل دیا",
+        "id": "kemudian dia pergi kepada keluarganya dengan sombong"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "75:34",
+      "verse_number": 34,
+      "text_uthmani": "أَوۡلَىٰ لَكَ فَأَوۡلَىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Woe to you, and woe",
+        "fr": "«Malheur à toi, malheur!»",
+        "tr": "Sana yazıklar olsun, yazıklar",
+        "ur": "یہ روش تیرے ہی لیے سزاوار ہے اور تجھی کو زیب دیتی ہے",
+        "id": "Celakalah kamu! Maka celakalah"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "75:35",
+      "verse_number": 35,
+      "text_uthmani": "ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Then woe to you, and woe",
+        "fr": "Et encore malheur à toi, malheur",
+        "tr": "Daha ne olsun, sana yazıklar olsun, yazıklar",
+        "ur": "ہاں یہ روش تیرے ہی لیے سزاوار ہے اور تجھی کو زیب دیتی ہے",
+        "id": "sekali lagi, celakalah kamu (manusia)! Maka celakalah"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "75:36",
+      "verse_number": 36,
+      "text_uthmani": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Does man think that he will be left neglected",
+        "fr": "L'homme pense-t-il qu'on le laissera sans obligation à observer",
+        "tr": "İnsanoğlu kendisinin başıboş bırakılacağını mı sanır",
+        "ur": "کیا انسان نے یہ سمجھ رکھا ہے کہ وہ یونہی مہمل چھوڑ دیا جائے گا؟",
+        "id": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggung-jawaban)"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "75:37",
+      "verse_number": 37,
+      "text_uthmani": "أَلَمۡ يَكُ نُطۡفَةٗ مِّن مَّنِيّٖ يُمۡنَىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Had he not been a sperm from semen emitted",
+        "fr": "N'était-il pas une goutte de sperme éjaculé",
+        "tr": "O, katılan bir meni damlası değil miydi",
+        "ur": "کیا وہ ایک حقیر پانی کا نطفہ نہ تھا جو (رحم مادر میں) ٹپکایا جاتا ہے؟",
+        "id": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim)"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "75:38",
+      "verse_number": 38,
+      "text_uthmani": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Then he was a clinging clot, and [Allah] created [his form] and proportioned [him]",
+        "fr": "Et ensuite une adhérence Puis [Allah] l'a créée et formée harmonieusement",
+        "tr": "Sonra kan pıhtısı olmuş, sonra Allah onu yaratıp şekil vermişti",
+        "ur": "پھر وہ ایک لوتھڑا بنا، پھر اللہ نے اس کا جسم بنایا اور اس کے اعضا درست کیے",
+        "id": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "75:39",
+      "verse_number": 39,
+      "text_uthmani": "فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "And made of him two mates, the male and the female",
+        "fr": "puis en a fait alors les deux éléments de couple: le mâle et la femelle",
+        "tr": "Ondan, erkek, dişi iki cins yaratmıştı",
+        "ur": "پھر اس سے مرد اور عورت کی دو قسمیں بنائیں",
+        "id": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "75:40",
+      "verse_number": 40,
+      "text_uthmani": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+      "chapter_id": 75,
+      "words": [],
+      "translations": {
+        "en": "Is not that [Creator] Able to give life to the dead",
+        "fr": "Celui-là [Allah] n'est-Il pas capable de faire revivre les morts",
+        "tr": "Bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi? Elbette yeter",
+        "ur": "کیا وہ اِس پر قادر نہیں ہے کہ مرنے والوں کو پھر زندہ کر دے؟",
+        "id": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 75,
+    "name_arabic": "القيامة",
+    "name_english": "Al-Qiyamah"
+  }
+}

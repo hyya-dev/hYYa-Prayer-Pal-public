@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Tarkaanfii jalqabaa: Niyyaa fi Ihram",
+        "details": "<ul><li>Umraa raawwachuuf niyyadhu, Miqat irratti Ihram seena, Talbiyah jalqabi.</li><li>Dhorka Ihram, sirnicha jalqabuu isaa dura sirna qulqulleessuu xumure.</li></ul>",
+        "evidence": "Quran 2:196 fi bara sirni itti jalqabame Miqat irraa.",
+        "referenceLabel": "Ministeera Umraa fi Qajeelfama Daawwannaa"
+      },
+      {
+        "title": "Tarkaanfii Lammaffaa: Al-Masjid Al-Haram seenuu",
+        "details": "<ul><li>Callisanii, kadhannaa fi gad of deebisuudhaan seenaa.</li><li>Gama namoota baay’ee keessa sochii nageenya qabu mijeessu irraa jalqabi, achiis gara naannoo Tawaf qajeeli.</li></ul>",
+        "evidence": "Qajeelfama raajii waliigalaa naamusa masjiidotaa fi ibaadaa mijeessuu.",
+        "referenceLabel": "Giddugala Hubannoo Ministirootaa"
+      },
+      {
+        "title": "Tarkaanfii sadaffaa: Tawaf (sarkiyuutii torba).",
+        "details": "<ul><li>Sarara Black Stone irraa eegalee yeroo torba naannoo Kaabah Tawaf raawwadhu.</li><li>Waaqayyoon yaadachuu itti fufi sochii tuuta keessatti namoota biroo miidhuu irraa fagaadhu.</li><li class=\"pp-ios-only\"> Gorsa: Appii Apple Watch fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li><li class=\"pp-android-only\"> Gorsa: Sa&#39;aatii keessan irratti appii Wear OS fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li></ul>",
+        "evidence": "Quran 22:29 fi ibsitoota galmaa’an waa’ee xaxama Nabiyyii.",
+        "referenceLabel": "Qajeelfama imala umraa magaalaa Nosuk"
+      },
+      {
+        "title": "Tarkaanfii Afur: Salaata Tawaf booda",
+        "details": "<ul><li>Tawaf erga xumurtanii booda raka&#39;aa lama yoo danda&#39;ame osoo jamaa hin miidhin salaadhaa, sana booda bifa qindaa&#39;een itti fufuun bishaan Zamzam dhuguu.</li></ul>",
+        "evidence": "Salaata Tawaf boodaa ilaalchisee hadiisa sahiiha keessatti shaakala sirriitti hundeeffame.",
+        "referenceLabel": "Ministeera Umraa fi Qajeelfama Daawwannaa"
+      },
+      {
+        "title": "Tarkaanfii shanaffaa: Saie Safa fi Marwah gidduutti",
+        "details": "<ul><li>Safa fi Marwah gidduutti marsaa torbaaf Saie raawwadhu, Safa irraa eegalee Marwah irratti xumura, kadhannaa fi yaadannoo wajjin.</li><li class=\"pp-ios-only\"> Gorsa: Appii Apple Watch fayyadamuun fiigicha Saie lakkaa&#39;uuf si gargaara.</li><li class=\"pp-android-only\"> Gorsa: Sa&#39;aatii keessan irratti appii Wear OS fayyadamuun fiigicha Saie lakkaa&#39;uuf isin gargaara.</li></ul>",
+        "evidence": "Quran 2:158 fi odeefannoowwan sahihii akka tartiiba ergamaa.",
+        "referenceLabel": "Qajeelfama imala umraa magaalaa Nosuk"
+      },
+      {
+        "title": "Tarkaanfii ja’affaa: Rifeensa murachuu ykn haaddachuu",
+        "details": "<ul><li>Dhiironni rifeensa isaanii kan haaddatan ykn kan muran yoo ta’u, dubartoonni immoo kutaa xiqqoo isaa ni muratu.</li><li>Kanaan immoo Umraan ni xumurama, Ihram ni xumurama.</li></ul>",
+        "evidence": "Quran 48:27 fi odeefannoowwan dhugahaa haaddachuu fi gabaabsuu wajjin walqabatan.",
+        "referenceLabel": "Ministeera Umraa fi Qajeelfama Daawwannaa"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Tarkaanfii jalqabaa: Ihram fi niyyaa Hajjii",
+        "details": "<ul><li>Miqat irratti ihram seena, gosa hajjii kee niyyaa, sana booda Talbiyah itti fufi.</li><li>Hanga karaa ba&#39;iinsa Ihram geessutti seera Ihram hordofaa.</li></ul>",
+        "evidence": "Quran 2:196 fi sirna raajii irratti waliigalame jalqabbii Hajjii.",
+        "referenceLabel": "Qajeelfama Ministeera Hajjii"
+      },
+      {
+        "title": "Tarkaanfii Lammaffaa: Yawm at-Tarwiyah Mina keessatti",
+        "details": "<ul><li>Guyyaa saddeettaffaa Dhul Hijjah, gara Mina qajeela, yeroo isaanii murtaa’etti salaata raawwachuu, fi yaadannoo Arafah hafuuraa fi loojistikiidhaan qophaa’uu.</li></ul>",
+        "evidence": "Tartiiba sirnoota imala nagaa dhaamsuu keessatti raawwataman kan galmaa’e.",
+        "referenceLabel": "Imala Hajjii gara Nosuk"
+      },
+      {
+        "title": "Tarkaanfii sadaffaa: Arafah dhaabbachuu",
+        "details": "<ul><li>Guyyaa sagalffaa Dhul Hijjah Arafah keessatti kadhannaa, waaqayyoo yaadachuu, fi towbaa dabarsi.</li><li>Kun utubaa barbaachisaa Hajjiiti.</li></ul>",
+        "evidence": "Hadith: Hajjiin Arafah dha.",
+        "referenceLabel": "Qajeelfama Ministeera Hajjii"
+      },
+      {
+        "title": "Tarkaanfii afur: Muzdalifah fi dhagaa cilee walitti qabuu",
+        "details": "<ul><li>Erga aduun lixxee booda gara Muzdalifah dhaquun Maghrib fi Isha salaadhaa, achitti halkan dabarsuu, dhagaa dhagaa Mina irratti darbachuuf dhagaa cilee walitti qabuu.</li></ul>",
+        "evidence": "Tartiiba raajii Arafah booda odeessa dhugoomsaa keessatti.",
+        "referenceLabel": "Imala Hajjii gara Nosuk"
+      },
+      {
+        "title": "Tarkaanfii Shanaffaa: Raamii, Aarsaa, fi Walaloo",
+        "details": "<ul><li>Guyyaa Iida yeroo dhagaa Jamarat al-Aqabah darbattan bakka barbaachisaa ta’etti aarsaa raawwadhaa, sana booda tahlil jalqabaaf rifeensa keessan haaddadhaa ykn muraa.</li></ul>",
+        "evidence": "Quran 22:36-37 fi tartiiba hadiisa sahiiha.",
+        "referenceLabel": "Qajeelfama Ministeera Hajjii"
+      },
+      {
+        "title": "Tarkaanfii jahaffaa: Tawaf al-Ifadah (marsaa torba).",
+        "details": "<ul><li>Gara Makkaatti deebi’uun Tawaf al-Ifadah, marsaa torba xumuruu, fi yeroo hojiin itti baay’atu sochii nagaa fi sirna qabeessa ta’e eeguu.</li><li class=\"pp-ios-only\"> Gorsa: Appii Apple Watch fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li><li class=\"pp-android-only\"> Gorsa: Sa&#39;aatii keessan irratti appii Wear OS fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li></ul>",
+        "evidence": "Quran 22:29 fi ibsitoota galmaa’an waa’ee xaxama dirqamaa.",
+        "referenceLabel": "Imala Hajjii gara Nosuk"
+      },
+      {
+        "title": "Tarkaanfii 7: Nama barbaachisutti himi",
+        "details": "<ul><li>Yeroo gosti Hajjiin keessan barbaadu Saie raawwadhaa, tartiiba fi lakkoofsa marsaa torbaa Safa fi Marwah gidduu jiru osoo eeguu.</li><li class=\"pp-ios-only\"> Gorsa: Appii Apple Watch fayyadamuun fiigicha Saie lakkaa&#39;uuf si gargaara.</li><li class=\"pp-android-only\"> Gorsa: Sa&#39;aatii keessan irratti appii Wear OS fayyadamuun fiigicha Saie lakkaa&#39;uuf isin gargaara.</li></ul>",
+        "evidence": "Quran 2:158 fi hojiirra oolmaa isaa sirna hajjii keessatti.",
+        "referenceLabel": "Qajeelfama Ministeera Hajjii"
+      },
+      {
+        "title": "Tarkaanfii 8: Ayyam at-Tashriq fi Tawaf al-Wada&#39;",
+        "details": "<ul><li>Sirna Jamarat darbachuu raawwachuuf yeroo Tashreeq Mina keessa turuu, sana booda Makkaa keessaa bahuun dura Tawaf al-Wada&#39; xumuruu, warra bilisa ta’an malee.</li><li class=\"pp-ios-only\"> Gorsa: Appii Apple Watch fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li><li class=\"pp-android-only\"> Gorsa: Sa&#39;aatii keessan irratti appii Wear OS fayyadamuun sarkiyuutii Tawaf keessan akka lakkaa&#39;an isin gargaara.</li></ul>",
+        "evidence": "Sirni hundeeffame qajeelfama Quran fi shaakala sirrii Sunnah Nabiyyii irratti hundaa&#39;a.",
+        "referenceLabel": "Imala Hajjii gara Nosuk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "80:1",
+      "verse_number": 1,
+      "text_uthmani": "عَبَسَ وَتَوَلَّىٰٓ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "The Prophet frowned and turned away",
+        "fr": "Il s'est renfrogné et il s'est détourné",
+        "tr": "Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi",
+        "ur": "ترش رو ہوا، اور بے رخی برتی",
+        "id": "Dia (Muhammad) berwajah masam dan berpaling"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "80:2",
+      "verse_number": 2,
+      "text_uthmani": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Because there came to him the blind man, [interrupting]",
+        "fr": "parce que l'aveugle est venu à lui",
+        "tr": "Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi",
+        "ur": "اِس بات پر کہ وہ اندھا اُس کے پاس آ گیا",
+        "id": "karena seorang buta telah datang kepadanya (Abdullah bin Ummi Maktum)"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "80:3",
+      "verse_number": 3,
+      "text_uthmani": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "But what would make you perceive, [O Muhammad], that perhaps he might be purified",
+        "fr": "Qui te dit: peut-être [cherche]-t-il à se purifier",
+        "tr": "Ne bilirsin, belki de o arınacak",
+        "ur": "تمہیں کیا خبر، شاید وہ سدھر جائے",
+        "id": "Dan tahukah engkau (Muhammad) barangkali dia ingin menyucikan dirinya (dari dosa)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "80:4",
+      "verse_number": 4,
+      "text_uthmani": "أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Or be reminded and the remembrance would benefit him",
+        "fr": "ou à se rappeler en sorte que le rappel lui profite",
+        "tr": "Yahut öğüt alacaktı da bu öğüt kendisine fayda verecekti",
+        "ur": "یا نصیحت پر دھیان دے، اور نصیحت کرنا اس کے لیے نافع ہو؟",
+        "id": "atau dia (ingin) mendapatkan pengajaran, yang memberi manfaat kepadanya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "80:5",
+      "verse_number": 5,
+      "text_uthmani": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "As for he who thinks himself without need",
+        "fr": "Quant à celui qui se complaît dans sa suffisance (pour sa richesse)",
+        "tr": "Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun",
+        "ur": "جو شخص بے پروائی برتتا ہے",
+        "id": "Adapun orang yang merasa dirinya serba cukup (pembesar-pembesar Quraisy)"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "80:6",
+      "verse_number": 6,
+      "text_uthmani": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "To him you give attention",
+        "fr": "tu vas avec empressement à sa rencontre",
+        "tr": "Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun",
+        "ur": "اس کی طرف تو تم توجہ کرتے ہو",
+        "id": "maka engkau (Muhammad) memberi perhatian kepadanya"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "80:7",
+      "verse_number": 7,
+      "text_uthmani": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And not upon you [is any blame] if he will not be purified",
+        "fr": "Or, que t'importe qu'il ne se purifie pas»",
+        "tr": "Arınmak istememesinden sana ne",
+        "ur": "حالانکہ اگر وہ نہ سدھرے تو تم پر اس کی کیا ذمہ داری ہے؟",
+        "id": "padahal tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman)"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "80:8",
+      "verse_number": 8,
+      "text_uthmani": "وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "But as for he who came to you striving [for knowledge]",
+        "fr": "Et quant à celui qui vient à toi avec empressement",
+        "tr": "Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun",
+        "ur": "اور جو خود تمہارے پاس دوڑا آتا ہے",
+        "id": "Dan adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran)"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "80:9",
+      "verse_number": 9,
+      "text_uthmani": "وَهُوَ يَخۡشَىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "While he fears [Allah]",
+        "fr": "tout en ayant la crainte",
+        "tr": "Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun",
+        "ur": "اور وہ ڈر رہا ہوتا ہے",
+        "id": "sedang dia takut (kepada Allah)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "80:10",
+      "verse_number": 10,
+      "text_uthmani": "فَأَنتَ عَنۡهُ تَلَهَّىٰ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "From him you are distracted",
+        "fr": "tu ne t'en soucies pas",
+        "tr": "Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun",
+        "ur": "اس سے تم بے رخی برتتے ہو",
+        "id": "engkau (Muhammad) malah mengabaikannya"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "80:11",
+      "verse_number": 11,
+      "text_uthmani": "كَلَّآ إِنَّهَا تَذۡكِرَةٞ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, these verses are a reminder",
+        "fr": "N'agis plus ainsi! Vraiment ceci est un rappel",
+        "tr": "Dikkat et; bu Kuran bir öğüttür",
+        "ur": "ہرگز نہیں، یہ تو ایک نصیحت ہے",
+        "id": "Sekali-kali jangan (begitu)! Sungguh, (ajaran-ajaran Allah) itu suatu peringatan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "80:12",
+      "verse_number": 12,
+      "text_uthmani": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "So whoever wills may remember it",
+        "fr": "quiconque veut, donc, s'en rappelle",
+        "tr": "Dileyen onu öğüt kabul eder",
+        "ur": "جس کا جی چاہے اِسے قبول کرے",
+        "id": "maka barangsiapa menghendaki, tentulah dia akan memperhatikannya"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "80:13",
+      "verse_number": 13,
+      "text_uthmani": "فِي صُحُفٖ مُّكَرَّمَةٖ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "[It is recorded] in honored sheets",
+        "fr": "consigné dans des feuilles honorées",
+        "tr": "O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir",
+        "ur": "یہ ایسے صحیفوں میں درج ہے جو مکرم ہیں",
+        "id": "di dalam kitab-kitab yang dimuliakan (di sisi Allah)"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "80:14",
+      "verse_number": 14,
+      "text_uthmani": "مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Exalted and purified",
+        "fr": "élevées, purifiées",
+        "tr": "O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir",
+        "ur": "بلند مرتبہ ہیں، پاکیزہ ہیں",
+        "id": "yang ditinggikan (dan) disucikan"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "80:15",
+      "verse_number": 15,
+      "text_uthmani": "بِأَيۡدِي سَفَرَةٖ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "[Carried] by the hands of messenger-angels",
+        "fr": "entre les mains d'ambassadeurs",
+        "tr": "İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır",
+        "ur": "معزز اور نیک کاتبوں کے",
+        "id": "di tangan para utusan (malaikat)"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "80:16",
+      "verse_number": 16,
+      "text_uthmani": "كِرَامِۭ بَرَرَةٖ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Noble and dutiful",
+        "fr": "nobles, obéissants",
+        "tr": "İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır",
+        "ur": "ہاتھوں میں رہتے ہیں",
+        "id": "yang mulia lagi berbakti"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "80:17",
+      "verse_number": 17,
+      "text_uthmani": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Cursed is man; how disbelieving is he",
+        "fr": "Que périsse l'homme! Qu'il est ingrat",
+        "tr": "Canı çıksın o insanın, o ne nankördür",
+        "ur": "لعنت ہو انسان پر، کیسا سخت منکر حق ہے یہ",
+        "id": "Celakalah manusia! Alangkah kufurnya dia"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "80:18",
+      "verse_number": 18,
+      "text_uthmani": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "From what substance did He create him",
+        "fr": "De quoi [Allah] l'a-t-Il créé",
+        "tr": "Allah onu hangi şeyden yaratmış",
+        "ur": "کس چیز سے اللہ نے اِسے پیدا کیا ہے؟",
+        "id": "Dari apakah Dia (Allah) menciptakannya"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "80:19",
+      "verse_number": 19,
+      "text_uthmani": "مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "From a sperm-drop He created him and destined for him",
+        "fr": "D'une goutte de sperme, Il le crée et détermine (son destin)",
+        "tr": "Onu meniden yaratıp merhalelerden geçirerek ona şekil vermiş",
+        "ur": "نطفہ کی ایک بوند سے اللہ نے اِسے پیدا کیا، پھر اِس کی تقدیر مقرر کی",
+        "id": "Dari setetes mani, Dia menciptakannya lalu menentukannya"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "80:20",
+      "verse_number": 20,
+      "text_uthmani": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Then He eased the way for him",
+        "fr": "puis Il lui facilite le chemin",
+        "tr": "Sonra, yolu ona kolaylaştırmıştır",
+        "ur": "پھر اِس کے لیے زندگی کی راہ آسان کی",
+        "id": "Kemudian jalannya Dia mudahkan"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "80:21",
+      "verse_number": 21,
+      "text_uthmani": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Then He causes his death and provides a grave for him",
+        "fr": "puis Il lui donne la mort et le met au tombeau",
+        "tr": "Sonra onu öldürür ve kabre koyar",
+        "ur": "پھر اِسے موت دی اور قبر میں پہنچایا",
+        "id": "kemudian Dia mematikannya lalu menguburkannya"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "80:22",
+      "verse_number": 22,
+      "text_uthmani": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Then when He wills, He will resurrect him",
+        "fr": "puis Il le ressuscitera quand Il voudra",
+        "tr": "Sonra, dilediği zaman onu tekrar diriltir",
+        "ur": "پھر جب چاہے وہ اِسے دوبارہ اٹھا کھڑا کرے",
+        "id": "kemudian jika Dia menghendaki, Dia membangkitkannya kembali"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "80:23",
+      "verse_number": 23,
+      "text_uthmani": "كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "No! Man has not yet accomplished what He commanded him",
+        "fr": "Eh bien non! [L'homme] n'accomplit pas ce qu'Il lui commande",
+        "tr": "Hayır; Allah'ın kendisine buyurduğunu hala yerine getirmemiştir",
+        "ur": "ہرگز نہیں، اِس نے وہ فرض ادا نہیں کیا جس کا اللہ نے اِسے حکم دیا تھا",
+        "id": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "80:24",
+      "verse_number": 24,
+      "text_uthmani": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Then let mankind look at his food",
+        "fr": "Que l'homme considère donc sa nourriture",
+        "tr": "İnsan, yiyeceğine bir baksın",
+        "ur": "پھر ذرا انسان اپنی خوراک کو دیکھے",
+        "id": "Maka hendaklah manusia itu memperhatikan makanannya"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "80:25",
+      "verse_number": 25,
+      "text_uthmani": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "How We poured down water in torrents",
+        "fr": "C'est Nous qui versons l'eau abondante",
+        "tr": "Doğrusu suyu bol bol indirmekteyiz",
+        "ur": "ہم نے خوب پانی لنڈھایا",
+        "id": "Kamilah yang telah mencurahkan air melimpah (dari langit)"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "80:26",
+      "verse_number": 26,
+      "text_uthmani": "ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Then We broke open the earth, splitting [it with sprouts]",
+        "fr": "puis Nous fendons la terre par fissures",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "پھر زمین کو عجیب طرح پھاڑا",
+        "id": "kemudian Kami belah bumi dengan sebaik-baiknya"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "80:27",
+      "verse_number": 27,
+      "text_uthmani": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And caused to grow within it grain",
+        "fr": "et y faisons pousser grains",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "پھر اُس کے اندر اگائے غلے",
+        "id": "lalu di sana Kami tumbuhkan biji-bijian"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "80:28",
+      "verse_number": 28,
+      "text_uthmani": "وَعِنَبٗا وَقَضۡبٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And grapes and herbage",
+        "fr": "vignobles et légumes",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "اور انگور اور ترکاریاں",
+        "id": "dan anggur dan sayur-sayuran"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "80:29",
+      "verse_number": 29,
+      "text_uthmani": "وَزَيۡتُونٗا وَنَخۡلٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And olive and palm trees",
+        "fr": "oliviers et palmiers",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "اور زیتون اور کھجوریں",
+        "id": "dan zaitun dan pohon kurma"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "80:30",
+      "verse_number": 30,
+      "text_uthmani": "وَحَدَآئِقَ غُلۡبٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And gardens of dense shrubbery",
+        "fr": "jardins touffus",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "اور گھنے باغ",
+        "id": "dan kebun-kebun (yang) rindang"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "80:31",
+      "verse_number": 31,
+      "text_uthmani": "وَفَٰكِهَةٗ وَأَبّٗا",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And fruit and grass",
+        "fr": "fruits et herbages",
+        "tr": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz",
+        "ur": "اور طرح طرح کے پھل، اور چارے",
+        "id": "dan buah-buahan serta rerumputan"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "80:32",
+      "verse_number": 32,
+      "text_uthmani": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "[As] enjoyment for you and your grazing livestock",
+        "fr": "pour votre jouissance vous et vos bestiaux",
+        "tr": "Bunlar sizin ve hayvanlarınız için geçimliktir",
+        "ur": "تمہارے لیے اور تمہارے مویشیوں کے لیے سامان زیست کے طور پر",
+        "id": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "80:33",
+      "verse_number": 33,
+      "text_uthmani": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "But when there comes the Deafening Blast",
+        "fr": "Puis quand viendra le Fracas",
+        "tr": "O muazzam gürültü, kıyamet kopup geldiği zaman",
+        "ur": "آخرکار جب وہ کان بہرے کر دینے والی آواز بلند ہوگی",
+        "id": "Maka apabila datang suara yang memekakkan (tiupan sangkakala yang kedua)"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "80:34",
+      "verse_number": 34,
+      "text_uthmani": "يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "On the Day a man will flee from his brother",
+        "fr": "le jour où l'homme s'enfuira de son frère",
+        "tr": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar",
+        "ur": "اُس روز آدمی اپنے بھائی",
+        "id": "pada hari itu manusia lari dari saudaranya"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "80:35",
+      "verse_number": 35,
+      "text_uthmani": "وَأُمِّهِۦ وَأَبِيهِ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And his mother and his father",
+        "fr": "de sa mère, de son père",
+        "tr": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar",
+        "ur": "اور اپنی ماں اور اپنے باپ",
+        "id": "dan dari ibu dan bapaknya"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "80:36",
+      "verse_number": 36,
+      "text_uthmani": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And his wife and his children",
+        "fr": "de sa compagne et de ses enfants",
+        "tr": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar",
+        "ur": "اور اپنی بیوی اور اپنی اولاد سے بھاگے گا",
+        "id": "dan dari istri dan anak-anaknya"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "80:37",
+      "verse_number": 37,
+      "text_uthmani": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "For every man, that Day, will be a matter adequate for him",
+        "fr": "car chacun d'eux, ce jour-là, aura son propre cas pour l'occuper",
+        "tr": "O gün, herkesin kendine yeter derdi vardır",
+        "ur": "ان میں سے ہر شخص پر اس دن ایسا وقت آ پڑے گا کہ اسے اپنے سوا کسی کا ہوش نہ ہوگا",
+        "id": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "80:38",
+      "verse_number": 38,
+      "text_uthmani": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "[Some] faces, that Day, will be bright",
+        "fr": "Ce jour-là, il y aura des visages rayonnants",
+        "tr": "O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir",
+        "ur": "کچھ چہرے اُس روز دمک رہے ہوں گے",
+        "id": "Pada hari itu ada wajah-wajah yang berseri-seri"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "80:39",
+      "verse_number": 39,
+      "text_uthmani": "ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Laughing, rejoicing at good news",
+        "fr": "riants et réjouis",
+        "tr": "O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir",
+        "ur": "ہشاش بشاش اور خوش و خرم ہوں گے",
+        "id": "tertawa dan gembira ria"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "80:40",
+      "verse_number": 40,
+      "text_uthmani": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "And [other] faces, that Day, will have upon them dust",
+        "fr": "De même qu'il y aura, ce jour-là, des visages couverts de poussière",
+        "tr": "O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür",
+        "ur": "اور کچھ چہروں پر اس روز خاک اڑ رہی ہوگی",
+        "id": "dan pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram)"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "80:41",
+      "verse_number": 41,
+      "text_uthmani": "تَرۡهَقُهَا قَتَرَةٌ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Blackness will cover them",
+        "fr": "recouverts de ténèbres",
+        "tr": "O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür",
+        "ur": "اور کلونس چھائی ہوئی ہوگی",
+        "id": "tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan)"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "80:42",
+      "verse_number": 42,
+      "text_uthmani": "أُوْلَـٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ",
+      "chapter_id": 80,
+      "words": [],
+      "translations": {
+        "en": "Those are the disbelievers, the wicked ones",
+        "fr": "Voilà les infidèles, les libertins",
+        "tr": "İşte bunlar inkarcı olanlar, Allah'ın buyruğundan çıkanlardır",
+        "ur": "یہی کافر و فاجر لوگ ہوں گے",
+        "id": "Mereka itulah orang-orang kafir yang durhaka"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 80,
+    "name_arabic": "عبس",
+    "name_english": "'Abasa"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "82:1",
+      "verse_number": 1,
+      "text_uthmani": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "When the sky breaks apart",
+        "fr": "Quand le ciel se rompra",
+        "tr": "Gök yarıldığı zaman",
+        "ur": "جب آسمان پھٹ جائے گا",
+        "id": "Apabila langit terbelah"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "82:2",
+      "verse_number": 2,
+      "text_uthmani": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And when the stars fall, scattering",
+        "fr": "et que les étoiles se disperseront",
+        "tr": "Yıldızlar dağılıp döküldüğü zaman",
+        "ur": "اور جب تارے بکھر جائیں گے",
+        "id": "dan apabila bintang-bintang jatuh berserakan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "82:3",
+      "verse_number": 3,
+      "text_uthmani": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And when the seas are erupted",
+        "fr": "et que les mers confondront leurs eaux",
+        "tr": "Denizler kaynaştığı zaman",
+        "ur": "اور جب سمندر پھاڑ دیے جائیں گے",
+        "id": "dan apabila lautan dijadikan meluap"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "82:4",
+      "verse_number": 4,
+      "text_uthmani": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And when the [contents of] graves are scattered",
+        "fr": "et que les tombeaux seront bouleversés",
+        "tr": "Kabirlerin içi dışa çıktığı zaman",
+        "ur": "اور جب قبریں کھول دی جائیں گی",
+        "id": "dan apabila kuburan-kuburan dibongkar"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "82:5",
+      "verse_number": 5,
+      "text_uthmani": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "A soul will [then] know what it has put forth and kept back",
+        "fr": "toute âme saura alors ce qu'elle a accompli et ce qu'elle a remis de faire à plus tard",
+        "tr": "İnsanoğlu, ne yaptığını ve ne yapmadığını görür",
+        "ur": "اُس وقت ہر شخص کو اُس کا اگلا پچھلا سب کیا دھرا معلوم ہو جائے گا",
+        "id": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "82:6",
+      "verse_number": 6,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "O mankind, what has deceived you concerning your Lord, the Generous",
+        "fr": "O homme! Qu'est-ce qui t'a trompé au sujet de ton Seigneur, le Noble",
+        "tr": "Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir",
+        "ur": "اے انسان، کس چیز نے تجھے اپنے اُس رب کریم کی طرف سے دھوکے میں ڈال دیا",
+        "id": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Maha Pengasih"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "82:7",
+      "verse_number": 7,
+      "text_uthmani": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "Who created you, proportioned you, and balanced you",
+        "fr": "qui t'a créé, puis modelé et constitué harmonieusement",
+        "tr": "Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir",
+        "ur": "جس نے تجھے پیدا کیا، تجھے نک سک سے درست کیا، تجھے متناسب بنایا",
+        "id": "Yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "82:8",
+      "verse_number": 8,
+      "text_uthmani": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "In whatever form He willed has He assembled you",
+        "fr": "Il t'a façonné dans la forme qu'Il a voulue",
+        "tr": "Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir",
+        "ur": "اور جس صورت میں چاہا تجھ کو جوڑ کر تیار کیا؟",
+        "id": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "82:9",
+      "verse_number": 9,
+      "text_uthmani": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "No! But you deny the Recompense",
+        "fr": "Non...! [malgré tout] vous traitez la Rétribution de mensonge",
+        "tr": "Hayır, hayır; doğrusu siz dini yalanlıyorsunuz",
+        "ur": "ہرگز نہیں، بلکہ (اصل بات یہ ہے کہ) تم لوگ جزا و سزا کو جھٹلاتے ہو",
+        "id": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "82:10",
+      "verse_number": 10,
+      "text_uthmani": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And indeed, [appointed] over you are keepers",
+        "fr": "alors que veillent sur vous des gardiens",
+        "tr": "Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler",
+        "ur": "حالانکہ تم پر نگراں مقرر ہیں",
+        "id": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "82:11",
+      "verse_number": 11,
+      "text_uthmani": "كِرَامٗا كَٰتِبِينَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "Noble and recording",
+        "fr": "de nobles scribes",
+        "tr": "Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler",
+        "ur": "ایسے معزز کاتب",
+        "id": "yang mulia (di sisi Allah) dan yang mencatat (perbuatanmu)"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "82:12",
+      "verse_number": 12,
+      "text_uthmani": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "They know whatever you do",
+        "fr": "qui savent ce que vous faites",
+        "tr": "Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler",
+        "ur": "جو تمہارے ہر فعل کو جانتے ہیں",
+        "id": "mereka mengetahui apa yang kamu kerjakan"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "82:13",
+      "verse_number": 13,
+      "text_uthmani": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the righteous will be in pleasure",
+        "fr": "Les bons seront, certes, dans un [jardin] de délice",
+        "tr": "İyiler şüphesiz nimet içindedirler",
+        "ur": "یقیناً نیک لوگ مزے میں ہوں گے",
+        "id": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "82:14",
+      "verse_number": 14,
+      "text_uthmani": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And indeed, the wicked will be in Hellfire",
+        "fr": "et les libertins seront, certes, dans une fournaise",
+        "tr": "Allah'ın buyruğundan çıkanlar cehennemdedirler",
+        "ur": "اور بے شک بدکار لوگ جہنم میں جائیں گے",
+        "id": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "82:15",
+      "verse_number": 15,
+      "text_uthmani": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "They will [enter to] burn therein on the Day of Recompense",
+        "fr": "où ils brûleront, le jour de la Rétribution",
+        "tr": "Din Günü oraya girerler",
+        "ur": "جزا کے دن وہ اس میں داخل ہوں گے",
+        "id": "Mereka masuk ke dalamnya pada hari pembalasan"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "82:16",
+      "verse_number": 16,
+      "text_uthmani": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And never therefrom will they be absent",
+        "fr": "incapables de s'en échapper",
+        "tr": "Oradan bir daha ayrılamazlar",
+        "ur": "اور اُس سے ہرگز غائب نہ ہو سکیں گے",
+        "id": "Dan mereka tidak mungkin keluar dari neraka itu"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "82:17",
+      "verse_number": 17,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is the Day of Recompense",
+        "fr": "Et qui te dira ce qu'est le jour de la Rétribution",
+        "tr": "Din gününün ne olduğunu sen nereden bilirsin",
+        "ur": "اور تم کیا جانتے ہو کہ وہ جزا کا دن کیا ہے؟",
+        "id": "Dan tahukah kamu apakah hari pembalasan itu"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "82:18",
+      "verse_number": 18,
+      "text_uthmani": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "Then, what can make you know what is the Day of Recompense",
+        "fr": "Encore une fois, qui te dira ce qu'est le jour de la Rétribution",
+        "tr": "Evet, din gününün ne olduğunu nereden bileceksin",
+        "ur": "ہاں، تمہیں کیا خبر کہ وہ جزا کا دن کیا ہے؟",
+        "id": "Sekali lagi, tahukah kamu apakah hari pembalasan itu"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "82:19",
+      "verse_number": 19,
+      "text_uthmani": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+      "chapter_id": 82,
+      "words": [],
+      "translations": {
+        "en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah",
+        "fr": "Le jour où aucune âme ne pourra rien en faveur d'une autre âme. Et ce jour-là, le commandement sera à Allah",
+        "tr": "O gün, kimsenin kimseye hiçbir fayda sağlamayacağı bir gündür. O gün buyruk, yalnız Allah'ındır",
+        "ur": "یہ وہ دن ہے جب کسی شخص کے لیے کچھ کرنا کسی کے بس میں نہ ہوگا، فیصلہ اُس دن بالکل اللہ کے اختیار میں ہوگا",
+        "id": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 82,
+    "name_arabic": "الإنفطار",
+    "name_english": "Al-Infitar"
+  }
+}

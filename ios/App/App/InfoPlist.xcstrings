@@ -1,0 +1,1430 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ሀያ የጸሎት ጓደኛ"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا رفيق الصلاة"
+          }
+        },
+        "as" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হাইয়া প্ৰাৰ্থনা পাল"
+          }
+        },
+        "az" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Dua Dostu"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Молитвен приятел"
+          }
+        },
+        "bm" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Delili Pal"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হাইয়া প্রার্থনা পাল"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Molitveni prijatelj"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Gebetsfreund"
+          }
+        },
+        "dv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ހައްޔާ ނަމާދުގެ ޞަޙާބީއެވެ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Compañero de oración"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز رفیق"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Ami de prière"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હૈયા પ્રાર્થના પાલ"
+          }
+        },
+        "ha" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Abokin Addu'a"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הייא חבר תפילה"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना मित्र"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Teman Doa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Amico di preghiera"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハイヤ 祈りの仲間"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Дұға досы"
+          }
+        },
+        "km" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ហៃយ៉ា ប៉ាលអធិស្ឋាន"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하이야 기도 친구"
+          }
+        },
+        "ku" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Hevalê Dua"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ഹയ്യാ പ്രാർത്ഥന പാൽ"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना पाल"
+          }
+        },
+        "mrw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Sahabat Doa"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना पाल"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Gebedsmaatje"
+          }
+        },
+        "om" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kadhannaa Pal"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Przyjaciel modlitewny"
+          }
+        },
+        "prs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز رفیق"
+          }
+        },
+        "ps" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا د لمونځ پال"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Pal de oração"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prieten de rugăciune"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Друг по молитвам"
+          }
+        },
+        "rw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Umukunzi w'amasengesho"
+          }
+        },
+        "sd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز پال"
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හයියා යාච්ඤා පල්"
+          }
+        },
+        "so" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Saaxiib Salaada"
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Mik Lutjeje"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Bönevän"
+          }
+        },
+        "sw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Rafiki wa Maombi"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஹய்யா பிரார்த்தனை பால்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "హయ్యా ప్రార్థన పాల్"
+          }
+        },
+        "tg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Палвари дуогӯ"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไฮยา เพื่อนร่วมภาวนา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Dua Arkadaşı"
+          }
+        },
+        "ug" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا ناماز دوستى"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Молитовний друг"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز پال"
+          }
+        },
+        "uz" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Namoz do'sti"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Bạn cầu nguyện"
+          }
+        },
+        "yo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Ọ̀rẹ́ Àdúrà"
+          }
+        },
+        "zh" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "海亚 祈祷伙伴"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ሀያ የጸሎት ጓደኛ"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا رفيق الصلاة"
+          }
+        },
+        "as" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হাইয়া প্ৰাৰ্থনা পাল"
+          }
+        },
+        "az" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Dua Dostu"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Молитвен приятел"
+          }
+        },
+        "bm" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Delili Pal"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হাইয়া প্রার্থনা পাল"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Molitveni prijatelj"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Gebetsfreund"
+          }
+        },
+        "dv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ހައްޔާ ނަމާދުގެ ޞަޙާބީއެވެ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Compañero de oración"
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز رفیق"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Ami de prière"
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "હૈયા પ્રાર્થના પાલ"
+          }
+        },
+        "ha" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Abokin Addu'a"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הייא חבר תפילה"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना मित्र"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Teman Doa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Amico di preghiera"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハイヤ 祈りの仲間"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Дұға досы"
+          }
+        },
+        "km" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ហៃយ៉ា ប៉ាលអធិស្ឋាន"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하이야 기도 친구"
+          }
+        },
+        "ku" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Hevalê Dua"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ഹയ്യാ പ്രാർത്ഥന പാൽ"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना पाल"
+          }
+        },
+        "mrw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kaibigang Pananalangin"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Sahabat Doa"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हय्या प्रार्थना पाल"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Gebedsmaatje"
+          }
+        },
+        "om" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Kadhannaa Pal"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Przyjaciel modlitewny"
+          }
+        },
+        "prs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز رفیق"
+          }
+        },
+        "ps" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا د لمونځ پال"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Pal de oração"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prieten de rugăciune"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Друг по молитвам"
+          }
+        },
+        "rw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Umukunzi w'amasengesho"
+          }
+        },
+        "sd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز پال"
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හයියා යාච්ඤා පල්"
+          }
+        },
+        "so" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Saaxiib Salaada"
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Mik Lutjeje"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Bönevän"
+          }
+        },
+        "sw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Rafiki wa Maombi"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஹய்யா பிரார்த்தனை பால்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "హయ్యా ప్రార్థన పాల్"
+          }
+        },
+        "tg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Палвари дуогӯ"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ไฮยา เพื่อนร่วมภาวนา"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Dua Arkadaşı"
+          }
+        },
+        "ug" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا ناماز دوستى"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хайя Молитовний друг"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هيّا نماز پال"
+          }
+        },
+        "uz" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Namoz do'sti"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Bạn cầu nguyện"
+          }
+        },
+        "yo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Ọ̀rẹ́ Àdúrà"
+          }
+        },
+        "zh" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "海亚 祈祷伙伴"
+          }
+        }
+      }
+    },
+    "NSLocationAlwaysAndWhenInUseUsageDescription" : {
+      "comment" : "Privacy - Location Always and When In Use Usage Description",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ትክክለኛ የጸሎት ጊዜዎችን ለማስላት እና መግብርዎን ለማዘመን አካባቢዎን ይፈልጋል።"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحتاج تطبيق hYYa Prayer Pal (Source) إلى موقعك لحساب أوقات الصلاة بدقة وتحديث الأداة."
+          }
+        },
+        "as" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa প্ৰাৰ্থনা পালক সঠিক প্ৰাৰ্থনাৰ সময় গণনা কৰিবলৈ আৰু আপোনাৰ ৱিজেট আপডেট কৰিবলৈ আপোনাৰ অৱস্থানৰ প্ৰয়োজন।"
+          }
+        },
+        "az" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) dəqiq namaz vaxtlarını hesablamaq və vidjetinizi yeniləmək üçün yerinizi tələb edir."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) се нуждае от вашето местоположение, за да изчисли точните времена за молитва и да актуализира вашия уиджет."
+          }
+        },
+        "bm" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) mago bɛ i sigiyɔrɔ la walasa ka delili waati tigitigiw jate ani ka i ka wideyo kura."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সঠিক নামাজের সময় গণনা করতে ও আপনার উইজেট আপডেট করতে hYYa Prayer Pal (Source)-এর আপনার অবস্থান প্রয়োজন।"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) treba vašu lokaciju kako bi izračunao tačno vrijeme molitve i ažurirao vaš widget."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) benötigt Ihren Standort, um genaue Gebetszeiten zu berechnen und Ihr Widget zu aktualisieren."
+          }
+        },
+        "dv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa ޕްރޭޔަރ ޕާލް އަށް ބޭނުންވަނީ ތިބާގެ ލޮކޭޝަން ޞައްޙަ ނަމާދު ވަގުތުތައް ކަނޑައެޅުމަށާއި ތިބާގެ ވިޖެޓް އަޕްޑޭޓް ކުރުމަށެވެ."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) needs your location to calculate accurate prayer times and update your widget."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) necesita tu ubicación para calcular los horarios de oración con precisión y actualizar tu widget."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اپلیکیشن hYYa Prayer Pal (Source) برای محاسبه دقیق زمان نماز و به‌روزرسانی ویجت شما به موقعیت مکانی شما نیاز دارد."
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kailangan ng hYYa Prayer Pal (Source) ang iyong lokasyon upang makalkula ang tumpak na oras ng pagdarasal at ma-update ang iyong widget."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) a besoin de votre localisation pour calculer les heures de prière précises et mettre à jour votre widget."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa પ્રાર્થના પાલને પ્રાર્થનાના ચોક્કસ સમયની ગણતરી કરવા અને તમારા વિજેટને અપડેટ કરવા માટે તમારા સ્થાનની જરૂર છે."
+          }
+        },
+        "ha" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal yana buƙatar wurin da kake don ƙididdige lokutan addu'o'i daidai da kuma sabunta widget ɗinka."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) זקוק למיקומך כדי לחשב זמני תפילה מדויקים ולעדכן את הווידג'ט שלך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) को सटीक प्रार्थना समय की गणना करने और आपके विजेट को अपडेट करने के लिए आपके स्थान की आवश्यकता होती है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) membutuhkan lokasi Anda untuk menghitung waktu sholat yang akurat dan memperbarui widget Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ha bisogno della tua posizione per calcolare con precisione gli orari di preghiera e aggiornare il widget."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)は、正確な祈りの時間を計算し、ウィジェットを更新するために、あなたの位置情報が必要です。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) қолданбасына дәл намаз уақыттарын есептеу және виджетті жаңарту үшін сіздің орналасқан жеріңіз қажет."
+          }
+        },
+        "km" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ត្រូវការទីតាំងរបស់អ្នក ដើម្បីគណនាពេលវេលាអធិស្ឋានត្រឹមត្រូវ និងធ្វើបច្ចុប្បន្នភាពធាតុក្រាហ្វិករបស់អ្នក។"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)은 정확한 기도 시간을 계산하고 위젯을 업데이트하기 위해 사용자의 위치 정보가 필요합니다."
+          }
+        },
+        "ku" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ji bo hesabkirina demên nimêjê yên rast û nûvekirina widgetê hewceyê cîhê we ye."
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "കൃത്യമായ പ്രാർത്ഥന സമയങ്ങൾ കണക്കാക്കാനും നിങ്ങളുടെ വിജറ്റ് അപ്‌ഡേറ്റ് ചെയ്യാനും hYYa Prayer Pal (Source)-ന് നിങ്ങളുടെ ലൊക്കേഷൻ ആവശ്യമാണ്."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ला अचूक नमाजाच्या वेळा मोजण्यासाठी आणि तुमचे विजेट अपडेट करण्यासाठी तुमच्या स्थानाची आवश्यकता आहे."
+          }
+        },
+        "mrw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kailangan ng hYYa Prayer Pal (Source) ang iyong lokasyon para makalkula ang eksaktong oras ng pagdarasal at ma-update ang iyong widget."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) memerlukan lokasi anda untuk mengira waktu solat yang tepat dan mengemas kini widget anda."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa प्रार्थना पाललाई सही प्रार्थना समय गणना गर्न र तपाईंको विजेट अपडेट गर्न तपाईंको स्थान चाहिन्छ।"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) heeft uw locatie nodig om nauwkeurige gebedstijden te berekenen en uw widget bij te werken."
+          }
+        },
+        "om" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) yeroo kadhannaa sirrii shallaguu fi wiijetii kee haaromsuuf bakka jirtu barbaada."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikacja hYYa Prayer Pal (Source) potrzebuje Twojej lokalizacji, aby obliczyć dokładny czas modlitwy i zaktualizować Twój widget."
+          }
+        },
+        "prs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) به موقعیت مکانی شما نیاز دارد تا زمان‌های دقیق نماز را محاسبه کرده و ابزارک (ویجت) شما را به‌روزرسانی کند."
+          }
+        },
+        "ps" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ستاسو موقعیت ته اړتیا لري ترڅو د لمانځه دقیق وختونه محاسبه کړي او ستاسو ویجیټ تازه کړي."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplicativo hYYa Prayer Pal (Source) precisa da sua localização para calcular os horários de oração corretos e atualizar o widget."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplicația hYYa Prayer Pal (Source) are nevoie de locația ta pentru a calcula orele de rugăciune exacte și pentru a actualiza widget-ul."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для расчета точного времени молитв hYYa Prayer Pal (Source) запрашивает ваше местоположение, чтобы обновить виджет."
+          }
+        },
+        "rw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umukozi wo mu isengesho wa hYYa akeneye aho uherereye kugira ngo abare amasaha yo gusenga neza kandi avugurure widget yawe."
+          }
+        },
+        "sd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa پرائير پال کي نماز جي صحيح وقتن جي حساب ڪرڻ ۽ توهان جي ويجيٽ کي اپڊيٽ ڪرڻ لاءِ توهان جي جڳهه جي ضرورت آهي."
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නිවැරදි යාඥා වේලාවන් ගණනය කිරීමට සහ ඔබගේ විජට් යාවත්කාලීන කිරීමට hYYa යාඥා Pal හට ඔබගේ ස්ථානය අවශ්‍ය වේ."
+          }
+        },
+        "so" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal waxay u baahan tahay goobtaada si ay u xisaabiso waqtiyada saxda ah ee salaadda iyo inay cusbooneysiiso qalabkaaga."
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ka nevojë për vendndodhjen tuaj për të llogaritur kohët e sakta të lutjes dhe për të përditësuar widget-in tuaj."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) behöver din plats för att beräkna korrekta bönetider och uppdatera din widget."
+          }
+        },
+        "sw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal inahitaji eneo lako ili kuhesabu nyakati sahihi za maombi na kusasisha wijeti yako."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "துல்லியமான தொழுகை நேரங்களைக் கணக்கிடுவதற்கும், உங்கள் விட்ஜெட்டைப் புதுப்பிப்பதற்கும் hYYa Prayer Pal (Source)-க்கு உங்கள் இருப்பிடம் தேவைப்படுகிறது."
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ఖచ్చితమైన ప్రార్థన సమయాలను లెక్కించి, మీ విడ్జెట్‌ను అప్‌డేట్ చేయడానికి hYYa ప్రేయర్ పాల్‌కు మీ లొకేషన్ అవసరం."
+          }
+        },
+        "tg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) барои ҳисоб кардани вақти дақиқи намоз ва навсозии виджети шумо ба макони шумо ниёз дорад."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอป hYYa Prayer Pal (Source) ต้องการข้อมูลตำแหน่งที่ตั้งของคุณเพื่อคำนวณเวลาละหมาดที่ถูกต้องและอัปเดตวิดเจ็ตของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source), doğru namaz vakitlerini hesaplamak ve widget'ınızı güncellemek için konumunuza ihtiyaç duyar."
+          }
+        },
+        "ug" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) توغرا ناماز ۋاقتىنى ھېسابلاش ۋە ۋىجېتىڭىزنى يېڭىلاش ئۈچۈن ئورنىڭىزغا ئېھتىياجلىق."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) потребує вашого місцезнаходження, щоб розрахувати точний час молитви та оновити ваш віджет."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa نماز پال کو نماز کے درست اوقات کا حساب لگانے اور اپنے ویجیٹ کو اپ ڈیٹ کرنے کے لیے آپ کے مقام کی ضرورت ہے۔"
+          }
+        },
+        "uz" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) aniq namoz vaqtlarini hisoblash va vidjetingizni yangilash uchun joylashuvingizni talab qiladi."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng hYYa Prayer Pal (Source) cần vị trí của bạn để tính toán thời gian cầu nguyện chính xác và cập nhật tiện ích."
+          }
+        },
+        "yo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal nilo ipo rẹ lati ṣe iṣiro awọn akoko adura deede ati ṣe imudojuiwọn ẹrọ ailorukọ rẹ."
+          }
+        },
+        "zh" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) 需要您的位置信息以计算准确的祈祷时间并更新您的小部件。"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "comment" : "Privacy - Location When In Use Usage Description",
+      "localizations" : {
+        "am" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ለአካባቢዎ ትክክለኛ የጸሎት ጊዜዎችን ለማስላት ቦታዎን ይፈልጋል።"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحتاج تطبيق hYYa Prayer Pal (Source) إلى موقعك لحساب أوقات الصلاة بدقة في منطقتك."
+          }
+        },
+        "as" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa প্ৰাৰ্থনা Pal আপোনাৰ অঞ্চলৰ বাবে সঠিক প্ৰাৰ্থনাৰ সময় গণনা কৰিবলৈ আপোনাৰ স্থানৰ প্ৰয়োজন।"
+          }
+        },
+        "az" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source), əraziniz üçün dəqiq namaz vaxtlarını hesablamaq üçün yerinizi tələb edir."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) се нуждае от вашето местоположение, за да изчисли точните времена за молитва за вашия район."
+          }
+        },
+        "bm" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) mago bɛ i sigiyɔrɔ la walasa ka delili waati tigitigiw jate i ka sigida la."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার এলাকার সঠিক নামাজের সময় গণনা করার জন্য hYYa Prayer Pal (Source)-এর আপনার অবস্থান প্রয়োজন।"
+          }
+        },
+        "bs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) treba vašu lokaciju kako bi izračunao tačno vrijeme molitve za vaše područje."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) benötigt Ihren Standort, um die genauen Gebetszeiten für Ihre Region zu berechnen."
+          }
+        },
+        "dv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa ޕްރޭޔަރ ޕާލް ބޭނުންވަނީ ތިމާގެ ސަރަހައްދަށް ނަމާދުކުރާ ވަގުތުތަކުގެ ޞައްޙަ ވަގުތުތައް ހިސާބުކުރުމަށްޓަކައި ތިމާގެ ލޮކޭޝަން އެވެ."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) needs your location to calculate accurate prayer times for your area."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) necesita tu ubicación para calcular los horarios de oración precisos para tu zona."
+          }
+        },
+        "fa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "برنامه‌ی «hYYa Prayer Pal (Source)» برای محاسبه‌ی دقیق اوقات نماز در منطقه‌ی شما، به موقعیت مکانی شما نیاز دارد."
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kailangan ng hYYa Prayer Pal (Source) ang iyong lokasyon upang makalkula ang tumpak na oras ng pagdarasal para sa iyong lugar."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) a besoin de votre localisation pour calculer les heures de prière précises pour votre région."
+          }
+        },
+        "gu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "તમારા વિસ્તાર માટે પ્રાર્થનાના ચોક્કસ સમયની ગણતરી કરવા માટે hYYa પ્રાર્થના પાલને તમારા સ્થાનની જરૂર છે."
+          }
+        },
+        "ha" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Pal na Addu'a yana buƙatar wurin da kake don ƙididdige lokutan addu'o'i daidai ga yankinka."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) זקוק למיקומך כדי לחשב זמני תפילה מדויקים באזורך."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) को आपके क्षेत्र के लिए सटीक प्रार्थना समय की गणना करने के लिए आपके स्थान की आवश्यकता होती है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) membutuhkan lokasi Anda untuk menghitung waktu sholat yang akurat untuk daerah Anda."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ha bisogno della tua posizione per calcolare gli orari di preghiera più precisi per la tua zona."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)は、お住まいの地域の正確な祈りの時間を計算するために、あなたの位置情報が必要です。"
+          }
+        },
+        "kk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) сіздің аймағыңыздағы намаз уақыттарын дәл есептеу үшін сіздің орналасқан жеріңізді қажет етеді."
+          }
+        },
+        "km" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ត្រូវការទីតាំងរបស់អ្នក ដើម្បីគណនាពេលវេលាអធិស្ឋានត្រឹមត្រូវសម្រាប់តំបន់របស់អ្នក។"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source)은 사용자의 위치 정보를 이용하여 해당 지역의 정확한 기도 시간을 계산합니다."
+          }
+        },
+        "ku" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ji bo hesabkirina demên nimêjê yên rast ji bo herêma we hewceyê cîhê we ye."
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "നിങ്ങളുടെ പ്രദേശത്തെ കൃത്യമായ പ്രാർത്ഥന സമയങ്ങൾ കണക്കാക്കാൻ hYYa Prayer Pal (Source)-ന് നിങ്ങളുടെ സ്ഥലം ആവശ്യമാണ്."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तुमच्या परिसरातील प्रार्थनेच्या अचूक वेळा मोजण्यासाठी hYYa Prayer Pal (Source) ला तुमच्या स्थानाची आवश्यकता आहे."
+          }
+        },
+        "mrw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kailangan ng hYYa Prayer Pal (Source) ang iyong lokasyon para makalkula ang eksaktong oras ng pagdarasal para sa iyong lugar."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) memerlukan lokasi anda untuk mengira waktu solat yang tepat untuk kawasan anda."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तपाईंको क्षेत्रको लागि सही प्रार्थना समय गणना गर्न hYYa प्रार्थना पाललाई तपाईंको स्थान चाहिन्छ।"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) heeft uw locatie nodig om nauwkeurige gebedstijden voor uw regio te berekenen."
+          }
+        },
+        "om" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) yeroo kadhannaa sirrii naannoo keessaniif shallaguuf bakka jirtu barbaada."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikacja hYYa Prayer Pal (Source) potrzebuje Twojej lokalizacji, aby obliczyć dokładne godziny modlitwy w Twojej okolicy."
+          }
+        },
+        "prs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) به موقعیت مکانی شما نیاز دارد تا زمان‌های دقیق نماز را برای منطقه شما محاسبه کند."
+          }
+        },
+        "ps" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ستاسو د سیمې لپاره د لمانځه دقیق وختونه محاسبه کولو لپاره ستاسو موقعیت ته اړتیا لري."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplicativo hYYa Prayer Pal (Source) precisa da sua localização para calcular os horários de oração corretos para a sua região."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) are nevoie de locația ta pentru a calcula orele de rugăciune exacte pentru zona ta."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для расчета точного времени молитв в вашем районе hYYa Prayer Pal (Source) необходимо ваше местоположение."
+          }
+        },
+        "rw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umujyanama w’amasengesho ya hYYa akeneye aho uherereye kugira ngo abare igihe cy’amasengesho nyacyo mu gace utuyemo."
+          }
+        },
+        "sd" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa پرائير پال کي توهان جي علائقي لاءِ صحيح نماز جي وقتن جو حساب ڪرڻ لاءِ توهان جي جڳهه جي ضرورت آهي."
+          }
+        },
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබේ ප්‍රදේශය සඳහා නිවැරදි යාඥා වේලාවන් ගණනය කිරීමට hYYa Prayer Pal (Source) හට ඔබගේ ස්ථානය අවශ්‍ය වේ."
+          }
+        },
+        "so" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal waxay u baahan tahay goobtaada si ay u xisaabiso waqtiyada saxda ah ee salaadda ee aaggaaga."
+          }
+        },
+        "sq" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) ka nevojë për vendndodhjen tuaj për të llogaritur kohët e sakta të lutjes për zonën tuaj."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) behöver din plats för att beräkna korrekta bönetider för ditt område."
+          }
+        },
+        "sw" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mpenzi wa Maombi wa hYYa anahitaji eneo lako ili kuhesabu nyakati sahihi za maombi kwa eneo lako."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "உங்கள் பகுதிக்கான துல்லியமான தொழுகை நேரங்களைக் கணக்கிட, hYYa Prayer Pal (Source)-க்கு உங்கள் இருப்பிடம் தேவைப்படுகிறது."
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "మీ ప్రాంతానికి ఖచ్చితమైన ప్రార్థన సమయాలను లెక్కించడానికి hYYa ప్రేయర్ పాల్‌కు మీ లొకేషన్ అవసరం."
+          }
+        },
+        "tg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) барои ҳисоб кардани вақти дақиқи намоз барои минтақаи шумо ба макони шумо ниёз дорад."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "แอป hYYa Prayer Pal (Source) ต้องการข้อมูลตำแหน่งที่ตั้งของคุณเพื่อคำนวณเวลาละหมาดที่ถูกต้องสำหรับพื้นที่ของคุณ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source), bulunduğunuz bölge için doğru namaz vakitlerini hesaplayabilmek için konum bilginize ihtiyaç duyar."
+          }
+        },
+        "ug" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) سىزنىڭ رايونىڭىزدىكى ناماز ۋاقتىنى توغرا ھېسابلاش ئۈچۈن ئورنىڭىزغا ئېھتىياجلىق."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) потребує вашого місцезнаходження, щоб розрахувати точний час молитви для вашого регіону."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa نماز پال کو آپ کے علاقے کے لیے نماز کے درست اوقات کا حساب لگانے کے لیے آپ کے مقام کی ضرورت ہے۔"
+          }
+        },
+        "uz" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) sizning hududingiz uchun aniq namoz vaqtlarini hisoblash uchun sizning joylashuvingizni talab qiladi."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng hYYa Prayer Pal (Source) cần vị trí của bạn để tính toán thời gian cầu nguyện chính xác cho khu vực của bạn."
+          }
+        },
+        "yo" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HYYa Prayer Pal nilo ipo rẹ lati ṣe iṣiro awọn akoko adura deede fun agbegbe rẹ."
+          }
+        },
+        "zh" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hYYa Prayer Pal (Source) 需要您的位置信息来计算您所在地区的准确祈祷时间。"
+          }
+        }
+      }
+    },
+    "NSMotionUsageDescription" : {
+      "comment" : "Privacy - Motion Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hYYa Prayer Pal (Source) uses motion sensors to calibrate the Qibla compass and improve direction accuracy."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

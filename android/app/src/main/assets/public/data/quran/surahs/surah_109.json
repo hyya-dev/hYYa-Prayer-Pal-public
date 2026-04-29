@@ -1,0 +1,99 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "109:1",
+      "verse_number": 1,
+      "text_uthmani": "قُلۡ يَـٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "Say, \"O disbelievers",
+        "fr": "Dis: «O vous les infidèles",
+        "tr": "De ki: \"Ey inkarcılar",
+        "ur": "کہہ دو کہ اے کافرو",
+        "id": "Katakanlah (Muhammad), \"Wahai orang-orang kafir"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "109:2",
+      "verse_number": 2,
+      "text_uthmani": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "I do not worship what you worship",
+        "fr": "Je n'adore pas ce que vous adorez",
+        "tr": "Ben sizin taptıklarınıza tapmam",
+        "ur": "میں اُن کی عبادت نہیں کرتا جن کی عبادت تم کرتے ہو",
+        "id": "aku tidak akan menyembah apa yang kamu sembah"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "109:3",
+      "verse_number": 3,
+      "text_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "Nor are you worshippers of what I worship",
+        "fr": "Et vous n'êtes pas adorateurs de ce que j'adore",
+        "tr": "Benim taptığıma da sizler tapmazsınız",
+        "ur": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی عبادت میں کرتا ہوں",
+        "id": "dan kamu bukan penyembah apa yang aku sembah"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "109:4",
+      "verse_number": 4,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "Nor will I be a worshipper of what you worship",
+        "fr": "Je ne suis pas adorateur de ce que vous adorez",
+        "tr": "Ben de sizin taptığınıza tapacak değilim",
+        "ur": "اور نہ میں اُن کی عبادت کرنے والا ہوں جن کی عبادت تم نے کی ہے",
+        "id": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "109:5",
+      "verse_number": 5,
+      "text_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "Nor will you be worshippers of what I worship",
+        "fr": "Et vous n'êtes pas adorateurs de ce que j'adore",
+        "tr": "Benim taptığıma da sizler tapmıyorsunuz",
+        "ur": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی عبادت میں کرتا ہوں",
+        "id": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "109:6",
+      "verse_number": 6,
+      "text_uthmani": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "chapter_id": 109,
+      "words": [],
+      "translations": {
+        "en": "For you is your religion, and for me is my religion",
+        "fr": "A vous votre religion, et à moi ma religion»",
+        "tr": "Sizin dininiz size, benim dinim banadır",
+        "ur": "تمہارے لیے تمہارا دین ہے اور میرے لیے میرا دین",
+        "id": "Untukmu agamamu, dan untukku agamaku"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 109,
+    "name_arabic": "الكافرون",
+    "name_english": "Al-Kafirun"
+  }
+}

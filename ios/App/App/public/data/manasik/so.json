@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Tallaabada koowaad: Ujeeddo iyo Ihram",
+        "details": "<ul><li>damco inaad cumrato, ka gasho Ixraamka Miqat, oo aad bilowdo Talbiyah.</li><li>Wuxuu ku dheganaa mamnuucidda Ihram, wuxuuna dhammeeyay daahirinta caadada ka hor inta uusan bilaabin caadada.</li></ul>",
+        "evidence": "Quran 2:196 iyo sannadkii laga bilaabay cibaadada laga bilaabo Miqat.",
+        "referenceLabel": "Hagaha Booqashada iyo Wasaaradda Cumrada"
+      },
+      {
+        "title": "Tallaabada Labaad: Gelida Al-Masjid Al-Haram",
+        "details": "<ul><li>Si deggan u gal, adigoo duco iyo is-hoosaysiin leh.</li><li>Ka bilow dhinaca fududeeya dhaqdhaqaaqa nabdoon ee dhex mara dadka, ka dibna u dhaqaaq dhanka aagga Tawaf.</li></ul>",
+        "evidence": "Tilmaamaha guud ee nebiyada ee ku saabsan akhlaaqda masaajidda iyo fududeynta cibaadada.",
+        "referenceLabel": "Xarunta Wacyigelinta ee Wasaaradda"
+      },
+      {
+        "title": "Tallaabada saddexaad: Tawaf (toddobo wareeg)",
+        "details": "<ul><li>Todoba jeer ku dhex wareeg Kaabah, Tawaf ka bilaabaya xariiqda Black Stone.</li><li>Xasuusta Ilaahay sii wad oo iska ilaali inaad waxyeello u geysato dadka kale marka ay dadku socdaan.</li><li class=\"pp-ios-only\"> Talo: Isticmaal abka Apple Watch si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li><li class=\"pp-android-only\"> Talo: Isticmaal abka Wear OS ee saacaddaada si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 iyo sharraxaadda la diiwaangeliyey ee ku saabsan wareegga Nabiga.",
+        "referenceLabel": "Tilmaamaha safarka Umrah ee Nosuk"
+      },
+      {
+        "title": "Tallaabada Afaraad: Salaadda ka dib Tawaf",
+        "details": "<ul><li>Tukado laba rakcadood ka dib markaad dhammayso Tawaf haddii ay suurtogal tahay adigoon waxyeello u geysanayn jameecada, ka dibna si habaysan u soco si aad u cabto biyaha Zamzam.</li></ul>",
+        "evidence": "Dhaqan si fiican loo aasaasay oo ku jira axaadiista saxda ah ee ku saabsan salaadda ka dib Tawaf.",
+        "referenceLabel": "Hagaha Booqashada iyo Wasaaradda Cumrada"
+      },
+      {
+        "title": "Tallaabada shanaad: Saie inta u dhaxaysa Safa iyo Marwah",
+        "details": "<ul><li>Samee Saie toddobo wareeg oo u dhexeeya Safa iyo Marwah, laga bilaabo Safa ilaa Marwah, adigoo duco iyo xasuusin samaynaya.</li><li class=\"pp-ios-only\"> Talo: Isticmaal barnaamijka Apple Watch si uu kaaga caawiyo inaad tirto orodka Saie.</li><li class=\"pp-android-only\"> Talo: Isticmaal abka Wear OS ee saacaddaada si uu kaaga caawiyo inaad tirto orodka Saie.</li></ul>",
+        "evidence": "Quran 2:158 iyo sheekooyinka saxda ah sida uu rasuulku u amray.",
+        "referenceLabel": "Tilmaamaha safarka Umrah ee Nosuk"
+      },
+      {
+        "title": "Tallaabada lixaad: Timo jarid ama xiirashada",
+        "details": "<ul><li>Raggu waxay xiiraan ama jaraan timaha, dumarkuna waxay jarjaraan qayb yar oo ka mid ah.</li><li>Taasna, Cumradu way dhammaataa, Ihram wuu dhammaadaa.</li></ul>",
+        "evidence": "Quran 48:27 iyo sheekooyinka dhabta ah ee la xiriira xiirashada iyo gaabinta.",
+        "referenceLabel": "Hagaha Booqashada iyo Wasaaradda Cumrada"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Tallaabada koowaad: Ihram iyo ujeeddada Xajka",
+        "details": "<ul><li>Ku gal ixraamka Miqat, u diyaar garow nooca xajkaaga, ka dibna u gudub Talbiyah.</li><li>Ku dhaqan qawaaniinta Ihram ilaa aad ka gaarto meelaha laga baxo Ihram.</li></ul>",
+        "evidence": "Quran 2:196 iyo caadooyinka nebiyada ee la isku raacay ee loogu talagalay bilowga Xajka.",
+        "referenceLabel": "Tilmaamaha Wasaaradda Xajka"
+      },
+      {
+        "title": "Tallaabada Labaad: Yawm at-Tarwiyah ee Mina",
+        "details": "<ul><li>Maalinta siddeedaad ee Dhul Hijjah, u gudub Mina, oo tukada salaadaha wakhtigooda la ballansaday, oo u diyaar garow ruuxi ah iyo mid farsamo ahaan loogu talagalay xuska Arafah.</li></ul>",
+        "evidence": "Taxane la diiwaangeliyey oo ku saabsan caadooyinka safarka sagootinta.",
+        "referenceLabel": "Safarka Xajka ee Nosuk"
+      },
+      {
+        "title": "Tallaabada saddexaad: Istaagista Arafah",
+        "details": "<ul><li>Ku qaado maalinta sagaalaad ee Dhul Hijjah Arafah ducada, xuska Ilaahay, iyo toobad keen.</li><li>Kani waa tiirka muhiimka ah ee Xajka.</li></ul>",
+        "evidence": "Hadith: Xajku waa Arafah.",
+        "referenceLabel": "Tilmaamaha Wasaaradda Xajka"
+      },
+      {
+        "title": "Tallaabada afraad: Muzdalifah iyo ururinta dhagaxyada",
+        "details": "<ul><li>Marka qorraxdu dhacdo, tag Muzdalifah, ku tukada Maghrib iyo Cisha, halkaas ku hoya, oo soo ururi dhagaxyo lagu tuuro Mina.</li></ul>",
+        "evidence": "Taxanaha nebiyada ka dib Arafah ee ku jira sheekooyinka saxda ah.",
+        "referenceLabel": "Safarka Xajka ee Nosuk"
+      },
+      {
+        "title": "Tallaabada Shanaad: Rami, Allabariga, iyo Gabayga",
+        "details": "<ul><li>Maalinta Ciidda, marka aad tuurayso dhagaxa Jamarat al-Aqabah, samee allabaryada meesha loo baahdo, ka dibna xiir ama timahaaga jar si aad u hesho tahliilkii ugu horreeyay.</li></ul>",
+        "evidence": "Quran 22:36-37 iyo taxanaha axaadiista saxda ah.",
+        "referenceLabel": "Tilmaamaha Wasaaradda Xajka"
+      },
+      {
+        "title": "Tallaabada lixaad: Tawaf al-Ifadah (toddobo wareeg)",
+        "details": "<ul><li>Ku noqo Makka si aad u sameyso Tawaf al-Ifadah, u dhammaystirto toddoba wareeg, oo aad u ilaaliso dhaqdhaqaaq ammaan ah oo nidaamsan waqtiyada mashquulka ah.</li><li class=\"pp-ios-only\"> Talo: Isticmaal abka Apple Watch si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li><li class=\"pp-android-only\"> Talo: Isticmaal abka Wear OS ee saacaddaada si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 iyo sharraxaadda la diiwaangeliyey ee ku saabsan wareegga waajibka ah.",
+        "referenceLabel": "Safarka Xajka ee Nosuk"
+      },
+      {
+        "title": "Tallaabada 7: U sheeg qofka loo baahan yahay",
+        "details": "<ul><li>Samee Saie marka nooca Xajkaaga uu u baahdo, adigoo ilaalinaya taxanaha iyo tirada toddobada wareeg ee u dhexeeya Safa iyo Marwah.</li><li class=\"pp-ios-only\"> Talo: Isticmaal barnaamijka Apple Watch si uu kaaga caawiyo inaad tirto orodka Saie.</li><li class=\"pp-android-only\"> Talo: Isticmaal abka Wear OS ee saacaddaada si uu kaaga caawiyo inaad tirto orodka Saie.</li></ul>",
+        "evidence": "Quran 2:158 iyo ku dhaqanka shareecada ee ku saabsan cibaadada Xajka.",
+        "referenceLabel": "Tilmaamaha Wasaaradda Xajka"
+      },
+      {
+        "title": "Tallaabada 8: Ayyam at-Tashriq iyo Tawaf al-Wada&#39;",
+        "details": "<ul><li>Joogista Mina inta lagu jiro Tashriiq si loo sameeyo caadooyinka tuurista Jamarat, ka dibna dhammaystirka Tawaf al-Wada&#39; ka hor inta aan laga bixin Makka, marka laga reebo kuwa laga dhaafay.</li><li class=\"pp-ios-only\"> Talo: Isticmaal abka Apple Watch si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li><li class=\"pp-android-only\"> Talo: Isticmaal abka Wear OS ee saacaddaada si uu kaaga caawiyo inaad tirto wareegyadaada Tawaf.</li></ul>",
+        "evidence": "Caadooyinka la aasaasay waxay ku salaysan yihiin hanuunka Quran iyo ku dhaqanka saxda ah ee Sunnah Nabiga.",
+        "referenceLabel": "Safarka Xajka ee Nosuk"
+      }
+    ]
+  }
+}

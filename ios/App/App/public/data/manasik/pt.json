@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Primeiro passo: Intenção e Ihram",
+        "details": "<ul><li>Pretende realizar a Umrah, entrar no Ihram em Miqat e começar Talbiyah.</li><li>Ele respeitou as proibições Ihram e completou a purificação ritual antes de iniciar o ritual.</li></ul>",
+        "evidence": "Quran 2:196 e o ano de início dos rituais a partir de Miqat.",
+        "referenceLabel": "Ministério da Umrah e Guia de Visitas"
+      },
+      {
+        "title": "Passo Dois: Entrando em Al-Masjid Al-Haram",
+        "details": "<ul><li>Entre em silêncio, com oração e humildade.</li><li>Comece pelo lado que facilita a movimentação segura em meio à multidão e siga em direção à área Tawaf.</li></ul>",
+        "evidence": "Diretrizes proféticas gerais sobre etiqueta nas mesquitas e facilitação do culto.",
+        "referenceLabel": "Centro de Conscientização Ministerial"
+      },
+      {
+        "title": "Passo três: Tawaf (sete voltas)",
+        "details": "<ul><li>Realize Tawaf ao redor Kaabah sete vezes, começando na linha Black Stone.</li><li>Lembre-se sempre de Deus e evite prejudicar os outros em meio à multidão.</li><li class=\"pp-ios-only\"> Dica: Use o aplicativo Apple Watch para ajudar a contar suas voltas Tawaf.</li><li class=\"pp-android-only\"> Dica: Use o aplicativo Wear OS no seu relógio para ajudar a contar suas voltas Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 e as descrições documentadas da circunambulação do Profeta.",
+        "referenceLabel": "Orientações para a viagem de Umrah em Nosuk"
+      },
+      {
+        "title": "Quarto passo: Oração após Tawaf",
+        "details": "<ul><li>Após completar Tawaf, se possível sem prejudicar a congregação, reze dois rak&#39;ahs e, em seguida, dirija-se de forma organizada para beber a água Zamzam.</li></ul>",
+        "evidence": "Uma prática bem estabelecida em hadiths autênticos a respeito da oração após Tawaf.",
+        "referenceLabel": "Ministério da Umrah e Guia de Visitas"
+      },
+      {
+        "title": "Etapa cinco: Saie entre Safa e Marwah",
+        "details": "<ul><li>Realize Saie por sete voltas entre Safa e Marwah, começando em Safa e terminando em Marwah, com súplicas e lembranças.</li><li class=\"pp-ios-only\"> Dica: Use o aplicativo Apple Watch para ajudar a contar as corridas Saie.</li><li class=\"pp-android-only\"> Dica: Use o aplicativo Wear OS no seu relógio para ajudar a contar as corridas Saie.</li></ul>",
+        "evidence": "Quran 2:158 e as narrações autênticas de acordo com a ordem do mensageiro.",
+        "referenceLabel": "Orientações para a viagem de Umrah em Nosuk"
+      },
+      {
+        "title": "Sexto passo: Corte de cabelo ou barba feita",
+        "details": "<ul><li>Os homens raspam ou cortam o cabelo, e as mulheres apararam apenas uma pequena parte.</li><li>E com isso, a Umrah termina e Ihram também.</li></ul>",
+        "evidence": "Quran 48:27 e as narrações autênticas relacionadas ao barbear e ao corte de cabelo.",
+        "referenceLabel": "Ministério da Umrah e Guia de Visitas"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Primeiro passo: Ihram e a intenção para o Hajj",
+        "details": "<ul><li>Entre em ihram no Miqat, defina sua intenção para o tipo de Hajj que irá realizar e, em seguida, prossiga com Talbiyah.</li><li>Respeite as regras Ihram até chegar às saídas Ihram.</li></ul>",
+        "evidence": "Quran 2:196 e os rituais proféticos acordados para o início do Hajj.",
+        "referenceLabel": "Diretrizes do Ministério do Hajj"
+      },
+      {
+        "title": "Passo Dois: Yawm at-Tarwiyah em Mina",
+        "details": "<ul><li>No oitavo dia de Dhul Hijjah, dirija-se a Mina, realize as orações nos horários designados e prepare-se espiritual e logisticamente para a comemoração Arafah.</li></ul>",
+        "evidence": "Uma sequência documentada de rituais na jornada de despedida.",
+        "referenceLabel": "Viagem de peregrinação a Nosuk"
+      },
+      {
+        "title": "Passo três: Parado em Arafah",
+        "details": "<ul><li>Passe o nono dia de Dhul Hijjah em Arafah, orando, lembrando-se de Deus e se arrependendo.</li><li>Este é o pilar essencial do Hajj.</li></ul>",
+        "evidence": "Hadith: Hajj é Arafah.",
+        "referenceLabel": "Diretrizes do Ministério do Hajj"
+      },
+      {
+        "title": "Passo quatro: Muzdalifah e coleta de pedras",
+        "details": "<ul><li>Após o pôr do sol, vá para Muzdalifah, ore Maghrib e Isha, passe a noite lá e recolha pedras para atirar em Mina.</li></ul>",
+        "evidence": "A sequência profética após Arafah, segundo relatos autênticos.",
+        "referenceLabel": "Viagem de peregrinação a Nosuk"
+      },
+      {
+        "title": "Quinta etapa: Rami, sacrifício e poesia",
+        "details": "<ul><li>No dia do Eid, ao lançar Jamarat al-Aqabah, realize o sacrifício necessário e, em seguida, raspe ou corte o cabelo para o primeiro tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 e a sequência de hadiths autênticos.",
+        "referenceLabel": "Diretrizes do Ministério do Hajj"
+      },
+      {
+        "title": "Etapa seis: Tawaf al-Ifadah (sete rodadas)",
+        "details": "<ul><li>Retorne a Meca para realizar Tawaf al-Ifadah, complete as sete voltas e mantenha uma movimentação segura e ordenada durante os horários de pico.</li><li class=\"pp-ios-only\"> Dica: Use o aplicativo Apple Watch para ajudar a contar suas voltas Tawaf.</li><li class=\"pp-android-only\"> Dica: Use o aplicativo Wear OS no seu relógio para ajudar a contar suas voltas Tawaf.</li></ul>",
+        "evidence": "Quran 22:29 e as descrições documentadas da circunambulação obrigatória.",
+        "referenceLabel": "Viagem de peregrinação a Nosuk"
+      },
+      {
+        "title": "Passo 7: Informe à pessoa que precisa de ajuda.",
+        "details": "<ul><li>Realize Saie quando o seu tipo de Hajj o exigir, mantendo a sequência e o número de sete voltas entre Safa e Marwah.</li><li class=\"pp-ios-only\"> Dica: Use o aplicativo Apple Watch para ajudar a contar as corridas Saie.</li><li class=\"pp-android-only\"> Dica: Use o aplicativo Wear OS no seu relógio para ajudar a contar as corridas Saie.</li></ul>",
+        "evidence": "Quran 2:158 e sua aplicação jurisprudencial nos rituais do Hajj.",
+        "referenceLabel": "Diretrizes do Ministério do Hajj"
+      },
+      {
+        "title": "Etapa 8: Ayyam at-Tashriq e Tawaf al-Wada&#39;",
+        "details": "<ul><li>Permanecer em Mina durante o Tashreeq para realizar os rituais de lançamento Jamarat e, em seguida, completar Tawaf al-Wada&#39; antes de deixar Makkah, exceto para aqueles que estão isentos.</li><li class=\"pp-ios-only\"> Dica: Use o aplicativo Apple Watch para ajudar a contar suas voltas Tawaf.</li><li class=\"pp-android-only\"> Dica: Use o aplicativo Wear OS no seu relógio para ajudar a contar suas voltas Tawaf.</li></ul>",
+        "evidence": "Os rituais estabelecidos são baseados na orientação Quran e na prática correta da Sunnah Profética.",
+        "referenceLabel": "Viagem de peregrinação a Nosuk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-04-23T06:29:36.976Z",
+  "total": 63,
+  "mapping": {
+    "ar": {
+      "id": 0,
+      "language": "Arabic",
+      "translationName": "Arabic (Uthmani text)",
+      "author": "N/A",
+      "source": "local"
+    },
+    "sq": {
+      "id": 88,
+      "language": "Albanian",
+      "translationName": "Hasan Efendi Nahi",
+      "author": "Hasan Efendi Nahi",
+      "source": "quran.com",
+      "qdcName": "Hasan Efendi Nahi",
+      "qdcAuthor": "Hasan Efendi Nahi"
+    },
+    "ber": {
+      "id": 236,
+      "language": "Amazigh",
+      "translationName": "Ramdane At Mansour",
+      "author": "Ramdane At Mansour",
+      "source": "quran.com",
+      "qdcName": "Ramdane At Mansour",
+      "qdcAuthor": "Ramdane At Mansour"
+    },
+    "am": {
+      "id": 87,
+      "language": "Amharic",
+      "translationName": "Muhammad Sadiq & Muhammad Sani Habib",
+      "author": "Muhammad Sadiq & Muhammad Sani Habib",
+      "source": "quran.com",
+      "qdcName": "Sadiq and Sani",
+      "qdcAuthor": "Sadiq and Sani"
+    },
+    "as": {
+      "id": 120,
+      "language": "Assamese",
+      "translationName": "Shaykh Rafeequl Islam Habibur-Rahman",
+      "author": "Shaykh Rafeequl Islam Habibur-Rahman",
+      "source": "quran.com",
+      "qdcName": "Shaykh Rafeequl Islam Habibur-Rahman",
+      "qdcAuthor": "Shaykh Rafeequl Islam Habibur-Rahman"
+    },
+    "az": {
+      "id": 75,
+      "language": "Azeri",
+      "translationName": "Alikhan Musayev",
+      "author": "Alikhan Musayev",
+      "source": "quran.com",
+      "qdcName": "Alikhan Musayev",
+      "qdcAuthor": "Alikhan Musayev"
+    },
+    "bm": {
+      "id": 796,
+      "language": "Bambara",
+      "translationName": "Baba Mamady Jani",
+      "author": "Baba Mamady Jani",
+      "source": "quran.com",
+      "qdcName": "Baba Mamady Jani",
+      "qdcAuthor": "Baba Mamady Jani"
+    },
+    "bn": {
+      "id": 213,
+      "language": "Bengali",
+      "translationName": "Dr. Abu Bakr Muhammad Zakaria",
+      "author": "Dr. Abu Bakr Muhammad Zakaria",
+      "source": "quran.com",
+      "qdcName": "Dr. Abu Bakr Muhammad Zakaria",
+      "qdcAuthor": "Dr. Abu Bakr Muhammad Zakaria"
+    },
+    "bs": {
+      "id": 126,
+      "language": "Bosnian",
+      "translationName": "Besim Korkut",
+      "author": "Besim Korkut",
+      "source": "quran.com",
+      "qdcName": "Besim Korkut",
+      "qdcAuthor": "Besim Korkut"
+    },
+    "bg": {
+      "id": 237,
+      "language": "Bulgarian",
+      "translationName": "Tzvetan Theophanov",
+      "author": "Tzvetan Theophanov",
+      "source": "quran.com",
+      "qdcName": "Tzvetan Theophanov",
+      "qdcAuthor": "Tzvetan Theophanov"
+    },
+    "km": {
+      "id": 128,
+      "language": "Central Khmer",
+      "translationName": "Cambodian Muslim Community Development",
+      "author": "Cambodian Muslim Community Development",
+      "source": "quran.com",
+      "qdcName": "Cambodian Muslim Community Development",
+      "qdcAuthor": "Cambodian Muslim Community Development"
+    },
+    "ce": {
+      "id": 106,
+      "language": "Chechen",
+      "translationName": "Magomed Magomedov",
+      "author": "Magomed Magomedov",
+      "source": "quran.com",
+      "qdcName": "Magomed Magomedov",
+      "qdcAuthor": "Magomed Magomedov"
+    },
+    "zh": {
+      "id": 109,
+      "language": "Chinese",
+      "translationName": "Muhammad Makin",
+      "author": "Muhammad Makin",
+      "source": "quran.com",
+      "qdcName": "Muhammad Makin",
+      "qdcAuthor": "Muhammad Makin"
+    },
+    "prs": {
+      "id": 785,
+      "language": "Dari",
+      "translationName": "Mawlawi Muhammad Anwar Badakhshani",
+      "author": "Mawlawi Muhammad Anwar Badakhshani",
+      "source": "quran.com",
+      "qdcName": "Mawlawi Muhammad Anwar Badkhashani",
+      "qdcAuthor": "Mawlawi Muhammad Anwar Badkhashani"
+    },
+    "dv": {
+      "id": 840,
+      "language": "Divehi",
+      "translationName": "Office of the President of Maldives",
+      "author": "Office of the President of Maldives",
+      "source": "quran.com",
+      "qdcName": "Abu Bakr Ibrahim Ali (Bakurube)",
+      "qdcAuthor": "Abu Bakr Ibrahim Ali"
+    },
+    "nl": {
+      "id": 144,
+      "language": "Dutch",
+      "translationName": "Sofian S. Siregar",
+      "author": "Sofian S. Siregar",
+      "source": "quran.com",
+      "qdcName": "Sofian S. Siregar",
+      "qdcAuthor": "Sofian S. Siregar"
+    },
+    "en": {
+      "id": 149,
+      "language": "English",
+      "translationName": "Fadel Soliman (Bridges' Translation)",
+      "author": "Fadel Soliman",
+      "source": "quran.com",
+      "qdcName": "Fadel Soliman, Bridges’ translation",
+      "qdcAuthor": "Fadel Soliman"
+    },
+    "fr": {
+      "id": 779,
+      "language": "French",
+      "translationName": "Rashid Maash",
+      "author": "Rashid Maash",
+      "source": "quran.com",
+      "qdcName": "Rashid Maash",
+      "qdcAuthor": "Rashid Maash"
+    },
+    "lg": {
+      "id": 232,
+      "language": "Ganda",
+      "translationName": "African Development Foundation",
+      "author": "African Development Foundation",
+      "source": "quran.com",
+      "qdcName": "African Development Foundation",
+      "qdcAuthor": "African Development Foundation"
+    },
+    "de": {
+      "id": 27,
+      "language": "German",
+      "translationName": "Frank Bubenheim and Nadeem (Elyas)",
+      "author": "Frank Bubenheim and Nadeem (Elyas)",
+      "source": "quran.com",
+      "qdcName": "Frank Bubenheim and Nadeem",
+      "qdcAuthor": "Frank Bubenheim and Nadeem"
+    },
+    "gu": {
+      "id": 225,
+      "language": "Gujarati",
+      "translationName": "Rabila Al-Umry",
+      "author": "Rabila Al-Umry",
+      "source": "quran.com",
+      "qdcName": "Rabila Al-Umry",
+      "qdcAuthor": "Rabila Al-Umry"
+    },
+    "ha": {
+      "id": 32,
+      "language": "Hausa",
+      "translationName": "Abubakar Mahmoud Gumi",
+      "author": "Abubakar Mahmoud Gumi",
+      "source": "quran.com",
+      "qdcName": "Hausa Translation(Abubakar Gumi)",
+      "qdcAuthor": "Abubakar Mahmoud Gumi"
+    },
+    "he": {
+      "id": 233,
+      "language": "Hebrew",
+      "translationName": "Dar Al-Salam Center",
+      "author": "Dar Al-Salam Center",
+      "source": "quran.com",
+      "qdcName": "Dar Al-Salam Center",
+      "qdcAuthor": "Dar Al-Salam Center"
+    },
+    "hi": {
+      "id": 122,
+      "language": "Hindi",
+      "translationName": "Maulana Azizul Haque al-Umari",
+      "author": "Maulana Azizul Haque al-Umari",
+      "source": "quran.com",
+      "qdcName": "Maulana Azizul Haque al-Umari",
+      "qdcAuthor": "Maulana Azizul Haque al-Umari"
+    },
+    "id": {
+      "id": 141,
+      "language": "Indonesian",
+      "translationName": "The Sabiq Company",
+      "author": "The Sabiq Company",
+      "source": "quran.com",
+      "qdcName": "The Sabiq Company",
+      "qdcAuthor": "The Sabiq company"
+    },
+    "it": {
+      "id": 153,
+      "language": "Italian",
+      "translationName": "Hamza Roberto Piccardo",
+      "author": "Hamza Roberto Piccardo",
+      "source": "quran.com",
+      "qdcName": "Hamza Roberto Piccardo",
+      "qdcAuthor": "Hamza Roberto Piccardo"
+    },
+    "ja": {
+      "id": 218,
+      "language": "Japanese",
+      "translationName": "Saeed Sato",
+      "author": "Saeed Sato",
+      "source": "quran.com",
+      "qdcName": "Saeed Sato",
+      "qdcAuthor": "Saeed Sato"
+    },
+    "kn": {
+      "id": 771,
+      "language": "Kannada",
+      "translationName": "Muhammad Hamza Batur",
+      "author": "Muhammad Hamza Batur",
+      "source": "quran.com",
+      "qdcName": "Kannada Translation",
+      "qdcAuthor": "Kannada Translation"
+    },
+    "kk": {
+      "id": 222,
+      "language": "Kazakh",
+      "translationName": "Khalifa Altay",
+      "author": "Khalifa Altay",
+      "source": "quran.com",
+      "qdcName": "Khalifa Altay",
+      "qdcAuthor": "Khalifa Altay"
+    },
+    "rw": {
+      "id": 774,
+      "language": "Kinyarwanda",
+      "translationName": "Rwanda Muslims Association team",
+      "author": "Rwanda Muslims Association team",
+      "source": "quran.com",
+      "qdcName": "The Rwanda Muslims Association team",
+      "qdcAuthor": "The Rwanda Muslims Association team"
+    },
+    "ko": {
+      "id": 219,
+      "language": "Korean",
+      "translationName": "Hamed Choi",
+      "author": "Hamed Choi",
+      "source": "quran.com",
+      "qdcName": "Hamed Choi",
+      "qdcAuthor": "Hamed Choi"
+    },
+    "ku": {
+      "id": 143,
+      "language": "Kurdish",
+      "translationName": "Muhammad Saleh Bamoki",
+      "author": "Muhammad Saleh Bamoki",
+      "source": "quran.com",
+      "qdcName": "Muhammad Saleh Bamoki",
+      "qdcAuthor": "Muhammad Saleh Bamoki"
+    },
+    "ms": {
+      "id": 39,
+      "language": "Malay",
+      "translationName": "Abdullah Muhammad Basmeih",
+      "author": "Abdullah Muhammad Basmeih",
+      "source": "quran.com",
+      "qdcName": "Abdullah Muhammad Basmeih",
+      "qdcAuthor": "Abdullah Muhammad Basmeih"
+    },
+    "ml": {
+      "id": 224,
+      "language": "Malayalam",
+      "translationName": "Abdul-Hamid Haidar & Kanhi Muhammad",
+      "author": "Abdul-Hamid Haidar & Kanhi Muhammad",
+      "source": "quran.com",
+      "qdcName": "Abdul-Hamid Haidar & Kanhi Muhammad",
+      "qdcAuthor": "Abdul-Hamid Haidar & Kanhi Muhammad"
+    },
+    "mrw": {
+      "id": 38,
+      "language": "Maranao",
+      "translationName": "Shaikh Abdulaziz Gurualim Saromantang",
+      "author": "Shaikh Abdulaziz Gurualim Saromantang",
+      "source": "quran.com",
+      "qdcName": "Maranao",
+      "qdcAuthor": "Maranao"
+    },
+    "mr": {
+      "id": 226,
+      "language": "Marathi",
+      "translationName": "Muhammad Shafi'i Ansari",
+      "author": "Muhammad Shafi'i Ansari",
+      "source": "quran.com",
+      "qdcName": "Muhammad Shafi’i Ansari",
+      "qdcAuthor": "Muhammad Shafi’i Ansari"
+    },
+    "ne": {
+      "id": 108,
+      "language": "Nepali",
+      "translationName": "Ahl Al-Hadith Central Society of Nepal",
+      "author": "Ahl Al-Hadith Central Society of Nepal",
+      "source": "quran.com",
+      "qdcName": "Ahl Al-Hadith Central Society of Nepal",
+      "qdcAuthor": "Ahl Al-Hadith Central Society of Nepal"
+    },
+    "om": {
+      "id": 111,
+      "language": "Oromo",
+      "translationName": "Ghali Apapur Apaghuna",
+      "author": "Ghali Apapur Apaghuna",
+      "source": "quran.com",
+      "qdcName": "Ghali Apapur Apaghuna",
+      "qdcAuthor": "Ghali Apapur Apaghuna"
+    },
+    "ps": {
+      "id": 118,
+      "language": "Pashto",
+      "translationName": "Zakaria Abulsalam",
+      "author": "Zakaria Abulsalam",
+      "source": "quran.com",
+      "qdcName": "Zakaria Abulsalam",
+      "qdcAuthor": "Zakaria Abulsalam"
+    },
+    "fa": {
+      "id": 135,
+      "language": "Persian",
+      "translationName": "Rowwad Translation Center",
+      "author": "Rowwad Translation Center",
+      "source": "quran.com (manual override)"
+    },
+    "pl": {
+      "id": 42,
+      "language": "Polish",
+      "translationName": "Jozef Bielawski",
+      "author": "Jozef Bielawski",
+      "source": "quran.com",
+      "qdcName": "Józef Bielawski",
+      "qdcAuthor": "Józef Bielawski"
+    },
+    "pt": {
+      "id": 103,
+      "language": "Portuguese",
+      "translationName": "Helmi Nasr",
+      "author": "Helmi Nasr",
+      "source": "quran.com",
+      "qdcName": "Helmi Nasr",
+      "qdcAuthor": "Helmi Nasr"
+    },
+    "ro": {
+      "id": 44,
+      "language": "Romanian",
+      "translationName": "George Grigore",
+      "author": "George Grigore",
+      "source": "quran.com",
+      "qdcName": "Grigore",
+      "qdcAuthor": "George Grigore"
+    },
+    "ru": {
+      "id": 45,
+      "language": "Russian",
+      "translationName": "Elmir Kuliev",
+      "author": "Elmir Kuliev",
+      "source": "quran.com",
+      "qdcName": "Russian Translation ( Elmir Kuliev )",
+      "qdcAuthor": "Elmir Kuliev"
+    },
+    "sd": {
+      "id": 238,
+      "language": "Sindhi",
+      "translationName": "Taj Mehmood Amroti",
+      "author": "Taj Mehmood Amroti",
+      "source": "quran.com",
+      "qdcName": "Taj Mehmood Amroti",
+      "qdcAuthor": "Taj Mehmood Amroti"
+    },
+    "si": {
+      "id": 228,
+      "language": "Sinhala",
+      "translationName": "Ruwwad Center (Translation Pioneers Center)",
+      "author": "Translation Pioneers Center",
+      "source": "quran.com",
+      "qdcName": "Ruwwad Center",
+      "qdcAuthor": "Translation Pioneers Center"
+    },
+    "so": {
+      "id": 46,
+      "language": "Somali",
+      "translationName": "Mahmud Muhammad Abduh",
+      "author": "Mahmud Muhammad Abduh",
+      "source": "quran.com",
+      "qdcName": "Mahmud Muhammad Abduh",
+      "qdcAuthor": "Mahmud Muhammad Abduh"
+    },
+    "es": {
+      "id": 83,
+      "language": "Spanish",
+      "translationName": "Sheikh Isa Garcia",
+      "author": "Sheikh Isa Garcia",
+      "source": "quran.com",
+      "qdcName": "Sheikh Isa Garcia",
+      "qdcAuthor": "Sheikh Isa Garcia"
+    },
+    "sw": {
+      "id": 49,
+      "language": "Swahili",
+      "translationName": "Ali Muhsin Al-Barwani",
+      "author": "Ali Muhsin Al-Barwani",
+      "source": "quran.com",
+      "qdcName": "Ali Muhsin Al-Barwani",
+      "qdcAuthor": "Ali Muhsin Al-Barwani"
+    },
+    "sv": {
+      "id": 48,
+      "language": "Swedish",
+      "translationName": "Knut Bernstrom",
+      "author": "Knut Bernstrom",
+      "source": "quran.com",
+      "qdcName": "Knut Bernström",
+      "qdcAuthor": "Knut Bernström"
+    },
+    "tl": {
+      "id": 211,
+      "language": "Tagalog",
+      "translationName": "Dar Al-Salam Center",
+      "author": "Dar Al-Salam Center",
+      "source": "quran.com",
+      "qdcName": "Dar Al-Salam Center",
+      "qdcAuthor": "Dar Al-Salam Center"
+    },
+    "tg": {
+      "id": 139,
+      "language": "Tajik",
+      "translationName": "Khawaja Mirof & Khawaja Mir",
+      "author": "Khawaja Mirof & Khawaja Mir",
+      "source": "quran.com",
+      "qdcName": "Khawaja Mirof & Khawaja Mir",
+      "qdcAuthor": "Khawaja Mirof & Khawaja Mir"
+    },
+    "ta": {
+      "id": 229,
+      "language": "Tamil",
+      "translationName": "Sheikh Omar Sharif bin Abdul Salam",
+      "author": "Sheikh Omar Sharif bin Abdul Salam",
+      "source": "quran.com",
+      "qdcName": "Sheikh Omar Sharif bin Abdul Salam",
+      "qdcAuthor": "Sheikh Omar Sharif bin Abdul Salam"
+    },
+    "te": {
+      "id": 227,
+      "language": "Telugu",
+      "translationName": "Maulana Abder-Rahim ibn Muhammad",
+      "author": "Maulana Abder-Rahim ibn Muhammad",
+      "source": "quran.com",
+      "qdcName": "Maulana Abder-Rahim ibn Muhammad",
+      "qdcAuthor": "Maulana Abder-Rahim ibn Muhammad"
+    },
+    "th": {
+      "id": 230,
+      "language": "Thai",
+      "translationName": "Society of Institutes and Universities",
+      "author": "Society of Institutes and Universities",
+      "source": "quran.com",
+      "qdcName": "Society of Institutes and Universities",
+      "qdcAuthor": "Society of Institutes and Universities"
+    },
+    "tr": {
+      "id": 52,
+      "language": "Turkish",
+      "translationName": "Elmalılı Hamdi Yazır",
+      "author": "Elmalılı Hamdi Yazır",
+      "source": "quran.com (manual override)"
+    },
+    "ug": {
+      "id": 76,
+      "language": "Uyghur",
+      "translationName": "Muhammad Saleh",
+      "author": "Muhammad Saleh",
+      "source": "quran.com",
+      "qdcName": "Muhammad Saleh",
+      "qdcAuthor": "Muhammad Saleh"
+    },
+    "uk": {
+      "id": 217,
+      "language": "Ukrainian",
+      "translationName": "Dr. Mikhailo Yakubovych",
+      "author": "Dr. Mikhailo Yakubovych",
+      "source": "quran.com",
+      "qdcName": "Dr. Mikhailo Yaqubovic",
+      "qdcAuthor": "Dr. Mikhailo Yaqubovic"
+    },
+    "ur": {
+      "id": 234,
+      "language": "Urdu",
+      "translationName": "Fatah Muhammad Jalandhari",
+      "author": "Fatah Muhammad Jalandhari",
+      "source": "quran.com",
+      "qdcName": "Fatah Muhammad Jalandhari",
+      "qdcAuthor": "Fatah Muhammad Jalandhari"
+    },
+    "uz": {
+      "id": 127,
+      "language": "Uzbek",
+      "translationName": "Muhammad Sodik Muhammad Yusuf",
+      "author": "Muhammad Sodik Muhammad Yusuf",
+      "source": "quran.com",
+      "qdcName": "Muhammad Sodik Muhammad Yusuf",
+      "qdcAuthor": "Muhammad Sodik Muhammad Yusuf"
+    },
+    "vi": {
+      "id": 221,
+      "language": "Vietnamese",
+      "translationName": "Hasan Abdul-Karim",
+      "author": "Hasan Abdul-Karim",
+      "source": "quran.com",
+      "qdcName": "Hasan Abdul-Karim",
+      "qdcAuthor": "Hasan Abdul-Karim"
+    },
+    "yau": {
+      "id": 798,
+      "language": "Yau/Yuw",
+      "translationName": "Abdul Hamid Silika",
+      "author": "Abdul Hamid Silika",
+      "source": "quran.com",
+      "qdcName": "Abdul Hamid Silika",
+      "qdcAuthor": "Abdul Hamid Silika"
+    },
+    "yo": {
+      "id": 125,
+      "language": "Yoruba",
+      "translationName": "Shaykh Abu Rahimah Mikael Aykyuni",
+      "author": "Shaykh Abu Rahimah Mikael Aykyuni",
+      "source": "quran.com",
+      "qdcName": "Shaykh Abu Rahimah Mikael Aykyuni",
+      "qdcAuthor": "Shaykh Abu Rahimah Mikael Aykyuni"
+    }
+  }
+}

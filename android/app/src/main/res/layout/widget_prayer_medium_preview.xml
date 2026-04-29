@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Medium Prayer Widget PREVIEW - Static placeholder shown in widget picker -->
+<!-- Two-halves layout: Left half (next prayer), Right half (prayer list with 20dp margins, 100dp bottom) -->
+<!-- Temperature centered horizontally at bottom -->
+<!-- No borders/backgrounds on text - just text on background image -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:background="@drawable/widget_preview_medium"
+    android:clipChildren="false">
+
+    <!-- Two invisible halves: left for next prayer, right for list -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <!-- Next Prayer - horizontal row, name left / time right -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layoutDirection="ltr"
+                android:layout_gravity="top|center_horizontal"
+                android:layout_marginTop="28dp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:gravity="center_vertical"
+                android:clipChildren="false">
+
+            <!-- Prayer name - left-aligned, takes available space -->
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:gravity="left"
+                android:text="SHUROOQ"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:shadowColor="#CC000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="2"
+                android:layout_marginRight="9dp" />
+
+            <!-- Prayer time - right-aligned -->
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="6:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="40sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="10sp"
+                android:autoSizeMaxTextSize="40sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-black"
+                android:maxLines="1"
+                android:shadowColor="#CC000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="2"
+                android:ellipsize="end" />
+
+        </LinearLayout>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <!-- Right side: Prayer List -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="44dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="100dp"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:weightSum="6">
+
+        <!-- Fajr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="FAJR"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="5:05 AM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+        <!-- Shurooq -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="SHUROOQ"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="6:25 AM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+        <!-- Dhuhr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="DHUHR"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="12:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+        <!-- Asr -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="ASR"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="3:30 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+        <!-- Maghrib -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="MAGHRIB"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="5:45 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+        <!-- Isha -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layoutDirection="ltr"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:textAlignment="gravity"
+                android:text="ISHA"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="12sp"
+                android:autoSizeMaxTextSize="27.5sp"
+                android:autoSizeStepGranularity="1sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="7:15 PM"
+                android:textColor="#FFFFFF"
+                android:textSize="27.5sp"
+                android:textStyle="bold"
+                android:shadowColor="#E6000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+        </LinearLayout>
+
+            </LinearLayout>
+
+            <!-- Empty state overlay (hidden by default) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome!"
+            android:textColor="#4D3319"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Open App to Sync"
+            android:textColor="#4D3319"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:background="@drawable/widget_card_background"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:paddingLeft="11dp"
+            android:paddingRight="11dp" />
+
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+    <!-- Temperature centered at bottom (small widget size) -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="14dp"
+        android:text="32°C"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:shadowColor="#CC000000"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="2"
+        android:maxLines="1"
+        android:visibility="gone" />
+
+</FrameLayout>

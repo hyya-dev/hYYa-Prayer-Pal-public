@@ -1,0 +1,1179 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "55:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱلرَّحۡمَٰنُ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "The Most Merciful",
+        "fr": "Le Tout Miséricordieux",
+        "tr": "Rahman olan Allah Kuran'ı öğretti",
+        "ur": "رحمٰن نے",
+        "id": "(Allah) Yang Maha Pengasih"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "55:2",
+      "verse_number": 2,
+      "text_uthmani": "عَلَّمَ ٱلۡقُرۡءَانَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Taught the Qur'an",
+        "fr": "Il a enseigné le Coran",
+        "tr": "Rahman olan Allah Kuran'ı öğretti",
+        "ur": "اِس قرآن کی تعلیم دی ہے",
+        "id": "Yang telah mengajarkan Alquran"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "55:3",
+      "verse_number": 3,
+      "text_uthmani": "خَلَقَ ٱلۡإِنسَٰنَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Created man",
+        "fr": "Il a créé l'homme",
+        "tr": "İnsanı yarattı, ona konuşmayı öğretti",
+        "ur": "اُسی نے انسان کو پیدا کیا",
+        "id": "Dia menciptakan manusia"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "55:4",
+      "verse_number": 4,
+      "text_uthmani": "عَلَّمَهُ ٱلۡبَيَانَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "[And] taught him eloquence",
+        "fr": "Il lui a appris à s'exprimer clairement",
+        "tr": "İnsanı yarattı, ona konuşmayı öğretti",
+        "ur": "اور اسے بولنا سکھایا",
+        "id": "mengajarnya pandai berbicara"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "55:5",
+      "verse_number": 5,
+      "text_uthmani": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "The sun and the moon [move] by precise calculation",
+        "fr": "Le soleil et la lune [évoluent] selon un calcul [minutieux]",
+        "tr": "Güneş ve ayın hareketleri bir hesaba göredir",
+        "ur": "سورج اور چاند ایک حساب کے پابند ہیں",
+        "id": "Matahari dan bulan beredar menurut perhitungan"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "55:6",
+      "verse_number": 6,
+      "text_uthmani": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And the stars and trees prostrate",
+        "fr": "Et l'herbe et les arbres se prosternent",
+        "tr": "Bitkiler ve ağaçlar O'nun buyruğuna boyun eğerler",
+        "ur": "اور تارے اور درخت سب سجدہ ریز ہیں",
+        "id": "Bintang dan pepohonan, keduanya tunduk (kepada-Nya)"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "55:7",
+      "verse_number": 7,
+      "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And the heaven He raised and imposed the balance",
+        "fr": "Et quant au ciel, Il l'a élevé bien haut. Et Il a établi la balance",
+        "tr": "O, göğü yükseltmiştir; tartıyı koymuştur",
+        "ur": "آسمان کو اُس نے بلند کیا اور میزان قائم کر دی",
+        "id": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "55:8",
+      "verse_number": 8,
+      "text_uthmani": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "That you not transgress within the balance",
+        "fr": "afin que vous ne transgressiez pas dans la pesée",
+        "tr": "Artık tartıda tecavüz etmeyin",
+        "ur": "اِس کا تقاضا یہ ہے کہ تم میزان میں خلل نہ ڈالو",
+        "id": "agar kamu jangan merusak keseimbangan itu"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "55:9",
+      "verse_number": 9,
+      "text_uthmani": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And establish weight in justice and do not make deficient the balance",
+        "fr": "Donnez [toujours] le poids exact et ne faussez pas la pesée",
+        "tr": "Tartmayı doğru yapın, tartıyı eksik tutmayın",
+        "ur": "انصاف کے ساتھ ٹھیک ٹھیک تولو اور ترازو میں ڈنڈی نہ مارو",
+        "id": "Dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "55:10",
+      "verse_number": 10,
+      "text_uthmani": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And the earth He laid [out] for the creatures",
+        "fr": "Quant à la terre, Il l'a étendue pour les êtres vivants",
+        "tr": "Allah, yeri yaratıkları için meydana getirmiştir",
+        "ur": "زمین کو اس نے سب مخلوقات کے لیے بنایا",
+        "id": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya)"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "55:11",
+      "verse_number": 11,
+      "text_uthmani": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Therein is fruit and palm trees having sheaths [of dates]",
+        "fr": "il s'y trouve des fruits, et aussi les palmiers aux fruits recouverts d'enveloppes",
+        "tr": "Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır",
+        "ur": "اس میں ہر طرح کے بکثرت لذیذ پھل ہیں کھجور کے درخت ہیں جن کے پھل غلافوں میں لپٹے ہوئے ہیں",
+        "id": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "55:12",
+      "verse_number": 12,
+      "text_uthmani": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And grain having husks and scented plants",
+        "fr": "tout comme les grains dans leurs balles, et les plantes aromatiques",
+        "tr": "Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır",
+        "ur": "طرح طرح کے غلے ہیں جن میں بھوسا بھی ہوتا ہے اور دانہ بھی",
+        "id": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "55:13",
+      "verse_number": 13,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Ey insanlar ve cinler! Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "55:14",
+      "verse_number": 14,
+      "text_uthmani": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "He created man from clay like [that of] pottery",
+        "fr": "Il a crée l'homme d'argile sonnante comme la poterie",
+        "tr": "O, insanı pişmiş çamur gibi kuru balçıktan yaratmıştır",
+        "ur": "انسان کو اُس نے ٹھیکری جیسے سوکھے سڑے ہوئے گارے سے بنایا",
+        "id": "Dia menciptakan manusia dari tanah kering seperti tembikar"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "55:15",
+      "verse_number": 15,
+      "text_uthmani": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And He created the jinn from a smokeless flame of fire",
+        "fr": "et Il a créé les djinns de la flamme d'un feu sans fumée",
+        "tr": "Cinleri de yalın bir alevden yaratmıştır",
+        "ur": "اور جن کو آگ کی لپٹ سے پیدا کیا",
+        "id": "dan Dia menciptakan jin dari nyala api tanpa asap"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "55:16",
+      "verse_number": 16,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken; Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کے کن کن عجائب قدرت کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "55:17",
+      "verse_number": 17,
+      "text_uthmani": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "[He is] Lord of the two sunrises and Lord of the two sunsets",
+        "fr": "Seigneur des deux Levants et Seigneur des deux Couchants",
+        "tr": "O, iki doğunun Rabbidir, iki batının Rabbidir",
+        "ur": "دونوں مشرق اور دونوں مغرب، سب کا مالک و پروردگار وہی ہے",
+        "id": "Tuhan (yang memelihara) dua Timur dan Tuhan (yang memelihara) dua Barat"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "55:18",
+      "verse_number": 18,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "55:19",
+      "verse_number": 19,
+      "text_uthmani": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "He released the two seas, meeting [side by side]",
+        "fr": "Il a donné libre cours aux deux mers pour se rencontrer",
+        "tr": "Acı ve tatlı sulu iki denizi birbirine kavuşmamak üzere salıvermiştir",
+        "ur": "دو سمندروں کو اس نے چھوڑ دیا کہ باہم مل جائیں",
+        "id": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "55:20",
+      "verse_number": 20,
+      "text_uthmani": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Between them is a barrier [so] neither of them transgresses",
+        "fr": "il y a entre elles une barrière qu'elles ne dépassent pas",
+        "tr": "Aralarında bir engel vardır; birbirinin sınırını aşamazlar",
+        "ur": "پھر بھی اُن کے درمیان ایک پردہ حائل ہے جس سے وہ تجاوز نہیں کرتے",
+        "id": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "55:21",
+      "verse_number": 21,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کی قدرت کے کن کن کرشموں کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "55:22",
+      "verse_number": 22,
+      "text_uthmani": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "From both of them emerge pearl and coral",
+        "fr": "De ces deux [mers] sortent la perle et le corail",
+        "tr": "Bu iki denizden de inci ve mercan çıkar",
+        "ur": "اِن سمندروں سے موتی اور مونگے نکلتے ہیں",
+        "id": "Dari keduanya keluar mutiara dan marjan"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "55:23",
+      "verse_number": 23,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کی قدرت کے کن کن کمالات کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "55:24",
+      "verse_number": 24,
+      "text_uthmani": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And to Him belong the ships [with sails] elevated in the sea like mountains",
+        "fr": "A Lui appartiennent les vaisseaux élevés sur la mer comme des montagnes",
+        "tr": "Denizde yürüyen dağlar gibi gemiler O'nundur",
+        "ur": "اور یہ جہاز اُسی کے ہیں جو سمندر میں پہاڑوں کی طرح اونچے اٹھے ہوئے ہیں",
+        "id": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "55:25",
+      "verse_number": 25,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کے کن کن احسانات کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "55:26",
+      "verse_number": 26,
+      "text_uthmani": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Everyone upon the earth will perish",
+        "fr": "Tout ce qui est sur elle [la terre] doit disparaître",
+        "tr": "Yeryüzünde bulunan her şey fanidir",
+        "ur": "ہر چیز جو اس زمین پر ہے فنا ہو جانے والی ہے",
+        "id": "Semua yang ada di bumi itu akan binasa"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "55:27",
+      "verse_number": 27,
+      "text_uthmani": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And there will remain the Face of your Lord, Owner of Majesty and Honor",
+        "fr": "[Seule] subsistera La Face [Wajh] de ton Seigneur, plein de majesté et de noblesse",
+        "tr": "Ancak, yüce ve cömert olan Rabbinin varlığı bakidir",
+        "ur": "اور صرف تیرے رب کی جلیل و کریم ذات ہی باقی رہنے والی ہے",
+        "id": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "55:28",
+      "verse_number": 28,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کے کن کن کمالات کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "55:29",
+      "verse_number": 29,
+      "text_uthmani": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter",
+        "fr": "Ceux qui sont dans les cieux et la terre L'implorent. Chaque jour, Il accomplit une œuvre nouvelle",
+        "tr": "Göklerde ve yerde olan kimseler her şeyi O'ndan isterler; O her an kainata tasarruf etmektedir",
+        "ur": "زمین اور آسمانوں میں جو بھی ہیں سب اپنی حاجتیں اُسی سے مانگ رہے ہیں ہر آن وہ نئی شان میں ہے",
+        "id": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "55:30",
+      "verse_number": 30,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پس اے جن و انس، تم اپنے رب کی کن کن صفات حمیدہ کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "55:31",
+      "verse_number": 31,
+      "text_uthmani": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "We will attend to you, O prominent beings",
+        "fr": "Nous allons bientôt entreprendre votre jugement, ô vous les deux charges [hommes et djinns]",
+        "tr": "Ey insan ve cin toplulukları! Sizin de hesabınızı ele alacağız",
+        "ur": "اے زمین کے بوجھو، عنقریب ہم تم سے باز پرس کرنے کے لیے فارغ ہوئے جاتے ہیں",
+        "id": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "55:32",
+      "verse_number": 32,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "(پھر دیکھ لیں گے کہ) تم اپنے رب کے کن کن احسانات کو جھٹلاتے ہو",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "55:33",
+      "verse_number": 33,
+      "text_uthmani": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah]",
+        "fr": "O peuple de djinns et d'hommes! Si vous pouvez sortir du domaine des cieux et de la terre, alors faites-le. Mais vous ne pourrez en sortir qu'à l'aide d'un pouvoir [illimité]",
+        "tr": "Ey cin ve insan toplulukları! Göklerin ve yerin çevresini aşıp geçmeye gücünüz yetiyorsa geçin! Ama Allah'ın verdiği bir güç olmaksızın geçemezsiniz ki",
+        "ur": "اے گروہ جن و انس، گر تم زمین اور آسمانوں کی سرحدوں سے نکل کر بھاگ سکتے ہو تو بھاگ دیکھو نہیں بھاگ سکتے اِس کے لیے بڑا زور چاہیے",
+        "id": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "55:34",
+      "verse_number": 34,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کی کن کن قدرتوں کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "55:35",
+      "verse_number": 35,
+      "text_uthmani": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves",
+        "fr": "Il sera lancé contre vous un jet de feu et de fumée [ou de cuivre fondu], et vous ne serez pas secourus",
+        "tr": "Ey insanlar ve cinler! Üzerinize dumansız bir alev ve ateşsiz bir duman gönderilir de kurtulamazsınız",
+        "ur": "(بھاگنے کی کوشش کرو گے تو) تم پر آگ کا شعلہ اور دھواں چھوڑ دیا جائے گا جس کا تم مقابلہ نہ کر سکو گے",
+        "id": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "55:36",
+      "verse_number": 36,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اے جن و انس، تم اپنے رب کی کن کن قدرتوں کا انکار کرو گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "55:37",
+      "verse_number": 37,
+      "text_uthmani": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And when the heaven is split open and becomes rose-colored like oil",
+        "fr": "Puis quand le ciel se fendra et deviendra alors écarlate comme le cuir rouge",
+        "tr": "Gök yarılıp da, gül gibi kızardığı, yağ gibi eridiği zaman haliniz nice olur",
+        "ur": "پھر (کیا بنے گی اُس وقت) جب آسمان پھٹے گا اور لال چمڑے کی طرح سرخ ہو جائے گا؟",
+        "id": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "55:38",
+      "verse_number": 38,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اے جن و انس (اُس وقت) تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "55:39",
+      "verse_number": 39,
+      "text_uthmani": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Then on that Day none will be asked about his sin among men or jinn",
+        "fr": "Alors, ni aux hommes ni aux djinns, on ne posera des questions à propos de leurs péchés",
+        "tr": "O gün ne insana ve ne cine suçu sorulur",
+        "ur": "اُس روز کسی انسان اور کسی جن سے اُس کا گناہ پوچھنے کی ضرورت نہ ہوگی",
+        "id": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "55:40",
+      "verse_number": 40,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پھر (دیکھ لیا جائے گا کہ) تم دونوں گروہ اپنے رب کے کن کن احسانات کا انکار کرتے ہو",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "55:41",
+      "verse_number": 41,
+      "text_uthmani": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet",
+        "fr": "On reconnaîtra les criminels à leurs traits. Ils seront donc saisis par les toupets et les pieds",
+        "tr": "Suçlular simalarından tanınırlar da, alın saçlarından ve ayaklarından yakalanırlar",
+        "ur": "مجرم وہاں اپنے چہروں سے پہچان لیے جائیں گے اور انہیں پیشانی کے بال اور پاؤں پکڑ پکڑ کر گھسیٹا جائے گا",
+        "id": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "55:42",
+      "verse_number": 42,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اُس وقت تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "55:43",
+      "verse_number": 43,
+      "text_uthmani": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "This is Hell, which the criminals deny",
+        "fr": "Voilà l'Enfer que les criminels traitaient de mensonge",
+        "tr": "İşte suçluların yalanladıkları cehennem budur",
+        "ur": "(اُس وقت کہا جائے گا) یہ وہی جہنم ہے جس کو مجرمین جھوٹ قرار دیا کرتے تھے",
+        "id": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "55:44",
+      "verse_number": 44,
+      "text_uthmani": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "They will go around between it and scalding water, heated [to the utmost degree]",
+        "fr": "Ils feront le va-et-vient entre lui (l'Enfer) et une eau bouillante extrêmement chaude",
+        "tr": "Onlar, cehennem ateşiyle kaynar su arasında dolaşır dururlar",
+        "ur": "اُسی جہنم اور کھولتے ہوئے پانی کے درمیان وہ گردش کرتے رہیں گے",
+        "id": "Mereka berkeliling di sana dan di antara air yang mendidih"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "55:45",
+      "verse_number": 45,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پھر اپنے رب کی کن کن قدرتوں کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "55:46",
+      "verse_number": 46,
+      "text_uthmani": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "But for he who has feared the position of his Lord are two gardens",
+        "fr": "Et pour celui qui aura craint de comparaître devant son Seigneur, il y aura deux jardins",
+        "tr": "Rabbine karşı durmaktan korkan kimseye iki cennet vardır",
+        "ur": "اور ہر اُس شخص کے لیے جو اپنے رب کے حضور پیش ہونے کا خوف رکھتا ہو، دو باغ ہیں",
+        "id": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "55:47",
+      "verse_number": 47,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "55:48",
+      "verse_number": 48,
+      "text_uthmani": "ذَوَاتَآ أَفۡنَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Having [spreading] branches",
+        "fr": "Aux branches touffues",
+        "tr": "Bu iki cennet türlü ağaçlarla doludur",
+        "ur": "ہری بھری ڈالیوں سے بھرپور",
+        "id": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "55:49",
+      "verse_number": 49,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "55:50",
+      "verse_number": 50,
+      "text_uthmani": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In both of them are two springs, flowing",
+        "fr": "Ils y trouveront deux sources courantes",
+        "tr": "Bu cennetlerden akan iki kaynak vardır",
+        "ur": "دونوں باغوں میں دو چشمے رواں",
+        "id": "Di dalam kedua surga itu ada dua buah mata air yang memancar"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "55:51",
+      "verse_number": 51,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "55:52",
+      "verse_number": 52,
+      "text_uthmani": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In both of them are of every fruit, two kinds",
+        "fr": "Ils contiennent deux espèces de chaque fruit",
+        "tr": "Bu cennetlerde türlü meyveden çift çift vardır",
+        "ur": "دونوں باغوں میں ہر پھل کی دو قسمیں",
+        "id": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "55:53",
+      "verse_number": 53,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "55:54",
+      "verse_number": 54,
+      "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low",
+        "fr": "Ils seront accoudés sur des tapis doublés de brocart, et les fruits des deux jardins seront à leur portée (pour être cueillis)",
+        "tr": "Orada, örtüleri parlak atlastan yataklara yaslanırlar; iki cennetin meyvelerini de kolayca toplarlar",
+        "ur": "جنتی لوگ ایسے فرشوں پر تکیے لگا کے بیٹھیں گے جن کے استر دبیز ریشم کے ہوں گے، اور باغوں کی ڈالیاں پھلوں سے جھکی پڑ رہی ہوں گی",
+        "id": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat"
+      }
+    },
+    {
+      "id": 55,
+      "verse_key": "55:55",
+      "verse_number": 55,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 56,
+      "verse_key": "55:56",
+      "verse_number": 56,
+      "text_uthmani": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In them are women limiting [their] glances, untouched before them by man or jinni",
+        "fr": "Ils y trouveront [les houris] aux regards chastes, qu'avant eux aucun homme ou djinn n'aura déflorées",
+        "tr": "Orada, bakışlarını yalnız eşlerine çevirmiş, daha önce ne insan ve ne de cinlerin dokunmuş olduğu eşler vardır",
+        "ur": "اِن نعمتوں کے درمیان شرمیلی نگاہوں والیاں ہوں گی جنہیں اِن جنتیوں سے پہلے کسی انسان یا جن نے چھوا نہ ہوگا",
+        "id": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya"
+      }
+    },
+    {
+      "id": 57,
+      "verse_key": "55:57",
+      "verse_number": 57,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 58,
+      "verse_key": "55:58",
+      "verse_number": 58,
+      "text_uthmani": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "As if they were rubies and coral",
+        "fr": "Elles seront [aussi belles] que le rubis et le corail",
+        "tr": "Onlar yakut ve mercan gibidirler",
+        "ur": "ایسی خوبصورت جیسے ہیرے اور موتی",
+        "id": "Seakan-akan mereka itu permata yakut dan marjan"
+      }
+    },
+    {
+      "id": 59,
+      "verse_key": "55:59",
+      "verse_number": 59,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 60,
+      "verse_key": "55:60",
+      "verse_number": 60,
+      "text_uthmani": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Is the reward for good [anything] but good",
+        "fr": "Y a-t-il d'autre récompense pour le bien, que le bien",
+        "tr": "İyiliğin karşılığı ancak iyilik değil midir",
+        "ur": "نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے",
+        "id": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)"
+      }
+    },
+    {
+      "id": 61,
+      "verse_key": "55:61",
+      "verse_number": 61,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "پھر اے جن و انس، اپنے رب کے کن کن اوصاف حمیدہ کا تم انکار کرو گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 62,
+      "verse_key": "55:62",
+      "verse_number": 62,
+      "text_uthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "And below them both [in excellence] are two [other] gardens",
+        "fr": "En deçà de ces deux jardins il y aura deux autres jardins",
+        "tr": "Bu iki cennetten başka iki cennet daha vardır",
+        "ur": "اور اُن دو باغوں کے علاوہ دو باغ اور ہوں گے",
+        "id": "Dan selain dari dua surga itu ada dua surga lagi"
+      }
+    },
+    {
+      "id": 63,
+      "verse_key": "55:63",
+      "verse_number": 63,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 64,
+      "verse_key": "55:64",
+      "verse_number": 64,
+      "text_uthmani": "مُدۡهَآمَّتَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Dark green [in color]",
+        "fr": "Ils sont d'un vert sombre",
+        "tr": "Renkleri koyu yeşildir",
+        "ur": "گھنے سرسبز و شاداب باغ",
+        "id": "kedua surga itu (kelihatan) hijau tua warnanya"
+      }
+    },
+    {
+      "id": 65,
+      "verse_key": "55:65",
+      "verse_number": 65,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 66,
+      "verse_key": "55:66",
+      "verse_number": 66,
+      "text_uthmani": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In both of them are two springs, spouting",
+        "fr": "Dans lesquelles il y aura deux sources jaillissantes",
+        "tr": "İkisinde de durmadan fışkıran iki kaynak vardır",
+        "ur": "دونوں باغوں میں دو چشمے فواروں کی طرح ابلتے ہوئے",
+        "id": "Di dalam keduanya (surga itu) ada dua mata air yang memancar"
+      }
+    },
+    {
+      "id": 67,
+      "verse_key": "55:67",
+      "verse_number": 67,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 68,
+      "verse_key": "55:68",
+      "verse_number": 68,
+      "text_uthmani": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In both of them are fruit and palm trees and pomegranates",
+        "fr": "Ils contiennent des fruits, des palmiers, et des grenadiers",
+        "tr": "İkisinde de türlü türlü meyveler, hurmalıklar ve nar ağaçları vardır",
+        "ur": "اُن میں بکثرت پھل اور کھجوریں اور انار",
+        "id": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima"
+      }
+    },
+    {
+      "id": 69,
+      "verse_key": "55:69",
+      "verse_number": 69,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 70,
+      "verse_key": "55:70",
+      "verse_number": 70,
+      "text_uthmani": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "In them are good and beautiful women",
+        "fr": "Là, il y aura des vertueuses et des belles",
+        "tr": "Oralarda iyi huylu güzel kadınlar vardır",
+        "ur": "اِن نعمتوں کے درمیان خوب سیرت اور خوبصورت بیویاں",
+        "id": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita"
+      }
+    },
+    {
+      "id": 71,
+      "verse_key": "55:71",
+      "verse_number": 71,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 72,
+      "verse_key": "55:72",
+      "verse_number": 72,
+      "text_uthmani": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Fair ones reserved in pavilions",
+        "fr": "Des houris cloîtrées dans les tentes",
+        "tr": "Çadırlar içinde ceylan gözlüler vardır",
+        "ur": "خیموں میں ٹھیرائی ہوئی حوریں",
+        "id": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah"
+      }
+    },
+    {
+      "id": 73,
+      "verse_key": "55:73",
+      "verse_number": 73,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 74,
+      "verse_key": "55:74",
+      "verse_number": 74,
+      "text_uthmani": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Untouched before them by man or jinni",
+        "fr": "qu'avant eux aucun homme ou djinn n'a déflorées",
+        "tr": "Onlara daha önce insan da, cin de dokunmamıştır",
+        "ur": "اِن جنتیوں سے پہلے کبھی انسان یا جن نے اُن کو نہ چھوا ہوگا",
+        "id": "Mereka sebelumnya tidak pernah disentuh oleh manusia maupun oleh jin"
+      }
+    },
+    {
+      "id": 75,
+      "verse_key": "55:75",
+      "verse_number": 75,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 76,
+      "verse_key": "55:76",
+      "verse_number": 76,
+      "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Reclining on green cushions and beautiful fine carpets",
+        "fr": "Ils seront accoudés sur des coussins verts et des tapis épais et jolis",
+        "tr": "Cennetlikler orada yeşil yastıklara ve harikulade işlemeli döşeklere yaslanırlar",
+        "ur": "وہ جنتی سبز قالینوں اور نفیس و نادر فرشوں پر تکیے لگا کے بیٹھیں گے",
+        "id": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah"
+      }
+    },
+    {
+      "id": 77,
+      "verse_key": "55:77",
+      "verse_number": 77,
+      "text_uthmani": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "So which of the favors of your Lord would you deny",
+        "fr": "Lequel donc des bienfaits de votre Seigneur nierez-vous",
+        "tr": "Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız",
+        "ur": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟",
+        "id": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan"
+      }
+    },
+    {
+      "id": 78,
+      "verse_key": "55:78",
+      "verse_number": 78,
+      "text_uthmani": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+      "chapter_id": 55,
+      "words": [],
+      "translations": {
+        "en": "Blessed is the name of your Lord, Owner of Majesty and Honor",
+        "fr": "Béni soit le Nom de ton Seigneur, Plein de Majesté et de Munificence",
+        "tr": "Büyük ve pek cömert olan Rabbinin adı ne yücedir",
+        "ur": "بڑی برکت والا ہے تیرے رب جلیل و کریم کا نام",
+        "id": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 55,
+    "name_arabic": "الرحمن",
+    "name_english": "Ar-Rahman"
+  }
+}

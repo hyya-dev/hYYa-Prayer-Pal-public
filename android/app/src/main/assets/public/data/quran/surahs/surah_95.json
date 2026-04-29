@@ -1,0 +1,129 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "95:1",
+      "verse_number": 1,
+      "text_uthmani": "وَٱلتِّينِ وَٱلزَّيۡتُونِ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "By the fig and the olive",
+        "fr": "Par le figuier et l'olivier",
+        "tr": "İncir ve zeytine and olsun",
+        "ur": "قسم ہے انجیر اور زیتون کی",
+        "id": "Demi (buah) Tin dan (buah) Zaitun"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "95:2",
+      "verse_number": 2,
+      "text_uthmani": "وَطُورِ سِينِينَ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "And [by] Mount Sinai",
+        "fr": "Et par le Mont Sînîn",
+        "tr": "And olsun Sina dağına",
+        "ur": "اور طور سینا کی",
+        "id": "demi gunung Sinai"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "95:3",
+      "verse_number": 3,
+      "text_uthmani": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "And [by] this secure city [Makkah]",
+        "fr": "Et par cette Cité sûre",
+        "tr": "And olsun bu güvenli Mekke şehrine ki",
+        "ur": "اور اِس پرامن شہر (مکہ) کی",
+        "id": "dan demi negeri (Mekkah) yang aman ini"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "95:4",
+      "verse_number": 4,
+      "text_uthmani": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "We have certainly created man in the best of stature",
+        "fr": "Nous avons certes créé l'homme dans la forme la plus parfaite",
+        "tr": "Biz insanı en güzel şekilde yarattık",
+        "ur": "ہم نے انسان کو بہترین ساخت پر پیدا کیا",
+        "id": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "95:5",
+      "verse_number": 5,
+      "text_uthmani": "ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "Then We return him to the lowest of the low",
+        "fr": "Ensuite, Nous l'avons ramené au niveau le plus bas",
+        "tr": "Sonra onu aşağıların en aşağısı kıldık",
+        "ur": "پھر اُسے الٹا پھیر کر ہم نے سب نیچوں سے نیچ کر دیا",
+        "id": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "95:6",
+      "verse_number": 6,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted",
+        "fr": "sauf ceux qui croient et accomplissent les bonnes œuvres: ceux-là auront une récompense jamais interrompue",
+        "tr": "Yalnız, inanıp yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir vardır",
+        "ur": "سوائے اُن لوگوں کے جو ایمان لائے اور نیک عمل کرتے رہے کہ ان کے لیے کبھی ختم نہ ہونے والا اجر ہے",
+        "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "95:7",
+      "verse_number": 7,
+      "text_uthmani": "فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "So what yet causes you to deny the Recompense",
+        "fr": "Après cela, qu'est-ce qui te fait traiter la rétribution de mensonge",
+        "tr": "Öyleyken, sana dini yalan saydırtan nedir",
+        "ur": "پس (اے نبیؐ) اس کے بعد کون جزا و سزا کے معاملہ میں تم کو جھٹلا سکتا ہے؟",
+        "id": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "95:8",
+      "verse_number": 8,
+      "text_uthmani": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
+      "chapter_id": 95,
+      "words": [],
+      "translations": {
+        "en": "Is not Allah the most just of judges",
+        "fr": "Allah n'est-Il pas le plus sage des Juges",
+        "tr": "Allah, hükmedenlerin en iyi hükmedeni değil midir",
+        "ur": "کیا اللہ سب حاکموں سے بڑا حاکم نہیں ہے؟",
+        "id": "Bukankah Allah Hakim yang paling adil"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 95,
+    "name_arabic": "التين",
+    "name_english": "At-Tin"
+  }
+}

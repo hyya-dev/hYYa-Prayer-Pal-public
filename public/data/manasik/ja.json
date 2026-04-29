@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "第一段階：意図とIhram",
+        "details": "<ul><li>ウムラを行い、 Miqatでイフラームに入り、 Talbiyah始めるつもりです。</li><li>彼はIhram禁忌事項を遵守し、儀式を開始する前に儀式的な浄化を完了した。</li></ul>",
+        "evidence": "Quran 2章196節と、 Miqatから儀式を開始した年。",
+        "referenceLabel": "ウムラ省および訪問ガイド"
+      },
+      {
+        "title": "ステップ2： Al-Masjid Al-Haramへの入場",
+        "details": "<ul><li>静かに、祈りと謙遜の心で入りなさい。</li><li>群衆の中を安全に移動しやすい側から出発し、 Tawafエリアに向かってください。</li></ul>",
+        "evidence": "モスクにおける礼儀作法と礼拝の円滑化に関する、預言者による一般的な指針。",
+        "referenceLabel": "大臣意識向上センター"
+      },
+      {
+        "title": "ステップ3： Tawaf （7周）",
+        "details": "<ul><li>Black Stone列から始めて、 Kaabah周りを7回Tawafする。</li><li>神を常に心に留め、群衆の中で他人に危害を加えることを避けてください。</li><li class=\"pp-ios-only\">ヒント： Apple Watchアプリを使って、 Tawafの周回数を数えましょう。</li><li class=\"pp-android-only\">ヒント：ウォッチのWear OSアプリを使うと、 Tawafの周回数を数えるのに役立ちます。</li></ul>",
+        "evidence": "Quran 22章29節と、預言者の巡礼に関する記録された記述。",
+        "referenceLabel": "ノスクにおけるウムラ旅行のガイドライン"
+      },
+      {
+        "title": "ステップ4： Tawaf後の祈り",
+        "details": "<ul><li>可能であれば、 Tawaf終えた後、会衆に迷惑をかけないように2ラカアの礼拝を行い、その後、秩序正しくZamzam水を飲んでください。</li></ul>",
+        "evidence": "Tawaf後の礼拝に関する、信頼できるハディースに確立された慣習。",
+        "referenceLabel": "ウムラ省および訪問ガイド"
+      },
+      {
+        "title": "ステップ５： SafaとMarwahの間のSaie",
+        "details": "<ul><li>SafaからMarwahまで、 SafaとMarwahの間を7周するSaie 、祈りと追憶を交えながら行いなさい。</li><li class=\"pp-ios-only\">ヒント： Apple Watchアプリを使って、 Saieランニング回数をカウントしましょう。</li><li class=\"pp-android-only\">ヒント：スマートウォッチのWear OSアプリを使って、 Saieランニング回数をカウントしましょう。</li></ul>",
+        "evidence": "Quran 2章158節、および預言者の命令による真正な伝承。",
+        "referenceLabel": "ノスクにおけるウムラ旅行のガイドライン"
+      },
+      {
+        "title": "ステップ6：髪を切るか、髭を剃る",
+        "details": "<ul><li>男性は髪を剃ったり切ったりし、女性は髪の一部を少し整える。</li><li>これでウムラは終了し、 Ihramも終了します。</li></ul>",
+        "evidence": "Quran 48章27節と、髭剃りや髪を短くすることに関する信頼できる伝承。",
+        "referenceLabel": "ウムラ省および訪問ガイド"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "最初のステップ： Ihramとハッジの意図",
+        "details": "<ul><li>Miqatでイフラームに入り、ハッジの種類を表明してから、 Talbiyahを唱えてください。</li><li>Ihram出口に到着するまで、 Ihram規則を遵守してください。</li></ul>",
+        "evidence": "Quran 2章196節、およびハッジ開始のための合意された預言者の儀式。",
+        "referenceLabel": "ハッジ省のガイドライン"
+      },
+      {
+        "title": "ステップ 2: MinaのYawm at-Tarwiyah",
+        "details": "<ul><li>Dhul Hijjahの8日には、 Minaへ向かい、定められた時間に礼拝を行い、 Arafah記念式典に向けて精神的にも物理的にも準備を整えましょう。</li></ul>",
+        "evidence": "別れの旅における一連の儀式を記録したもの。",
+        "referenceLabel": "ノスクへのハッジ旅行"
+      },
+      {
+        "title": "ステップ３： Arafah丘に立つ",
+        "details": "<ul><li>Dhul Hijjahの9日目は、 Arafahで祈りを捧げ、神を思い起こし、悔い改めながら過ごしましょう。</li><li>これはハッジの最も重要な柱である。</li></ul>",
+        "evidence": "Hadith ：ハッジはArafahである。",
+        "referenceLabel": "ハッジ省のガイドライン"
+      },
+      {
+        "title": "ステップ4： Muzdalifahと小石の収集",
+        "details": "<ul><li>日没後、 Muzdalifahに行き、マグリブとイシャーの礼拝を行い、そこで夜を過ごし、 Minaに石を投げるための小石を集めます。</li></ul>",
+        "evidence": "信頼できる伝承における、 Arafah後に続く預言の順序。",
+        "referenceLabel": "ノスクへのハッジ旅行"
+      },
+      {
+        "title": "ステップ5：ラミ、犠牲、そして詩",
+        "details": "<ul><li>イードの日、 Jamarat al-Aqabah石を投げるときは、必要に応じて犠牲を捧げ、最初のタフリルの前に髪を剃るか切る。</li></ul>",
+        "evidence": "Quran 22章36-37節と、真正なハディースの順序。",
+        "referenceLabel": "ハッジ省のガイドライン"
+      },
+      {
+        "title": "ステップ 6: Tawaf al-Ifadah (7 ラウンド)",
+        "details": "<ul><li>メッカに戻り、 Tawaf al-Ifadahを行い、7周を完了させ、混雑時でも安全かつ秩序ある移動を維持する。</li><li class=\"pp-ios-only\">ヒント： Apple Watchアプリを使って、 Tawafの周回数を数えましょう。</li><li class=\"pp-android-only\">ヒント：ウォッチのWear OSアプリを使うと、 Tawafの周回数を数えるのに役立ちます。</li></ul>",
+        "evidence": "Quran 22章29節と、義務的な巡礼に関する記録された記述。",
+        "referenceLabel": "ノスクへのハッジ旅行"
+      },
+      {
+        "title": "ステップ7：必要な人に伝える",
+        "details": "<ul><li>巡礼の種類で必要とされる場合は、 SafaとMarwahの間を7周する順序と回数を維持しながら、 Saieを行ってください。</li><li class=\"pp-ios-only\">ヒント： Apple Watchアプリを使って、 Saieランニング回数をカウントしましょう。</li><li class=\"pp-android-only\">ヒント：スマートウォッチのWear OSアプリを使って、 Saieランニング回数をカウントしましょう。</li></ul>",
+        "evidence": "Quran 2章158節と、ハッジの儀式におけるその法理的適用。",
+        "referenceLabel": "ハッジ省のガイドライン"
+      },
+      {
+        "title": "ステップ 8: Ayyam at-TashriqとTawaf al-Wada&#39;",
+        "details": "<ul><li>免除されている者を除き、タシュリークの期間中、 Minaに滞在してJamarat投げる儀式を行い、その後、メッカを出発する前にTawaf al-Wada&#39;完了する。</li><li class=\"pp-ios-only\">ヒント： Apple Watchアプリを使って、 Tawafの周回数を数えましょう。</li><li class=\"pp-android-only\">ヒント：ウォッチのWear OSアプリを使うと、 Tawafの周回数を数えるのに役立ちます。</li></ul>",
+        "evidence": "確立された儀式は、 Quran教えと預言者のSunnahの正しい実践に基づいている。",
+        "referenceLabel": "ノスクへのハッジ旅行"
+      }
+    ]
+  }
+}

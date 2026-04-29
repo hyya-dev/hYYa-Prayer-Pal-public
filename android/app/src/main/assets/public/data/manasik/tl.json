@@ -1,0 +1,95 @@
+{
+  "source": "ministry",
+  "umrah": {
+    "steps": [
+      {
+        "title": "Unang hakbang: Intensyon at Ihram",
+        "details": "<ul><li>Balak na magsagawa ng Umrah, pumasok sa Ihram sa Miqat, at simulan Talbiyah.</li><li>Sumunod siya sa mga pagbabawal Ihram, at tinapos ang ritwal ng paglilinis bago simulan ang ritwal.</li></ul>",
+        "evidence": "Quran 2:196 at ang taon ng pagsisimula ng mga ritwal mula sa Miqat.",
+        "referenceLabel": "Gabay sa Pagbisita at Ministri ng Umrah"
+      },
+      {
+        "title": "Ikalawang Hakbang: Pagpasok sa Al-Masjid Al-Haram",
+        "details": "<ul><li>Pumasok nang tahimik, nang may panalangin at pagpapakumbaba.</li><li>Magsimula sa gilid na nagpapadali sa ligtas na paggalaw sa gitna ng mga tao, pagkatapos ay tumungo sa lugar ng Tawaf.</li></ul>",
+        "evidence": "Mga pangkalahatang alituntunin ng propeta tungkol sa kagandahang-asal sa mga moske at pagpapadali ng pagsamba.",
+        "referenceLabel": "Sentro ng Kamalayan sa Ministeryal"
+      },
+      {
+        "title": "Hakbang tatlo: Tawaf (pitong pag-ikot)",
+        "details": "<ul><li>Magsagawa ng Tawaf sa paligid Kaabah nang pitong beses, simula sa linya ng Black Stone.</li><li>Patuloy na alalahanin ang Diyos at iwasang manakit ng iba sa pagtitipon ng mga tao.</li><li class=\"pp-ios-only\"> Tip: Gamitin ang Apple Watch app para matulungan kang mabilang ang iyong mga Tawaf circuit.</li><li class=\"pp-android-only\"> Tip: Gamitin ang Wear OS app sa iyong relo para matulungan kang mabilang ang iyong mga Tawaf circuit.</li></ul>",
+        "evidence": "Quran 22:29 at ang mga dokumentadong paglalarawan ng pag-ikot ng Propeta.",
+        "referenceLabel": "Mga gabay sa paglalakbay sa Umrah sa Nosuk"
+      },
+      {
+        "title": "Hakbang Apat: Panalangin Pagkatapos Tawaf",
+        "details": "<ul><li>Magdasal ng dalawang rak&#39;ah pagkatapos ng Tawaf kung maaari nang hindi masasaktan ang kongregasyon, pagkatapos ay magpatuloy sa organisadong paraan upang uminom ng tubig Zamzam.</li></ul>",
+        "evidence": "Isang matibay na kaugalian sa mga tunay na hadith patungkol sa panalangin pagkatapos Tawaf.",
+        "referenceLabel": "Gabay sa Pagbisita at Ministri ng Umrah"
+      },
+      {
+        "title": "Hakbang lima: Saie sa pagitan ng Safa at Marwah",
+        "details": "<ul><li>Magsagawa Saie sa loob ng pitong ikot sa pagitan ng Safa at Marwah, simula sa Safa at nagtatapos sa Marwah, na may kasamang pagsusumamo at pag-alaala.</li><li class=\"pp-ios-only\"> Tip: Gamitin ang Apple Watch app para matulungan kang mabilang ang mga pagtakbo Saie.</li><li class=\"pp-android-only\"> Tip: Gamitin ang Wear OS app sa iyong relo para matulungan kang mabilang ang mga pagtakbo Saie.</li></ul>",
+        "evidence": "Quran 2:158 at ang mga tunay na salaysay ayon sa pagkakasunud-sunod ng mensahero.",
+        "referenceLabel": "Mga gabay sa paglalakbay sa Umrah sa Nosuk"
+      },
+      {
+        "title": "Hakbang anim: Gupit o ahit",
+        "details": "<ul><li>Ang mga lalaki ay nag-aahit o nagpuputol ng kanilang buhok, at ang mga babae ay nagpuputol ng maliit na bahagi nito.</li><li>At sa pamamagitan nito, nagtatapos ang Umrah at nagtatapos din Ihram.</li></ul>",
+        "evidence": "Quran 48:27 at ang mga tunay na salaysay na may kaugnayan sa pag-aahit at pagpapaikli ng buhok.",
+        "referenceLabel": "Gabay sa Pagbisita at Ministri ng Umrah"
+      }
+    ]
+  },
+  "hajj": {
+    "steps": [
+      {
+        "title": "Unang hakbang: Ihram at ang intensyon para sa Hajj",
+        "details": "<ul><li>Mag-ihram sa Miqat, layunin ang iyong uri ng Hajj, pagkatapos ay ipagpatuloy Talbiyah.</li><li>Sumunod sa mga tuntunin Ihram hanggang sa marating mo ang mga labasan Ihram.</li></ul>",
+        "evidence": "Quran 2:196 at ang napagkasunduang mga ritwal ng propeta para sa pagsisimula ng Hajj.",
+        "referenceLabel": "Mga alituntunin ng Ministri ng Hajj"
+      },
+      {
+        "title": "Ikalawang Hakbang: Yawm at-Tarwiyah sa Mina",
+        "details": "<ul><li>Sa ikawalong araw ng Dhul Hijjah, tumungo sa Mina, magsagawa ng mga panalangin sa mga itinakdang oras nito, at maghanda sa espirituwal at logistikong paraan para sa paggunita Arafah.</li></ul>",
+        "evidence": "Isang dokumentadong pagkakasunod-sunod ng mga ritwal sa paglalakbay ng pamamaalam.",
+        "referenceLabel": "Paglalakbay sa Hajj patungong Nosuk"
+      },
+      {
+        "title": "Hakbang tatlo: Pagtayo sa Arafah",
+        "details": "<ul><li>Gugulin ang ikasiyam na araw ng Dhul Hijjah sa Arafah sa pagdarasal, pag-alala sa Diyos, at pagsisisi.</li><li>Ito ang mahalagang haligi ng Hajj.</li></ul>",
+        "evidence": "Hadith: Ang Hajj ay Arafah.",
+        "referenceLabel": "Mga alituntunin ng Ministri ng Hajj"
+      },
+      {
+        "title": "Hakbang apat: Muzdalifah at pagtitipon ng mga maliliit na bato",
+        "details": "<ul><li>Pagkatapos ng paglubog ng araw, pumunta sa Muzdalifah, magdasal ng Maghrib at Isha, doon magpalipas ng gabi, at mangolekta ng mga maliliit na bato para sa paghagis ng mga bato sa Mina.</li></ul>",
+        "evidence": "Ang pagkakasunod-sunod ng mga propeta pagkatapos Arafah sa mga tunay na salaysay.",
+        "referenceLabel": "Paglalakbay sa Hajj patungong Nosuk"
+      },
+      {
+        "title": "Ikalimang Hakbang: Rami, Sakripisyo, at Tula",
+        "details": "<ul><li>Sa araw ng Eid, kapag naghahagis Jamarat al-Aqabah, isagawa ang paghahain kung kinakailangan, pagkatapos ay mag-ahit o maggupit ng iyong buhok para sa unang tahlil.</li></ul>",
+        "evidence": "Quran 22:36-37 at ang pagkakasunod-sunod ng mga tunay na hadith.",
+        "referenceLabel": "Mga alituntunin ng Ministri ng Hajj"
+      },
+      {
+        "title": "Ikaanim na hakbang: Tawaf al-Ifadah (pitong round)",
+        "details": "<ul><li>Bumalik sa Mecca upang magsagawa ng Tawaf al-Ifadah, kumpletuhin ang pitong pag-ikot, at panatilihin ang ligtas at maayos na paggalaw sa mga oras na abala.</li><li class=\"pp-ios-only\"> Tip: Gamitin ang Apple Watch app para matulungan kang mabilang ang iyong mga Tawaf circuit.</li><li class=\"pp-android-only\"> Tip: Gamitin ang Wear OS app sa iyong relo para matulungan kang mabilang ang iyong mga Tawaf circuit.</li></ul>",
+        "evidence": "Quran 22:29 at ang mga dokumentadong paglalarawan ng obligadong pag-ikot.",
+        "referenceLabel": "Paglalakbay sa Hajj patungong Nosuk"
+      },
+      {
+        "title": "Hakbang 7: Sabihin sa taong kailangan",
+        "details": "<ul><li>Magsagawa ng Saie kapag kinakailangan ito ng iyong uri ng Hajj, habang pinapanatili ang pagkakasunod-sunod at bilang ng pitong pag-ikot sa pagitan ng Safa at Marwah.</li><li class=\"pp-ios-only\"> Tip: Gamitin ang Apple Watch app para matulungan kang mabilang ang mga pagtakbo Saie.</li><li class=\"pp-android-only\"> Tip: Gamitin ang Wear OS app sa iyong relo para matulungan kang mabilang ang mga pagtakbo Saie.</li></ul>",
+        "evidence": "Quran 2:158 at ang hurisprudential na aplikasyon nito sa mga ritwal ng Hajj.",
+        "referenceLabel": "Mga alituntunin ng Ministri ng Hajj"
+      },
+      {
+        "title": "Hakbang 8: Ayyam at-Tashriq at Tawaf al-Wada&#39;",
+        "details": "<ul><li>Ang pananatili sa Mina sa panahon ng Tashreeq upang isagawa ang mga ritwal ng paghagis Jamarat, pagkatapos ay kumpletuhin Tawaf al-Wada&#39; bago umalis sa Makkah, maliban sa mga hindi sakop ng batas.</li><li class=\"pp-ios-only\"> Tip: Gamitin ang Apple Watch app para matulungan kang mabilang ang iyong mga Tawaf circuit.</li><li class=\"pp-android-only\"> Tip: Gamitin ang Wear OS app sa iyong relo para matulungan kang mabilang ang iyong mga Tawaf circuit.</li></ul>",
+        "evidence": "Ang mga itinatag na ritwal ay batay sa gabay Quran at sa wastong pagsasagawa ng Sunnah ng Propeta.",
+        "referenceLabel": "Paglalakbay sa Hajj patungong Nosuk"
+      }
+    ]
+  }
+}

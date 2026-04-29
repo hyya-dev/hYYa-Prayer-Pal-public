@@ -1,0 +1,819 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "34:1",
+      "verse_number": 1,
+      "text_uthmani": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "[All] praise is [due] to Allah, to whom belongs whatever is in the heavens and whatever is in the earth, and to Him belongs [all] praise in the Hereafter. And He is the Wise, the Acquainted",
+        "fr": "Louange à Allah à qui appartient tout ce qui est dans les cieux et tout ce qui est sur la terre. Et louange à Lui dans l'au-delà. Et c'est Lui le Sage, le Parfaitement Connaisseur",
+        "tr": "Hamd, göklerde olanlar ve yerde bulunanlar Kendisinin olan Allah'a mahsustur. O, Hakim'dir, her şeyden haberdardır",
+        "ur": "حمد اُس خدا کے لیے ہے جو آسمانوں اور زمین کی ہر چیز کا مالک ہے اور آخرت میں بھی اسی کے لیے حمد ہے وہ دانا اور باخبر ہے",
+        "id": "Segala puji bagi Allah yang memiliki apa yang ada di langit dan apa yang ada di bumi dan segala puji di akhirat bagi Allah. Dan Dialah Yang Mahabijaksana, Mahateliti"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "34:2",
+      "verse_number": 2,
+      "text_uthmani": "يَعۡلَمُ مَا يَلِجُ فِي ٱلۡأَرۡضِ وَمَا يَخۡرُجُ مِنۡهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعۡرُجُ فِيهَاۚ وَهُوَ ٱلرَّحِيمُ ٱلۡغَفُورُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein. And He is the Merciful, the Forgiving",
+        "fr": "Il sait ce qui pénètre en terre et ce qui en sort, ce qui descend du ciel et ce qui y remonte. Et c'est Lui le Miséricordieux, le Pardonneur",
+        "tr": "Yere gireni ve oradan çıkanı, gökten ineni ve oraya yükseleni bilir. O, merhametlidir, mağfiret sahibidir",
+        "ur": "جو کچھ زمین میں جاتا ہے اور جو کچھ اُس سے نکلتا ہے اور جو کچھ آسمان سے اترتا ہے اور جو کچھ اُس میں چڑھتا ہے، ہر چیز کو وہ جانتا ہے، وہ رحیم اور غفور ہے",
+        "id": "Dia mengetahui apa yang masuk ke dalam bumi, apa yang keluar darinya, apa yang turun dari langit dan apa yang naik kepadanya. Dan Dialah Yang Maha Penyayang, Maha Pengampun"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "34:3",
+      "verse_number": 3,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَا تَأۡتِينَا ٱلسَّاعَةُۖ قُلۡ بَلَىٰ وَرَبِّي لَتَأۡتِيَنَّكُمۡ عَٰلِمِ ٱلۡغَيۡبِۖ لَا يَعۡزُبُ عَنۡهُ مِثۡقَالُ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَلَآ أَصۡغَرُ مِن ذَٰلِكَ وَلَآ أَكۡبَرُ إِلَّا فِي كِتَٰبٖ مُّبِينٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But those who disbelieve say, \"The Hour will not come to us.\" Say, \"Yes, by my Lord, it will surely come to you. [Allah is] the Knower of the unseen.\" Not absent from Him is an atom's weight within the heavens or within the earth or [what is] smaller than that or greater, except that it is in a clear register",
+        "fr": "Ceux qui ne croient pas disent: «L'Heure ne nous viendra pas». Dis: «Par mon Seigneur! Très certainement, elle vous viendra. [Mon Seigneur] le Connaisseur de l'Inconnaissable. Rien ne Lui échappe fût-il du poids d'un atome dans les cieux, comme sur la terre. Et rien n'existe de plus petit ni de plus grand, qui ne soit inscrit dans un Livre explicite",
+        "tr": "İnkar edenler: \"Kıyamet bize gelmeyecektir\" dediler. De ki: \"Hayır, öyle değil; görülmeyeni bilen Rabbim'e and olsun ki, o saat size muhakkak gelecektir. Göklerde ve yerde zerre kadar olanlar bile O'nun ilminin dışında değildir. Bundan daha küçüğü ve daha büyüğü de şüphesiz apaçık Kitap'tadır",
+        "ur": "منکرین کہتے ہیں کہ کیا بات ہے کہ قیامت ہم پر نہیں آ رہی ہے! کہو، قسم ہے میرے عالم الغیب پروردگار کی، وہ تم پر آ کر رہے گی اُس سے ذرہ برابر کوئی چیز نہ آسمانوں میں چھپی ہوئی ہے نہ زمین میں نہ ذرے سے بڑی اور نہ اُس سے چھوٹی، سب کچھ ایک نمایاں دفتر میں درج ہے",
+        "id": "(Dan orang-orang yang kafir berkata, \"Hari Kiamat itu tidak akan datang kepada kami.\" Katakanlah, \"Pasti datang, demi Tuhanku Yang mengetahui yang gaib, Kiamat itu pasti akan datang kepadamu. Tidak ada yang tersembunyi bagi-Nya sekalipun seberat zarah691)baik yang di langit maupun yang di bumi, yang lebih kecil dari itu atau yang lebih besar, semuanya (tertulis) dalam Kitab yang jelas (Lauḥ Maḥfūẓ)"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "34:4",
+      "verse_number": 4,
+      "text_uthmani": "لِّيَجۡزِيَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِۚ أُوْلَـٰٓئِكَ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "That He may reward those who believe and do righteous deeds. Those will have forgiveness and noble provision",
+        "fr": "afin qu'Il récompense ceux qui croient et accomplissent les bonnes œuvres. Pour ceux-ci, il y aura un pardon et un don généreux",
+        "tr": "Allah'ın, inanıp yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir",
+        "ur": "اور یہ قیامت اس لئے آئے گی کہ جزا دے اللہ اُن لوگوں کو جو ایمان لائے ہیں اور نیک عمل کرتے رہے ہیں اُن کے لیے مغفرت ہے اور رزق کریم",
+        "id": "agar Dia (Allah) memberi balasan kepada orang-orang yang beriman dan mengerjakan kebajikan. Mereka memperoleh ampunan dan rezeki yang mulia (surga)"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "34:5",
+      "verse_number": 5,
+      "text_uthmani": "وَٱلَّذِينَ سَعَوۡ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَـٰٓئِكَ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But those who strive against Our verses [seeking] to cause failure - for them will be a painful punishment of foul nature",
+        "fr": "Et ceux qui s'efforcent de rendre vains Nos versets, ceux-là auront le châtiment d'un supplice douloureux",
+        "tr": "Allah'ın, inanıp yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir",
+        "ur": "اور جن لوگوں نے ہماری آیات کو نیچا دکھانے کے لیے زور لگایا ہے، ان کے لیے بدترین قسم کا دردناک عذاب ہے",
+        "id": "Dan orang-orang yang berusaha untuk (menentang) ayat-ayat Kami dengan anggapan mereka dapat melemahkan (menggagalkan azab Kami), mereka itu akan memperoleh azab, yaitu azab yang sangat pedih"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "34:6",
+      "verse_number": 6,
+      "text_uthmani": "وَيَرَى ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ ٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ هُوَ ٱلۡحَقَّ وَيَهۡدِيٓ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy",
+        "fr": "Et ceux à qui le savoir a été donné voient que ce qu'on t'a fait descendre de la part de ton Seigneur est la vérité qui guide au chemin du Tout Puissant, du Digne de Louange",
+        "tr": "Kendilerine ilim verilenler, sana Rabbinden indirilenin hak olduğunu, güçlü ve hamde layık olanın yolunu gösterdiğini bilirler",
+        "ur": "اے نبیؐ، علم رکھنے والے خوب جانتے ہیں کہ جو کچھ تمہارے رب کی طرف سے تم پر نازل کیا گیا ہے وہ سراسر حق ہے اور خدائے عزیز و حمید کا راستہ دکھاتا ہے",
+        "id": "Dan orang-orang yang diberi ilmu (Ahli Kitab) berpendapat bahwa (wahyu) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itulah yang benar dan memberi petunjuk (bagi manusia) kepada jalan (Allah) Yang Mahaperkasa, Maha Terpuji"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "34:7",
+      "verse_number": 7,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلٖ يُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقٖ جَدِيدٍ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But those who disbelieve say, \"Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation",
+        "fr": "Et ceux qui ne croient pas dirent: «Voulez-vous que l'on vous montre un homme qui vous prédise que lorsque vous serez complètement désintégrés, vous reparaîtrez, sans nul doute, en une nouvelle création",
+        "tr": "İnkar edenler, insanlara: \"Size, siz parça parça dağılıp yok olduğunuz zaman yeniden dirileceğinizi haber veren bir adam gösterelim mi? Allah'a karşı yalan mı uyduruyor, yoksa kendisinde delilik mi vardır?\" derler. Hayır; ahirete inanmayanlar, azapta ve derin bir sapıklık içindedirler",
+        "ur": "منکرین لوگوں سے کہتے ہیں \"ہم بتائیں تمہیں ایسا شخص جو خبر دیتا ہے کہ جب تمہارے جسم کا ذرہ ذرہ منتشر ہو چکا ہو گا اس وقت تم نئے سرے سے پیدا کر دیے جاؤ گے؟",
+        "id": "Dan orang-orang kafir berkata (kepada teman-temannya), \"Maukah kami tunjukkan kepadamu seorang laki-laki692) yang memberitakan kepadamu bahwa apabila badanmu telah hancur sehancur-hancurnya, kamu pasti (akan dibangkitkan kembali) dalam ciptaan yang baru"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "34:8",
+      "verse_number": 8,
+      "text_uthmani": "أَفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةُۢۗ بَلِ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ فِي ٱلۡعَذَابِ وَٱلضَّلَٰلِ ٱلۡبَعِيدِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Has he invented about Allah a lie or is there in him madness?\" Rather, they who do not believe in the Hereafter will be in the punishment and [are in] extreme error",
+        "fr": "Invente-t-il un mensonge contre Allah? ou bien est-il fou?» [Non], mais ceux qui ne croient pas en l'au-delà sont voués au châtiment et à l'égarement lointain",
+        "tr": "İnkar edenler, insanlara: \"Size, siz parça parça dağılıp yok olduğunuz zaman yeniden dirileceğinizi haber veren bir adam gösterelim mi? Allah'a karşı yalan mı uyduruyor, yoksa kendisinde delilik mi vardır?\" derler. Hayır; ahirete inanmayanlar, azapta ve derin bir sapıklık içindedirler",
+        "ur": "نہ معلوم یہ شخص اللہ کے نام سے جھوٹ گھڑتا ہے ہے یا اسے جنون لاحق ہے\" نہیں، بلکہ جو لوگ آخرت کو نہیں مانتے وہ عذاب میں مبتلا ہونے والے ہیں اور و ہی بری طرح بہکے ہوئے ہیں",
+        "id": "Apakah dia mengada-adakan kebohongan terhadap Allah atau sakit gila?\" (Tidak), tetapi orang-orang yang tidak beriman kepada akhirat itu berada dalam siksaan dan kesesatan yang jauh"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "34:9",
+      "verse_number": 9,
+      "text_uthmani": "أَفَلَمۡ يَرَوۡاْ إِلَىٰ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِن نَّشَأۡ نَخۡسِفۡ بِهِمُ ٱلۡأَرۡضَ أَوۡ نُسۡقِطۡ عَلَيۡهِمۡ كِسَفٗا مِّنَ ٱلسَّمَآءِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّكُلِّ عَبۡدٖ مُّنِيبٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Then, do they not look at what is before them and what is behind them of the heaven and earth? If We should will, We could cause the earth to swallow them or [could] let fall upon them fragments from the sky. Indeed in that is a sign for every servant turning back [to Allah]",
+        "fr": "Ne voient-ils donc pas ce qu'il y a comme ciel et comme terre devant et derrière eux? Si Nous voulions, Nous ferions que la terre les engloutisse, ou que des morceaux du ciel tombent sur eux. Il y a en cela une preuve pour tout serviteur repentant",
+        "tr": "Önlerinde ve ardlarında olan göğü ve yeri görmezler mi? Dilesek onları yere geçirir veya göğün bir parçasını başlarına indiririz. Bunlarda, Allah'a yönelen her kul için dersler vardır",
+        "ur": "کیا اِنہوں نے کبھی اُس آسمان و زمین کو نہیں دیکھا جو اِنہیں آگے اور پیچھے سے گھیرے ہوئے ہے؟ ہم چاہیں تو اِنہیں زمین میں دھسا دیں، یا آسمان کے کچھ ٹکڑے اِن پر گرا دیں در حقیقت اس میں ایک نشانی ہے ہر اُس بندے کے لیے جو خدا کی طرف رجوع کرنے والا ہو",
+        "id": "Maka apakah mereka tidak memperhatikan langit dan bumi yang ada di hadapan dan di belakang mereka? Jika Kami menghendaki, niscaya Kami benamkan mereka di bumi atau Kami jatuhkan kepada mereka kepingan-kepingan dari langit. Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah) bagi setiap hamba yang kembali (kepada-Nya)"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "34:10",
+      "verse_number": 10,
+      "text_uthmani": "۞وَلَقَدۡ ءَاتَيۡنَا دَاوُۥدَ مِنَّا فَضۡلٗاۖ يَٰجِبَالُ أَوِّبِي مَعَهُۥ وَٱلطَّيۡرَۖ وَأَلَنَّا لَهُ ٱلۡحَدِيدَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And We certainly gave David from Us bounty. [We said], \"O mountains, repeat [Our] praises with him, and the birds [as well].\" And We made pliable for him iron",
+        "fr": "Nous avons certes accordé une grâce à David de Notre part. O montagnes et oiseaux, répétez avec lui (les louanges d'Allah). Et pour lui, Nous avons amolli le fer",
+        "tr": "Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam tut\" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim",
+        "ur": "ہم نے داؤدؑ کو اپنے ہاں سے بڑا فضل عطا کیا تھا (ہم نے حکم دیا کہ) اے پہاڑو، اس کے ساتھ ہم آہنگی کرو (اور یہی حکم ہم نے) پرندوں کو دیا ہم نے لوہے کو اس کے لیے نرم کر دیا",
+        "id": "Dan sungguh, Telah Kami berikan kepada Dawud karunia dari Kami. (Kami berfirman), \"Wahai gunung-gunung dan burung-burung! Bertasbihlah berulang-ulang bersama Dawud,\" dan Kami telah melunakkan besi untuknya"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "34:11",
+      "verse_number": 11,
+      "text_uthmani": "أَنِ ٱعۡمَلۡ سَٰبِغَٰتٖ وَقَدِّرۡ فِي ٱلسَّرۡدِۖ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ بَصِيرٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing",
+        "fr": "(en lui disant): «Fabrique des cottes de mailles complètes et mesure bien les mailles». Et faites le bien. Je suis Clairvoyant sur ce que vous faites",
+        "tr": "Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam tut\" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim",
+        "ur": "اس ہدایت کے ساتھ کہ زرہیں بنا اور ان کے حلقے ٹھیک اندازے پر رکھ (اے آل داؤدؑ) نیک عمل کرو، جو کچھ تم کرتے ہو اُس کو میں دیکھ رہا ہوں",
+        "id": "(yaitu) buatlah baju besi yang besar-besar dan ukurlah anyamannya; dan kerjakanlah kebajikan. Sungguh, Aku Maha Melihat apa yang kamu kerjakan"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "34:12",
+      "verse_number": 12,
+      "text_uthmani": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze",
+        "fr": "Et à Salomon (Nous avons assujetti) le vent, dont le parcours du matin équivaut à un mois (de marche) et le parcours du soir, un mois aussi. Et pour lui Nous avons fait couler la source de cuivre. Et parmi les djinns il y en a qui travaillaient sous ses ordres, par permission de son Seigneur. Quiconque d'entre eux, cependant, déviait de Notre ordre, Nous lui faisions goûter au châtiment de la fournaise",
+        "tr": "Gündüz estiğinde bir aylık mesafeye gidip, akşam da bir aylık mesafeden gelen rüzgarı Süleyman'ın buyruğu altına verdik. Onun için su gibi erimiş bakır akıttık. Rabbinin izniyle, yanında iş gören cinleri onun buyruğu altına verdik ki, bunlar içinde buyruğumuzdan çıkan olursa ona alevli ateşin azabını tattırırdık",
+        "ur": "اور سلیمانؑ کے لیے ہم نے ہوا کو مسخر کر دیا، صبح کے وقت اس کا چلنا ایک مہینے کی راہ تک اور شام کے وقت اس کا چلنا ایک مہینے کی راہ تک ہم نے اُس کے لیے پگھلے ہوئے تانبے کا چشمہ بہا دیا اور ایسے جن اس کے تابع کر دیے جو اپنے رب کے حکم سے اس کے آگے کام کرتے تھے اُن میں سے جو ہمارے حکم سے سرتابی کرتا اس کو ہم بھڑکتی ہوئی آگ کا مزہ چکھاتے",
+        "id": "Dan Kami (tundukkan) angin bagi Sulaiman, yang perjalanannya pada waktu pagi sama dengan perjalanan sebulan dan perjalanannya pada waktu sore sama dengan perjalanan sebulan (pula)693) dan Kami alirkan cairan tembaga baginya. Dan sebagian dari jin ada yang bekerja di hadapannya (di bawah kekuasaannya) dengan izin Tuhannya. Dan siapa yang menyimpang di antara mereka dari perintah Kami, Kami rasakan kepadanya azab neraka yang apinya menyala-nyala"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "34:13",
+      "verse_number": 13,
+      "text_uthmani": "يَعۡمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٖ كَٱلۡجَوَابِ وَقُدُورٖ رَّاسِيَٰتٍۚ ٱعۡمَلُوٓاْ ءَالَ دَاوُۥدَ شُكۡرٗاۚ وَقَلِيلٞ مِّنۡ عِبَادِيَ ٱلشَّكُورُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "They made for him what he willed of elevated chambers, statues, bowls like reservoirs, and stationary kettles. [We said], \"Work, O family of David, in gratitude.\" And few of My servants are grateful",
+        "fr": "Ils exécutaient pour lui ce qu'il voulait: sanctuaires, statues, plateaux comme des bassins, et marmites bien ancrées. - «O famille de David, œuvrez par gratitude», alors qu'il y a eu peu de Mes serviteurs qui sont reconnaissants",
+        "tr": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, şükredin! Kullarımdan şükredenler pek azdır",
+        "ur": "وہ اُس کے لیے بناتے تھے جو کچھ وہ چاہتا، اونچی عمارتیں، تصویریں، بڑے بڑے حوض جیسے لگن اور اپنی جگہ سے نہ ہٹنے والی بھاری دیگیں اے آلِ داؤدؑ، عمل کرو شکر کے طریقے پر، میرے بندوں میں کم ہی شکر گزار ہیں",
+        "id": "Mereka (para jin itu) bekerja untuk Sulaiman sesuai dengan apa yang dikehendakinya di antaranya (membuat) gedung-gedung yang tinggi, patung-patung, piring-piring yang (besarnya) seperti kolam dan periuk-periuk yang tetap (berada di atas tungku). Bekerjalah wahai keluarga Dawud untuk bersyukur (kepada Allah). Dan sedikit sekali dari hamba-hamba-Ku yang bersyukur"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "34:14",
+      "verse_number": 14,
+      "text_uthmani": "فَلَمَّا قَضَيۡنَا عَلَيۡهِ ٱلۡمَوۡتَ مَا دَلَّهُمۡ عَلَىٰ مَوۡتِهِۦٓ إِلَّا دَآبَّةُ ٱلۡأَرۡضِ تَأۡكُلُ مِنسَأَتَهُۥۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلۡجِنُّ أَن لَّوۡ كَانُواْ يَعۡلَمُونَ ٱلۡغَيۡبَ مَا لَبِثُواْ فِي ٱلۡعَذَابِ ٱلۡمُهِينِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And when We decreed for Solomon death, nothing indicated to the jinn his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment",
+        "fr": "Puis, quand Nous décidâmes sa mort, il n'y eut pour les avertir de sa mort que la «bête de terre», qui rongea sa canne. Puis lorsqu'il s'écroula, il apparut de toute évidence aux djinns que s'ils savaient vraiment l'inconnu, ils ne seraient pas restés dans le supplice humiliant [de la servitude]",
+        "tr": "Süleyman'ın ölümüne hükmettiğimiz zaman, ancak değneğini yiyen kurt onun ölümünü cinlere farkettirdi. O, ölü olarak yere düşünce, ortaya çıktı ki, şayet cinler görülmeyeni bilmiş olsalardı alçak düşüren bir azap içinde kalmazlardı",
+        "ur": "پھر جب سلیمانؑ پر ہم نے موت کا فیصلہ نافذ کیا تو جنوں کو اس کی موت کا پتہ دینے والی کوئی چیز اُس گھن کے سوا نہ تھی جو اس کے عصا کو کھا رہا تھا اس طرح جب سلیمانؑ گر پڑا تو جنوں پر یہ بات کھل گئی کہ اگر وہ غیب کے جاننے والے ہوتے تو اس ذلت کے عذاب میں مبتلا نہ رہتے",
+        "id": "Maka ketika Kami telah menetapkan kematian atasnya (Sulaiman), tidak ada yang menunjukkan kepada mereka kematiannya itu kecuali rayap yang memakan tongkatnya. Maka ketika dia telah tersungkur, tahulah jin itu bahwa sekiranya mereka mengetahui hal yang gaib tentu mereka tidak menetap dalam siksa yang menghinakan"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "34:15",
+      "verse_number": 15,
+      "text_uthmani": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "There was for [the tribe of] Saba' in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], \"Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord",
+        "fr": "Il y avait assurément, pour la tribu de Saba' un Signe dans leurs habitat: deux jardins, l'un à droite et l'autre à gauche. «Mangez de ce que votre Seigneur vous a attribué, et soyez-Lui reconnaissants: une bonne contrée et un Seigneur Pardonneur»",
+        "tr": "Sebelilerin yurtlarında Allah'ın kudretine bir işaret vardır: Sağlı sollu iki bahçe vardı. Onlara: \"Rabbinizin verdiği rızıktan yiyin ve O'na şükredin. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti",
+        "ur": "سبا کے لیے اُن کے اپنے مسکن ہی میں ایک نشانی موجود تھی، دو باغ دائیں اور بائیں کھاؤ اپنے رب کا دیا ہوا رزق اور شکر بجا لاؤ اُس کا، ملک ہے عمدہ و پاکیزہ اور پروردگار ہے بخشش فرمانے والا",
+        "id": "Sungguh, bagi kaum Saba` ada tanda (kebesaran Tuhan) di tempat kediaman mereka yaitu dua buah kebun di sebelah kanan dan di sebeleh kiri, (kepada mereka dikatakan), \"Makanlah olehmu dari rezeki yang (dianugerahkan) Tuhanmu dan bersyukurlah kepada-Nya. (Negerimu) adalah negeri yang baik (nyaman) sedang (Tuhanmu) adalah Tuhan Yang Maha Pengampun"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "34:16",
+      "verse_number": 16,
+      "text_uthmani": "فَأَعۡرَضُواْ فَأَرۡسَلۡنَا عَلَيۡهِمۡ سَيۡلَ ٱلۡعَرِمِ وَبَدَّلۡنَٰهُم بِجَنَّتَيۡهِمۡ جَنَّتَيۡنِ ذَوَاتَيۡ أُكُلٍ خَمۡطٖ وَأَثۡلٖ وَشَيۡءٖ مِّن سِدۡرٖ قَلِيلٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees",
+        "fr": "Mais ils se détournèrent. Nous déchaînâmes contre eux l'inondation du Barrage, et leur changeâmes leurs deux jardins en deux jardins aux fruits amers, tamaris et quelques jujubiers",
+        "tr": "Fakat onlar yüz çevirdiler; bunun için Biz de üzerlerine Arim selini gönderdik, onların bahçelerini, buruk yemişli, ılgınlık ve içinde biraz da sedir ağacı bulunan iki bahçeye çevirdik",
+        "ur": "مگر وہ منہ موڑ گئے آخرکار ہم نے اُن پر بند توڑ سیلاب بھیج دیا اور ان کے پچھلے دو باغوں کی جگہ دو اور باغ انہیں دیے جن میں کڑوے کسیلے پھل اور جھاؤ کے درخت تھے اور کچھ تھوڑی سی بیریاں",
+        "id": "(Tetapi mereka berpaling, maka Kami kirim kepada mereka banjir yang besar694) dan Kami ganti kedua kebun mereka dengan dua kebun yang ditumbuhi (pohon-pohon) yang berbuah pahit, pohon Aṡl dan sedikit pohon Sidr"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "34:17",
+      "verse_number": 17,
+      "text_uthmani": "ذَٰلِكَ جَزَيۡنَٰهُم بِمَا كَفَرُواْۖ وَهَلۡ نُجَٰزِيٓ إِلَّا ٱلۡكَفُورَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "[By] that We repaid them because they disbelieved. And do We [thus] repay except the ungrateful",
+        "fr": "Ainsi les rétribuâmes Nous pour leur mécréance. Saurions-Nous sanctionner un autre que le mécréant",
+        "tr": "İşte böylece, inkarlarından ötürü onları cezalandırdık. Biz nankörden başkasına ceza mı veririz",
+        "ur": "یہ تھا ان کے کفر کا بدلہ جو ہم نے ان کو دیا، اور ناشکرے انسان کے سوا ایسا بدلہ ہم اور کسی کو نہیں دیتے",
+        "id": "Demikianlah Kami memberi balasan kepada mereka karena kekafiran mereka. Dan Kami tidak menjatuhkan azab (yang demikian itu), melainkan hanya kepada orang-orang yang sangat kafir"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "34:18",
+      "verse_number": 18,
+      "text_uthmani": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And We placed between them and the cities which We had blessed [many] visible cities. And We determined between them the [distances of] journey, [saying], \"Travel between them by night or day in safety",
+        "fr": "Et Nous avions placé entre eux et les cités que Nous avions bénies, d'autres cités proéminentes, et Nous avions évalué les étapes de voyage entre elles. «Voyagez entre elles pendant des nuits et des jours, en sécurité»",
+        "tr": "Onlarla, kutlu kıldığımız şehirler arasında, karşıdan karşıya görünen kasabalar var etmiş, oraları gezilecek belirli konak yerleri yapmıştık, \"Oralarda geceleri ve gündüzleri güven içinde gezin\" demiştik",
+        "ur": "اور ہم نے اُن کے اور اُن بستیوں کے درمیان، جن کو ہم نے برکت عطا کی تھی، نمایاں بستیاں بسا دی تھیں اور اُن میں سفر کی مسافتیں ایک اندازے پر رکھ دی تھیں چلو پھرو اِن راستوں میں رات دن پورے امن کے ساتھ",
+        "id": "Dan Kami jadikan antara mereka (penduduk Saba`) dan negeri-negeri yang Kami berkahi (Syam), beberapa negeri yang berdekatan dan Kami tetapkan antara negeri-negeri itu (jarak-jarak) perjalanan. Berjalanlah kamu di negeri-negeri itu pada malam dan siang hari dengan aman"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "34:19",
+      "verse_number": 19,
+      "text_uthmani": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But [insolently] they said, \"Our Lord, lengthen the distance between our journeys,\" and wronged themselves, so We made them narrations and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful",
+        "fr": "Puis, ils dirent: «Seigneur, allonge les distances entre nos étapes», et ils se firent du tort à eux-mêmes. Nous fîmes d'eux, donc, des sujets de légendes et les désintégrâmes totalement. Il y a en cela des avertissements pour tous grand endurant et grand reconnaissant",
+        "tr": "Ama onlar: \"Rabbimiz! Yolculuklarımızın mesafesini uzak kıl\" deyip kendilerine yazık ettiler. Biz de onları efsane yapıverdik, darmadağın ettik. Doğrusu bunlarda, pek sabreden ve çok şükreden kimseler için dersler vardır",
+        "ur": "مگر انہوں نے کہا \"اے ہمارے رب، ہمارے سفر کی مسافتیں لمبی کر دے\" انہوں نے اپنے اوپر آپ ظلم کیا آخرکار ہم نے انہیں افسانہ بنا کر رکھ دیا اور انہیں بالکل تتربتر کر ڈالا یقیناً اس میں نشانیاں ہیں ہر اُس شخص کے لیے جو بڑا صابر و شاکر ہو",
+        "id": "(Maka mereka berkata, \"Ya Tuhan kami, jauhkanlah jarak perjalanan kami,\"697) dan (berarti mereka) menzalimi diri mereka sendiri; maka Kami jadikan mereka bahan pembicaraan dan Kami hancurkan mereka sehancur-hancurnya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang yang sabar dan bersyukur"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "34:20",
+      "verse_number": 20,
+      "text_uthmani": "وَلَقَدۡ صَدَّقَ عَلَيۡهِمۡ إِبۡلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقٗا مِّنَ ٱلۡمُؤۡمِنِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And Iblees had already confirmed through them his assumption, so they followed him, except for a party of believers",
+        "fr": "Et Satan a très certainement rendu véridique sa conjecture à leur égard. Ils l'ont suivi donc, sauf un groupe parmi les croyants",
+        "tr": "And olsun ki İblis, onlar hakkındaki görüşünü doğru çıkartmış; inananlardan bir topluluk dışında hepsi ona uymuşlardı",
+        "ur": "اُن کے معاملہ میں ابلیس نے اپنا گمان صحیح پایا اور انہوں نے اُسی کی پیروی کی، بجز ایک تھوڑے سے گروہ کے جو مومن تھا",
+        "id": "Dan sungguh, Iblis telah dapat meyakinkan terhadap mereka kebenaran sangkaannya, lalu mereka mengikutinya, kecuali sebagian dari orang-orang mukmin"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "34:21",
+      "verse_number": 21,
+      "text_uthmani": "وَمَا كَانَ لَهُۥ عَلَيۡهِم مِّن سُلۡطَٰنٍ إِلَّا لِنَعۡلَمَ مَن يُؤۡمِنُ بِٱلۡأٓخِرَةِ مِمَّنۡ هُوَ مِنۡهَا فِي شَكّٖۗ وَرَبُّكَ عَلَىٰ كُلِّ شَيۡءٍ حَفِيظٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And he had over them no authority except [it was decreed] that We might make evident who believes in the Hereafter from who is thereof in doubt. And your Lord, over all things, is Guardian",
+        "fr": "Et pourtant il n'avait sur eux aucun pouvoir si ce n'est que Nous voulions distinguer celui qui croyait en l'au-delà et celui qui doutait. Ton Seigneur, cependant, assure la sauvegarde de toute chose",
+        "tr": "Oysa İblis'in onlar üzerinde bir nüfuzu yoktu; ama Biz ahirete inanan kimselerle ondan şüphede olanları, işte böylece ortaya koyarız. Rabbin her şeyi gözetip koruyandır",
+        "ur": "ابلیس کو اُن پر کوئی اقتدار حاصل نہ تھا مگر جو کچھ ہوا وہ اس لیے ہوا کہ ہم یہ دیکھنا چاہتے تھے کہ کون آخرت کا ماننے والا ہے اور کون اس کی طرف سے شک میں پڑا ہوا ہے تیرا رب ہر چیز پر نگران ہے",
+        "id": "Dan tidak ada kekuasaan (Iblis) terhadap mereka, melainkan hanya agar Kami dapat membedakan siapa yang beriman kepada adanya akhirat dan siapa yang ragu-ragu tentang (akhirat) itu. Dan Tuhanmu Maha Memelihara segala sesuatu"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "34:22",
+      "verse_number": 22,
+      "text_uthmani": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ مِثۡقَالَ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَمَا لَهُمۡ فِيهِمَا مِن شِرۡكٖ وَمَا لَهُۥ مِنۡهُم مِّن ظَهِيرٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, [O Muhammad], \"Invoke those you claim [as deities] besides Allah.\" They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant",
+        "fr": "Dis: «Invoquez ceux qu'en dehors d'Allah vous prétendez [être des divinités]. Ils ne possèdent même pas le poids d'un atome, ni dans les cieux ni sur la terre. Ils n'ont jamais été associés à leur création et Il n'a personne parmi eux pour Le soutenir»",
+        "tr": "De ki: \"Allah'ı bırakıp de göklerde ve yerde zerre kadar bir şeye sahip olmadığı, her ikisinde de bir ortaklığı bulunmadığı ve hiçbiri Allah'a yardımcı olmadığı halde tanrı olduklarını ileri sürdüklerinizi yardıma çağırsanıza",
+        "ur": "(اے نبیؐ، اِن مشرکین سے) کہو کہ پکار دیکھو اپنے اُن معبودوں کو جنہیں تم اللہ کے سوا اپنا معبود سمجھے بیٹھے ہو وہ نہ آسمانوں میں کسی ذرہ برابر چیز کے مالک ہیں نہ زمین میں وہ آسمان و زمین کی ملکیت میں شریک بھی نہیں ہیں ان میں سے کوئی اللہ کا مدد گار بھی نہیں ہے",
+        "id": "Katakanlah (Muhammad), \"Serulah mereka yang kamu anggap (sebagai tuhan) selain Allah! Mereka tidak memiliki (kekuasaan) seberat zarah pun di langit dan di bumi, dan mereka sama sekali tidak mempunyai peran serta dalam (penciptaan) langit dan bumi dan tidak ada di antara mereka yang menjadi pembantu bagi-Nya"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "34:23",
+      "verse_number": 23,
+      "text_uthmani": "وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts, they will say [to one another], \"What has your Lord said?\" They will say, \"The truth.\" And He is the Most High, the Grand",
+        "fr": "L'intercession auprès de Lui ne profite qu'à celui en faveur duquel Il la permet. Quand ensuite la frayeur se sera éloignée de leurs cœurs, ils diront: «Qu'a dit votre Seigneur?» Ils répondront: «La Vérité; C'est Lui le Sublime, le Grand»",
+        "tr": "Allah'ın katında, kendisine izin verilenden başka kimse şefaat edemez. Sonunda, gönüllerindeki korku giderilince birbirlerine \"Rabbiniz ne söyledi?\" diye sorarlar; \"Hak söyledi\" derler. O, yücedir, büyüktür",
+        "ur": "اور اللہ کے حضور کوئی شفاعت بھی کسی کے لیے نافع نہیں ہو سکتی بجز اُس شخص کے جس کے لیے اللہ نے سفارش کی اجازت دی ہو حتیٰ کہ جب لوگوں کے دلوں سے گھبراہٹ دور ہو گی تو وہ (سفارش کرنے والوں سے) پوچھیں گے کہ تمہارے رب نے کیا جواب دیا وہ کہیں گے کہ ٹھیک جواب ملا ہے اور وہ بزرگ و برتر ہے",
+        "id": "Dan syafaat (pertolongan) di sisi-Nya hanya berguna bagi orang yang telah diizinkan-Nya (memperoleh syafaat itu). Sehingga apabila telah dihilangkan ketakutan dari hati mereka, mereka berkata, \"Apakah yang telah difirmankan oleh Tuhanmu?\" Mereka menjawab, \"(Perkataan) yang benar,\" dan Dialah Yang Mahatinggi, Mahabesar"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "34:24",
+      "verse_number": 24,
+      "text_uthmani": "۞قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُلِ ٱللَّهُۖ وَإِنَّآ أَوۡ إِيَّاكُمۡ لَعَلَىٰ هُدًى أَوۡ فِي ضَلَٰلٖ مُّبِينٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Who provides for you from the heavens and the earth?\" Say, \"Allah. And indeed, we or you are either upon guidance or in clear error",
+        "fr": "Dis: «Qui vous nourrit du ciel et de la terre?» Dis: «Allah. C'est nous ou bien vous qui sommes sur une bonne voie, ou dans un égarement manifeste»",
+        "tr": "De ki: \"Göklerden ve yerden sizi rızıklandıran kimdir?\" De ki: \"Allah'tır. Öyleyse doğru yolda veya apaçık bir sapıklıkta olan ya biziz ya sizsiniz",
+        "ur": "(اے نبیؐ) اِن سے پوچھو، \"کون تم کو آسمانوں اور زمین سے رزق دیتا ہے؟\" کہو \"اللہ اب لامحالہ ہم میں اور تم میں سے کوئی ایک ہی ہدایت پر ہے یا کھلی گمراہی میں پڑا ہوا ہے",
+        "id": "Katakanlah (Muhammad), \"Siapakah yang memberi rezeki kepadamu dari langit dan dari bumi?\" Katakanlah, \"Allah,\" dan sesungguhnya kami atau kamu (orang-orang musyrik), pasti berada dalam kebenaran atau dalam kesesatan yang nyata"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "34:25",
+      "verse_number": 25,
+      "text_uthmani": "قُل لَّا تُسۡـَٔلُونَ عَمَّآ أَجۡرَمۡنَا وَلَا نُسۡـَٔلُ عَمَّا تَعۡمَلُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"You will not be asked about what we committed, and we will not be asked about what you do",
+        "fr": "Dis: «Vous ne serez pas interrogés sur les crimes que nous avons commis, et nous ne serons pas interrogés sur ce que vous faites»",
+        "tr": "De ki: \"İşlediğimiz suçlardan siz sorumlu olmazsınız, sizin yaptıklarınızdan da biz sorumlu olmayız",
+        "ur": "ان سے کہو، \"جو قصور ہم نے کیا ہو اس کی کوئی باز پرس تم سے نہ ہو گی اور جو کچھ تم کر رہے ہو اس کی کوئی جواب طلبی ہم سے نہیں کی جائے گی",
+        "id": "Katakanlah, \"Kamu tidak akan dimintai tanggung jawab atas apa yang kami kerjakan dan kami juga tidak akan dimintai tanggung jawab atas apa yang kamu kerjakan"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "34:26",
+      "verse_number": 26,
+      "text_uthmani": "قُلۡ يَجۡمَعُ بَيۡنَنَا رَبُّنَا ثُمَّ يَفۡتَحُ بَيۡنَنَا بِٱلۡحَقِّ وَهُوَ ٱلۡفَتَّاحُ ٱلۡعَلِيمُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Our Lord will bring us together; then He will judge between us in truth. And He is the Knowing Judge",
+        "fr": "Dis: «Notre Seigneur nous réunira, puis Il tranchera entre nous, avec la vérité, car c'est Lui le Grand Juge, l'Omniscient»",
+        "tr": "De ki: \"Rabbimiz sonunda hepimizi toplar, sonra aramızda adaletle hükmeder. Adaletle hükmeden, bilen ancak O'dur",
+        "ur": "کہو، \"ہمارا رب ہم کو جمع کرے گا، پھر ہمارے درمیان ٹھیک ٹھیک فیصلہ کر دے گا وہ ایسا زبردست حاکم ہے جو سب کچھ جانتا ہے",
+        "id": "Katakanlah, \"Tuhan kita akan mengumpulkan kita semua, kemudian Dia memberi keputusan antara kita dengan benar. Dan Dia Yang Maha Pemberi keputusan, Maha Mengetahui"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "34:27",
+      "verse_number": 27,
+      "text_uthmani": "قُلۡ أَرُونِيَ ٱلَّذِينَ أَلۡحَقۡتُم بِهِۦ شُرَكَآءَۖ كَلَّاۚ بَلۡ هُوَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Show me those whom you have attached to Him as partners. No! Rather, He [alone] is Allah, the Exalted in Might, the Wise",
+        "fr": "Dis: «Montrez-moi ceux que vous Lui avez donnés comme associés. Eh bien, non! C'est plutôt Lui, Allah, le Puissant, le Sage»",
+        "tr": "De ki: \"O'na taktığınız ortakları bana gösterin, yoktur ki! O, güçlü olan, hakim olan Allah'tır",
+        "ur": "اِن سے کہو، \"ذرا مجھے دکھاؤ تو سہی وہ کون ہستیاں ہیں جنہیں تم نے اس کے ساتھ شریک لگا رکھا ہے\" ہرگز نہیں، زبردست اور دانا تو بس وہ اللہ ہی ہے",
+        "id": "Katakanlah, \"Perlihatkanlah kepadaku sembahan-sembahan yang kamu hubungkan dengan Dia sebagai sekutu-sekutu(-Nya), tidak mungkin! Sebenarnya Dialah Allah Yang Mahaperkasa, Mahabijaksana"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "34:28",
+      "verse_number": 28,
+      "text_uthmani": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا كَآفَّةٗ لِّلنَّاسِ بَشِيرٗا وَنَذِيرٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And We have not sent you except comprehensively to mankind as a bringer of good tidings and a warner. But most of the people do not know",
+        "fr": "Et Nous ne t'avons envoyé qu'en tant qu'annonciateur et avertisseur pour toute l'humanité. Mais la plupart des gens ne savent pas",
+        "tr": "Biz seni bütün insanlara ancak müjdeci ve uyarıcı olarak göndermişizdir; fakat insanların çoğu bilmez",
+        "ur": "اور (اے نبیؐ،) ہم نے تم کو تمام ہی انسانوں کے لیے بشیر و نذیر بنا کر بھیجا ہے، مگر اکثر لوگ جانتے نہیں ہیں",
+        "id": "Dan Kami tidak mengutus engkau (Muhammad), melainkan kepada semua umat manusia sebagai pembawa berita gembira dan sebagai pemberi peringatan, tetapi kebanyakan manusia tidak mengetahui"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "34:29",
+      "verse_number": 29,
+      "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And they say, \"When is this promise, if you should be truthful",
+        "fr": "Et ils disent: «A quand cette promesse, si vous êtes véridiques?»",
+        "tr": "Doğru sözlü iseniz söyleyin bu vaad ne zamandır?\" derler",
+        "ur": "یہ لوگ تم سے کہتے ہیں کہ وہ (قیامت کا) وعدہ کب پورا ہو گا اگر تم سچے ہو؟",
+        "id": "Dan mereka berkata, \"Kapankah (datangnya) janji ini, jika kamu orang yang benar"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "34:30",
+      "verse_number": 30,
+      "text_uthmani": "قُل لَّكُم مِّيعَادُ يَوۡمٖ لَّا تَسۡتَـٔۡخِرُونَ عَنۡهُ سَاعَةٗ وَلَا تَسۡتَقۡدِمُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"For you is the appointment of a Day [when] you will not remain thereafter an hour, nor will you precede [it]",
+        "fr": "Dis: «Le rendez-vous est pour un jour que vous ne saurez retarder d'une heure, ni avancer!»",
+        "tr": "De ki: \"Size, bir gün tayin edilmiştir. Ondan bir saat ne geri kalabilirsiniz ne de öne geçebilirsiniz",
+        "ur": "کہو تمہارے لیے ایک ایسے دن کی میعاد مقرر ہے جس کے آنے میں نہ ایک گھڑی بھر کی تاخیر تم کر سکتے ہو اور نہ ایک گھڑی بھر پہلے اسے لا سکتے ہو",
+        "id": "Katakanlah, \"Bagimu ada hari yang telah dijanjikan (hari Kiamat), kamu tidak dapat meminta penundaan atau percepatannya sesaat pun"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "34:31",
+      "verse_number": 31,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ مَوۡقُوفُونَ عِندَ رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And those who disbelieve say, \"We will never believe in this Qur'an nor in that before it.\" But if you could see when the wrongdoers are made to stand before their Lord, refuting each other's words... Those who were oppressed will say to those who were arrogant, \"If not for you, we would have been believers",
+        "fr": "Et ceux qui avaient mécru dirent: «Jamais nous ne croirons à ce Coran ni à ce qui l'a précédé». Et si tu pouvais voir quand les injustes seront debout devant leur Seigneur, se renvoyant la parole les uns aux autres! Ceux que l'on considérait comme faibles diront à ceux qui s'enorgueillissaient: «Sans vous, nous aurions certes été croyants»",
+        "tr": "İnkar edenler: \"Bu Kuran'a ve ondan öncekilere inanmayacağız\" dediler. Sen bu zalimleri, Rablerinin huzurunda dikilmiş oldukları zaman, suçu birbirine atıp dururken bir görsen! Güçsüz sayılanlar, büyüklük taslayanlara: \"Siz olmasaydınız biz inanmış olacaktık\" derler",
+        "ur": "یہ کافر کہتے ہیں کہ \"ہم ہرگز اِس قرآن کو نہ مانیں گے اور نہ اس سے پہلے آئی ہوئی کسی کتاب کو تسلیم کریں گے\" کاش تم دیکھو اِن کا حال اُس وقت جب یہ ظالم اپنے رب کے حضور کھڑے ہوں گے اُس وقت یہ ایک دوسرے پر الزام دھریں گے جو لوگ دنیا میں دبا کر رکھے گئے تھے وہ بڑے بننے والوں سے کہیں گے کہ \"اگر تم نہ ہوتے تو ہم مومن ہوتے",
+        "id": "Dan orang-orang kafir berkata, \"Kami tidak akan beriman kepada Alquran ini dan tidak (pula) kepada kitab yang sebelumnya.\" Dan (alangkah mengerikan) kalau kamu melihat ketika orang-orang yang zalim itu dihadapkan kepada Tuhannya, sebagian mereka mengembalikan perkataan kepada sebagian yang lain; orang-orang yang dianggap lemah berkata kepada orang-orang yang menyombongkan diri, \"Kalau tidaklah karena kamu tentulah kami menjadi orang-orang mukmin"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "34:32",
+      "verse_number": 32,
+      "text_uthmani": "قَالَ ٱلَّذِينَ ٱسۡتَكۡبَرُواْ لِلَّذِينَ ٱسۡتُضۡعِفُوٓاْ أَنَحۡنُ صَدَدۡنَٰكُمۡ عَنِ ٱلۡهُدَىٰ بَعۡدَ إِذۡ جَآءَكُمۖ بَلۡ كُنتُم مُّجۡرِمِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Those who were arrogant will say to those who were oppressed, \"Did we avert you from guidance after it had come to you? Rather, you were criminals",
+        "fr": "Ceux qui s'enorgueillissaient diront à ceux qu'ils considéraient comme faibles: «Est-ce nous qui vous avons repoussés de la bonne direction après qu'elle vous fut venue? Mais vous étiez plutôt des criminels»",
+        "tr": "Büyüklük taslayanlar, Güçsüz sayılanlara: \"Size doğruluk rehberi geldikten sonra ondan sizi biz mi alıkoyduk? Hayır; zaten suçlu kimselerdiniz\" derler",
+        "ur": "وہ بڑے بننے والے ان دبے ہوئے لوگوں کو جواب دیں گے \"کیا ہم نے تمہیں اُس ہدایت سے روکا تھا جو تمہارے پاس آئی تھی؟ نہیں، بلکہ تم خود مجرم تھے",
+        "id": "Orang-orang yang menyombongkan diri berkata kepada orang-orang yang dianggap lemah, \"Kamikah yang telah menghalangimu untuk memperoleh petunjuk setelah petunjuk itu datang kepadamu? (Tidak!) Sebenarnya kamu sendirilah orang-orang yang berbuat dosa"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "34:33",
+      "verse_number": 33,
+      "text_uthmani": "وَقَالَ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ بَلۡ مَكۡرُ ٱلَّيۡلِ وَٱلنَّهَارِ إِذۡ تَأۡمُرُونَنَآ أَن نَّكۡفُرَ بِٱللَّهِ وَنَجۡعَلَ لَهُۥٓ أَندَادٗاۚ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۚ وَجَعَلۡنَا ٱلۡأَغۡلَٰلَ فِيٓ أَعۡنَاقِ ٱلَّذِينَ كَفَرُواْۖ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Those who were oppressed will say to those who were arrogant, \"Rather, [it was your] conspiracy of night and day when you were ordering us to disbelieve in Allah and attribute to Him equals.\" But they will [all] confide regret when they see the punishment; and We will put shackles on the necks of those who disbelieved. Will they be recompensed except for what they used to do",
+        "fr": "Et ceux que l'on considérait comme faibles diront à ceux qui s'enorgueillissaient: «C'était votre stratagème, plutôt, nuit et jour, de nous commander de ne pas croire en Allah et de Lui donner des égaux». Et ils cacheront leur regret quand ils verront le châtiment. Nous placerons des carcans aux cous de ceux qui ont mécru: les rétribuerait-on autrement que selon ce qu'ils œuvraient?»",
+        "tr": "Güçsüz sayılanlar da büyüklük taslayanlara: \"Hayır gece gündüz hile kuruyor ve bize Allah'ı inkar etmemizi, O'na ortaklar koşmamızı emrediyordunuz\" derler. Azabı gördüklerinde, ettiklerine içleri yanar. İnkar edenlerin boyunlarına demir halkalar vururuz. Yaptıklarından başka bir şeyin mi cezasını çekerler",
+        "ur": "وہ دبے ہوئے لوگ ان بڑے بننے والوں سے کہیں گے، \"نہیں، بلکہ شب و روز کی مکاری تھی جب تم ہم سے کہتے تھے کہ ہم اللہ سے کفر کریں اور دوسروں کو اس کا ہمسر ٹھیرائیں\" آخرکار جب یہ لوگ عذاب دیکھیں گے تو اپنے دلوں میں پچھتائیں گے اور ہم اِن منکرین کے گلوں میں طوق ڈال دیں گے کیا لوگوں کو اِس کے سوا اور کوئی بدلہ دیا جا سکتا ہے کہ جیسے اعمال اُن کے تھے ویسی ہی جزا وہ پائیں؟",
+        "id": "Dan orang-orang yang dianggap lemah berkata kepada orang-orang yang menyombongkan diri, \"(Tidak!) Sebenarnya tipu daya(mu) pada waktu malam dan siang (yang menghalangi kami), ketika kamu menyeru kami agar kami kafir kepada Allah dan menjadikan sekutu-sekutu bagi-Nya.\" Mereka menyatakan penyesalan ketika mereka melihat azab. Dan Kami pasangkan belenggu di leher orang-orang yang kafir. Mereka tidak dibalas melainkan sesuai dengan apa yang telah mereka kerjakan"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "34:34",
+      "verse_number": 34,
+      "text_uthmani": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And We did not send into a city any warner except that its affluent said, \"Indeed we, in that with which you were sent, are disbelievers",
+        "fr": "Et Nous n'avons envoyé aucun avertisseur dans une cité sans que ses gens aisés n'aient dit: «Nous ne croyons pas au message avec lequel vous êtes envoyés»",
+        "tr": "Doğrusu uyarıcı göndermiş olduğumuz her kentin varlıklı kimseleri, \"Biz sizinle gönderilen şeyleri inkar ediyoruz\" dediler",
+        "ur": "کبھی ایسا نہیں ہوا کہ ہم نے کسی بستی میں ایک خبردار کرنے والا بھیجا ہو اور اس بستی کے کھاتے پیتے لوگوں نے یہ نہ کہا ہو کہ جو پیغام تم لے کر آئے ہو اس کو ہم نہیں مانتے",
+        "id": "Dan setiap Kami mengutus seorang pemberi peringatan kepada suatu negeri, orang-orang yang hidup mewah (di negeri itu) berkata, \"Kami benar-benar mengingkari apa yang kamu sampaikan sebagai utusan"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "34:35",
+      "verse_number": 35,
+      "text_uthmani": "وَقَالُواْ نَحۡنُ أَكۡثَرُ أَمۡوَٰلٗا وَأَوۡلَٰدٗا وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And they said, \"We are more [than the believers] in wealth and children, and we are not to be punished",
+        "fr": "Et ils dirent: «Nous avons davantage de richesses et d'enfants et nous ne serons pas châtiés»",
+        "tr": "Ve dediler ki: \"Malları ve çocukları en çok olan bizleriz, azaba uğratılacak da değiliz",
+        "ur": "انہیں نے ہمیشہ یہی کہا کہ ہم تم سے زیادہ مال اولاد رکھتے ہیں اور ہم ہرگز سزا پانے والے نہیں ہیں",
+        "id": "Dan mereka berkata, \"Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "34:36",
+      "verse_number": 36,
+      "text_uthmani": "قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Indeed, my Lord extends provision for whom He wills and restricts [it], but most of the people do not know",
+        "fr": "Dis: «Mon Seigneur dispense avec largesse ou restreint Ses dons à qui Il veut. Mais la plupart des gens ne savent pas»",
+        "tr": "De ki: \"Şüphesiz Rabbim rızkı dilediğine genişletir ve bir ölçüye göre verir, fakat insanların çoğu bilmezler",
+        "ur": "اے نبیؐ، اِن سے کہو میرا رب جسے چاہتا ہے کشادہ رزق دیتا ہے اور جسے چاہتا ہے نپا تلا عطا کرتا ہے، مگر اکثر لوگ اس کی حقیقت نہیں جانتے",
+        "id": "Katakanlah, \"Sungguh, Tuhanku melapangkan rezeki bagi siapa yang Dia kehendaki dan membatasinya (bagi siapa yang Dia kehendaki), tetapi kebanyakan manusia tidak mengetahui"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "34:37",
+      "verse_number": 37,
+      "text_uthmani": "وَمَآ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُم بِٱلَّتِي تُقَرِّبُكُمۡ عِندَنَا زُلۡفَىٰٓ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَـٰٓئِكَ لَهُمۡ جَزَآءُ ٱلضِّعۡفِ بِمَا عَمِلُواْ وَهُمۡ فِي ٱلۡغُرُفَٰتِ ءَامِنُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure]",
+        "fr": "Ni vos biens ni vos enfants ne vous rapprocheront à proximité de Nous. Sauf celui qui croit et œuvre dans le bien. Ceux-là auront une double récompense pour ce qu'ils œuvraient, tandis qu'ils seront en sécurité, aux étages supérieurs (du Paradis)",
+        "tr": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, inanıp yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; işte onlar, yüksek derecelerde, güven içindedirler",
+        "ur": "یہ تمہاری دولت اور تمہاری اولاد نہیں ہے جو تمہیں ہم سے قریب کرتی ہو ہاں مگر جو ایمان لائے اور نیک عمل کرے یہی لوگ ہیں جن کے لیے اُن کے عمل کی دہری جزا ہے، اور وہ بلند و بالا عمارتوں میں اطمینان سے رہیں گے",
+        "id": "Dan bukanlah harta dan anak-anakmu yang mendekatkan kamu kepada Kami; melainkan orang-orang yang beriman dan mengerjakan kebajikan, mereka itulah yang memperoleh balasan yang berlipat ganda atas apa yang telah mereka kerjakan; dan mereka aman sentosa di tempat-tempat yang tinggi (dalam surga)"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "34:38",
+      "verse_number": 38,
+      "text_uthmani": "وَٱلَّذِينَ يَسۡعَوۡنَ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَـٰٓئِكَ فِي ٱلۡعَذَابِ مُحۡضَرُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And the ones who strive against Our verses to cause [them] failure - those will be brought into the punishment [to remain]",
+        "fr": "Et quant à ceux qui s'efforcent à rendre Nos versets inefficients, ceux-là seront forcés de se présenter au châtiment",
+        "tr": "Ayetlerimizi etkisiz kılmaya çalışanlar; işte onlar, azabla yüz yüze bırakılırlar",
+        "ur": "رہے وہ لوگ جو ہماری آیات کو نیچا دکھانے کے لیے دوڑ دھوپ کرتے ہیں، تو وہ عذاب میں مبتلا ہوں گے",
+        "id": "Dan orang-orang yang berusaha menentang ayat-ayat Kami melemahkan (menggagalkan azab Kami), mereka itu dimasukkan ke dalam azab"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "34:39",
+      "verse_number": 39,
+      "text_uthmani": "قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ لَهُۥۚ وَمَآ أَنفَقۡتُم مِّن شَيۡءٖ فَهُوَ يُخۡلِفُهُۥۖ وَهُوَ خَيۡرُ ٱلرَّـٰزِقِينَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Indeed, my Lord extends provision for whom He wills of His servants and restricts [it] for him. But whatever thing you spend [in His cause] - He will compensate it; and He is the best of providers",
+        "fr": "Dis: «Mon Seigneur dispense avec largesse ou restreint Ses dons à qui Il veut parmi ses serviteurs. Et toute dépense que vous faites [dans le bien], Il la remplace, et c'est Lui le Meilleur des donateurs»",
+        "tr": "De ki: \"Doğrusu Rabbim, kullarından dilediğinin rızkını hem genişletir ve hem de ona daraltıp bir ölçüye göre verir; sarfettiğiniz herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır",
+        "ur": "اے نبیؐ، ان سے کہو، \"میرا رب اپنے بندوں میں سے جسے چاہتا ہے کھلا رزق دیتا ہے اور جسے چاہتا ہے نپا تلا دیتا ہے جو کچھ تم خرچ کر دیتے ہو اُس کی جگہ وہی تم کو اور دیتا ہے، وہ سب رازقوں سے بہتر رازق ہے",
+        "id": "Katakanlah, \"Sungguh, Tuhanku melapangkan rezeki dan membatasinya bagi siapa yang Dia kehendaki di antara hamba-hamba-Nya.\" Dan apa saja yang kamu infakkan, Allah akan menggantinya dan Dialah pemberi rezeki yang terbaik"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "34:40",
+      "verse_number": 40,
+      "text_uthmani": "وَيَوۡمَ يَحۡشُرُهُمۡ جَمِيعٗا ثُمَّ يَقُولُ لِلۡمَلَـٰٓئِكَةِ أَهَـٰٓؤُلَآءِ إِيَّاكُمۡ كَانُواْ يَعۡبُدُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And [mention] the Day when He will gather them all and then say to the angels, \"Did these [people] used to worship you",
+        "fr": "Et un jour Il les rassemblera tous. Puis Il dira aux Anges: «Est-ce vous que ces gens-là adoraient?»",
+        "tr": "Allah bir gün onların hepsini diriltip toplar, sonra meleklere: \"Bunlar mı size tapıyordu?\" der",
+        "ur": "اور جس دن وہ تمام انسانوں کو جمع کرے گا پھر فرشتوں سے پوچھے گا \"کیا یہ لوگ تمہاری ہی عبادت کیا کرتے تھے؟",
+        "id": "Dan (ingatlah) pada hari (ketika) Allah mengumpulkan mereka semuanya kemudian Dia berfirman kepada para malaikat, \"Apakah kepadamu mereka ini dahulu menyembah"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "34:41",
+      "verse_number": 41,
+      "text_uthmani": "قَالُواْ سُبۡحَٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِمۖ بَلۡ كَانُواْ يَعۡبُدُونَ ٱلۡجِنَّۖ أَكۡثَرُهُم بِهِم مُّؤۡمِنُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "They will say, \"Exalted are You! You, [O Allah], are our benefactor not them. Rather, they used to worship the jinn; most of them were believers in them",
+        "fr": "Ils diront: «Gloire à Toi! Tu es notre Allié en dehors d'eux. Ils adoraient plutôt les djinns, en qui la plupart d'entre eux croyaient",
+        "tr": "Melekler: \"Haşa, bizim dostumuz onlar değil, Sensin. Hayır; onlar bize değil cinlere tapıyorlardı, çoğu onlara inanıyorlardı\" derler",
+        "ur": "تو وہ جواب دیں گے کہ \"پاک ہے آپ کی ذات، ہمارا تعلق تو آپ سے ہے نہ کہ اِن لوگوں سے دراصل یہ ہماری نہیں بلکہ جنوں کی عبادت کرتے تھے، ان میں سے اکثر انہی پر ایمان لائے ہوئے تھے",
+        "id": "(Para malaikat itu menjawab, \"Mahasuci Engkau. Engkaulah pelindung kami, bukan mereka; bahkan mereka telah menyembah jin;700) kebanyakan mereka beriman kepada jin"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "34:42",
+      "verse_number": 42,
+      "text_uthmani": "فَٱلۡيَوۡمَ لَا يَمۡلِكُ بَعۡضُكُمۡ لِبَعۡضٖ نَّفۡعٗا وَلَا ضَرّٗا وَنَقُولُ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلنَّارِ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "But today you do not hold for one another [the power of] benefit or harm, and We will say to those who wronged, \"Taste the punishment of the Fire, which you used to deny",
+        "fr": "Ce jour-là donc, vous n'aurez aucun moyen pour profiter ou nuire les uns aux autres, tandis que Nous dirons aux injustes: «Goûtez au châtiment du Feu que vous traitiez de mensonge»",
+        "tr": "Zalimlere: \"Yalanladığınız ateşin azabını tadın, bugün birbirinize ne fayda ve ne de zarar verebilirsiniz\" deriz",
+        "ur": "(اُس وقت ہم کہیں گے کہ) آج تم میں سے کوئی نہ کسی کو فائدہ پہنچا سکتا ہے نہ نقصان اور ظالموں سے ہم کہہ دیں گے کہ اب چکھو اس عذاب جہنم کا مزہ جسے تم جھٹلایا کرتے تھے",
+        "id": "Maka pada hari ini sebagian kamu tidak kuasa (mendatangkan) manfaat maupun (menolak) mudarat kepada sebagian yang lain. Dan Kami katakan kepada orang-orang yang zalim, \"Rasakanlah olehmu azab neraka yang dahulu kamu dustakan"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "34:43",
+      "verse_number": 43,
+      "text_uthmani": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ إِلَّا رَجُلٞ يُرِيدُ أَن يَصُدَّكُمۡ عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُكُمۡ وَقَالُواْ مَا هَٰذَآ إِلَّآ إِفۡكٞ مُّفۡتَرٗىۚ وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلۡحَقِّ لَمَّا جَآءَهُمۡ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And when our verses are recited to them as clear evidences, they say, \"This is not but a man who wishes to avert you from that which your fathers were worshipping.\" And they say, \"This is not except a lie invented.\" And those who disbelieve say of the truth when it has come to them, \"This is not but obvious magic",
+        "fr": "Et quand Nos versets édifiants leur sont récités, ils disent: Ce n'est là qu'un homme qui veut vous repousser de ce que vos ancêtres adoraient». Et ils disent: «Ceci (Le Coran) n'est qu'un mensonge inventé». Et ceux qui ne croient pas disent de la Vérité quand elle leur vient: «Ce n'est là qu'une magie évidente!»",
+        "tr": "Ayetlerimiz onlara apaçık olarak okunduğu zaman: \"Bu adam sizi babalarınızın taptıklarından alıkoymaktan başka bir şey istemiyor\" derlerdi. \"Bu Kuran düpedüz bir uydurmadan başka bir şey değildir\" derlerdi. Hak, inkar edenlere geldiğinde, onun için: \"Bu apaçık bir büyüdür\" demişlerdi",
+        "ur": "اِن لوگوں کو جب ہماری صاف صاف آیات سنائی جاتی ہیں تو یہ کہتے ہیں کہ \"یہ شخص تو بس یہ چاہتا ہے کہ تم کو اُن معبودوں سے برگشتہ کر دے جن کی عبادت تمہارے باپ دادا کرتے آئے ہیں\" اور کہتے ہیں کہ \"یہ (قرآن) محض ایک جھوٹ ہے گھڑا ہوا\" اِن کافروں کے سامنے جب حق آیا تو انہیں نے کہہ دیا کہ \"یہ تو صریح جادو ہے",
+        "id": "Dan apabila dibacakan kepada mereka ayat-ayat Kami yang terang, mereka berkata, \"Orang ini tidak lain hanya ingin menghalang-halangi kamu dari apa yang disembah oleh nenek moyangmu,\" dan mereka berkata, \"(Alquran) ini tidak lain hanyalah kebohongan yang diada-adakan saja.\" Dan orang-orang kafir berkata terhadap kebenaran ketika kebenaran (Alquran) itu datang kepada mereka, \"Ini tidak lain hanyalah sihir yang nyata"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "34:44",
+      "verse_number": 44,
+      "text_uthmani": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muhammad], any warner",
+        "fr": "[Pourtant] Nous ne leur avons pas donné de livres à étudier. Et Nous ne leur avons envoyé avant toi aucun avertisseur",
+        "tr": "Oysa Biz, onlara okuyacakları bir kitap vermemiş ve senden önce de onlara bir uyarıcı göndermemiştik",
+        "ur": "حالانکہ نہ ہم نے اِن لوگوں کو پہلے کوئی کتاب دی تھی کہ یہ اسے پڑھتے ہوں اور نہ تم سے پہلے ان کی طرف کوئی متنبہ کرنے والا بھیجا تھا",
+        "id": "Dan Kami tidak pernah memberikan kepada mereka kitab-kitab yang mereka baca dan Kami tidak pernah mengutus seorang pemberi peringatan kepada mereka sebelum engkau (Muhammad)"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "34:45",
+      "verse_number": 45,
+      "text_uthmani": "وَكَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَمَا بَلَغُواْ مِعۡشَارَ مَآ ءَاتَيۡنَٰهُمۡ فَكَذَّبُواْ رُسُلِيۖ فَكَيۡفَ كَانَ نَكِيرِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And those before them denied, and the people of Makkah have not attained a tenth of what We had given them. But the former peoples denied My messengers, so how [terrible] was My reproach",
+        "fr": "Ceux d'avant eux avaient [aussi] démenti (leurs messagers). [Les Mecquois] n'ont pas atteint le dixième de ce que Nous leur avons donné [en force et en richesse]. Ils traitaient Mes Messagers de menteurs. Et quelle réprobation fut la mienne",
+        "tr": "Kendilerinden önce gelenleri de yalanlamışlardı; oysa bunlar, onlara verdiklerimizin onda birine bile erişememişlerdi. Böyleyken peygamberlerimizi yalanladılar; Beni inkar etmek nasıl olur",
+        "ur": "اِن سے پہلے گزرے ہوئے لوگ جھٹلا چکے ہیں جو کچھ ہم نے اُنہیں دیا تھا اُس کے عشر عشیر کو بھی یہ نہیں پہنچے ہیں مگر جب انہوں نے میرے رسولوں کو جھٹلایا تو دیکھ لو کہ میری سزا کیسی سخت تھی",
+        "id": "Dan orang-orang yang sebelum mereka telah mendustakan (para rasul) sedang orang-orang (kafir Mekkah) itu belum sampai menerima sepersepuluh dari apa701) yang telah Kami berikan kepada orang-orang terdahulu, namun mereka mendustakan para rasul-Ku. Maka (lihatlah) bagaimana dahsyatnya akibat kemurkaan-Ku"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "34:46",
+      "verse_number": 46,
+      "text_uthmani": "۞قُلۡ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍۖ أَن تَقُومُواْ لِلَّهِ مَثۡنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُواْۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍۚ إِنۡ هُوَ إِلَّا نَذِيرٞ لَّكُم بَيۡنَ يَدَيۡ عَذَابٖ شَدِيدٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"I only advise you of one [thing] - that you stand for Allah, [seeking truth] in pairs and individually, and then give thought.\" There is not in your companion any madness. He is only a warner to you before a severe punishment",
+        "fr": "Dis: «Je vous exhorte seulement à une chose: que pour Allah vous vous leviez, par deux ou isolément, et qu'ensuite vous réfléchissiez. Votre compagnon (Muhammad) n'est nullement possédé: il n'est pour vous qu'un avertisseur annonçant un dur châtiment»",
+        "tr": "De ki: \"Size tek bir öğüdüm vardır: Allah için ikişer ikişer ve tek tek kalkınız, sonra düşününüz, göreceksiniz ki arkadaşınızda bir delilik yoktur. O yalnız çetin bir azabın öncesinde sizi uyarmaktadır",
+        "ur": "اے نبیؐ، اِن سے کہو کہ \"میں تمہیں بس ایک بات کی نصیحت کرتا ہوں خدا کے لیے تم اکیلے اکیلے اور دو دو مل کر اپنا دماغ لڑاؤ اور سوچو، تمہارے صاحب میں آخر ایسی کونسی بات ہے جو جنون کی ہو؟ وہ تو ایک سخت عذاب کی آمد سے پہلے تم کو متنبہ کرنے والا ہے",
+        "id": "Katakanlah, \"Aku hendak memperingatkan kepadamu satu hal saja, yaitu agar kamu menghadap Allah (dengan ikhlas) berdua-dua atau sendiri-sendiri;702) kemudian agar kamu pikirkan (tentang Muhammad). Kawanmu itu tidak gila sedikit pun. Dia tidak lain hanyalah seorang pemberi peringatan bagi kamu sebelum (menghadapi) azab yang keras"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "34:47",
+      "verse_number": 47,
+      "text_uthmani": "قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرٖ فَهُوَ لَكُمۡۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱللَّهِۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Whatever payment I might have asked of you - it is yours. My payment is only from Allah, and He is, over all things, Witness",
+        "fr": "Dis: «Ce que je vous demande comme salaire, c'est pour vous-mêmes. Car mon salaire n'incombe qu'à Allah. Il est Témoin de toute chose»",
+        "tr": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir",
+        "ur": "اِن سے کہو، \"اگر میں نے تم سے کوئی اجر مانگا ہے تو وہ تم ہی کو مبارک رہے میرا اجر تو اللہ کے ذمہ ہے اور وہ ہر چیز پر گواہ ہے",
+        "id": "Katakanlah (Muhammad), \"Imbalan apa pun yang aku minta kepadamu, maka itu untuk kamu.703) Imbalanku hanyalah dari Allah, dan Dia Maha Mengetahui segala sesuatu"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "34:48",
+      "verse_number": 48,
+      "text_uthmani": "قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّـٰمُ ٱلۡغُيُوبِ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"Indeed, my Lord projects the truth. Knower of the unseen",
+        "fr": "Dis: «Certes, mon Seigneur lance la Vérité, [à Ses messagers], Il est le Parfait Connaisseur des inconnaissables»",
+        "tr": "De ki: \"Görünmeyenleri en iyi bilen Rabbim, batılı hak ile ortadan kaldırır",
+        "ur": "ان سے کہو \"میرا رب (مجھ پر) حق کا القا کرتا ہے اور وہ تمام پوشیدہ حقیقتوں کا جاننے والا ہے",
+        "id": "Katakanlah, \"Sesungguhnya Tuhanku mewahyukan kebenaran. Dia Maha Mengetahui segala yang gaib"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "34:49",
+      "verse_number": 49,
+      "text_uthmani": "قُلۡ جَآءَ ٱلۡحَقُّ وَمَا يُبۡدِئُ ٱلۡبَٰطِلُ وَمَا يُعِيدُ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"The truth has come, and falsehood can neither begin [anything] nor repeat [it]",
+        "fr": "Dis: «La vérité [l'Islam] est venue. Et le Faux [la mécréance] ne peut rien commencer ni renouveler»",
+        "tr": "De ki: \"Hak geldi; artık batıl ne yeniden başlar, ne de geri gelir",
+        "ur": "کہو \"حق آگیا ہے اور اب باطل کے کیے کچھ نہیں ہو سکتا",
+        "id": "Katakanlah, \"Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "34:50",
+      "verse_number": 50,
+      "text_uthmani": "قُلۡ إِن ضَلَلۡتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفۡسِيۖ وَإِنِ ٱهۡتَدَيۡتُ فَبِمَا يُوحِيٓ إِلَيَّ رَبِّيٓۚ إِنَّهُۥ سَمِيعٞ قَرِيبٞ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "Say, \"If I should err, I would only err against myself. But if I am guided, it is by what my Lord reveals to me. Indeed, He is Hearing and near",
+        "fr": "Dis: «Si je m'égare, je ne m'égare qu'à mes dépens; tandis que si je me guide, alors c'est grâce à ce que Mon Seigneur me révèle, car Il est Audient et Proche»",
+        "tr": "De ki: \"Eğer saparsam, kendi zararıma sapmış olurum. Doğru yolda olursam, bu Rabbim'in bana vahyetmesiyledir. Doğrusu O, işitendir, yakın olandır",
+        "ur": "کہو \"اگر میں گمراہ ہو گیا ہوں تو میری گمراہی کا وبال مجھ پر ہے، اور اگر میں ہدایت پر ہوں تو اُس وحی کی بنا پر ہوں جو میرا رب میرے اوپر نازل کرتا ہے، وہ سب کچھ سنتا ہے اور قریب ہی ہے",
+        "id": "Katakanlah, \"Jika aku sesat maka sesungguhnya aku sesat untuk diriku sendiri; dan jika aku mendapat petunjuk maka itu disebabkan apa yang diwahyukan Tuhanku kepadaku. Sungguh, Dia Maha Mendengar, Mahadekat"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "34:51",
+      "verse_number": 51,
+      "text_uthmani": "وَلَوۡ تَرَىٰٓ إِذۡ فَزِعُواْ فَلَا فَوۡتَ وَأُخِذُواْ مِن مَّكَانٖ قَرِيبٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And if you could see when they are terrified but there is no escape, and they will be seized from a place nearby",
+        "fr": "Si tu les voyais quand ils seront saisis de peur, - pas d'échappatoire pour eux -, et ils seront saisis de près",
+        "tr": "Onları korktukları zaman bir görsen; artık kurtuluş yoktur, cehenneme yakın bir yerde yakalanmışlardır. O zaman, \"Allah'a inandık\" derler ama, ahiret gibi uzak bir yerden imana nasıl kolayca ulaşırlar",
+        "ur": "کاش تم دیکھو اِنہیں اُس وقت جب یہ لوگ گھبرائے پھر رہے ہوں گے اور کہیں بچ کر نہ جا سکیں گے، بلکہ قریب ہی سے پکڑ لیے جائیں گے",
+        "id": "Dan (alangkah mengerikan) sekiranya engkau melihat mereka (orang-orang kafir) ketika terperanjat ketakutan (pada hari Kiamat); lalu mereka tidak dapat melepaskan diri dan mereka ditangkap dari tempat yang dekat (untuk dibawa ke neraka)"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "34:52",
+      "verse_number": 52,
+      "text_uthmani": "وَقَالُوٓاْ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانِۭ بَعِيدٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And they will [then] say, \"We believe in it!\" But how for them will be the taking [of faith] from a place far away",
+        "fr": "Ils diront alors: «Nous croyons en lui». - Mais comment atteindront-ils la foi de si loin",
+        "tr": "Onları korktukları zaman bir görsen; artık kurtuluş yoktur, cehenneme yakın bir yerde yakalanmışlardır. O zaman, \"Allah'a inandık\" derler ama, ahiret gibi uzak bir yerden imana nasıl kolayca ulaşırlar",
+        "ur": "اُس وقت یہ کہیں گے کہ ہم اُس پر ایمان لے آئے حالانکہ اب دور نکلی ہوئی چیز کہاں ہاتھ آسکتی ہے",
+        "id": "dan (ketika) mereka berkata, \"Kami beriman kepada-Nya.\" Namun bagaimana mereka dapat mencapai (keimanan) dari tempat yang jauh"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "34:53",
+      "verse_number": 53,
+      "text_uthmani": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And they had already disbelieved in it before and would assault the unseen from a place far away",
+        "fr": "alors qu'auparavant ils y avaient effectivement mécru et ils offensent l'inconnu à partir d'un endroit éloigné",
+        "tr": "Oysa onu daha önce inkar etmişler, uzak bir yer olan dünyadan görünmeyene dil uzatmışlardı",
+        "ur": "اِس سے پہلے یہ کفر کر چکے تھے اور بلا تحقیق دور دور کی کوڑیاں لایا کرتے تھے",
+        "id": "Dan sungguh, mereka telah mengingkari Allah sebelum itu; dan mereka mendustakan tentang yang gaib dari tempat yang jauh"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "34:54",
+      "verse_number": 54,
+      "text_uthmani": "وَحِيلَ بَيۡنَهُمۡ وَبَيۡنَ مَا يَشۡتَهُونَ كَمَا فُعِلَ بِأَشۡيَاعِهِم مِّن قَبۡلُۚ إِنَّهُمۡ كَانُواْ فِي شَكّٖ مُّرِيبِۭ",
+      "chapter_id": 34,
+      "words": [],
+      "translations": {
+        "en": "And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting denial",
+        "fr": "On les empêchera d'atteindre ce qu'ils désirent, comme cela fut fait auparavant avec leurs semblables, car ils se trouvaient dans un doute profond",
+        "tr": "Kendileriyle, arzuladıkları şeyler arasına artık engel konur; nitekim, daha önce, kendilerine benzeyenlere de aynı şey yapılmıştı. Çünkü onlar şüphe ve endişe içindeydiler",
+        "ur": "اُس وقت جس چیز کی یہ تمنا کر رہے ہوں گے اس سے محروم کر دیے جائیں گے جس طرح اِن کے پیش رو ہم مشرب محروم ہو چکے ہوں گے یہ بڑے گمراہ کن شک میں پڑے ہوئے تھے",
+        "id": "(Dan diberi penghalang antara mereka dengan apa yang mereka inginkan706) sebagaimana yang dilakukan terhadap orang-orang yang sepaham dengan mereka yang terdahulu. Sesungguhnya mereka dahulu (di dunia) dalam keraguan yang mendalam"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 34,
+    "name_arabic": "سبإ",
+    "name_english": "Saba"
+  }
+}

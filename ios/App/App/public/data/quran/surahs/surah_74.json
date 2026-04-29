@@ -1,0 +1,849 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "verse_key": "74:1",
+      "verse_number": 1,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "O you who covers himself [with a garment]",
+        "fr": "O, toi (Muhammad)! Le revêtu d'un manteau",
+        "tr": "Ey örtüye bürünen",
+        "ur": "اے اوڑھ لپیٹ کر لیٹنے والے",
+        "id": "Wahai orang yang berkemul (berselimut)"
+      }
+    },
+    {
+      "id": 2,
+      "verse_key": "74:2",
+      "verse_number": 2,
+      "text_uthmani": "قُمۡ فَأَنذِرۡ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Arise and warn",
+        "fr": "Lève-toi et avertis",
+        "tr": "Kalk da uyar",
+        "ur": "اٹھو اور خبردار کرو",
+        "id": "bangunlah, lalu berilah peringatan"
+      }
+    },
+    {
+      "id": 3,
+      "verse_key": "74:3",
+      "verse_number": 3,
+      "text_uthmani": "وَرَبَّكَ فَكَبِّرۡ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And your Lord glorify",
+        "fr": "Et de ton Seigneur, célèbre la grandeur",
+        "tr": "Rabbini yücelt",
+        "ur": "اور اپنے رب کی بڑائی کا اعلان کرو",
+        "id": "dan agungkanlah Tuhanmu"
+      }
+    },
+    {
+      "id": 4,
+      "verse_key": "74:4",
+      "verse_number": 4,
+      "text_uthmani": "وَثِيَابَكَ فَطَهِّرۡ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And your clothing purify",
+        "fr": "Et tes vêtements, purifie-les",
+        "tr": "Giydiklerini temiz tut",
+        "ur": "اور اپنے کپڑے پاک رکھو",
+        "id": "dan bersihkanlah pakaianmu"
+      }
+    },
+    {
+      "id": 5,
+      "verse_key": "74:5",
+      "verse_number": 5,
+      "text_uthmani": "وَٱلرُّجۡزَ فَٱهۡجُرۡ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And uncleanliness avoid",
+        "fr": "Et de tout péché, écarte-toi",
+        "tr": "Kötü şeyleri terke devam et",
+        "ur": "اور گندگی سے دور رہو",
+        "id": "dan tinggalkanlah segala (perbuatan) yang keji"
+      }
+    },
+    {
+      "id": 6,
+      "verse_key": "74:6",
+      "verse_number": 6,
+      "text_uthmani": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And do not confer favor to acquire more",
+        "fr": "Et ne donne pas dans le but de recevoir davantage",
+        "tr": "Yaptığın iyiliği çok görerek başa kakma",
+        "ur": "اور احسان نہ کرو زیادہ حاصل کرنے کے لیے",
+        "id": "dan janganlah engkau (Muhammad) memberi (dengan maksud) memperoleh (balasan) yang lebih banyak"
+      }
+    },
+    {
+      "id": 7,
+      "verse_key": "74:7",
+      "verse_number": 7,
+      "text_uthmani": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "But for your Lord be patient",
+        "fr": "Et pour ton Seigneur, endure",
+        "tr": "Rabbin için sabret",
+        "ur": "اور اپنے رب کی خاطر صبر کرو",
+        "id": "Dan karena Tuhanmu, bersabarlah"
+      }
+    },
+    {
+      "id": 8,
+      "verse_key": "74:8",
+      "verse_number": 8,
+      "text_uthmani": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And when the trumpet is blown",
+        "fr": "Quand on sonnera du Clairon",
+        "tr": "Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür",
+        "ur": "اچھا، جب صور میں پھونک ماری جائے گی",
+        "id": "Maka apabila sangkakala ditiup"
+      }
+    },
+    {
+      "id": 9,
+      "verse_key": "74:9",
+      "verse_number": 9,
+      "text_uthmani": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "That Day will be a difficult day",
+        "fr": "alors, ce jour-là sera un jour difficile",
+        "tr": "Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür",
+        "ur": "وہ دن بڑا ہی سخت دن ہوگا",
+        "id": "maka itulah hari yang serba sulit"
+      }
+    },
+    {
+      "id": 10,
+      "verse_key": "74:10",
+      "verse_number": 10,
+      "text_uthmani": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "For the disbelievers - not easy",
+        "fr": "pas facile pour les mécréants",
+        "tr": "Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür",
+        "ur": "کافروں کے لیے ہلکا نہ ہوگا",
+        "id": "bagi orang-orang kafir tidak mudah"
+      }
+    },
+    {
+      "id": 11,
+      "verse_key": "74:11",
+      "verse_number": 11,
+      "text_uthmani": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Leave Me with the one I created alone",
+        "fr": "Laisse-Moi avec celui que J'ai créé seul",
+        "tr": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak",
+        "ur": "چھوڑ دو مجھے اور اُس شخص کو جسے میں نے اکیلا پیدا کیا ہے",
+        "id": "Biarkanlah Aku (yang bertindak) terhadap orang yang Aku sendiri telah menciptakannya"
+      }
+    },
+    {
+      "id": 12,
+      "verse_key": "74:12",
+      "verse_number": 12,
+      "text_uthmani": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And to whom I granted extensive wealth",
+        "fr": "et à qui J'ai donné des biens étendus",
+        "tr": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak",
+        "ur": "بہت سا مال اُس کو دیا",
+        "id": "dan Aku berikan baginya kekayaan yang melimpah"
+      }
+    },
+    {
+      "id": 13,
+      "verse_key": "74:13",
+      "verse_number": 13,
+      "text_uthmani": "وَبَنِينَ شُهُودٗا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And children present [with him]",
+        "fr": "et des enfants qui lui tiennent toujours compagnie",
+        "tr": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak",
+        "ur": "اس کے ساتھ حاضر رہنے والے بیٹے دیے",
+        "id": "dan anak-anak yang selalu bersamanya"
+      }
+    },
+    {
+      "id": 14,
+      "verse_key": "74:14",
+      "verse_number": 14,
+      "text_uthmani": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And spread [everything] before him, easing [his life]",
+        "fr": "pour qui aussi J'ai aplani toutes difficultés",
+        "tr": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak",
+        "ur": "اور اس کے لیے ریاست کی راہ ہموار کی",
+        "id": "dan Aku berikan baginya kelapangan (hidup) seluas-luasnya"
+      }
+    },
+    {
+      "id": 15,
+      "verse_key": "74:15",
+      "verse_number": 15,
+      "text_uthmani": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then he desires that I should add more",
+        "fr": "Cependant, il convoite [de Moi] que Je lui donne davantage",
+        "tr": "Bir de verdiğim nimetten artırmamı umar",
+        "ur": "پھر وہ طمع رکھتا ہے کہ میں اسے اور زیادہ دوں",
+        "id": "kemudian dia ingin sekali agar Aku menambahnya"
+      }
+    },
+    {
+      "id": 16,
+      "verse_key": "74:16",
+      "verse_number": 16,
+      "text_uthmani": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, he has been toward Our verses obstinate",
+        "fr": "Pas du tout! Car il reniait nos versets (le Coran) avec entêtement",
+        "tr": "Hayır; hayır; çünkü o, Bizim ayetlerimize karşı son derece inatçıdır",
+        "ur": "ہرگز نہیں، وہ ہماری آیات سے عناد رکھتا ہے",
+        "id": "Tidak bisa! Sesungguhnya dia telah menentang ayat-ayat Kami (Alquran)"
+      }
+    },
+    {
+      "id": 17,
+      "verse_key": "74:17",
+      "verse_number": 17,
+      "text_uthmani": "سَأُرۡهِقُهُۥ صَعُودًا",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "I will cover him with arduous torment",
+        "fr": "Je vais le contraindre à gravir une pente",
+        "tr": "Onu sarp bir yokuşa sardıracağım",
+        "ur": "میں تو اسے عنقریب ایک کٹھن چڑھائی چڑھواؤں گا",
+        "id": "Aku akan membebaninya dengan pendakian yang meletihkan"
+      }
+    },
+    {
+      "id": 18,
+      "verse_key": "74:18",
+      "verse_number": 18,
+      "text_uthmani": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Indeed, he thought and deliberated",
+        "fr": "Il a réfléchi. Et il a décidé",
+        "tr": "Çünkü o, düşündü, ölçtü biçti",
+        "ur": "اس نے سوچا اور کچھ بات بنانے کی کوشش کی",
+        "id": "Sesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya)"
+      }
+    },
+    {
+      "id": 19,
+      "verse_key": "74:19",
+      "verse_number": 19,
+      "text_uthmani": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "So may he be destroyed [for] how he deliberated",
+        "fr": "Qu'il périsse! Comme il a décidé",
+        "tr": "Canı çıkası, ne biçim ölçüp biçti",
+        "ur": "تو خدا کی مار اس پر، کیسی بات بنانے کی کوشش کی",
+        "id": "maka celakalah dia! Bagaimana dia menetapkan"
+      }
+    },
+    {
+      "id": 20,
+      "verse_key": "74:20",
+      "verse_number": 20,
+      "text_uthmani": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then may he be destroyed [for] how he deliberated",
+        "fr": "Encore une fois, qu'il périsse; comme il a décidé",
+        "tr": "Canı çıkası; sonra yine ne biçim ölçüp biçti",
+        "ur": "ہاں، خدا کی مار اُس پر، کیسی بات بنانے کی کوشش کی",
+        "id": "sekali lagi, celakalah dia! Bagaimana dia menetapkan"
+      }
+    },
+    {
+      "id": 21,
+      "verse_key": "74:21",
+      "verse_number": 21,
+      "text_uthmani": "ثُمَّ نَظَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then he considered [again]",
+        "fr": "Ensuite, il a regardé",
+        "tr": "Sonra baktı",
+        "ur": "پھر (لوگوں کی طرف) دیکھا",
+        "id": "kemudian dia (merenung) memikirkan"
+      }
+    },
+    {
+      "id": 22,
+      "verse_key": "74:22",
+      "verse_number": 22,
+      "text_uthmani": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then he frowned and scowled",
+        "fr": "Et il s'est renfrogné et a durci son visage",
+        "tr": "Sonra kaşlarını çattı, suratını aştı",
+        "ur": "پھر پیشانی سیکڑی اور منہ بنایا",
+        "id": "lalu berwajah masam dan cemberut"
+      }
+    },
+    {
+      "id": 23,
+      "verse_key": "74:23",
+      "verse_number": 23,
+      "text_uthmani": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then he turned back and was arrogant",
+        "fr": "Ensuite il a tourné le dos et s'est enflé d'orgueil",
+        "tr": "Sonra da sırt çevirip büyüklük tasladı",
+        "ur": "پھر پلٹا اور تکبر میں پڑ گیا",
+        "id": "kemudian berpaling (dari kebenaran) dan menyombongkan diri"
+      }
+    },
+    {
+      "id": 24,
+      "verse_key": "74:24",
+      "verse_number": 24,
+      "text_uthmani": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And said, \"This is not but magic imitated [from others]",
+        "fr": "Puis il a dit: «Ceci (le Coran) n'est que magie apprise",
+        "tr": "Bu sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca bir insan sözüdür\" dedi",
+        "ur": "آخرکار بولا کہ یہ کچھ نہیں ہے مگر ایک جادو جو پہلے سے چلا آ رہا ہے",
+        "id": "lalu dia berkata, \"(Alquran) ini hanyalah sihir yang dipelajari (dari orang-orang dahulu)"
+      }
+    },
+    {
+      "id": 25,
+      "verse_key": "74:25",
+      "verse_number": 25,
+      "text_uthmani": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "This is not but the word of a human being",
+        "fr": "ce n'est là que la parole d'un humain»",
+        "tr": "Bu sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca bir insan sözüdür\" dedi",
+        "ur": "یہ تو یہ ایک انسانی کلام ہے",
+        "id": "Ini hanyalah perkataan manusia"
+      }
+    },
+    {
+      "id": 26,
+      "verse_key": "74:26",
+      "verse_number": 26,
+      "text_uthmani": "سَأُصۡلِيهِ سَقَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "I will drive him into Saqar",
+        "fr": "Je vais le brûler dans le Feu intense (Saqar)",
+        "tr": "İşte bu adamı yakıcı bir ateşe yaslayacağım",
+        "ur": "عنقریب میں اسے دوزخ میں جھونک دوں گا",
+        "id": "Kelak, Aku akan memasukkannya ke dalam (neraka) Saqar"
+      }
+    },
+    {
+      "id": 27,
+      "verse_key": "74:27",
+      "verse_number": 27,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And what can make you know what is Saqar",
+        "fr": "Et qui te dira ce qu'est Saqar",
+        "tr": "Yakıcı ateşin ne olduğunu sen nerden bilirsin",
+        "ur": "اور تم کیا جانو کہ کیا ہے وہ دوزخ؟",
+        "id": "Dan tahukah kamu apa (neraka) Saqar itu"
+      }
+    },
+    {
+      "id": 28,
+      "verse_key": "74:28",
+      "verse_number": 28,
+      "text_uthmani": "لَا تُبۡقِي وَلَا تَذَرُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "It lets nothing remain and leaves nothing [unburned]",
+        "fr": "Il ne laisse rien et n'épargne rien",
+        "tr": "O, ne geri bırakır ne de azabdan vazgeçer",
+        "ur": "نہ باقی رکھے نہ چھوڑے",
+        "id": "Ia (Saqar itu) tidak meninggalkan dan tidak membiarkan"
+      }
+    },
+    {
+      "id": 29,
+      "verse_key": "74:29",
+      "verse_number": 29,
+      "text_uthmani": "لَوَّاحَةٞ لِّلۡبَشَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Blackening the skins",
+        "fr": "Il brûle la peau et la noircit",
+        "tr": "İnsanın derisini kavurur",
+        "ur": "کھال جھلس دینے والی",
+        "id": "yang menghanguskan kulit manusia"
+      }
+    },
+    {
+      "id": 30,
+      "verse_key": "74:30",
+      "verse_number": 30,
+      "text_uthmani": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Over it are nineteen [angels]",
+        "fr": "Ils sont dix neuf à y veiller",
+        "tr": "Orada ondokuz bekçi vardır",
+        "ur": "انیس کارکن اُس پر مقرر ہیں",
+        "id": "Di atasnya ada sembilan belas (malaikat penjaga)"
+      }
+    },
+    {
+      "id": 31,
+      "verse_key": "74:31",
+      "verse_number": 31,
+      "text_uthmani": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, \"What does Allah intend by this as an example?\" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity",
+        "fr": "Nous n'avons assigné comme gardiens du Feu que des Anges. Cependant, Nous n'en avons fixé le nombre que pour éprouver les mécréants, et aussi afin que ceux à qui le Livre a été apporté soient convaincus, et que croisse la foi de ceux qui croient, et que ceux à qui le Livre a été apporté et les croyants n'aient point de doute; et pour que ceux qui ont au cœur quelque maladie ainsi que les mécréants disent: «Qu'a donc voulu Allah par cette parabole?» C'est ainsi qu'Allah égare qui Il veut et guide qui Il veut. Nul ne connaît les armées de ton Seigneur, à part Lui. Et ce n'est là qu'un rappel pour les humains",
+        "tr": "Cehennemin bekçilerini yalnız meleklerden kılmışızdır. Sayılarını bildirmekle de, ancak inkar edenlerin denenmesini ve kendilerine kitap verilenlerin kesin bilgi edinmesini ve inananların da imanlarının artmasını sağladık. Kendilerine kitap verilenler ve inananlar şüpheye düşmesinler. Kalblerinde hastalık bulunanlar ve inkarcılar: \"Allah bu misalle neyi muradetti?\" desinler. İşte Allah, böylece, dilediğini saptırır, dilediğini de doğru yola eriştirir. Rabbinin ordularını kendisinden başkası bilmez. Bu, insanoğluna bir öğütten ibarettir",
+        "ur": "ہم نے دوزخ کے یہ کارکن فرشتے بنائے ہیں، اور ان کی تعداد کو کافروں کے لیے فتنہ بنا دیا ہے، تاکہ اہل کتاب کو یقین آ جائے اور ایمان لانے والوں کا ایمان بڑھے، اور اہل کتاب اور مومنین کسی شک میں نہ رہیں، اور دل کے بیمار اور کفار یہ کہیں کہ بھلا اللہ کا اِس عجیب بات سے کیا مطلب ہو سکتا ہے اِس طرح اللہ جسے چاہتا ہے گمراہ کر دیتا ہے اور جسے چاہتا ہے ہدایت بخش دیتا ہے اور تیرے رب کے لشکروں کو خود اُس کے سوا کوئی نہیں جانتا اور اس دوزخ کا ذکر اِس کے سوا کسی غرض کے لیے نہیں کیا گیا ہے کہ لوگوں کو اس سے نصیحت ہو",
+        "id": "Dan yang Kami jadikan penjaga neraka itu hanya dari malaikat; dan Kami menentukan bilangan mereka itu hanya sebagai cobaan bagi orang-orang kafir, agar orang-orang yang diberi kitab menjadi yakin, agar orang yang beriman bertambah imannya, agar orang-orang yang diberi kitab dan orang-orang mukmin itu tidak ragu-ragu; dan agar orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (berkata), \"Apakah yang dikehendaki Allah dengan (bilangan) ini sebagai suatu perumpamaan?\" Demikianlah Allah membiarkan sesat orang-orang yang Dia kehendaki dan memberi petunjuk kepada orang-orang yang Dia kehendaki. Dan tidak ada yang mengetahui bala tentara Tuhanmu kecuali Dia sendiri. Dan Saqar itu tidak lain hanyalah peringatan bagi manusia"
+      }
+    },
+    {
+      "id": 32,
+      "verse_key": "74:32",
+      "verse_number": 32,
+      "text_uthmani": "كَلَّا وَٱلۡقَمَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "No! By the moon",
+        "fr": "Non!... Par la lune",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "ہرگز نہیں، قسم ہے چاند کی",
+        "id": "(Tidak!878) Demi bulan"
+      }
+    },
+    {
+      "id": 33,
+      "verse_key": "74:33",
+      "verse_number": 33,
+      "text_uthmani": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And [by] the night when it departs",
+        "fr": "Et par la nuit quand elle se retire",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "اور رات کی جبکہ وہ پلٹتی ہے",
+        "id": "dan demi malam ketika telah berlalu"
+      }
+    },
+    {
+      "id": 34,
+      "verse_key": "74:34",
+      "verse_number": 34,
+      "text_uthmani": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And [by] the morning when it brightens",
+        "fr": "Et par l'aurore quand elle se découvre",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "اور صبح کی جبکہ وہ روشن ہوتی ہے",
+        "id": "dan demi subuh apabila mulai terang"
+      }
+    },
+    {
+      "id": 35,
+      "verse_key": "74:35",
+      "verse_number": 35,
+      "text_uthmani": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Indeed, the Fire is of the greatest [afflictions]",
+        "fr": "[Saqar] est l'un des plus grands [malheurs]",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "یہ دوزخ بھی بڑی چیزوں میں سے ایک ہے",
+        "id": "sesungguhnya (Saqar itu) adalah salah satu (bencana) yang sangat besar"
+      }
+    },
+    {
+      "id": 36,
+      "verse_key": "74:36",
+      "verse_number": 36,
+      "text_uthmani": "نَذِيرٗا لِّلۡبَشَرِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "As a warning to humanity",
+        "fr": "un avertissement, pour les humains",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "انسانوں کے لیے ڈراوا",
+        "id": "sebagai peringatan bagi manusia"
+      }
+    },
+    {
+      "id": 37,
+      "verse_key": "74:37",
+      "verse_number": 37,
+      "text_uthmani": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "To whoever wills among you to proceed or stay behind",
+        "fr": "Pour qui d'entre vous, veut avancer ou reculer",
+        "tr": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir",
+        "ur": "تم میں سے ہر اُس شخص کے لیے ڈراوا جو آگے بڑھنا چاہے یا پیچھے رہ جانا چاہے",
+        "id": "(yaitu) bagi siapa di antara kamu yang ingin maju atau mundur"
+      }
+    },
+    {
+      "id": 38,
+      "verse_key": "74:38",
+      "verse_number": 38,
+      "text_uthmani": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Every soul, for what it has earned, will be retained",
+        "fr": "Toute âme est l'otage de ce qu'elle a acquis",
+        "tr": "Herkes kazancına bağlı bir rehindir",
+        "ur": "ہر متنفس، اپنے کسب کے بدلے رہن ہے",
+        "id": "Setiap orang bertanggung jawab atas apa yang telah dilakukannya"
+      }
+    },
+    {
+      "id": 39,
+      "verse_key": "74:39",
+      "verse_number": 39,
+      "text_uthmani": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Except the companions of the right",
+        "fr": "Sauf les gens de la droite (les élus)",
+        "tr": "Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar",
+        "ur": "دائیں بازو والوں کے سوا",
+        "id": "kecuali golongan kanan"
+      }
+    },
+    {
+      "id": 40,
+      "verse_key": "74:40",
+      "verse_number": 40,
+      "text_uthmani": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "[Who will be] in gardens, questioning each other",
+        "fr": "dans des Jardins, ils s'interrogeront",
+        "tr": "Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar",
+        "ur": "جو جنتوں میں ہوں گے وہاں وہ،",
+        "id": "berada di dalam surga, mereka saling menanyakan"
+      }
+    },
+    {
+      "id": 41,
+      "verse_key": "74:41",
+      "verse_number": 41,
+      "text_uthmani": "عَنِ ٱلۡمُجۡرِمِينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "About the criminals",
+        "fr": "au sujet des criminels",
+        "tr": "Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar",
+        "ur": "مجرموں سے پوچھیں گے",
+        "id": "tentang (keadaan) orang-orang yang berdosa"
+      }
+    },
+    {
+      "id": 42,
+      "verse_key": "74:42",
+      "verse_number": 42,
+      "text_uthmani": "مَا سَلَكَكُمۡ فِي سَقَرَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "[And asking them], \"What put you into Saqar",
+        "fr": "«Qu'est-ce qui vous a acheminés à Saqar?»",
+        "tr": "Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar",
+        "ur": "تمہیں کیا چیز دوزخ میں لے گئی؟",
+        "id": "Apa yang menyebabkan kamu masuk ke dalam (neraka) Saqar"
+      }
+    },
+    {
+      "id": 43,
+      "verse_key": "74:43",
+      "verse_number": 43,
+      "text_uthmani": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "They will say, \"We were not of those who prayed",
+        "fr": "Ils diront: «Nous n'étions pas de ceux qui faisaient la Salât",
+        "tr": "Onlar derler ki: \"Namaz kılanlardan değildik",
+        "ur": "وہ کہیں گے \"ہم نماز پڑھنے والوں میں سے نہ تھے",
+        "id": "Mereka menjawab, \"Dahulu kami tidak termasuk orang-orang yang melaksanakan salat"
+      }
+    },
+    {
+      "id": 44,
+      "verse_key": "74:44",
+      "verse_number": 44,
+      "text_uthmani": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Nor did we used to feed the poor",
+        "fr": "et nous ne nourrissions pas le pauvre",
+        "tr": "Düşkün kimseyi doyurmuyorduk",
+        "ur": "اور مسکین کو کھانا نہیں کھلاتے تھے",
+        "id": "dan kami (juga) tidak memberi makan orang miskin"
+      }
+    },
+    {
+      "id": 45,
+      "verse_key": "74:45",
+      "verse_number": 45,
+      "text_uthmani": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And we used to enter into vain discourse with those who engaged [in it]",
+        "fr": "et nous nous associions à ceux qui tenaient des conversations futiles",
+        "tr": "Batıla dalanlarla biz de dalardık",
+        "ur": "اور حق کے خلاف باتیں بنانے والوں کے ساتھ مل کر ہم بھی باتیں بنانے لگتے تھے",
+        "id": "bahkan kami biasa berbincang (untuk tujuan yang batil), bersama orang-orang yang membicarakannya"
+      }
+    },
+    {
+      "id": 46,
+      "verse_key": "74:46",
+      "verse_number": 46,
+      "text_uthmani": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And we used to deny the Day of Recompense",
+        "fr": "et nous traitions de mensonge le jour de la Rétribution",
+        "tr": "Ceza gününü yalanlardık",
+        "ur": "اور روز جزا کو جھوٹ قرار دیتے تھے",
+        "id": "dan kami mendustakan hari pembalasan"
+      }
+    },
+    {
+      "id": 47,
+      "verse_key": "74:47",
+      "verse_number": 47,
+      "text_uthmani": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Until there came to us the certainty",
+        "fr": "jusqu'à ce que nous vînt la vérité évidente [la mort]»",
+        "tr": "Ölüm bize o haldeyken geldi",
+        "ur": "یہاں تک کہ ہمیں اُس یقینی چیز سے سابقہ پیش آ گیا",
+        "id": "sampai datang kepada kami kematian"
+      }
+    },
+    {
+      "id": 48,
+      "verse_key": "74:48",
+      "verse_number": 48,
+      "text_uthmani": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "So there will not benefit them the intercession of [any] intercessors",
+        "fr": "Ne leur profitera point donc, l'intercession des intercesseurs",
+        "tr": "Artık onlara, şefaatçilerin şefaati fayda vermez",
+        "ur": "اُس وقت سفارش کرنے والوں کی سفارش ان کے کسی کام نہ آئے گی",
+        "id": "Maka tidak berguna lagi bagi mereka syafaat (pertolongan) dari orang-orang yang memberikan syafaat"
+      }
+    },
+    {
+      "id": 49,
+      "verse_key": "74:49",
+      "verse_number": 49,
+      "text_uthmani": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then what is [the matter] with them that they are, from the reminder, turning away",
+        "fr": "Qu'ont-ils à se détourner du Rappel",
+        "tr": "Öyleyken, bunlara ne oluyor ki öğütten yüz çeviriyorlar",
+        "ur": "آخر اِن لوگوں کو کیا ہو گیا ہے کہ یہ اِس نصیحت سے منہ موڑ رہے ہیں",
+        "id": "Lalu mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)"
+      }
+    },
+    {
+      "id": 50,
+      "verse_key": "74:50",
+      "verse_number": 50,
+      "text_uthmani": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "As if they were alarmed donkeys",
+        "fr": "Ils sont comme des onagres épouvantés",
+        "tr": "Aslandan ürkerek kaçan yabani merkeplere benzerler",
+        "ur": "گویا یہ جنگلی گدھے ہیں",
+        "id": "seakan-akan mereka keledai liar yang lari terkejut"
+      }
+    },
+    {
+      "id": 51,
+      "verse_key": "74:51",
+      "verse_number": 51,
+      "text_uthmani": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Fleeing from a lion",
+        "fr": "s'enfuyant devant un lion",
+        "tr": "Aslandan ürkerek kaçan yabani merkeplere benzerler",
+        "ur": "جو شیر سے ڈر کر بھاگ پڑے ہیں",
+        "id": "lari dari singa"
+      }
+    },
+    {
+      "id": 52,
+      "verse_key": "74:52",
+      "verse_number": 52,
+      "text_uthmani": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Rather, every person among them desires that he would be given scriptures spread about",
+        "fr": "Chacun d'eux voudrait plutôt qu'on lui apporte des feuilles tout étalées",
+        "tr": "Hayır; her biri önüne açılıvermiş sahifeler verilmesini ister",
+        "ur": "بلکہ اِن میں سے تو ہر ایک یہ چاہتا ہے کہ اُس کے نام کھلے خط بھیجے جائیں",
+        "id": "Bahkan setiap orang dari mereka ingin agar diberikan kepadanya lembaran-lembaran (kitab) yang terbuka"
+      }
+    },
+    {
+      "id": 53,
+      "verse_key": "74:53",
+      "verse_number": 53,
+      "text_uthmani": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "No! But they do not fear the Hereafter",
+        "fr": "Ah! Non! C'est plutôt qu'ils ne craignent pas l'au-delà",
+        "tr": "Hayır; daha doğrusu ahiretten korkmazlar",
+        "ur": "ہرگز نہیں، اصل بات یہ ہے کہ یہ آخرت کا خوف نہیں رکھتے",
+        "id": "Tidak! Sebenarnya mereka tidak takut kepada akhirat"
+      }
+    },
+    {
+      "id": 54,
+      "verse_key": "74:54",
+      "verse_number": 54,
+      "text_uthmani": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "No! Indeed, the Qur'an is a reminder",
+        "fr": "Ah! Non! Ceci est vraiment un Rappel",
+        "tr": "Hayır; şüphesiz bu Kuran bir öğüttür",
+        "ur": "ہرگز نہیں، یہ تو ایک نصیحت ہے",
+        "id": "Tidak! Sesungguhnya (Alquran) itu benar-benar suatu peringatan"
+      }
+    },
+    {
+      "id": 55,
+      "verse_key": "74:55",
+      "verse_number": 55,
+      "text_uthmani": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "Then whoever wills will remember it",
+        "fr": "Quiconque veut, qu'il se le rappelle",
+        "tr": "Dileyen kimse öğüt alır",
+        "ur": "اب جس کا جی چاہے اس سے سبق حاصل کر لے",
+        "id": "Maka barangsiapa menghendaki, tentu dia mengambil pelajaran darinya"
+      }
+    },
+    {
+      "id": 56,
+      "verse_key": "74:56",
+      "verse_number": 56,
+      "text_uthmani": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+      "chapter_id": 74,
+      "words": [],
+      "translations": {
+        "en": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness",
+        "fr": "Mais ils ne se rappelleront que si Allah veut. C'est Lui qui est Le plus digne d'être craint; et c'est Lui qui détient le pardon",
+        "tr": "Allah dilemeksizin öğüt alamazlar. O, kendisinden korkulmaya daha layıktır ve bağışlamaya daha ehildir",
+        "ur": "اور یہ کوئی سبق حاصل نہ کریں گے الا یہ کہ اللہ ہی ایسا چاہے وہ اس کا حق دار ہے کہ اُس سے تقویٰ کیا جائے اور وہ اس کا اہل ہے کہ (تقویٰ کرنے والوں کو) بخش دے",
+        "id": "Dan mereka tidak akan mengambil pelajaran darinya (Alquran) kecuali (jika) Allah menghendakinya. Dialah Tuhan yang patut (kita) bertakwa kepada-Nya dan yang berhak memberi ampun"
+      }
+    }
+  ],
+  "meta": {
+    "surah_number": 74,
+    "name_arabic": "المدثر",
+    "name_english": "Al-Muddaththir"
+  }
+}
