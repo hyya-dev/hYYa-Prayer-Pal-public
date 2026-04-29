@@ -12,7 +12,7 @@ class PrayerPalViewController: CAPBridgeViewController {
     private static var isHandlerRegistered = false
     
     // Use Logger for better console filtering (reduces noise from system messages)
-    private static let logger = Logger(subsystem: "com.hyya.prayerpal.open", category: "PrayerPalViewController")
+    private static let logger = Logger(subsystem: "com.hyya.prayerpal", category: "PrayerPalViewController")
     private var didBecomeActiveObserver: NSObjectProtocol?
 
     private func describeJavaScriptError(_ error: Error) -> String {
@@ -222,7 +222,7 @@ class PrayerPalViewController: CAPBridgeViewController {
 
 // MARK: - Widget Message Handler
 class WidgetMessageHandler: NSObject, WKScriptMessageHandler {
-    private let appGroup = "group.com.hyya.prayerpal.open"
+    private let appGroup = "group.com.hyya.prayerpal"
     private let dataKey = "savedPrayers"
     private let dataKeyPhaseA = "savedPrayersPhaseA"
     private let dataKeyPhaseB = "savedPrayersPhaseB"
@@ -231,7 +231,7 @@ class WidgetMessageHandler: NSObject, WKScriptMessageHandler {
     private let weatherReloadValueKey = "widgetLastReloadWeather"
     private let weatherReloadTimeKey = "widgetLastReloadTime"
     private let weatherReloadMinInterval: TimeInterval = 15 * 60
-    private static let logger = Logger(subsystem: "com.hyya.prayerpal.open", category: "WidgetMessageHandler")
+    private static let logger = Logger(subsystem: "com.hyya.prayerpal", category: "WidgetMessageHandler")
 
     private func ppDebugLog(_ items: Any..., separator: String = " ", terminator: String = "\n") {
 #if DEBUG

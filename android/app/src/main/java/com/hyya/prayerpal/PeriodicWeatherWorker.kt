@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.open
+package com.hyya.prayerpal
 
 import android.Manifest
 import android.content.Context

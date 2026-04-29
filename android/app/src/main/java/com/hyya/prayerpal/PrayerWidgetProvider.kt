@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.open
+package com.hyya.prayerpal
 
 import android.app.PendingIntent
 import android.appwidget.AppWidgetManager
@@ -19,7 +19,7 @@ import java.util.*
 /**
  * Prayer Widget Provider - Base class for prayer time widgets
  * Matches the iOS widget functionality and design
- * Package: com.hyya.prayerpal.open
+ * Package: com.hyya.prayerpal
  * 
  * ARCHITECTURE:
  * - App calculates 365 days of prayer times and pushes to widget
@@ -39,7 +39,7 @@ abstract class PrayerWidgetProvider : AppWidgetProvider() {
         const val WEATHER_TIME_KEY = "cachedWeatherTime"
         
         // Action for manual refresh
-        const val ACTION_REFRESH = "com.hyya.prayerpal.open.WIDGET_REFRESH"
+        const val ACTION_REFRESH = "com.hyya.prayerpal.WIDGET_REFRESH"
         
         // Fallback background color (matches mascot theme)
         const val FALLBACK_BG_COLOR = "#D4C4A8"

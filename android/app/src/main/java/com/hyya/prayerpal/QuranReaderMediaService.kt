@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.open
+package com.hyya.prayerpal
 
 import android.app.Notification
 import android.app.NotificationChannel
@@ -32,10 +32,10 @@ import androidx.core.app.ServiceCompat
 class QuranReaderMediaService : Service() {
 
     companion object {
-        const val ACTION_PLAY = "com.hyya.prayerpal.open.quran.READER_PLAY"
-        const val ACTION_PAUSE = "com.hyya.prayerpal.open.quran.READER_PAUSE"
-        const val ACTION_RESUME = "com.hyya.prayerpal.open.quran.READER_RESUME"
-        const val ACTION_STOP = "com.hyya.prayerpal.open.quran.READER_STOP"
+        const val ACTION_PLAY = "com.hyya.prayerpal.quran.READER_PLAY"
+        const val ACTION_PAUSE = "com.hyya.prayerpal.quran.READER_PAUSE"
+        const val ACTION_RESUME = "com.hyya.prayerpal.quran.READER_RESUME"
+        const val ACTION_STOP = "com.hyya.prayerpal.quran.READER_STOP"
 
         const val EXTRA_URL = "url"
         const val EXTRA_START_FRACTION = "startFraction"

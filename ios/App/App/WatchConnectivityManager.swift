@@ -5,8 +5,8 @@ import os.log
 /// Manages WatchConnectivity for sending data from iPhone to Watch
 class WatchConnectivityManager: NSObject {
     static let shared = WatchConnectivityManager()
-    private static let logger = Logger(subsystem: "com.hyya.prayerpal.open", category: "WatchConnectivity")
-    private let appGroup = "group.com.hyya.prayerpal.open"
+    private static let logger = Logger(subsystem: "com.hyya.prayerpal", category: "WatchConnectivity")
+    private let appGroup = "group.com.hyya.prayerpal"
     private let complicationMinInterval: TimeInterval = 30 * 60
     private let complicationLastValueKey = "watchComplicationLastWeather"
     private let complicationLastSentKey = "watchComplicationLastSentAt"

@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.open
+package com.hyya.prayerpal
 
 import android.util.Log
 import com.google.android.gms.wearable.MessageEvent

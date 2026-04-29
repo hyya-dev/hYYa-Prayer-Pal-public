@@ -87,7 +87,7 @@ class WatchSessionManager: NSObject, ObservableObject {
     private let maxNoWeatherPollAttempts: Int = 8
     private let noWeatherPollBaseSeconds: TimeInterval = 15
 
-    private let watchWidgetAppGroup = "group.com.hyya.prayerpal.open"
+    private let watchWidgetAppGroup = "group.com.hyya.prayerpal"
     private let watchWidgetSnapshotKey = "watchPrayerWidget.snapshot.v1"
     private let watchWidgetKind = "PrayerPalWatchNextPrayer"
     private let watchPrayerScheduleKey = "watchPrayerSchedule.v1"

@@ -1,4 +1,4 @@
-package com.hyya.prayerpal.open
+package com.hyya.prayerpal
 
 import android.appwidget.AppWidgetManager
 import android.content.ComponentName
