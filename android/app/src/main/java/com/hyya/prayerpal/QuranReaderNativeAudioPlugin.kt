@@ -77,6 +77,19 @@ class QuranReaderNativeAudioPlugin : Plugin() {
                 )
             }
         }
+
+        /**
+         * Phase 4 diagnostics: foreground [QuranReaderMediaService] and other native
+         * catch blocks call this so the WebView receives `error` in **release** builds,
+         * not only via `adb logcat`.
+         */
+        @JvmStatic
+        fun notifyNativeAudioError(message: String) {
+            val inst = instance ?: return
+            Handler(Looper.getMainLooper()).post {
+                inst.notifyListeners("error", JSObject().put("message", message))
+            }
+        }
     }
 
     override fun load() {
@@ -144,7 +157,7 @@ class QuranReaderNativeAudioPlugin : Plugin() {
             }
             ContextCompat.startForegroundService(ctx, i)
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.e(TAG, "playOne start service failed", e)
+            Log.e(TAG, "playOne start service failed", e)
             notifyListeners("error", JSObject().put("message", e.message ?: "playOne"))
             call.reject("playOne", e.message, e)
         }
@@ -167,7 +180,8 @@ class QuranReaderNativeAudioPlugin : Plugin() {
             try {
                 ctx.startService(i)
             } catch (e: Exception) {
-                if (BuildConfig.DEBUG) Log.w(TAG, "$action service: ${e.message}")
+                Log.w(TAG, "$action service: ${e.message}", e)
+                notifyListeners("error", JSObject().put("message", e.message ?: action))
             }
         }
         call.resolve()
@@ -184,7 +198,8 @@ class QuranReaderNativeAudioPlugin : Plugin() {
             try {
                 ctx.startService(i)
             } catch (e: Exception) {
-                if (BuildConfig.DEBUG) Log.w(TAG, "stop service: ${e.message}")
+                Log.w(TAG, "stop service: ${e.message}", e)
+                notifyListeners("error", JSObject().put("message", e.message ?: "stop"))
             }
         }
         call.resolve()

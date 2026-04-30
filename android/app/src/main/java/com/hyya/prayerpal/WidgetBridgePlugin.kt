@@ -1,6 +1,7 @@
 package com.hyya.prayerpal.open
 
 import android.appwidget.AppWidgetManager
+import android.content.ActivityNotFoundException
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
@@ -9,8 +10,6 @@ import com.getcapacitor.Plugin
 import com.getcapacitor.PluginCall
 import com.getcapacitor.PluginMethod
 import com.getcapacitor.annotation.CapacitorPlugin
-import android.content.pm.ResolveInfo
-import android.content.pm.PackageManager
 import android.provider.Settings
 import java.util.Locale
 import androidx.appcompat.app.AppCompatDelegate
@@ -279,23 +278,18 @@ class WidgetBridgePlugin : Plugin() {
                 putExtra(Intent.EXTRA_SUBJECT, title)
                 putExtra(Intent.EXTRA_TEXT, shareText)
             }
-            
-            // Create chooser to show native share sheet
-            val chooserIntent = Intent.createChooser(shareIntent, null)
-            
-            // Verify that there's at least one app that can handle the share intent
-            val packageManager = activity.packageManager
-            val resolveInfoList: List<ResolveInfo> = packageManager.queryIntentActivities(chooserIntent, PackageManager.MATCH_DEFAULT_ONLY)
-            
-            if (resolveInfoList.isEmpty()) {
-                Log.e(TAG, "shareApp: No apps available to handle share intent")
+
+            // Do not gate on queryIntentActivities: on Android 11+ it often returns empty
+            // without a matching <queries> declaration, even when the share sheet works.
+            val chooserIntent = Intent.createChooser(shareIntent, title)
+            try {
+                activity.startActivity(chooserIntent)
+                if (BuildConfig.DEBUG) Log.d(TAG, "shareApp: Share intent launched")
+                call.resolve(mapOf("success" to true).toJSObject())
+            } catch (e: ActivityNotFoundException) {
+                Log.e(TAG, "shareApp: No activity to handle share intent", e)
                 call.resolve(mapOf("success" to false, "error" to "No share apps available").toJSObject())
-                return
             }
-            
-            activity.startActivity(chooserIntent)
-            if (BuildConfig.DEBUG) Log.d(TAG, "shareApp: Share intent launched")
-            call.resolve(mapOf("success" to true).toJSObject())
             
         } catch (e: Exception) {
             Log.e(TAG, "shareApp: Error - ${e.message}", e)

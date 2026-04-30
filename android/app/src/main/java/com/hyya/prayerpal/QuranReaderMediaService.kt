@@ -51,7 +51,10 @@ class QuranReaderMediaService : Service() {
         const val RESULT_ENDED = 1
         const val RESULT_ERROR = 2
 
-        private const val CHANNEL_ID = "quran_reader_playback_v1"
+        // v2: One UI can suppress LOW-importance lock-screen media for some devices;
+        // bumping the channel id ensures updated importance/lock-screen behavior applies
+        // even if users already had v1 created with device-specific overrides.
+        private const val CHANNEL_ID = "quran_reader_playback_v2"
         private const val NOTIFICATION_ID = 71041
         private const val TAG = "QuranReaderMediaSvc"
 
@@ -142,7 +145,9 @@ class QuranReaderMediaService : Service() {
         val ch = NotificationChannel(
             CHANNEL_ID,
             getString(R.string.channel_quran_reader_media_name),
-            NotificationManager.IMPORTANCE_LOW,
+            // DEFAULT is still non-intrusive (no heads-up) but is reliably eligible
+            // for lock-screen display on Samsung One UI.
+            NotificationManager.IMPORTANCE_DEFAULT,
         ).apply {
             description = getString(R.string.channel_quran_reader_media_desc)
             setShowBadge(false)
@@ -186,6 +191,28 @@ class QuranReaderMediaService : Service() {
         return PendingIntent.getService(this, 71043, i, mut)
     }
 
+    /**
+     * Pause/Resume tap from the lock-screen notification action button. Both
+     * intents go through the same service pipeline (`handlePauseFromPlugin` /
+     * `handleResumeFromPlugin`) which already mirrors the resulting state back
+     * to JS via the plugin's listeners — no separate JS path required.
+     */
+    private fun playPauseAction(playing: Boolean): NotificationCompat.Action {
+        return if (playing) {
+            NotificationCompat.Action.Builder(
+                android.R.drawable.ic_media_pause,
+                getString(R.string.quran_reader_notification_pause),
+                servicePendingIntent(ACTION_PAUSE, 71044),
+            ).build()
+        } else {
+            NotificationCompat.Action.Builder(
+                android.R.drawable.ic_media_play,
+                getString(R.string.quran_reader_notification_play),
+                servicePendingIntent(ACTION_RESUME, 71045),
+            ).build()
+        }
+    }
+
     private fun loadArtworkBitmap(): Bitmap? {
         val cached = artworkBitmap
         if (cached != null && !cached.isRecycled) return cached
@@ -214,8 +241,20 @@ class QuranReaderMediaService : Service() {
             .setContentText(pendingArtist.ifBlank { "" })
             .setContentIntent(mainPendingIntent())
             .setOnlyAlertOnce(true)
-            .setOngoing(playing)
+            .setCategory(NotificationCompat.CATEGORY_TRANSPORT)
+            .setPriority(NotificationCompat.PRIORITY_DEFAULT)
+            // Ask the system to surface the foreground service immediately when started.
+            .setForegroundServiceBehavior(NotificationCompat.FOREGROUND_SERVICE_IMMEDIATE)
+            // Always ongoing while the foreground service is alive: a non-ongoing
+            // media notification is dismissable by Samsung's lock-screen swipe and
+            // some skins de-prioritise non-ongoing entries on the lock-screen tile.
+            // The user still has an explicit Stop action below.
+            .setOngoing(true)
             .setVisibility(NotificationCompat.VISIBILITY_PUBLIC)
+            // Action order matters: index 0 = play/pause (primary), index 1 = stop.
+            // `setShowActionsInCompactView(0, 1)` below tells MediaStyle to surface
+            // both as buttons on the lock-screen tile / Output Switcher panel.
+            .addAction(playPauseAction(playing))
             .addAction(stopAction)
 
         loadArtworkBitmap()?.let { builder.setLargeIcon(it) }
@@ -225,7 +264,7 @@ class QuranReaderMediaService : Service() {
             builder.setStyle(
                 androidx.media.app.NotificationCompat.MediaStyle()
                     .setMediaSession(token)
-                    .setShowActionsInCompactView(0),
+                    .setShowActionsInCompactView(0, 1),
             )
         }
         return builder.build()
@@ -242,7 +281,10 @@ class QuranReaderMediaService : Service() {
             ServiceCompat.startForeground(this, NOTIFICATION_ID, n, type)
             isForeground = true
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.e(TAG, "startForeground failed", e)
+            Log.e(TAG, "startForeground failed", e)
+            QuranReaderNativeAudioPlugin.notifyNativeAudioError(
+                "startForeground: ${e.javaClass.simpleName}: ${e.message}",
+            )
         }
     }
 
@@ -302,6 +344,21 @@ class QuranReaderMediaService : Service() {
                         }
                     }
                     player.start()
+                    // Replace the -1 placeholder DURATION with the real value so
+                    // Samsung's lock-screen tile can render the progress bar.
+                    val durMs = player.duration
+                    if (durMs > 0) {
+                        val art = loadArtworkBitmap()
+                        val metaBuilder = MediaMetadataCompat.Builder()
+                            .putString(MediaMetadataCompat.METADATA_KEY_TITLE, pendingTitle)
+                            .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, pendingArtist)
+                            .putLong(MediaMetadataCompat.METADATA_KEY_DURATION, durMs.toLong())
+                        if (art != null) {
+                            metaBuilder.putBitmap(MediaMetadataCompat.METADATA_KEY_ALBUM_ART, art)
+                            metaBuilder.putBitmap(MediaMetadataCompat.METADATA_KEY_ART, art)
+                        }
+                        mediaSession?.setMetadata(metaBuilder.build())
+                    }
                     updateSessionPlaying(true)
                     updateForeground(playing = true)
                     startPlaybackTicks()
@@ -327,7 +384,7 @@ class QuranReaderMediaService : Service() {
             }
             mp.prepareAsync()
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.e(TAG, "handlePlay failed", e)
+            Log.e(TAG, "handlePlay failed", e)
             sendPrepareFailed(e.message ?: "play")
             releaseAll(sendEnded = false, fromPlugin = true)
         }
@@ -355,7 +412,8 @@ class QuranReaderMediaService : Service() {
             updateSessionPlaying(false)
             updateForeground(playing = false)
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.w(TAG, "pause: ${e.message}")
+            Log.w(TAG, "pause: ${e.message}", e)
+            QuranReaderNativeAudioPlugin.notifyNativeAudioError("pause: ${e.message ?: "unknown"}")
         }
     }
 
@@ -368,12 +426,12 @@ class QuranReaderMediaService : Service() {
             updateForeground(playing = true)
             startPlaybackTicks()
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.w(TAG, "resume: ${e.message}")
+            Log.w(TAG, "resume: ${e.message}", e)
+            QuranReaderNativeAudioPlugin.notifyNativeAudioError("resume: ${e.message ?: "unknown"}")
         }
     }
 
     private fun handleRemotePreviousSurahOrRestartSeek() {
-        if (!remoteSurahCommandsEnabled) return
         val mp = mediaPlayer ?: return
         val pos = mp.currentPosition
         if (pos > 3000) {
@@ -385,7 +443,6 @@ class QuranReaderMediaService : Service() {
     }
 
     private fun handleRemoteNextSurah() {
-        if (!remoteSurahCommandsEnabled) return
         QuranReaderNativeAudioPlugin.notifySurahStep(1)
     }
 
@@ -454,13 +511,19 @@ class QuranReaderMediaService : Service() {
                             }
 
                             override fun onSkipToPrevious() {
-                                // Avoid exposing track navigation. Some OEM lock screens map this to
-                                // "previous track" which isn't what we want for Quran playback.
-                                seekBy(-SEEK_INTERVAL_MS)
+                                if (remoteSurahCommandsEnabled) {
+                                    handleRemotePreviousSurahOrRestartSeek()
+                                } else {
+                                    seekBy(-SEEK_INTERVAL_MS)
+                                }
                             }
 
                             override fun onSkipToNext() {
-                                seekBy(SEEK_INTERVAL_MS)
+                                if (remoteSurahCommandsEnabled) {
+                                    handleRemoteNextSurah()
+                                } else {
+                                    seekBy(SEEK_INTERVAL_MS)
+                                }
                             }
 
                             override fun onRewind() {
@@ -501,14 +564,37 @@ class QuranReaderMediaService : Service() {
             val metaBuilder = MediaMetadataCompat.Builder()
                 .putString(MediaMetadataCompat.METADATA_KEY_TITLE, pendingTitle)
                 .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, pendingArtist)
+                // Samsung One UI 7 (Android 15) hides the lock-screen Now Playing
+                // tile for sessions whose metadata has no DURATION key. -1L is the
+                // standard "unknown / live" placeholder; we overwrite it with the
+                // real duration in the OnPreparedListener below.
+                .putLong(MediaMetadataCompat.METADATA_KEY_DURATION, -1L)
             if (art != null) {
                 metaBuilder.putBitmap(MediaMetadataCompat.METADATA_KEY_ALBUM_ART, art)
                 metaBuilder.putBitmap(MediaMetadataCompat.METADATA_KEY_ART, art)
             }
             mediaSession?.setMetadata(metaBuilder.build())
-            updateSessionPlaying(false)
+            // Initial playback state must NOT be STATE_STOPPED — that's a terminal
+            // state, and Samsung One UI / some other Android skins refuse to render
+            // a lock-screen tile for a STOPPED session, so the tile never appears
+            // even after the session later transitions to STATE_PLAYING. We start
+            // in BUFFERING (the canonical "preparing to play" state) so the tile
+            // is registered immediately, then flip to PLAYING in OnPreparedListener.
+            mediaSession?.setPlaybackState(
+                PlaybackStateCompat.Builder()
+                    .setState(PlaybackStateCompat.STATE_BUFFERING, 0L, 1f)
+                    .setActions(
+                        PlaybackStateCompat.ACTION_PLAY or
+                            PlaybackStateCompat.ACTION_PAUSE or
+                            PlaybackStateCompat.ACTION_STOP,
+                    )
+                    .build(),
+            )
         } catch (e: Exception) {
-            if (BuildConfig.DEBUG) Log.w(TAG, "initOrResetSession: ${e.message}")
+            Log.w(TAG, "initOrResetSession: ${e.message}", e)
+            QuranReaderNativeAudioPlugin.notifyNativeAudioError(
+                "initOrResetSession: ${e.javaClass.simpleName}: ${e.message}",
+            )
         }
     }
 
@@ -525,15 +611,20 @@ class QuranReaderMediaService : Service() {
             PlaybackStateCompat.ACTION_STOP or
                 PlaybackStateCompat.ACTION_PLAY or
                 PlaybackStateCompat.ACTION_PAUSE
-        // Always expose rewind/fast-forward as seek controls (±15s).
-        // Do not expose skip-to-next/previous track, which can surface as
-        // "track navigation" icons and appear disabled depending on OEM UI.
+        // Rewind / fast-forward map to ±15s seek. Quran Audio (Library) also exposes
+        // skip-to-previous/next when `remoteSurahCommands` is true (surah navigation).
         if (mp != null) {
             actions =
                 actions or
                     PlaybackStateCompat.ACTION_REWIND or
                     PlaybackStateCompat.ACTION_FAST_FORWARD or
                     PlaybackStateCompat.ACTION_SEEK_TO
+            if (remoteSurahCommandsEnabled) {
+                actions =
+                    actions or
+                        PlaybackStateCompat.ACTION_SKIP_TO_PREVIOUS or
+                        PlaybackStateCompat.ACTION_SKIP_TO_NEXT
+            }
         }
         mediaSession?.setPlaybackState(
             PlaybackStateCompat.Builder()

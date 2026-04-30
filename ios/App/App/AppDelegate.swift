@@ -64,8 +64,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     private func configureAudioSession() {
         do {
             let audioSession = AVAudioSession.sharedInstance()
-            // Configure audio session for notification sounds (not continuous background playback)
-            // This helps with audio routing but doesn't require background audio mode
+            // Minimal options at launch: some devices return OSStatus -50 when combining
+            // `.playback` with `.allowAirPlay` / A2DP before any player exists. Quran playback
+            // upgrades the session in `QuranReaderNativeAudioPlugin` when needed.
             try audioSession.setCategory(.playback, mode: .default, options: [.mixWithOthers])
             ppDebugLog("[PrayerPal-Native] ✅ Audio session configured for notification sounds")
         } catch {
@@ -91,8 +92,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
             intentIdentifiers: [],
             options: []
         )
+
+        let scheduleRefreshCategory = UNNotificationCategory(
+            identifier: "SCHEDULE_REFRESH",
+            actions: [],
+            intentIdentifiers: [],
+            options: []
+        )
         
-        UNUserNotificationCenter.current().setNotificationCategories([prayerCategory, prePrayerCategory])
+        UNUserNotificationCenter.current().setNotificationCategories([prayerCategory, prePrayerCategory, scheduleRefreshCategory])
         ppDebugLog("[PrayerPal-Native] ✅ Notification categories registered")
     }
     

@@ -6,6 +6,10 @@ import os.log
 
 /// Custom ViewController that adds widget sync capability to Capacitor
 class PrayerPalViewController: CAPBridgeViewController {
+
+    /// Required with `beginReceivingRemoteControlEvents()` so lock screen / Control Center
+    /// can attribute Now Playing to this app (WKWebView otherwise keeps first responder on the web view).
+    override var canBecomeFirstResponder: Bool { true }
     
     // Use singleton handler to prevent deallocation and connection invalidation
     private static let sharedHandler = WidgetMessageHandler()
