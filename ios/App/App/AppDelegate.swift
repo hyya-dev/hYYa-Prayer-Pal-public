@@ -58,9 +58,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     
     // MARK: - Audio Session Configuration
     
-    /// Configure audio session to ensure notification sounds play properly
-    /// Note: This does NOT require UIBackgroundModes "audio" - notification sounds are handled by the system
-    /// The audio session category helps with audio routing for notification sounds
+    /// Configure audio session to ensure notification sounds play properly.
+    /// UIBackgroundModes `audio` in Info.plist is for Holy Quran native playback when backgrounded
+    /// (`QuranReaderNativeAudioPlugin`), not for notification sounds (those are handled by the system).
+    /// The category here helps routing until the reader upgrades the session for playback.
     private func configureAudioSession() {
         do {
             let audioSession = AVAudioSession.sharedInstance()
