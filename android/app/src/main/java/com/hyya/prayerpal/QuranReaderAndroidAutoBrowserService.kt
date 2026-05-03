@@ -4,7 +4,9 @@ import android.content.Intent
 import android.os.Bundle
 import android.support.v4.media.MediaBrowserCompat
 import android.support.v4.media.MediaDescriptionCompat
+import android.support.v4.media.MediaMetadataCompat
 import android.support.v4.media.session.MediaSessionCompat
+import android.support.v4.media.session.PlaybackStateCompat
 import android.util.Log
 import androidx.media.MediaBrowserServiceCompat
 
@@ -16,8 +18,11 @@ import androidx.media.MediaBrowserServiceCompat
  * in the Auto launcher with a minimal tree; selecting the item opens the phone app
  * (Library → Quran Audio is one tap from home).
  *
- * Full in-car reciter/surah browsing would require mirroring JS URL + state logic here
- * or a shared native catalog — intentionally out of scope for this surgical phase.
+ * Cars media guidelines require an initialized [PlaybackStateCompat] and [MediaMetadataCompat]
+ * on this service’s session (same token Auto binds to); otherwise Now Playing can stick on
+ * “Getting your selection…”. When playback cannot run on the head unit, we follow
+ * [Android for Cars — errors](https://developer.android.com/training/cars/media/errors)
+ * ([`STATE_ERROR`][PlaybackStateCompat.STATE_ERROR] + user-facing message).
  */
 class QuranReaderAndroidAutoBrowserService : MediaBrowserServiceCompat() {
 
@@ -35,33 +40,125 @@ class QuranReaderAndroidAutoBrowserService : MediaBrowserServiceCompat() {
             "com.google.android.gms.car.media",
             "com.hyya.prayerpal.open",
         )
+
+        /**
+         * Required for Android Auto / AAOS transport surfaces per
+         * [Enable playback controls](https://developer.android.com/training/cars/media/enable-playback).
+         */
+        private val REQUIRED_CAR_ACTIONS: Long =
+            PlaybackStateCompat.ACTION_PLAY or
+                PlaybackStateCompat.ACTION_PAUSE or
+                PlaybackStateCompat.ACTION_STOP or
+                PlaybackStateCompat.ACTION_PLAY_FROM_MEDIA_ID or
+                PlaybackStateCompat.ACTION_PLAY_FROM_SEARCH
     }
 
     private var mediaSession: MediaSessionCompat? = null
+
+    private fun applyBrowseRootMetadata() {
+        mediaSession?.setMetadata(
+            MediaMetadataCompat.Builder()
+                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, getString(R.string.app_name))
+                .putString(MediaMetadataCompat.METADATA_KEY_DISPLAY_SUBTITLE, getString(R.string.android_auto_open_app_subtitle))
+                .build(),
+        )
+    }
+
+    private fun applyQuranAudioItemMetadata() {
+        mediaSession?.setMetadata(
+            MediaMetadataCompat.Builder()
+                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, getString(R.string.android_auto_open_app_title))
+                .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, getString(R.string.android_auto_open_app_subtitle))
+                .build(),
+        )
+    }
+
+    private fun setStoppedCarPlaybackStateOnly() {
+        mediaSession?.setPlaybackState(
+            PlaybackStateCompat.Builder()
+                .setState(PlaybackStateCompat.STATE_STOPPED, 0L, 0f)
+                .setActions(REQUIRED_CAR_ACTIONS)
+                .build(),
+        )
+    }
+
+    /** Initial / idle: [PlaybackStateCompat.STATE_STOPPED] — do not auto-play on connect (cars media). */
+    private fun syncSessionStoppedIdle() {
+        applyBrowseRootMetadata()
+        setStoppedCarPlaybackStateOnly()
+    }
+
+    /** In-car stream is not used; user must finish setup on the phone ([cars/media/errors](https://developer.android.com/training/cars/media/errors)). */
+    private fun syncSessionPhoneRequiredError() {
+        applyQuranAudioItemMetadata()
+        mediaSession?.setPlaybackState(
+            PlaybackStateCompat.Builder()
+                .setState(PlaybackStateCompat.STATE_ERROR, 0L, 0f)
+                .setErrorMessage(
+                    PlaybackStateCompat.ERROR_CODE_UNKNOWN_ERROR,
+                    getString(R.string.android_auto_error_playback_on_phone),
+                )
+                .setActions(REQUIRED_CAR_ACTIONS)
+                .build(),
+        )
+    }
+
+    private fun launchMainFromAuto() {
+        val launch =
+            Intent(this, MainActivity::class.java).apply {
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_SINGLE_TOP)
+            }
+        try {
+            startActivity(launch)
+        } catch (e: Exception) {
+            Log.e(TAG, "Failed to launch MainActivity from Android Auto", e)
+        }
+    }
 
     override fun onCreate() {
         super.onCreate()
         mediaSession =
             MediaSessionCompat(this, "PrayerPalAndroidAuto").apply {
+                setFlags(
+                    MediaSessionCompat.FLAG_HANDLES_MEDIA_BUTTONS or
+                        MediaSessionCompat.FLAG_HANDLES_TRANSPORT_CONTROLS,
+                )
                 setCallback(
                     object : MediaSessionCompat.Callback() {
-                        override fun onPlayFromMediaId(mediaId: String?, extras: Bundle?) {
-                            if (mediaId == MEDIA_ID_OPEN_APP_QURAN_AUDIO) {
-                                val launch =
-                                    Intent(this@QuranReaderAndroidAutoBrowserService, MainActivity::class.java).apply {
-                                        addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_SINGLE_TOP)
-                                    }
-                                try {
-                                    startActivity(launch)
-                                } catch (e: Exception) {
-                                    Log.e(TAG, "Failed to launch MainActivity from Android Auto", e)
-                                }
+                        override fun onPrepareFromMediaId(mediaId: String?, extras: Bundle?) {
+                            if (mediaId != MEDIA_ID_OPEN_APP_QURAN_AUDIO) {
+                                return
                             }
+                            applyQuranAudioItemMetadata()
+                            setStoppedCarPlaybackStateOnly()
+                        }
+
+                        override fun onPlayFromMediaId(mediaId: String?, extras: Bundle?) {
+                            if (mediaId != MEDIA_ID_OPEN_APP_QURAN_AUDIO) {
+                                return
+                            }
+                            applyQuranAudioItemMetadata()
+                            launchMainFromAuto()
+                            syncSessionPhoneRequiredError()
+                        }
+
+                        override fun onPlay() {
+                            launchMainFromAuto()
+                            syncSessionPhoneRequiredError()
+                        }
+
+                        override fun onPlayFromSearch(query: String?, extras: Bundle?) {
+                            syncSessionStoppedIdle()
+                        }
+
+                        override fun onStop() {
+                            syncSessionStoppedIdle()
                         }
                     },
                 )
                 isActive = true
             }
+        syncSessionStoppedIdle()
         sessionToken = mediaSession!!.sessionToken
     }
 

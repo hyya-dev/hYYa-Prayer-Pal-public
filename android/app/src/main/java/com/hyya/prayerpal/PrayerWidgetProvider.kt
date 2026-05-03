@@ -39,7 +39,7 @@ abstract class PrayerWidgetProvider : AppWidgetProvider() {
         const val WEATHER_TIME_KEY = "cachedWeatherTime"
         
         // Action for manual refresh
-        const val ACTION_REFRESH = "com.hyya.prayerpal.open.WIDGET_REFRESH"
+        const val ACTION_REFRESH = "com.hyya.prayerpal.WIDGET_REFRESH"
         
         // Fallback background color (matches mascot theme)
         const val FALLBACK_BG_COLOR = "#D4C4A8"
